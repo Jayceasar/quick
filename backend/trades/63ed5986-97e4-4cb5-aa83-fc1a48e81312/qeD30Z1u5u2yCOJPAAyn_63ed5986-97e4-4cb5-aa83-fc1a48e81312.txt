@@ -1,0 +1,9 @@
+User ID: qeD30Z1u5u2yCOJPAAyn
+User Name: robot
+Ticket ID: qeD30Z1u5u2yCOJPAAyn_63ed5986-97e4-4cb5-aa83-fc1a48e81312
+Total Bid Amount: 6300
+Total Earnings: 0
+Profit/Loss: -6300
+
+Breakdown:
+  Bid: 3, Amount: 6300, Payout: 31500, Status: lost

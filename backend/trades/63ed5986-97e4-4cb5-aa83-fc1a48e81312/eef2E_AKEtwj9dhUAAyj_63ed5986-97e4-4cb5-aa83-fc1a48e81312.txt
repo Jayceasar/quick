@@ -1,0 +1,9 @@
+User ID: eef2E_AKEtwj9dhUAAyj
+User Name: robot
+Ticket ID: eef2E_AKEtwj9dhUAAyj_63ed5986-97e4-4cb5-aa83-fc1a48e81312
+Total Bid Amount: 8700
+Total Earnings: 43500
+Profit/Loss: 34800
+
+Breakdown:
+  Bid: 2, Amount: 8700, Payout: 43500, Status: won

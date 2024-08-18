@@ -1,0 +1,9 @@
+User ID: kijBwuBlr-UZbO7oAA1A
+User Name: robot
+Ticket ID: kijBwuBlr-UZbO7oAA1A_63ed5986-97e4-4cb5-aa83-fc1a48e81312
+Total Bid Amount: 6400
+Total Earnings: 32000
+Profit/Loss: 25600
+
+Breakdown:
+  Bid: 2, Amount: 6400, Payout: 32000, Status: won
