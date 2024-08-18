@@ -1,0 +1,10 @@
+User ID: DiFz7L2yhETmIhgxAAKx
+User Name: robot
+Ticket ID: DiFz7L2yhETmIhgxAAKx_f048d9c2-8570-4071-a590-7ae743a2254d
+Total Bid Amount: 7500
+Total Earnings: 0
+Profit/Loss: -7500
+
+Breakdown:
+  Bid: 5, Amount: 1600, Payout: 8000, Status: lost
+  Bid: 4, Amount: 5900, Payout: 29500, Status: lost

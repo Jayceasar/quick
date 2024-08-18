@@ -1,0 +1,9 @@
+User ID: cGK38QSFyGGz0FnaAAap
+User Name: robot
+Ticket ID: cGK38QSFyGGz0FnaAAap_e5c8435f-e1c9-4163-99e8-aa0c1b077786
+Total Bid Amount: 8100
+Total Earnings: 0
+Profit/Loss: -8100
+
+Breakdown:
+  Bid: 2, Amount: 8100, Payout: 40500, Status: lost

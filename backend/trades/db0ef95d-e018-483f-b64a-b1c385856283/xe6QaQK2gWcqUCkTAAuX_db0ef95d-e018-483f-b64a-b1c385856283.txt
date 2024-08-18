@@ -1,0 +1,10 @@
+User ID: xe6QaQK2gWcqUCkTAAuX
+User Name: robot
+Ticket ID: xe6QaQK2gWcqUCkTAAuX_db0ef95d-e018-483f-b64a-b1c385856283
+Total Bid Amount: 14300
+Total Earnings: 0
+Profit/Loss: -14300
+
+Breakdown:
+  Bid: 1, Amount: 6400, Payout: 32000, Status: lost
+  Bid: 5, Amount: 7900, Payout: 39500, Status: lost

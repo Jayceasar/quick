@@ -1,0 +1,9 @@
+User ID: TnLoNlirjLvTEsucAAJq
+User Name: robot
+Ticket ID: TnLoNlirjLvTEsucAAJq_3750ca25-a9f1-4278-85de-ccbff503fd45
+Total Bid Amount: 2100
+Total Earnings: 10500
+Profit/Loss: 8400
+
+Breakdown:
+  Bid: 6, Amount: 2100, Payout: 10500, Status: won

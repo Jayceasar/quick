@@ -1,0 +1,9 @@
+User ID: Xxo-3CBMmk81MUNuAAai
+User Name: robot
+Ticket ID: Xxo-3CBMmk81MUNuAAai_7a85e992-2509-45aa-84c7-d86854db7bba
+Total Bid Amount: 9100
+Total Earnings: 0
+Profit/Loss: -9100
+
+Breakdown:
+  Bid: 2, Amount: 9100, Payout: 45500, Status: lost

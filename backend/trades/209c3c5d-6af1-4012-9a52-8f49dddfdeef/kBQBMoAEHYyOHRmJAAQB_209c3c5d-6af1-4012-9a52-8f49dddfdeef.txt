@@ -1,0 +1,9 @@
+User ID: kBQBMoAEHYyOHRmJAAQB
+User Name: robot
+Ticket ID: kBQBMoAEHYyOHRmJAAQB_209c3c5d-6af1-4012-9a52-8f49dddfdeef
+Total Bid Amount: 2800
+Total Earnings: 0
+Profit/Loss: -2800
+
+Breakdown:
+  Bid: 6, Amount: 2800, Payout: 14000, Status: lost

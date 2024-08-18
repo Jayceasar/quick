@@ -1,0 +1,9 @@
+User ID: MnApeku2RQ6pkYS8AAld
+User Name: robot
+Ticket ID: MnApeku2RQ6pkYS8AAld_9b72d720-b462-47ff-83f5-bf8ba0942dab
+Total Bid Amount: 7000
+Total Earnings: 0
+Profit/Loss: -7000
+
+Breakdown:
+  Bid: 1, Amount: 7000, Payout: 35000, Status: lost

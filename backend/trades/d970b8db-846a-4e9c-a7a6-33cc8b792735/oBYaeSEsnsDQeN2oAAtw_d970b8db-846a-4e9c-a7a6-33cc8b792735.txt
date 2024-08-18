@@ -1,0 +1,10 @@
+User ID: oBYaeSEsnsDQeN2oAAtw
+User Name: robot
+Ticket ID: oBYaeSEsnsDQeN2oAAtw_d970b8db-846a-4e9c-a7a6-33cc8b792735
+Total Bid Amount: 5500
+Total Earnings: 5500
+Profit/Loss: 0
+
+Breakdown:
+  Bid: 5, Amount: 4400, Payout: 22000, Status: lost
+  Bid: 3, Amount: 1100, Payout: 5500, Status: won

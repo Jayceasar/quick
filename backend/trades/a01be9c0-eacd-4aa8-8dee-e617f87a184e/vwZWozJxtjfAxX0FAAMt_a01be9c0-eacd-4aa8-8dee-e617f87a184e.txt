@@ -1,0 +1,9 @@
+User ID: vwZWozJxtjfAxX0FAAMt
+User Name: robot
+Ticket ID: vwZWozJxtjfAxX0FAAMt_a01be9c0-eacd-4aa8-8dee-e617f87a184e
+Total Bid Amount: 3600
+Total Earnings: 0
+Profit/Loss: -3600
+
+Breakdown:
+  Bid: 1, Amount: 3600, Payout: 18000, Status: lost

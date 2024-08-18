@@ -1,0 +1,9 @@
+User ID: cXrNOWxwaV1A9v-oAAa7
+User Name: robot
+Ticket ID: cXrNOWxwaV1A9v-oAAa7_7fbb9639-e749-44d5-a277-a14ee297c3c1
+Total Bid Amount: 6600
+Total Earnings: 33000
+Profit/Loss: 26400
+
+Breakdown:
+  Bid: 1, Amount: 6600, Payout: 33000, Status: won

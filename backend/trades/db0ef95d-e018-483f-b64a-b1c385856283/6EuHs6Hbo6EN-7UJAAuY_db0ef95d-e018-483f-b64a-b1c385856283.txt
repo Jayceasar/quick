@@ -1,0 +1,10 @@
+User ID: 6EuHs6Hbo6EN-7UJAAuY
+User Name: robot
+Ticket ID: 6EuHs6Hbo6EN-7UJAAuY_db0ef95d-e018-483f-b64a-b1c385856283
+Total Bid Amount: 5500
+Total Earnings: 0
+Profit/Loss: -5500
+
+Breakdown:
+  Bid: 1, Amount: 4300, Payout: 21500, Status: lost
+  Bid: 4, Amount: 1200, Payout: 6000, Status: lost

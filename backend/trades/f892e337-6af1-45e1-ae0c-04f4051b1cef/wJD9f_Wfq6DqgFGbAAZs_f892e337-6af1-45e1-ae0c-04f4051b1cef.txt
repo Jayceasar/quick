@@ -1,0 +1,9 @@
+User ID: wJD9f_Wfq6DqgFGbAAZs
+User Name: robot
+Ticket ID: wJD9f_Wfq6DqgFGbAAZs_f892e337-6af1-45e1-ae0c-04f4051b1cef
+Total Bid Amount: 9300
+Total Earnings: 0
+Profit/Loss: -9300
+
+Breakdown:
+  Bid: 6, Amount: 9300, Payout: 46500, Status: lost

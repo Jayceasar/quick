@@ -1,0 +1,9 @@
+User ID: nAUhEHJTJ-C5FziyAAbJ
+User Name: robot
+Ticket ID: nAUhEHJTJ-C5FziyAAbJ_4cda0b6b-8394-48b0-ad59-36d0ff5426c2
+Total Bid Amount: 1100
+Total Earnings: 5500
+Profit/Loss: 4400
+
+Breakdown:
+  Bid: 5, Amount: 1100, Payout: 5500, Status: won

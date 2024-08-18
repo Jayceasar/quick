@@ -1,0 +1,10 @@
+User ID: tMh3xwiUpFHVpSRyAAWL
+User Name: robot
+Ticket ID: tMh3xwiUpFHVpSRyAAWL_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 15200
+Total Earnings: 0
+Profit/Loss: -15200
+
+Breakdown:
+  Bid: 1, Amount: 7800, Payout: 39000, Status: lost
+  Bid: 4, Amount: 7400, Payout: 37000, Status: lost

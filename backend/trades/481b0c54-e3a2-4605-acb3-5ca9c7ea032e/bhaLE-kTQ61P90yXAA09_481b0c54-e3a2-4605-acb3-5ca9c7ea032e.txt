@@ -1,0 +1,9 @@
+User ID: bhaLE-kTQ61P90yXAA09
+User Name: robot
+Ticket ID: bhaLE-kTQ61P90yXAA09_481b0c54-e3a2-4605-acb3-5ca9c7ea032e
+Total Bid Amount: 9300
+Total Earnings: 46500
+Profit/Loss: 37200
+
+Breakdown:
+  Bid: 2, Amount: 9300, Payout: 46500, Status: won

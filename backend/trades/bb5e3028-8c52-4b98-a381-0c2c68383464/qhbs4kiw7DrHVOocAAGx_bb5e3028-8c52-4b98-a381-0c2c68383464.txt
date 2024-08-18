@@ -1,0 +1,9 @@
+User ID: qhbs4kiw7DrHVOocAAGx
+User Name: robot
+Ticket ID: qhbs4kiw7DrHVOocAAGx_bb5e3028-8c52-4b98-a381-0c2c68383464
+Total Bid Amount: 4000
+Total Earnings: 0
+Profit/Loss: -4000
+
+Breakdown:
+  Bid: 4, Amount: 4000, Payout: 20000, Status: lost

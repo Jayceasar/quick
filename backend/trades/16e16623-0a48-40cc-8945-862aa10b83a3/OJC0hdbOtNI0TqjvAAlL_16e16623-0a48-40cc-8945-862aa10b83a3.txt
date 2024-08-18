@@ -1,0 +1,10 @@
+User ID: OJC0hdbOtNI0TqjvAAlL
+User Name: robot
+Ticket ID: OJC0hdbOtNI0TqjvAAlL_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 10200
+Total Earnings: 0
+Profit/Loss: -10200
+
+Breakdown:
+  Bid: 2, Amount: 1500, Payout: 7500, Status: lost
+  Bid: 6, Amount: 8700, Payout: 43500, Status: lost

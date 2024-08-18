@@ -1,0 +1,10 @@
+User ID: e_MNVwjlG3-Ok-UdAAJd
+User Name: robot
+Ticket ID: e_MNVwjlG3-Ok-UdAAJd_bb5e3028-8c52-4b98-a381-0c2c68383464
+Total Bid Amount: 10200
+Total Earnings: 0
+Profit/Loss: -10200
+
+Breakdown:
+  Bid: 5, Amount: 2300, Payout: 11500, Status: lost
+  Bid: 2, Amount: 7900, Payout: 39500, Status: lost

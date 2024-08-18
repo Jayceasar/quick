@@ -1,0 +1,9 @@
+User ID: LIT37Ao0HPto91YoAAil
+User Name: robot
+Ticket ID: LIT37Ao0HPto91YoAAil_9e12c48f-b9a9-484b-ab41-5d351c1d1206
+Total Bid Amount: 8400
+Total Earnings: 0
+Profit/Loss: -8400
+
+Breakdown:
+  Bid: 3, Amount: 8400, Payout: 42000, Status: lost

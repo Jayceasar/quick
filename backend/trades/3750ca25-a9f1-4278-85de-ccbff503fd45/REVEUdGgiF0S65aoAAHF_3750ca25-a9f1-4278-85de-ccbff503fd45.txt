@@ -1,0 +1,9 @@
+User ID: REVEUdGgiF0S65aoAAHF
+User Name: robot
+Ticket ID: REVEUdGgiF0S65aoAAHF_3750ca25-a9f1-4278-85de-ccbff503fd45
+Total Bid Amount: 6900
+Total Earnings: 0
+Profit/Loss: -6900
+
+Breakdown:
+  Bid: 4, Amount: 6900, Payout: 34500, Status: lost

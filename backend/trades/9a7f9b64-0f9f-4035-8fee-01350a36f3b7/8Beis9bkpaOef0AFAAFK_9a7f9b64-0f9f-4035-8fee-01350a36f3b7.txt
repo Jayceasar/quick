@@ -1,0 +1,10 @@
+User ID: 8Beis9bkpaOef0AFAAFK
+User Name: robot
+Ticket ID: 8Beis9bkpaOef0AFAAFK_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 9000
+Total Earnings: 0
+Profit/Loss: -9000
+
+Breakdown:
+  Bid: 3, Amount: 2300, Payout: 11500, Status: lost
+  Bid: 1, Amount: 6700, Payout: 33500, Status: lost

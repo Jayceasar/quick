@@ -1,0 +1,13 @@
+User ID: -SStkDn0mtAWbonOAAAE
+User Name: test
+Ticket ID: -SStkDn0mtAWbonOAAAE_001c4085-7fe7-4a19-83a2-a4bf9b2d14fc
+Total Bid Amount: 500
+Total Earnings: 500
+Profit/Loss: 0
+
+Breakdown:
+  Bid: 3, Amount: 100, Payout: 500, Status: lost
+  Bid: 5, Amount: 100, Payout: 500, Status: lost
+  Bid: 6, Amount: 100, Payout: 500, Status: lost
+  Bid: 1, Amount: 100, Payout: 500, Status: won
+  Bid: 2, Amount: 100, Payout: 500, Status: lost

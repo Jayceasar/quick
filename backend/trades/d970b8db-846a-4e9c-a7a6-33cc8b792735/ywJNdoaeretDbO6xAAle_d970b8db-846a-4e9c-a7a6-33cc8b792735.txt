@@ -1,0 +1,9 @@
+User ID: ywJNdoaeretDbO6xAAle
+User Name: robot
+Ticket ID: ywJNdoaeretDbO6xAAle_d970b8db-846a-4e9c-a7a6-33cc8b792735
+Total Bid Amount: 900
+Total Earnings: 4500
+Profit/Loss: 3600
+
+Breakdown:
+  Bid: 3, Amount: 900, Payout: 4500, Status: won

@@ -1,0 +1,9 @@
+User ID: pjv1ZYbzyS8I_LyEAAjB
+User Name: robot
+Ticket ID: pjv1ZYbzyS8I_LyEAAjB_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 6500
+Total Earnings: 0
+Profit/Loss: -6500
+
+Breakdown:
+  Bid: 2, Amount: 6500, Payout: 32500, Status: lost

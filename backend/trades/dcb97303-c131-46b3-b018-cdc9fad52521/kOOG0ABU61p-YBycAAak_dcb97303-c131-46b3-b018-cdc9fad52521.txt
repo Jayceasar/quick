@@ -1,0 +1,9 @@
+User ID: kOOG0ABU61p-YBycAAak
+User Name: robot
+Ticket ID: kOOG0ABU61p-YBycAAak_dcb97303-c131-46b3-b018-cdc9fad52521
+Total Bid Amount: 2500
+Total Earnings: 0
+Profit/Loss: -2500
+
+Breakdown:
+  Bid: 6, Amount: 2500, Payout: 12500, Status: lost

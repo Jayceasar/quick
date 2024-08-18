@@ -1,0 +1,9 @@
+User ID: xBupoNJze49MoXDxAAZ2
+User Name: robot
+Ticket ID: xBupoNJze49MoXDxAAZ2_12a28a63-36a1-4295-9b29-055aa3a41e6f
+Total Bid Amount: 4000
+Total Earnings: 0
+Profit/Loss: -4000
+
+Breakdown:
+  Bid: 2, Amount: 4000, Payout: 20000, Status: lost

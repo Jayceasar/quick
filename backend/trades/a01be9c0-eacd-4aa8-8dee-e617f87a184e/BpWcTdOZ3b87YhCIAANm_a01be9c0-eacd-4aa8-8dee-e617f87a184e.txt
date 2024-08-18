@@ -1,0 +1,9 @@
+User ID: BpWcTdOZ3b87YhCIAANm
+User Name: robot
+Ticket ID: BpWcTdOZ3b87YhCIAANm_a01be9c0-eacd-4aa8-8dee-e617f87a184e
+Total Bid Amount: 6000
+Total Earnings: 30000
+Profit/Loss: 24000
+
+Breakdown:
+  Bid: 2, Amount: 6000, Payout: 30000, Status: won

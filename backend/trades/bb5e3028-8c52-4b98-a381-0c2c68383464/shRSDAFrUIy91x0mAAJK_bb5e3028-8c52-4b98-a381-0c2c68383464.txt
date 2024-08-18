@@ -1,0 +1,10 @@
+User ID: shRSDAFrUIy91x0mAAJK
+User Name: robot
+Ticket ID: shRSDAFrUIy91x0mAAJK_bb5e3028-8c52-4b98-a381-0c2c68383464
+Total Bid Amount: 9100
+Total Earnings: 0
+Profit/Loss: -9100
+
+Breakdown:
+  Bid: 1, Amount: 5300, Payout: 26500, Status: lost
+  Bid: 1, Amount: 3800, Payout: 19000, Status: lost

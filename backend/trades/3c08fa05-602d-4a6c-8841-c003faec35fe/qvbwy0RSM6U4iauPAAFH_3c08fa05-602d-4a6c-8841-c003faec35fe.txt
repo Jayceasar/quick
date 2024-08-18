@@ -1,0 +1,9 @@
+User ID: qvbwy0RSM6U4iauPAAFH
+User Name: robot
+Ticket ID: qvbwy0RSM6U4iauPAAFH_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 2000
+Total Earnings: 0
+Profit/Loss: -2000
+
+Breakdown:
+  Bid: 3, Amount: 2000, Payout: 10000, Status: lost

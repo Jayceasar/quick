@@ -1,0 +1,9 @@
+User ID: _hqcH1vvAmiwqZW_AAUc
+User Name: robot
+Ticket ID: _hqcH1vvAmiwqZW_AAUc_1f158410-d003-4f01-bda5-9b47fab4ab92
+Total Bid Amount: 6300
+Total Earnings: 0
+Profit/Loss: -6300
+
+Breakdown:
+  Bid: 1, Amount: 6300, Payout: 31500, Status: lost

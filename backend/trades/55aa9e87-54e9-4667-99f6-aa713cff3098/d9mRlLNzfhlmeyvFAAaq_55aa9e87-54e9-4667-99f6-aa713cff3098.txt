@@ -1,0 +1,9 @@
+User ID: d9mRlLNzfhlmeyvFAAaq
+User Name: robot
+Ticket ID: d9mRlLNzfhlmeyvFAAaq_55aa9e87-54e9-4667-99f6-aa713cff3098
+Total Bid Amount: 6300
+Total Earnings: 0
+Profit/Loss: -6300
+
+Breakdown:
+  Bid: 1, Amount: 6300, Payout: 31500, Status: lost

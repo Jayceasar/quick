@@ -1,0 +1,9 @@
+User ID: wDOuiPCA25POIjxEAA2g
+User Name: robot
+Ticket ID: wDOuiPCA25POIjxEAA2g_70d31637-ddb2-46a0-94c6-a98e19a9be46
+Total Bid Amount: 9300
+Total Earnings: 0
+Profit/Loss: -9300
+
+Breakdown:
+  Bid: 1, Amount: 9300, Payout: 46500, Status: lost

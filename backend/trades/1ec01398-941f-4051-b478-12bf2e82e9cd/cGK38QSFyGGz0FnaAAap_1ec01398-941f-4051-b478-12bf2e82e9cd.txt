@@ -1,0 +1,9 @@
+User ID: cGK38QSFyGGz0FnaAAap
+User Name: robot
+Ticket ID: cGK38QSFyGGz0FnaAAap_1ec01398-941f-4051-b478-12bf2e82e9cd
+Total Bid Amount: 5900
+Total Earnings: 29500
+Profit/Loss: 23600
+
+Breakdown:
+  Bid: 3, Amount: 5900, Payout: 29500, Status: won

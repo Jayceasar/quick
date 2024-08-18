@@ -1,0 +1,9 @@
+User ID: HRbSvh_2osozknmXAAO1
+User Name: robot
+Ticket ID: HRbSvh_2osozknmXAAO1_b7702871-94c5-4aa2-a465-bc5c183e2b58
+Total Bid Amount: 5900
+Total Earnings: 0
+Profit/Loss: -5900
+
+Breakdown:
+  Bid: 1, Amount: 5900, Payout: 29500, Status: lost

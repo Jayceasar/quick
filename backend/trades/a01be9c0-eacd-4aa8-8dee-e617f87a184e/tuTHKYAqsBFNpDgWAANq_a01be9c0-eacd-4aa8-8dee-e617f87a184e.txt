@@ -1,0 +1,9 @@
+User ID: tuTHKYAqsBFNpDgWAANq
+User Name: robot
+Ticket ID: tuTHKYAqsBFNpDgWAANq_a01be9c0-eacd-4aa8-8dee-e617f87a184e
+Total Bid Amount: 10000
+Total Earnings: 0
+Profit/Loss: -10000
+
+Breakdown:
+  Bid: 3, Amount: 10000, Payout: 50000, Status: lost

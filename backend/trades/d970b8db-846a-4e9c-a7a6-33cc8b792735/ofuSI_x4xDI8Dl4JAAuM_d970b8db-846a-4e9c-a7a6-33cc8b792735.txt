@@ -1,0 +1,10 @@
+User ID: ofuSI_x4xDI8Dl4JAAuM
+User Name: robot
+Ticket ID: ofuSI_x4xDI8Dl4JAAuM_d970b8db-846a-4e9c-a7a6-33cc8b792735
+Total Bid Amount: 9600
+Total Earnings: 0
+Profit/Loss: -9600
+
+Breakdown:
+  Bid: 4, Amount: 100, Payout: 500, Status: lost
+  Bid: 6, Amount: 9500, Payout: 47500, Status: lost

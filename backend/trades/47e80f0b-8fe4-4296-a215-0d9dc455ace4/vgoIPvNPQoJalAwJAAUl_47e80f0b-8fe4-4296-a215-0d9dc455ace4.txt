@@ -1,0 +1,9 @@
+User ID: vgoIPvNPQoJalAwJAAUl
+User Name: robot
+Ticket ID: vgoIPvNPQoJalAwJAAUl_47e80f0b-8fe4-4296-a215-0d9dc455ace4
+Total Bid Amount: 4600
+Total Earnings: 23000
+Profit/Loss: 18400
+
+Breakdown:
+  Bid: 1, Amount: 4600, Payout: 23000, Status: won

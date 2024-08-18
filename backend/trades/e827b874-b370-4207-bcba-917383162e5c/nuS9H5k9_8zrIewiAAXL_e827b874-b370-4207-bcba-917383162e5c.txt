@@ -1,0 +1,10 @@
+User ID: nuS9H5k9_8zrIewiAAXL
+User Name: robot
+Ticket ID: nuS9H5k9_8zrIewiAAXL_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 8500
+Total Earnings: 19500
+Profit/Loss: 11000
+
+Breakdown:
+  Bid: 2, Amount: 3900, Payout: 19500, Status: won
+  Bid: 5, Amount: 4600, Payout: 23000, Status: lost

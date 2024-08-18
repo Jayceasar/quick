@@ -1,0 +1,9 @@
+User ID: Bd2DqI2-0Mw0Trk9AAGk
+User Name: robot
+Ticket ID: Bd2DqI2-0Mw0Trk9AAGk_bb5e3028-8c52-4b98-a381-0c2c68383464
+Total Bid Amount: 5700
+Total Earnings: 0
+Profit/Loss: -5700
+
+Breakdown:
+  Bid: 2, Amount: 5700, Payout: 28500, Status: lost

@@ -1,0 +1,9 @@
+User ID: _G4AH-Eq3-ARzCkgAAFF
+User Name: robot
+Ticket ID: _G4AH-Eq3-ARzCkgAAFF_c4750aca-f17c-4be6-87a9-33a224b7d999
+Total Bid Amount: 5400
+Total Earnings: 0
+Profit/Loss: -5400
+
+Breakdown:
+  Bid: 4, Amount: 5400, Payout: 27000, Status: lost

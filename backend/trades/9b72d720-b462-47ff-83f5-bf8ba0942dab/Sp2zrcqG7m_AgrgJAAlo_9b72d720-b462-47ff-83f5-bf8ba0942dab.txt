@@ -1,0 +1,9 @@
+User ID: Sp2zrcqG7m_AgrgJAAlo
+User Name: robot
+Ticket ID: Sp2zrcqG7m_AgrgJAAlo_9b72d720-b462-47ff-83f5-bf8ba0942dab
+Total Bid Amount: 5500
+Total Earnings: 0
+Profit/Loss: -5500
+
+Breakdown:
+  Bid: 4, Amount: 5500, Payout: 27500, Status: lost

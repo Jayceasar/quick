@@ -1,0 +1,9 @@
+User ID: p84ON4-jU6MWZi0bAAUp
+User Name: robot
+Ticket ID: p84ON4-jU6MWZi0bAAUp_51aaa087-b7d2-477a-9555-272cadfee5a8
+Total Bid Amount: 2300
+Total Earnings: 0
+Profit/Loss: -2300
+
+Breakdown:
+  Bid: 6, Amount: 2300, Payout: 11500, Status: lost

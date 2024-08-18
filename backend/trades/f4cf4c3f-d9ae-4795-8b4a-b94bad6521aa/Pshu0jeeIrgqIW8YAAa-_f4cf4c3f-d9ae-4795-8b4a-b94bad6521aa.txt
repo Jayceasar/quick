@@ -1,0 +1,9 @@
+User ID: Pshu0jeeIrgqIW8YAAa-
+User Name: robot
+Ticket ID: Pshu0jeeIrgqIW8YAAa-_f4cf4c3f-d9ae-4795-8b4a-b94bad6521aa
+Total Bid Amount: 2000
+Total Earnings: 0
+Profit/Loss: -2000
+
+Breakdown:
+  Bid: 3, Amount: 2000, Payout: 10000, Status: lost

@@ -1,0 +1,10 @@
+User ID: jJRrMWuhM8rj8fjkAAKW
+User Name: robot
+Ticket ID: jJRrMWuhM8rj8fjkAAKW_bb5e3028-8c52-4b98-a381-0c2c68383464
+Total Bid Amount: 7000
+Total Earnings: 0
+Profit/Loss: -7000
+
+Breakdown:
+  Bid: 3, Amount: 4700, Payout: 23500, Status: lost
+  Bid: 5, Amount: 2300, Payout: 11500, Status: lost

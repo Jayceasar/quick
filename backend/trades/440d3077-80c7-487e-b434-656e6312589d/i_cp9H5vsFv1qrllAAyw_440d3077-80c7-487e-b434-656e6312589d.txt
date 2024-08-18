@@ -1,0 +1,9 @@
+User ID: i_cp9H5vsFv1qrllAAyw
+User Name: robot
+Ticket ID: i_cp9H5vsFv1qrllAAyw_440d3077-80c7-487e-b434-656e6312589d
+Total Bid Amount: 4700
+Total Earnings: 0
+Profit/Loss: -4700
+
+Breakdown:
+  Bid: 6, Amount: 4700, Payout: 23500, Status: lost

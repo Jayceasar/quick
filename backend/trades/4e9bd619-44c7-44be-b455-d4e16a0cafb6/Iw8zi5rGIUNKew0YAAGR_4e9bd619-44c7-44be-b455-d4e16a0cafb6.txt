@@ -1,0 +1,9 @@
+User ID: Iw8zi5rGIUNKew0YAAGR
+User Name: robot
+Ticket ID: Iw8zi5rGIUNKew0YAAGR_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 2700
+Total Earnings: 0
+Profit/Loss: -2700
+
+Breakdown:
+  Bid: 4, Amount: 2700, Payout: 13500, Status: lost

@@ -1,0 +1,9 @@
+User ID: 69u1seL-0jCNIlvdAAJA
+User Name: robot
+Ticket ID: 69u1seL-0jCNIlvdAAJA_3750ca25-a9f1-4278-85de-ccbff503fd45
+Total Bid Amount: 3100
+Total Earnings: 0
+Profit/Loss: -3100
+
+Breakdown:
+  Bid: 2, Amount: 3100, Payout: 15500, Status: lost

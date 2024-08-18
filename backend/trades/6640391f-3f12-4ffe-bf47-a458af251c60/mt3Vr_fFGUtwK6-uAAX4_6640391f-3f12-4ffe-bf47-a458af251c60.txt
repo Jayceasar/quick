@@ -1,0 +1,9 @@
+User ID: mt3Vr_fFGUtwK6-uAAX4
+User Name: robot
+Ticket ID: mt3Vr_fFGUtwK6-uAAX4_6640391f-3f12-4ffe-bf47-a458af251c60
+Total Bid Amount: 5600
+Total Earnings: 0
+Profit/Loss: -5600
+
+Breakdown:
+  Bid: 2, Amount: 5600, Payout: 28000, Status: lost

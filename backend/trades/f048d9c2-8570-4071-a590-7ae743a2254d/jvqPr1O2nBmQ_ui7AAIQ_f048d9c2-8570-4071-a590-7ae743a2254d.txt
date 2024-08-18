@@ -1,0 +1,9 @@
+User ID: jvqPr1O2nBmQ_ui7AAIQ
+User Name: robot
+Ticket ID: jvqPr1O2nBmQ_ui7AAIQ_f048d9c2-8570-4071-a590-7ae743a2254d
+Total Bid Amount: 4300
+Total Earnings: 0
+Profit/Loss: -4300
+
+Breakdown:
+  Bid: 2, Amount: 4300, Payout: 21500, Status: lost

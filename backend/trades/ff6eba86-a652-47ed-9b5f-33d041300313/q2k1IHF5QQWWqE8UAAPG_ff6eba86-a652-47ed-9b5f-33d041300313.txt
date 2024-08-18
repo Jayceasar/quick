@@ -1,0 +1,9 @@
+User ID: q2k1IHF5QQWWqE8UAAPG
+User Name: robot
+Ticket ID: q2k1IHF5QQWWqE8UAAPG_ff6eba86-a652-47ed-9b5f-33d041300313
+Total Bid Amount: 10000
+Total Earnings: 0
+Profit/Loss: -10000
+
+Breakdown:
+  Bid: 4, Amount: 10000, Payout: 50000, Status: lost

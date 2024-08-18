@@ -1,0 +1,10 @@
+User ID: 6vyh-plCiW7xyHN5AAW3
+User Name: robot
+Ticket ID: 6vyh-plCiW7xyHN5AAW3_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 6700
+Total Earnings: 27500
+Profit/Loss: 20800
+
+Breakdown:
+  Bid: 2, Amount: 5500, Payout: 27500, Status: won
+  Bid: 1, Amount: 1200, Payout: 6000, Status: lost

@@ -1,0 +1,10 @@
+User ID: sKMSRW-nOcAHk1yhAAGj
+User Name: robot
+Ticket ID: sKMSRW-nOcAHk1yhAAGj_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 6500
+Total Earnings: 32500
+Profit/Loss: 26000
+
+Breakdown:
+  Bid: 2, Amount: 1000, Payout: 5000, Status: won
+  Bid: 2, Amount: 5500, Payout: 27500, Status: won

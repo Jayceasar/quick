@@ -1,0 +1,10 @@
+User ID: u2gqTzN-UMPsyIKAAAHE
+User Name: robot
+Ticket ID: u2gqTzN-UMPsyIKAAAHE_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 9700
+Total Earnings: 0
+Profit/Loss: -9700
+
+Breakdown:
+  Bid: 4, Amount: 5000, Payout: 25000, Status: lost
+  Bid: 4, Amount: 4700, Payout: 23500, Status: lost

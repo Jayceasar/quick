@@ -1,0 +1,9 @@
+User ID: w49u0rimd10gJAxrAA0u
+User Name: robot
+Ticket ID: w49u0rimd10gJAxrAA0u_4ba02ed2-32dc-4fb6-b96c-0c7d28623e86
+Total Bid Amount: 9600
+Total Earnings: 0
+Profit/Loss: -9600
+
+Breakdown:
+  Bid: 6, Amount: 9600, Payout: 48000, Status: lost

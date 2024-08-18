@@ -1,0 +1,9 @@
+User ID: x2AlyKY-tW4_pAgAAAIR
+User Name: robot
+Ticket ID: x2AlyKY-tW4_pAgAAAIR_ad3a8c72-299f-43d4-805f-4646b325aae0
+Total Bid Amount: 8200
+Total Earnings: 0
+Profit/Loss: -8200
+
+Breakdown:
+  Bid: 6, Amount: 8200, Payout: 41000, Status: lost

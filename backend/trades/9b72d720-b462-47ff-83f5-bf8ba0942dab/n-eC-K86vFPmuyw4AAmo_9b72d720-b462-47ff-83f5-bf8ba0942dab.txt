@@ -1,0 +1,9 @@
+User ID: n-eC-K86vFPmuyw4AAmo
+User Name: robot
+Ticket ID: n-eC-K86vFPmuyw4AAmo_9b72d720-b462-47ff-83f5-bf8ba0942dab
+Total Bid Amount: 900
+Total Earnings: 0
+Profit/Loss: -900
+
+Breakdown:
+  Bid: 3, Amount: 900, Payout: 4500, Status: lost

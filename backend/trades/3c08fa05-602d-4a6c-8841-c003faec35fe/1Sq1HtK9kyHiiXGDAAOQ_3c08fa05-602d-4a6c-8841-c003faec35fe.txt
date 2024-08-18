@@ -1,0 +1,10 @@
+User ID: 1Sq1HtK9kyHiiXGDAAOQ
+User Name: robot
+Ticket ID: 1Sq1HtK9kyHiiXGDAAOQ_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 10000
+Total Earnings: 0
+Profit/Loss: -10000
+
+Breakdown:
+  Bid: 2, Amount: 3000, Payout: 15000, Status: lost
+  Bid: 3, Amount: 7000, Payout: 35000, Status: lost

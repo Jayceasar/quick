@@ -1,0 +1,10 @@
+User ID: t9_zEHNwp1mRxaAUAAOJ
+User Name: robot
+Ticket ID: t9_zEHNwp1mRxaAUAAOJ_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 7900
+Total Earnings: 0
+Profit/Loss: -7900
+
+Breakdown:
+  Bid: 2, Amount: 2800, Payout: 14000, Status: lost
+  Bid: 3, Amount: 5100, Payout: 25500, Status: lost

@@ -1,0 +1,10 @@
+User ID: gk3KuJJLwUFn1iWuAAFr
+User Name: robot
+Ticket ID: gk3KuJJLwUFn1iWuAAFr_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 9900
+Total Earnings: 0
+Profit/Loss: -9900
+
+Breakdown:
+  Bid: 4, Amount: 8100, Payout: 40500, Status: lost
+  Bid: 1, Amount: 1800, Payout: 9000, Status: lost

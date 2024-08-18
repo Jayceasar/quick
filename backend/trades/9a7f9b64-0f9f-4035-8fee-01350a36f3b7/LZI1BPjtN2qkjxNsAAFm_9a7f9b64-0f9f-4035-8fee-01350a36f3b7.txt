@@ -1,0 +1,10 @@
+User ID: LZI1BPjtN2qkjxNsAAFm
+User Name: robot
+Ticket ID: LZI1BPjtN2qkjxNsAAFm_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 16400
+Total Earnings: 48500
+Profit/Loss: 32100
+
+Breakdown:
+  Bid: 1, Amount: 6700, Payout: 33500, Status: lost
+  Bid: 6, Amount: 9700, Payout: 48500, Status: won

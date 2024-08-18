@@ -1,0 +1,9 @@
+User ID: kliH-9kQe71gK1dsAAIH
+User Name: robot
+Ticket ID: kliH-9kQe71gK1dsAAIH_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 4000
+Total Earnings: 0
+Profit/Loss: -4000
+
+Breakdown:
+  Bid: 1, Amount: 4000, Payout: 20000, Status: lost

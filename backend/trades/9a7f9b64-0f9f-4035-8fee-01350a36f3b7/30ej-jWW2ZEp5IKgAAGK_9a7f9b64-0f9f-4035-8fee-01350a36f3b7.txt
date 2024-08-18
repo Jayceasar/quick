@@ -1,0 +1,10 @@
+User ID: 30ej-jWW2ZEp5IKgAAGK
+User Name: robot
+Ticket ID: 30ej-jWW2ZEp5IKgAAGK_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 18900
+Total Earnings: 0
+Profit/Loss: -18900
+
+Breakdown:
+  Bid: 4, Amount: 9900, Payout: 49500, Status: lost
+  Bid: 1, Amount: 9000, Payout: 45000, Status: lost

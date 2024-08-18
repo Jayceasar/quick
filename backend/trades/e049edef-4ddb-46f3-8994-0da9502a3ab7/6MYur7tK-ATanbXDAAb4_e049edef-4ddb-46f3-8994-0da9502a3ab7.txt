@@ -1,0 +1,9 @@
+User ID: 6MYur7tK-ATanbXDAAb4
+User Name: robot
+Ticket ID: 6MYur7tK-ATanbXDAAb4_e049edef-4ddb-46f3-8994-0da9502a3ab7
+Total Bid Amount: 3200
+Total Earnings: 0
+Profit/Loss: -3200
+
+Breakdown:
+  Bid: 5, Amount: 3200, Payout: 16000, Status: lost

@@ -1,0 +1,9 @@
+User ID: wzV6qiZguGbAZBQzAAEj
+User Name: robot
+Ticket ID: wzV6qiZguGbAZBQzAAEj_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 100
+Total Earnings: 0
+Profit/Loss: -100
+
+Breakdown:
+  Bid: 2, Amount: 100, Payout: 500, Status: lost

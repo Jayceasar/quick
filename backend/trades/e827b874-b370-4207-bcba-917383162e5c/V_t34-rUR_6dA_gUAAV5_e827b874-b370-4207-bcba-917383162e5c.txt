@@ -1,0 +1,10 @@
+User ID: V_t34-rUR_6dA_gUAAV5
+User Name: robot
+Ticket ID: V_t34-rUR_6dA_gUAAV5_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 5300
+Total Earnings: 0
+Profit/Loss: -5300
+
+Breakdown:
+  Bid: 5, Amount: 2200, Payout: 11000, Status: lost
+  Bid: 6, Amount: 3100, Payout: 15500, Status: lost

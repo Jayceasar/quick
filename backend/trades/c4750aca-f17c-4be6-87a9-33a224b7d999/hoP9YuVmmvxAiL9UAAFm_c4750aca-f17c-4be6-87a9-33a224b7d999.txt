@@ -1,0 +1,9 @@
+User ID: hoP9YuVmmvxAiL9UAAFm
+User Name: robot
+Ticket ID: hoP9YuVmmvxAiL9UAAFm_c4750aca-f17c-4be6-87a9-33a224b7d999
+Total Bid Amount: 9300
+Total Earnings: 0
+Profit/Loss: -9300
+
+Breakdown:
+  Bid: 2, Amount: 9300, Payout: 46500, Status: lost

@@ -1,0 +1,9 @@
+User ID: nDiK5jLaz7JWgKcfAAJz
+User Name: robot
+Ticket ID: nDiK5jLaz7JWgKcfAAJz_c4750aca-f17c-4be6-87a9-33a224b7d999
+Total Bid Amount: 2500
+Total Earnings: 0
+Profit/Loss: -2500
+
+Breakdown:
+  Bid: 6, Amount: 2500, Payout: 12500, Status: lost

@@ -1,0 +1,9 @@
+User ID: NSQK97jmet_1kOV1AAiB
+User Name: robot
+Ticket ID: NSQK97jmet_1kOV1AAiB_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 900
+Total Earnings: 0
+Profit/Loss: -900
+
+Breakdown:
+  Bid: 1, Amount: 900, Payout: 4500, Status: lost

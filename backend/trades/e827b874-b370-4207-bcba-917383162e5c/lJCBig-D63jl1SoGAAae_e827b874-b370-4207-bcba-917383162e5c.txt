@@ -1,0 +1,10 @@
+User ID: lJCBig-D63jl1SoGAAae
+User Name: robot
+Ticket ID: lJCBig-D63jl1SoGAAae_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 10400
+Total Earnings: 0
+Profit/Loss: -10400
+
+Breakdown:
+  Bid: 6, Amount: 2200, Payout: 11000, Status: lost
+  Bid: 6, Amount: 8200, Payout: 41000, Status: lost

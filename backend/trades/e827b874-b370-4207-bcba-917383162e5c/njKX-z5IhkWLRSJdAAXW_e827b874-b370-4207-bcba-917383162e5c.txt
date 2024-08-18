@@ -1,0 +1,10 @@
+User ID: njKX-z5IhkWLRSJdAAXW
+User Name: robot
+Ticket ID: njKX-z5IhkWLRSJdAAXW_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 13600
+Total Earnings: 21500
+Profit/Loss: 7900
+
+Breakdown:
+  Bid: 3, Amount: 9300, Payout: 46500, Status: lost
+  Bid: 2, Amount: 4300, Payout: 21500, Status: won

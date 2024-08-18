@@ -1,0 +1,9 @@
+User ID: Rdcb2vrrf_Yj-S7JAAIa
+User Name: robot
+Ticket ID: Rdcb2vrrf_Yj-S7JAAIa_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 800
+Total Earnings: 0
+Profit/Loss: -800
+
+Breakdown:
+  Bid: 3, Amount: 800, Payout: 4000, Status: lost

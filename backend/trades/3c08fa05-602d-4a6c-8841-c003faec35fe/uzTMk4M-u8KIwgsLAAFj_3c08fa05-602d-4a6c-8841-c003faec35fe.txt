@@ -1,0 +1,9 @@
+User ID: uzTMk4M-u8KIwgsLAAFj
+User Name: robot
+Ticket ID: uzTMk4M-u8KIwgsLAAFj_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 2500
+Total Earnings: 0
+Profit/Loss: -2500
+
+Breakdown:
+  Bid: 3, Amount: 2500, Payout: 12500, Status: lost

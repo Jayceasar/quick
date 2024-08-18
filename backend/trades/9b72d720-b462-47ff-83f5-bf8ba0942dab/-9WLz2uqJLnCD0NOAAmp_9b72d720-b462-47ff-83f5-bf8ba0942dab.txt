@@ -1,0 +1,9 @@
+User ID: -9WLz2uqJLnCD0NOAAmp
+User Name: robot
+Ticket ID: -9WLz2uqJLnCD0NOAAmp_9b72d720-b462-47ff-83f5-bf8ba0942dab
+Total Bid Amount: 5200
+Total Earnings: 0
+Profit/Loss: -5200
+
+Breakdown:
+  Bid: 2, Amount: 5200, Payout: 26000, Status: lost

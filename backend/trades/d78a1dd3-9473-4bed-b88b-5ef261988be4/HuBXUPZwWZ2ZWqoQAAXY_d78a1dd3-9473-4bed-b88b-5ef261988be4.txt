@@ -1,0 +1,9 @@
+User ID: HuBXUPZwWZ2ZWqoQAAXY
+User Name: robot
+Ticket ID: HuBXUPZwWZ2ZWqoQAAXY_d78a1dd3-9473-4bed-b88b-5ef261988be4
+Total Bid Amount: 900
+Total Earnings: 4500
+Profit/Loss: 3600
+
+Breakdown:
+  Bid: 4, Amount: 900, Payout: 4500, Status: won

@@ -1,0 +1,9 @@
+User ID: mSBiJdrXA-gf3prGAA1Q
+User Name: robot
+Ticket ID: mSBiJdrXA-gf3prGAA1Q_d05e861f-f27e-4864-af86-257c4b623e47
+Total Bid Amount: 6600
+Total Earnings: 33000
+Profit/Loss: 26400
+
+Breakdown:
+  Bid: 3, Amount: 6600, Payout: 33000, Status: won

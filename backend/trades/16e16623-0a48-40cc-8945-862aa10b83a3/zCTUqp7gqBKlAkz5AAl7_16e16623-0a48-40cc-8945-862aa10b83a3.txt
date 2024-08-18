@@ -1,0 +1,10 @@
+User ID: zCTUqp7gqBKlAkz5AAl7
+User Name: robot
+Ticket ID: zCTUqp7gqBKlAkz5AAl7_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 8300
+Total Earnings: 0
+Profit/Loss: -8300
+
+Breakdown:
+  Bid: 6, Amount: 5000, Payout: 25000, Status: lost
+  Bid: 4, Amount: 3300, Payout: 16500, Status: lost

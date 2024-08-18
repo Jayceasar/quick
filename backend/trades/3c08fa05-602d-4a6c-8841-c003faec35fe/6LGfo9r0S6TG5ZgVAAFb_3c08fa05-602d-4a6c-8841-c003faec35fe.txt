@@ -1,0 +1,9 @@
+User ID: 6LGfo9r0S6TG5ZgVAAFb
+User Name: robot
+Ticket ID: 6LGfo9r0S6TG5ZgVAAFb_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 2900
+Total Earnings: 0
+Profit/Loss: -2900
+
+Breakdown:
+  Bid: 2, Amount: 2900, Payout: 14500, Status: lost

@@ -1,0 +1,9 @@
+User ID: o90CG0yu9MZJwqz5AAHL
+User Name: robot
+Ticket ID: o90CG0yu9MZJwqz5AAHL_ad3a8c72-299f-43d4-805f-4646b325aae0
+Total Bid Amount: 4800
+Total Earnings: 0
+Profit/Loss: -4800
+
+Breakdown:
+  Bid: 2, Amount: 4800, Payout: 24000, Status: lost

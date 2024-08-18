@@ -1,0 +1,9 @@
+User ID: thBOaXspE9WTdXuRAAHh
+User Name: robot
+Ticket ID: thBOaXspE9WTdXuRAAHh_bb5e3028-8c52-4b98-a381-0c2c68383464
+Total Bid Amount: 9700
+Total Earnings: 0
+Profit/Loss: -9700
+
+Breakdown:
+  Bid: 2, Amount: 9700, Payout: 48500, Status: lost

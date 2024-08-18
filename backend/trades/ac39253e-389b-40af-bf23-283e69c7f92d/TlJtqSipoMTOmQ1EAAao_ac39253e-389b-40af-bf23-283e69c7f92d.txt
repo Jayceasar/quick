@@ -1,0 +1,9 @@
+User ID: TlJtqSipoMTOmQ1EAAao
+User Name: robot
+Ticket ID: TlJtqSipoMTOmQ1EAAao_ac39253e-389b-40af-bf23-283e69c7f92d
+Total Bid Amount: 5500
+Total Earnings: 0
+Profit/Loss: -5500
+
+Breakdown:
+  Bid: 2, Amount: 5500, Payout: 27500, Status: lost

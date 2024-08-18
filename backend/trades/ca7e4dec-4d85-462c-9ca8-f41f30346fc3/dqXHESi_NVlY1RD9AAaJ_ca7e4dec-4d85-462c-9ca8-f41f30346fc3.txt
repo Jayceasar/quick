@@ -1,0 +1,9 @@
+User ID: dqXHESi_NVlY1RD9AAaJ
+User Name: robot
+Ticket ID: dqXHESi_NVlY1RD9AAaJ_ca7e4dec-4d85-462c-9ca8-f41f30346fc3
+Total Bid Amount: 400
+Total Earnings: 2000
+Profit/Loss: 1600
+
+Breakdown:
+  Bid: 2, Amount: 400, Payout: 2000, Status: won

@@ -1,0 +1,9 @@
+User ID: N2ilc5xJE-KH9avpAAG3
+User Name: robot
+Ticket ID: N2ilc5xJE-KH9avpAAG3_62b03c19-c2ac-4766-913d-1d50e3d473a4
+Total Bid Amount: 3800
+Total Earnings: 19000
+Profit/Loss: 15200
+
+Breakdown:
+  Bid: 2, Amount: 3800, Payout: 19000, Status: won

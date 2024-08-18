@@ -1,0 +1,10 @@
+User ID: oKNc1QeCOJZds_vEAAHt
+User Name: robot
+Ticket ID: oKNc1QeCOJZds_vEAAHt_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 13800
+Total Earnings: 39000
+Profit/Loss: 25200
+
+Breakdown:
+  Bid: 4, Amount: 6000, Payout: 30000, Status: lost
+  Bid: 2, Amount: 7800, Payout: 39000, Status: won

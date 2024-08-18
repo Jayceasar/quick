@@ -1,0 +1,10 @@
+User ID: msBNVtCw0HGvQ3IuAAIT
+User Name: robot
+Ticket ID: msBNVtCw0HGvQ3IuAAIT_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 13300
+Total Earnings: 0
+Profit/Loss: -13300
+
+Breakdown:
+  Bid: 4, Amount: 9500, Payout: 47500, Status: lost
+  Bid: 3, Amount: 3800, Payout: 19000, Status: lost

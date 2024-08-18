@@ -1,0 +1,9 @@
+User ID: ZNeF6RhAiB4S6LOUAANF
+User Name: robot
+Ticket ID: ZNeF6RhAiB4S6LOUAANF_6ccaeea3-75f3-4c47-90f7-0f988c85c9cb
+Total Bid Amount: 9500
+Total Earnings: 0
+Profit/Loss: -9500
+
+Breakdown:
+  Bid: 5, Amount: 9500, Payout: 47500, Status: lost

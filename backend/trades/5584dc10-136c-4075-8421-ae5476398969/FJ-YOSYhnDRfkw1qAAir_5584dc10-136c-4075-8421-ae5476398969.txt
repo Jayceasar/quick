@@ -1,0 +1,9 @@
+User ID: FJ-YOSYhnDRfkw1qAAir
+User Name: robot
+Ticket ID: FJ-YOSYhnDRfkw1qAAir_5584dc10-136c-4075-8421-ae5476398969
+Total Bid Amount: 6200
+Total Earnings: 31000
+Profit/Loss: 24800
+
+Breakdown:
+  Bid: 2, Amount: 6200, Payout: 31000, Status: won

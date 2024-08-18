@@ -1,0 +1,9 @@
+User ID: szAfHQJHbYEik7F5AAQK
+User Name: robot
+Ticket ID: szAfHQJHbYEik7F5AAQK_209c3c5d-6af1-4012-9a52-8f49dddfdeef
+Total Bid Amount: 2300
+Total Earnings: 11500
+Profit/Loss: 9200
+
+Breakdown:
+  Bid: 5, Amount: 2300, Payout: 11500, Status: won

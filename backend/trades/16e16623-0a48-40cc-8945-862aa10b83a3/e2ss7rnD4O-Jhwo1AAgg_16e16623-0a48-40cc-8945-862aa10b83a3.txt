@@ -1,0 +1,9 @@
+User ID: e2ss7rnD4O-Jhwo1AAgg
+User Name: robot
+Ticket ID: e2ss7rnD4O-Jhwo1AAgg_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 600
+Total Earnings: 0
+Profit/Loss: -600
+
+Breakdown:
+  Bid: 1, Amount: 600, Payout: 3000, Status: lost

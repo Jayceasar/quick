@@ -1,0 +1,9 @@
+User ID: cJJkCJDJpJoob1XVAAhv
+User Name: robot
+Ticket ID: cJJkCJDJpJoob1XVAAhv_7edcaff6-689d-4d3c-9b04-4e875243c108
+Total Bid Amount: 3200
+Total Earnings: 16000
+Profit/Loss: 12800
+
+Breakdown:
+  Bid: 2, Amount: 3200, Payout: 16000, Status: won

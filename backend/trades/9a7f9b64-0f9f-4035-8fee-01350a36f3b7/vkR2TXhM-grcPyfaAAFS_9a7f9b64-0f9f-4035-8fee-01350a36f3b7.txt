@@ -1,0 +1,10 @@
+User ID: vkR2TXhM-grcPyfaAAFS
+User Name: robot
+Ticket ID: vkR2TXhM-grcPyfaAAFS_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 12000
+Total Earnings: 0
+Profit/Loss: -12000
+
+Breakdown:
+  Bid: 4, Amount: 5800, Payout: 29000, Status: lost
+  Bid: 4, Amount: 6200, Payout: 31000, Status: lost

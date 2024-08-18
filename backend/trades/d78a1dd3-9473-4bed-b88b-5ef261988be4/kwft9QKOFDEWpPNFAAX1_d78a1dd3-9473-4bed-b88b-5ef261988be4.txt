@@ -1,0 +1,9 @@
+User ID: kwft9QKOFDEWpPNFAAX1
+User Name: robot
+Ticket ID: kwft9QKOFDEWpPNFAAX1_d78a1dd3-9473-4bed-b88b-5ef261988be4
+Total Bid Amount: 9100
+Total Earnings: 0
+Profit/Loss: -9100
+
+Breakdown:
+  Bid: 3, Amount: 9100, Payout: 45500, Status: lost

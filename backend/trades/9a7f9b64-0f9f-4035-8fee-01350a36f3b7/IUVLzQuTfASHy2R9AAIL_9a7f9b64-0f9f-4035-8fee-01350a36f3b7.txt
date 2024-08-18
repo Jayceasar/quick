@@ -1,0 +1,10 @@
+User ID: IUVLzQuTfASHy2R9AAIL
+User Name: robot
+Ticket ID: IUVLzQuTfASHy2R9AAIL_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 9500
+Total Earnings: 0
+Profit/Loss: -9500
+
+Breakdown:
+  Bid: 2, Amount: 9400, Payout: 47000, Status: lost
+  Bid: 1, Amount: 100, Payout: 500, Status: lost

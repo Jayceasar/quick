@@ -1,0 +1,10 @@
+User ID: GIvBmleCjFCCJ0TwAAYC
+User Name: robot
+Ticket ID: GIvBmleCjFCCJ0TwAAYC_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 17000
+Total Earnings: 0
+Profit/Loss: -17000
+
+Breakdown:
+  Bid: 3, Amount: 8100, Payout: 40500, Status: lost
+  Bid: 3, Amount: 8900, Payout: 44500, Status: lost

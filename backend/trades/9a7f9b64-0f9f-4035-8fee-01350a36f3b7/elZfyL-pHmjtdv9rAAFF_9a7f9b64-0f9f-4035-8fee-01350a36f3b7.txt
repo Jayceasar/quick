@@ -1,0 +1,10 @@
+User ID: elZfyL-pHmjtdv9rAAFF
+User Name: robot
+Ticket ID: elZfyL-pHmjtdv9rAAFF_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 7300
+Total Earnings: 0
+Profit/Loss: -7300
+
+Breakdown:
+  Bid: 5, Amount: 4500, Payout: 22500, Status: lost
+  Bid: 2, Amount: 2800, Payout: 14000, Status: lost

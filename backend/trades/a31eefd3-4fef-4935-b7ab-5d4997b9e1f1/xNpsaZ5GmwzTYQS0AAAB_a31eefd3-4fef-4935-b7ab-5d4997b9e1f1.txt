@@ -1,0 +1,14 @@
+User ID: xNpsaZ5GmwzTYQS0AAAB
+User Name: test
+Ticket ID: xNpsaZ5GmwzTYQS0AAAB_a31eefd3-4fef-4935-b7ab-5d4997b9e1f1
+Total Bid Amount: 600
+Total Earnings: 500
+Profit/Loss: -100
+
+Breakdown:
+  Bid: 3, Amount: 100, Payout: 500, Status: lost
+  Bid: 5, Amount: 100, Payout: 500, Status: lost
+  Bid: 2, Amount: 100, Payout: 500, Status: lost
+  Bid: 4, Amount: 100, Payout: 500, Status: lost
+  Bid: 6, Amount: 100, Payout: 500, Status: lost
+  Bid: 1, Amount: 100, Payout: 500, Status: won

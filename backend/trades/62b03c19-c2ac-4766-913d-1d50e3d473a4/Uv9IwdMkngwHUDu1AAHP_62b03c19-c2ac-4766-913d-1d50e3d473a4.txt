@@ -1,0 +1,9 @@
+User ID: Uv9IwdMkngwHUDu1AAHP
+User Name: robot
+Ticket ID: Uv9IwdMkngwHUDu1AAHP_62b03c19-c2ac-4766-913d-1d50e3d473a4
+Total Bid Amount: 3500
+Total Earnings: 0
+Profit/Loss: -3500
+
+Breakdown:
+  Bid: 6, Amount: 3500, Payout: 17500, Status: lost

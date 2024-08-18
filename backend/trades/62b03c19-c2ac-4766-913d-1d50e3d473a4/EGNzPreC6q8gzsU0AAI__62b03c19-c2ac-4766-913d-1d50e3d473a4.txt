@@ -1,0 +1,9 @@
+User ID: EGNzPreC6q8gzsU0AAI_
+User Name: robot
+Ticket ID: EGNzPreC6q8gzsU0AAI__62b03c19-c2ac-4766-913d-1d50e3d473a4
+Total Bid Amount: 1100
+Total Earnings: 0
+Profit/Loss: -1100
+
+Breakdown:
+  Bid: 4, Amount: 1100, Payout: 5500, Status: lost

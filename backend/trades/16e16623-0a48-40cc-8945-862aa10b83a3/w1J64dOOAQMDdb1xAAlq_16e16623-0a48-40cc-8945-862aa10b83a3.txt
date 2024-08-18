@@ -1,0 +1,10 @@
+User ID: w1J64dOOAQMDdb1xAAlq
+User Name: robot
+Ticket ID: w1J64dOOAQMDdb1xAAlq_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 4200
+Total Earnings: 7500
+Profit/Loss: 3300
+
+Breakdown:
+  Bid: 5, Amount: 2700, Payout: 13500, Status: lost
+  Bid: 3, Amount: 1500, Payout: 7500, Status: won

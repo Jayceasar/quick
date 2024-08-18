@@ -1,0 +1,9 @@
+User ID: 5ErU3aIt-gP6E3U5AAxr
+User Name: robot
+Ticket ID: 5ErU3aIt-gP6E3U5AAxr_4ba02ed2-32dc-4fb6-b96c-0c7d28623e86
+Total Bid Amount: 9500
+Total Earnings: 0
+Profit/Loss: -9500
+
+Breakdown:
+  Bid: 6, Amount: 9500, Payout: 47500, Status: lost

@@ -1,0 +1,9 @@
+User ID: XgH9ud1OzRr9K_KhAANH
+User Name: robot
+Ticket ID: XgH9ud1OzRr9K_KhAANH_3a3c9f6e-ea4d-4148-934a-d93cf7174bd3
+Total Bid Amount: 3300
+Total Earnings: 0
+Profit/Loss: -3300
+
+Breakdown:
+  Bid: 1, Amount: 3300, Payout: 16500, Status: lost

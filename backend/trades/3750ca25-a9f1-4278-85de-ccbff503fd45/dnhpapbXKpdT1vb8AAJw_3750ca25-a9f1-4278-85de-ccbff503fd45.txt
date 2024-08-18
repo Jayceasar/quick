@@ -1,0 +1,9 @@
+User ID: dnhpapbXKpdT1vb8AAJw
+User Name: robot
+Ticket ID: dnhpapbXKpdT1vb8AAJw_3750ca25-a9f1-4278-85de-ccbff503fd45
+Total Bid Amount: 100
+Total Earnings: 500
+Profit/Loss: 400
+
+Breakdown:
+  Bid: 6, Amount: 100, Payout: 500, Status: won

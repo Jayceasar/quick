@@ -1,0 +1,9 @@
+User ID: gcOwRcTa8-Ffjp6aAAgt
+User Name: robot
+Ticket ID: gcOwRcTa8-Ffjp6aAAgt_5584dc10-136c-4075-8421-ae5476398969
+Total Bid Amount: 9500
+Total Earnings: 47500
+Profit/Loss: 38000
+
+Breakdown:
+  Bid: 2, Amount: 9500, Payout: 47500, Status: won

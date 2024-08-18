@@ -1,0 +1,9 @@
+User ID: lv0ByCE5LtqoZrbcAAtR
+User Name: robot
+Ticket ID: lv0ByCE5LtqoZrbcAAtR_db0ef95d-e018-483f-b64a-b1c385856283
+Total Bid Amount: 2500
+Total Earnings: 0
+Profit/Loss: -2500
+
+Breakdown:
+  Bid: 4, Amount: 2500, Payout: 12500, Status: lost

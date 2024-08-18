@@ -1,0 +1,10 @@
+User ID: u06by1in-bI570T-AAZv
+User Name: robot
+Ticket ID: u06by1in-bI570T-AAZv_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 11800
+Total Earnings: 0
+Profit/Loss: -11800
+
+Breakdown:
+  Bid: 6, Amount: 8600, Payout: 43000, Status: lost
+  Bid: 1, Amount: 3200, Payout: 16000, Status: lost

@@ -1,0 +1,10 @@
+User ID: jYdvepV2xIRv0JN1AAI0
+User Name: robot
+Ticket ID: jYdvepV2xIRv0JN1AAI0_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 12000
+Total Earnings: 48000
+Profit/Loss: 36000
+
+Breakdown:
+  Bid: 6, Amount: 9600, Payout: 48000, Status: won
+  Bid: 5, Amount: 2400, Payout: 12000, Status: lost

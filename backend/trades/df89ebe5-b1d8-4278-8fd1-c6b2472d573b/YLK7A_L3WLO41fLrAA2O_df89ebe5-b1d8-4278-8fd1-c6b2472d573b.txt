@@ -1,0 +1,9 @@
+User ID: YLK7A_L3WLO41fLrAA2O
+User Name: robot
+Ticket ID: YLK7A_L3WLO41fLrAA2O_df89ebe5-b1d8-4278-8fd1-c6b2472d573b
+Total Bid Amount: 9200
+Total Earnings: 46000
+Profit/Loss: 36800
+
+Breakdown:
+  Bid: 3, Amount: 9200, Payout: 46000, Status: won

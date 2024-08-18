@@ -1,0 +1,9 @@
+User ID: 3nfyCLkunaebiL1iAAi-
+User Name: robot
+Ticket ID: 3nfyCLkunaebiL1iAAi-_7edcaff6-689d-4d3c-9b04-4e875243c108
+Total Bid Amount: 1900
+Total Earnings: 0
+Profit/Loss: -1900
+
+Breakdown:
+  Bid: 1, Amount: 1900, Payout: 9500, Status: lost

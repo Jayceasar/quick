@@ -1,0 +1,10 @@
+User ID: iSLjKBKaX-TCXwkLAAGd
+User Name: robot
+Ticket ID: iSLjKBKaX-TCXwkLAAGd_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 14000
+Total Earnings: 0
+Profit/Loss: -14000
+
+Breakdown:
+  Bid: 1, Amount: 9300, Payout: 46500, Status: lost
+  Bid: 1, Amount: 4700, Payout: 23500, Status: lost

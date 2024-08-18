@@ -1,0 +1,9 @@
+User ID: ZonU_puGjQXtuIVQAAIl
+User Name: robot
+Ticket ID: ZonU_puGjQXtuIVQAAIl_ad3a8c72-299f-43d4-805f-4646b325aae0
+Total Bid Amount: 6500
+Total Earnings: 0
+Profit/Loss: -6500
+
+Breakdown:
+  Bid: 6, Amount: 6500, Payout: 32500, Status: lost

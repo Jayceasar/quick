@@ -1,0 +1,10 @@
+User ID: xJ91exNu3_tvk09nAAFU
+User Name: robot
+Ticket ID: xJ91exNu3_tvk09nAAFU_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 8500
+Total Earnings: 0
+Profit/Loss: -8500
+
+Breakdown:
+  Bid: 6, Amount: 500, Payout: 2500, Status: lost
+  Bid: 5, Amount: 8000, Payout: 40000, Status: lost

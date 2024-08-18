@@ -1,0 +1,9 @@
+User ID: b-GMuS8-MsEiK8TuAAUg
+User Name: robot
+Ticket ID: b-GMuS8-MsEiK8TuAAUg_7e777d02-56b8-4a19-9eeb-f0a7925b7d00
+Total Bid Amount: 2000
+Total Earnings: 0
+Profit/Loss: -2000
+
+Breakdown:
+  Bid: 3, Amount: 2000, Payout: 10000, Status: lost

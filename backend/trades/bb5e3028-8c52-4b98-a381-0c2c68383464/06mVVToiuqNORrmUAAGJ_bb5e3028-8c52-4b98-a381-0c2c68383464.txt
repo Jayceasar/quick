@@ -1,0 +1,9 @@
+User ID: 06mVVToiuqNORrmUAAGJ
+User Name: robot
+Ticket ID: 06mVVToiuqNORrmUAAGJ_bb5e3028-8c52-4b98-a381-0c2c68383464
+Total Bid Amount: 7400
+Total Earnings: 0
+Profit/Loss: -7400
+
+Breakdown:
+  Bid: 3, Amount: 7400, Payout: 37000, Status: lost

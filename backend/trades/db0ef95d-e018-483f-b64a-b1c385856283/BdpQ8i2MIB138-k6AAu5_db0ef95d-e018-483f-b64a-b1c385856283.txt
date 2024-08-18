@@ -1,0 +1,10 @@
+User ID: BdpQ8i2MIB138-k6AAu5
+User Name: robot
+Ticket ID: BdpQ8i2MIB138-k6AAu5_db0ef95d-e018-483f-b64a-b1c385856283
+Total Bid Amount: 9600
+Total Earnings: 0
+Profit/Loss: -9600
+
+Breakdown:
+  Bid: 1, Amount: 1100, Payout: 5500, Status: lost
+  Bid: 4, Amount: 8500, Payout: 42500, Status: lost

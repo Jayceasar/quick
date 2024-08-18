@@ -1,0 +1,10 @@
+User ID: timsiKYf8QoZbqVSAAbG
+User Name: robot
+Ticket ID: timsiKYf8QoZbqVSAAbG_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 16600
+Total Earnings: 0
+Profit/Loss: -16600
+
+Breakdown:
+  Bid: 5, Amount: 8700, Payout: 43500, Status: lost
+  Bid: 3, Amount: 7900, Payout: 39500, Status: lost

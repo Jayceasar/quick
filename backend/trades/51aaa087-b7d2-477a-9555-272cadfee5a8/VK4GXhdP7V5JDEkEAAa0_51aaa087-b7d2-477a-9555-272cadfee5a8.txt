@@ -1,0 +1,9 @@
+User ID: VK4GXhdP7V5JDEkEAAa0
+User Name: robot
+Ticket ID: VK4GXhdP7V5JDEkEAAa0_51aaa087-b7d2-477a-9555-272cadfee5a8
+Total Bid Amount: 6900
+Total Earnings: 0
+Profit/Loss: -6900
+
+Breakdown:
+  Bid: 2, Amount: 6900, Payout: 34500, Status: lost

@@ -1,0 +1,10 @@
+User ID: WBUhNroC5_Ceg3XhAAvb
+User Name: robot
+Ticket ID: WBUhNroC5_Ceg3XhAAvb_db0ef95d-e018-483f-b64a-b1c385856283
+Total Bid Amount: 16400
+Total Earnings: 49500
+Profit/Loss: 33100
+
+Breakdown:
+  Bid: 3, Amount: 9900, Payout: 49500, Status: won
+  Bid: 2, Amount: 6500, Payout: 32500, Status: lost

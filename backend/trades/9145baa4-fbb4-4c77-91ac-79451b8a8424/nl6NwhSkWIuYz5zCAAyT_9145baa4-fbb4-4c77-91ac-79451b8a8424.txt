@@ -1,0 +1,9 @@
+User ID: nl6NwhSkWIuYz5zCAAyT
+User Name: robot
+Ticket ID: nl6NwhSkWIuYz5zCAAyT_9145baa4-fbb4-4c77-91ac-79451b8a8424
+Total Bid Amount: 8300
+Total Earnings: 41500
+Profit/Loss: 33200
+
+Breakdown:
+  Bid: 2, Amount: 8300, Payout: 41500, Status: won

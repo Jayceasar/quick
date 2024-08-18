@@ -1,0 +1,9 @@
+User ID: 61QiivW1_oD8iAGeAAM8
+User Name: robot
+Ticket ID: 61QiivW1_oD8iAGeAAM8_6ccaeea3-75f3-4c47-90f7-0f988c85c9cb
+Total Bid Amount: 9000
+Total Earnings: 45000
+Profit/Loss: 36000
+
+Breakdown:
+  Bid: 3, Amount: 9000, Payout: 45000, Status: won

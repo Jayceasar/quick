@@ -1,0 +1,9 @@
+User ID: p57ngezDfKfEyLP7AAbw
+User Name: robot
+Ticket ID: p57ngezDfKfEyLP7AAbw_fdd1d695-454b-4933-9c35-12cc0df7ba3a
+Total Bid Amount: 5400
+Total Earnings: 0
+Profit/Loss: -5400
+
+Breakdown:
+  Bid: 5, Amount: 5400, Payout: 27000, Status: lost

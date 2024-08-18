@@ -1,0 +1,9 @@
+User ID: 5Vh_BAuPYLWFzp6iAA2t
+User Name: robot
+Ticket ID: 5Vh_BAuPYLWFzp6iAA2t_dba9e8d6-73ff-49a7-ad67-d06b048682eb
+Total Bid Amount: 8400
+Total Earnings: 42000
+Profit/Loss: 33600
+
+Breakdown:
+  Bid: 6, Amount: 8400, Payout: 42000, Status: won

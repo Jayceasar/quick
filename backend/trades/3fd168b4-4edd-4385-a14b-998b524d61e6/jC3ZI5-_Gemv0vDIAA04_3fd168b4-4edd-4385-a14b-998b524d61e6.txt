@@ -1,0 +1,9 @@
+User ID: jC3ZI5-_Gemv0vDIAA04
+User Name: robot
+Ticket ID: jC3ZI5-_Gemv0vDIAA04_3fd168b4-4edd-4385-a14b-998b524d61e6
+Total Bid Amount: 6400
+Total Earnings: 0
+Profit/Loss: -6400
+
+Breakdown:
+  Bid: 6, Amount: 6400, Payout: 32000, Status: lost

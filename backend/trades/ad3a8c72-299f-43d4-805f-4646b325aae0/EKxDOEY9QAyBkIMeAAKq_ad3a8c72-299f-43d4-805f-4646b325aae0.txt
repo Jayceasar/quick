@@ -1,0 +1,9 @@
+User ID: EKxDOEY9QAyBkIMeAAKq
+User Name: robot
+Ticket ID: EKxDOEY9QAyBkIMeAAKq_ad3a8c72-299f-43d4-805f-4646b325aae0
+Total Bid Amount: 6700
+Total Earnings: 0
+Profit/Loss: -6700
+
+Breakdown:
+  Bid: 6, Amount: 6700, Payout: 33500, Status: lost

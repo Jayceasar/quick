@@ -1,0 +1,9 @@
+User ID: I6PCPeTUidEmCfw1AAVy
+User Name: robot
+Ticket ID: I6PCPeTUidEmCfw1AAVy_e049edef-4ddb-46f3-8994-0da9502a3ab7
+Total Bid Amount: 4900
+Total Earnings: 0
+Profit/Loss: -4900
+
+Breakdown:
+  Bid: 6, Amount: 4900, Payout: 24500, Status: lost

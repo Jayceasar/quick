@@ -1,0 +1,9 @@
+User ID: sIpdMKufOvLpuWCgAAZ_
+User Name: robot
+Ticket ID: sIpdMKufOvLpuWCgAAZ__d78a1dd3-9473-4bed-b88b-5ef261988be4
+Total Bid Amount: 7500
+Total Earnings: 37500
+Profit/Loss: 30000
+
+Breakdown:
+  Bid: 4, Amount: 7500, Payout: 37500, Status: won

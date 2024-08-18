@@ -1,0 +1,9 @@
+User ID: ReyoaH-IcGjzPrkYAAmC
+User Name: robot
+Ticket ID: ReyoaH-IcGjzPrkYAAmC_9b72d720-b462-47ff-83f5-bf8ba0942dab
+Total Bid Amount: 6300
+Total Earnings: 0
+Profit/Loss: -6300
+
+Breakdown:
+  Bid: 4, Amount: 6300, Payout: 31500, Status: lost

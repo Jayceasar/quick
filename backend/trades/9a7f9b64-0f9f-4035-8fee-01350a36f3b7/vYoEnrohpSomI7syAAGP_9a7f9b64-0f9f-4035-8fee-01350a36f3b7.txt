@@ -1,0 +1,10 @@
+User ID: vYoEnrohpSomI7syAAGP
+User Name: robot
+Ticket ID: vYoEnrohpSomI7syAAGP_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 6200
+Total Earnings: 0
+Profit/Loss: -6200
+
+Breakdown:
+  Bid: 2, Amount: 2700, Payout: 13500, Status: lost
+  Bid: 3, Amount: 3500, Payout: 17500, Status: lost

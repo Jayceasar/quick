@@ -1,0 +1,9 @@
+User ID: gnHnYdhl2bH-NvzsAAhK
+User Name: robot
+Ticket ID: gnHnYdhl2bH-NvzsAAhK_5584dc10-136c-4075-8421-ae5476398969
+Total Bid Amount: 7900
+Total Earnings: 0
+Profit/Loss: -7900
+
+Breakdown:
+  Bid: 6, Amount: 7900, Payout: 39500, Status: lost

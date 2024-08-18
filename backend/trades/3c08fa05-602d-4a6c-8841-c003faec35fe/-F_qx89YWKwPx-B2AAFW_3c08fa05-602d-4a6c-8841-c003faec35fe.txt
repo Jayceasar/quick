@@ -1,0 +1,9 @@
+User ID: -F_qx89YWKwPx-B2AAFW
+User Name: robot
+Ticket ID: -F_qx89YWKwPx-B2AAFW_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 3600
+Total Earnings: 18000
+Profit/Loss: 14400
+
+Breakdown:
+  Bid: 5, Amount: 3600, Payout: 18000, Status: won

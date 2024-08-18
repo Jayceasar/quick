@@ -1,0 +1,9 @@
+User ID: x6HoMOTTiriFiS2_AAi0
+User Name: robot
+Ticket ID: x6HoMOTTiriFiS2_AAi0_7f98a070-8bf4-4a36-ac88-f1a4a7102cc1
+Total Bid Amount: 8000
+Total Earnings: 0
+Profit/Loss: -8000
+
+Breakdown:
+  Bid: 2, Amount: 8000, Payout: 40000, Status: lost

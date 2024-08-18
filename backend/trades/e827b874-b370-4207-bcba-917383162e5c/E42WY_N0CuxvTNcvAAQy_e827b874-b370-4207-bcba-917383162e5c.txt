@@ -1,0 +1,9 @@
+User ID: E42WY_N0CuxvTNcvAAQy
+User Name: robot
+Ticket ID: E42WY_N0CuxvTNcvAAQy_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 6500
+Total Earnings: 32500
+Profit/Loss: 26000
+
+Breakdown:
+  Bid: 2, Amount: 6500, Payout: 32500, Status: won

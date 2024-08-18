@@ -1,0 +1,9 @@
+User ID: vtoTa63lpGq3IlmeAAJF
+User Name: robot
+Ticket ID: vtoTa63lpGq3IlmeAAJF_62b03c19-c2ac-4766-913d-1d50e3d473a4
+Total Bid Amount: 7600
+Total Earnings: 38000
+Profit/Loss: 30400
+
+Breakdown:
+  Bid: 2, Amount: 7600, Payout: 38000, Status: won

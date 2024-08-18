@@ -1,0 +1,10 @@
+User ID: PY1H8NgFSsrV5iTpAAAo
+User Name: test
+Ticket ID: PY1H8NgFSsrV5iTpAAAo_b356fa1e-390c-41c7-bd5e-5690059777d4
+Total Bid Amount: 200
+Total Earnings: 0
+Profit/Loss: -200
+
+Breakdown:
+  Bid: 5, Amount: 100, Payout: 500, Status: lost
+  Bid: 5, Amount: 100, Payout: 500, Status: lost

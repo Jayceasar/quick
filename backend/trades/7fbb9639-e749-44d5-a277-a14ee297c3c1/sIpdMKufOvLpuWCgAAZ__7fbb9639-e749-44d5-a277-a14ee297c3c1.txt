@@ -1,0 +1,9 @@
+User ID: sIpdMKufOvLpuWCgAAZ_
+User Name: robot
+Ticket ID: sIpdMKufOvLpuWCgAAZ__7fbb9639-e749-44d5-a277-a14ee297c3c1
+Total Bid Amount: 4600
+Total Earnings: 0
+Profit/Loss: -4600
+
+Breakdown:
+  Bid: 5, Amount: 4600, Payout: 23000, Status: lost

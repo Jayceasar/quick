@@ -1,0 +1,10 @@
+User ID: OM-gYmreWeTqZFFaAAIV
+User Name: robot
+Ticket ID: OM-gYmreWeTqZFFaAAIV_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 11200
+Total Earnings: 0
+Profit/Loss: -11200
+
+Breakdown:
+  Bid: 1, Amount: 2300, Payout: 11500, Status: lost
+  Bid: 5, Amount: 8900, Payout: 44500, Status: lost

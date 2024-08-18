@@ -1,0 +1,9 @@
+User ID: VxLrrtBhMQl0ei97AAhe
+User Name: robot
+Ticket ID: VxLrrtBhMQl0ei97AAhe_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 8900
+Total Earnings: 44500
+Profit/Loss: 35600
+
+Breakdown:
+  Bid: 3, Amount: 8900, Payout: 44500, Status: won

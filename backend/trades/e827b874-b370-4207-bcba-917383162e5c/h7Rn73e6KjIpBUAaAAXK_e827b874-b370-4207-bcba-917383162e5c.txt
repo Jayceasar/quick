@@ -1,0 +1,10 @@
+User ID: h7Rn73e6KjIpBUAaAAXK
+User Name: robot
+Ticket ID: h7Rn73e6KjIpBUAaAAXK_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 18300
+Total Earnings: 45000
+Profit/Loss: 26700
+
+Breakdown:
+  Bid: 5, Amount: 9300, Payout: 46500, Status: lost
+  Bid: 2, Amount: 9000, Payout: 45000, Status: won

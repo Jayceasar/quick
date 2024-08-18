@@ -1,0 +1,10 @@
+User ID: hMuuKwZdRMbCgc9xAAmf
+User Name: robot
+Ticket ID: hMuuKwZdRMbCgc9xAAmf_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 7500
+Total Earnings: 0
+Profit/Loss: -7500
+
+Breakdown:
+  Bid: 2, Amount: 6300, Payout: 31500, Status: lost
+  Bid: 6, Amount: 1200, Payout: 6000, Status: lost

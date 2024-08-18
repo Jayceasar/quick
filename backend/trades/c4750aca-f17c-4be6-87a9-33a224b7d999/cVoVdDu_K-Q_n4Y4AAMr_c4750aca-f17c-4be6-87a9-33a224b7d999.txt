@@ -1,0 +1,9 @@
+User ID: cVoVdDu_K-Q_n4Y4AAMr
+User Name: robot
+Ticket ID: cVoVdDu_K-Q_n4Y4AAMr_c4750aca-f17c-4be6-87a9-33a224b7d999
+Total Bid Amount: 1900
+Total Earnings: 0
+Profit/Loss: -1900
+
+Breakdown:
+  Bid: 1, Amount: 1900, Payout: 9500, Status: lost

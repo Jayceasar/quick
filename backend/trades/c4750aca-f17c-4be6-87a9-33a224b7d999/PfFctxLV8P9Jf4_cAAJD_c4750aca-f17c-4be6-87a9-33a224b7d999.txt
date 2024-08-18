@@ -1,0 +1,9 @@
+User ID: PfFctxLV8P9Jf4_cAAJD
+User Name: robot
+Ticket ID: PfFctxLV8P9Jf4_cAAJD_c4750aca-f17c-4be6-87a9-33a224b7d999
+Total Bid Amount: 7900
+Total Earnings: 0
+Profit/Loss: -7900
+
+Breakdown:
+  Bid: 1, Amount: 7900, Payout: 39500, Status: lost

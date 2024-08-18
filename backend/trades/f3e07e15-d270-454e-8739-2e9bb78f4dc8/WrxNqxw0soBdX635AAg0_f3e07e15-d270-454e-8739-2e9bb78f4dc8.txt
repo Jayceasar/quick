@@ -1,0 +1,9 @@
+User ID: WrxNqxw0soBdX635AAg0
+User Name: robot
+Ticket ID: WrxNqxw0soBdX635AAg0_f3e07e15-d270-454e-8739-2e9bb78f4dc8
+Total Bid Amount: 3500
+Total Earnings: 0
+Profit/Loss: -3500
+
+Breakdown:
+  Bid: 6, Amount: 3500, Payout: 17500, Status: lost

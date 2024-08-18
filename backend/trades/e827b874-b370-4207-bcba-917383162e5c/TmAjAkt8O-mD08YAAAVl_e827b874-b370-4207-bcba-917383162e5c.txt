@@ -1,0 +1,10 @@
+User ID: TmAjAkt8O-mD08YAAAVl
+User Name: robot
+Ticket ID: TmAjAkt8O-mD08YAAAVl_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 14000
+Total Earnings: 0
+Profit/Loss: -14000
+
+Breakdown:
+  Bid: 1, Amount: 4700, Payout: 23500, Status: lost
+  Bid: 3, Amount: 9300, Payout: 46500, Status: lost

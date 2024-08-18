@@ -1,0 +1,9 @@
+User ID: pfzl4JV38GQbcQIqAA1I
+User Name: robot
+Ticket ID: pfzl4JV38GQbcQIqAA1I_3fd168b4-4edd-4385-a14b-998b524d61e6
+Total Bid Amount: 2700
+Total Earnings: 0
+Profit/Loss: -2700
+
+Breakdown:
+  Bid: 1, Amount: 2700, Payout: 13500, Status: lost

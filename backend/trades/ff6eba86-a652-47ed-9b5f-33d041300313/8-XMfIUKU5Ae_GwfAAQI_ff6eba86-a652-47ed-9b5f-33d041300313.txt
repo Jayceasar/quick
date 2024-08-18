@@ -1,0 +1,9 @@
+User ID: 8-XMfIUKU5Ae_GwfAAQI
+User Name: robot
+Ticket ID: 8-XMfIUKU5Ae_GwfAAQI_ff6eba86-a652-47ed-9b5f-33d041300313
+Total Bid Amount: 3000
+Total Earnings: 0
+Profit/Loss: -3000
+
+Breakdown:
+  Bid: 3, Amount: 3000, Payout: 15000, Status: lost

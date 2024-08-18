@@ -1,0 +1,9 @@
+User ID: 7K0l4eTu5HBesa_PAA0m
+User Name: robot
+Ticket ID: 7K0l4eTu5HBesa_PAA0m_2d9a9f59-c595-4e27-8c52-d1c69e966bd8
+Total Bid Amount: 2900
+Total Earnings: 0
+Profit/Loss: -2900
+
+Breakdown:
+  Bid: 1, Amount: 2900, Payout: 14500, Status: lost

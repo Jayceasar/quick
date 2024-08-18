@@ -1,0 +1,9 @@
+User ID: v8BHXQrLK3vyWqDjAAa6
+User Name: robot
+Ticket ID: v8BHXQrLK3vyWqDjAAa6_7fbb9639-e749-44d5-a277-a14ee297c3c1
+Total Bid Amount: 100
+Total Earnings: 0
+Profit/Loss: -100
+
+Breakdown:
+  Bid: 3, Amount: 100, Payout: 500, Status: lost

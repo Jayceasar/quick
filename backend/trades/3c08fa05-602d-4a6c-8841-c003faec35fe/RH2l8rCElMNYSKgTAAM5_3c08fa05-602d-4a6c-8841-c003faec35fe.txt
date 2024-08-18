@@ -1,0 +1,10 @@
+User ID: RH2l8rCElMNYSKgTAAM5
+User Name: robot
+Ticket ID: RH2l8rCElMNYSKgTAAM5_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 3600
+Total Earnings: 11500
+Profit/Loss: 7900
+
+Breakdown:
+  Bid: 5, Amount: 2300, Payout: 11500, Status: won
+  Bid: 2, Amount: 1300, Payout: 6500, Status: lost

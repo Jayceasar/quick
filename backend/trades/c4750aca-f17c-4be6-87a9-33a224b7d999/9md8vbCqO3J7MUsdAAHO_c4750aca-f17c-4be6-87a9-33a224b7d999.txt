@@ -1,0 +1,9 @@
+User ID: 9md8vbCqO3J7MUsdAAHO
+User Name: robot
+Ticket ID: 9md8vbCqO3J7MUsdAAHO_c4750aca-f17c-4be6-87a9-33a224b7d999
+Total Bid Amount: 7000
+Total Earnings: 0
+Profit/Loss: -7000
+
+Breakdown:
+  Bid: 1, Amount: 7000, Payout: 35000, Status: lost

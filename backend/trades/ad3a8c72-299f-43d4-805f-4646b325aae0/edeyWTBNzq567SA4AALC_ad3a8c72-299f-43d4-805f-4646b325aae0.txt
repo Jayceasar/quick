@@ -1,0 +1,9 @@
+User ID: edeyWTBNzq567SA4AALC
+User Name: robot
+Ticket ID: edeyWTBNzq567SA4AALC_ad3a8c72-299f-43d4-805f-4646b325aae0
+Total Bid Amount: 9600
+Total Earnings: 0
+Profit/Loss: -9600
+
+Breakdown:
+  Bid: 2, Amount: 9600, Payout: 48000, Status: lost

@@ -1,0 +1,9 @@
+User ID: PXB0OaT8m4-ju2B8AAjX
+User Name: robot
+Ticket ID: PXB0OaT8m4-ju2B8AAjX_7edcaff6-689d-4d3c-9b04-4e875243c108
+Total Bid Amount: 4800
+Total Earnings: 0
+Profit/Loss: -4800
+
+Breakdown:
+  Bid: 5, Amount: 4800, Payout: 24000, Status: lost

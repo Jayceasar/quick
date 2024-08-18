@@ -1,0 +1,9 @@
+User ID: Sj7C9MCRKNi_F47IAAmE
+User Name: robot
+Ticket ID: Sj7C9MCRKNi_F47IAAmE_9b72d720-b462-47ff-83f5-bf8ba0942dab
+Total Bid Amount: 5900
+Total Earnings: 0
+Profit/Loss: -5900
+
+Breakdown:
+  Bid: 4, Amount: 5900, Payout: 29500, Status: lost

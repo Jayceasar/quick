@@ -1,0 +1,9 @@
+User ID: 5TBKYJ2KKY3y8LH5AA2U
+User Name: robot
+Ticket ID: 5TBKYJ2KKY3y8LH5AA2U_73f2641e-7291-48d5-bf09-a4c52f9004e1
+Total Bid Amount: 1500
+Total Earnings: 0
+Profit/Loss: -1500
+
+Breakdown:
+  Bid: 5, Amount: 1500, Payout: 7500, Status: lost

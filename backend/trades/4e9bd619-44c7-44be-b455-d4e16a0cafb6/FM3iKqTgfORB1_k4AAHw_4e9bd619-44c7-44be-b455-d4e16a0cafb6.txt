@@ -1,0 +1,10 @@
+User ID: FM3iKqTgfORB1_k4AAHw
+User Name: robot
+Ticket ID: FM3iKqTgfORB1_k4AAHw_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 16100
+Total Earnings: 0
+Profit/Loss: -16100
+
+Breakdown:
+  Bid: 3, Amount: 8700, Payout: 43500, Status: lost
+  Bid: 1, Amount: 7400, Payout: 37000, Status: lost

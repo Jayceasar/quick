@@ -1,0 +1,9 @@
+User ID: 8thUwsSbKu1SYjG_AAG2
+User Name: robot
+Ticket ID: 8thUwsSbKu1SYjG_AAG2_62b03c19-c2ac-4766-913d-1d50e3d473a4
+Total Bid Amount: 7900
+Total Earnings: 0
+Profit/Loss: -7900
+
+Breakdown:
+  Bid: 3, Amount: 7900, Payout: 39500, Status: lost

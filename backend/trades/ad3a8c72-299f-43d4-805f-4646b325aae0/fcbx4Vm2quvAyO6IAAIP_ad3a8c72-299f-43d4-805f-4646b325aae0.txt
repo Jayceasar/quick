@@ -1,0 +1,9 @@
+User ID: fcbx4Vm2quvAyO6IAAIP
+User Name: robot
+Ticket ID: fcbx4Vm2quvAyO6IAAIP_ad3a8c72-299f-43d4-805f-4646b325aae0
+Total Bid Amount: 6800
+Total Earnings: 0
+Profit/Loss: -6800
+
+Breakdown:
+  Bid: 2, Amount: 6800, Payout: 34000, Status: lost

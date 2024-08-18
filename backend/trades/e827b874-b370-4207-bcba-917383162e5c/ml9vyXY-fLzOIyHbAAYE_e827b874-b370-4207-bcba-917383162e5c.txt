@@ -1,0 +1,10 @@
+User ID: ml9vyXY-fLzOIyHbAAYE
+User Name: robot
+Ticket ID: ml9vyXY-fLzOIyHbAAYE_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 9700
+Total Earnings: 0
+Profit/Loss: -9700
+
+Breakdown:
+  Bid: 3, Amount: 2000, Payout: 10000, Status: lost
+  Bid: 4, Amount: 7700, Payout: 38500, Status: lost

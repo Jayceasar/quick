@@ -1,0 +1,9 @@
+User ID: nHvahdYl_I_FriXvAAGz
+User Name: robot
+Ticket ID: nHvahdYl_I_FriXvAAGz_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 1600
+Total Earnings: 0
+Profit/Loss: -1600
+
+Breakdown:
+  Bid: 1, Amount: 1600, Payout: 8000, Status: lost

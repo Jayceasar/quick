@@ -1,0 +1,9 @@
+User ID: R8OAE_RAHCZKrcQrAAaG
+User Name: robot
+Ticket ID: R8OAE_RAHCZKrcQrAAaG_1ec01398-941f-4051-b478-12bf2e82e9cd
+Total Bid Amount: 7900
+Total Earnings: 0
+Profit/Loss: -7900
+
+Breakdown:
+  Bid: 1, Amount: 7900, Payout: 39500, Status: lost

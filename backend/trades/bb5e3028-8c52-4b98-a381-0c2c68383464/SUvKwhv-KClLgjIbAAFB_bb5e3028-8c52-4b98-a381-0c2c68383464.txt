@@ -1,0 +1,9 @@
+User ID: SUvKwhv-KClLgjIbAAFB
+User Name: robot
+Ticket ID: SUvKwhv-KClLgjIbAAFB_bb5e3028-8c52-4b98-a381-0c2c68383464
+Total Bid Amount: 2000
+Total Earnings: 0
+Profit/Loss: -2000
+
+Breakdown:
+  Bid: 2, Amount: 2000, Payout: 10000, Status: lost

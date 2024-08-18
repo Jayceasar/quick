@@ -1,0 +1,10 @@
+User ID: S66wmTQkcdLJMES4AAGA
+User Name: robot
+Ticket ID: S66wmTQkcdLJMES4AAGA_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 16500
+Total Earnings: 0
+Profit/Loss: -16500
+
+Breakdown:
+  Bid: 1, Amount: 6800, Payout: 34000, Status: lost
+  Bid: 6, Amount: 9700, Payout: 48500, Status: lost

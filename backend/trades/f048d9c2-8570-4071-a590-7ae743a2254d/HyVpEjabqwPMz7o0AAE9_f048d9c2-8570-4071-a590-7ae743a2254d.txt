@@ -1,0 +1,9 @@
+User ID: HyVpEjabqwPMz7o0AAE9
+User Name: robot
+Ticket ID: HyVpEjabqwPMz7o0AAE9_f048d9c2-8570-4071-a590-7ae743a2254d
+Total Bid Amount: 7100
+Total Earnings: 0
+Profit/Loss: -7100
+
+Breakdown:
+  Bid: 6, Amount: 7100, Payout: 35500, Status: lost

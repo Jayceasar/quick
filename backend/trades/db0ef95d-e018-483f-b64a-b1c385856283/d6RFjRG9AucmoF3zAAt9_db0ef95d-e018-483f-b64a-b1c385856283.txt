@@ -1,0 +1,10 @@
+User ID: d6RFjRG9AucmoF3zAAt9
+User Name: robot
+Ticket ID: d6RFjRG9AucmoF3zAAt9_db0ef95d-e018-483f-b64a-b1c385856283
+Total Bid Amount: 500
+Total Earnings: 2500
+Profit/Loss: 2000
+
+Breakdown:
+  Bid: 3, Amount: 300, Payout: 1500, Status: won
+  Bid: 3, Amount: 200, Payout: 1000, Status: won

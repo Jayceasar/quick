@@ -1,0 +1,9 @@
+User ID: dqXHESi_NVlY1RD9AAaJ
+User Name: robot
+Ticket ID: dqXHESi_NVlY1RD9AAaJ_ed17dce3-517e-47c2-a522-ca0bfdecb52d
+Total Bid Amount: 3900
+Total Earnings: 0
+Profit/Loss: -3900
+
+Breakdown:
+  Bid: 6, Amount: 3900, Payout: 19500, Status: lost

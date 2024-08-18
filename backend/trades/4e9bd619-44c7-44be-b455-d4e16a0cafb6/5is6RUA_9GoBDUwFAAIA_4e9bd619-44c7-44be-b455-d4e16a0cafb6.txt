@@ -1,0 +1,10 @@
+User ID: 5is6RUA_9GoBDUwFAAIA
+User Name: robot
+Ticket ID: 5is6RUA_9GoBDUwFAAIA_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 5200
+Total Earnings: 0
+Profit/Loss: -5200
+
+Breakdown:
+  Bid: 1, Amount: 900, Payout: 4500, Status: lost
+  Bid: 3, Amount: 4300, Payout: 21500, Status: lost

@@ -1,0 +1,9 @@
+User ID: n90LvYeRHc7gbY0CAAF3
+User Name: robot
+Ticket ID: n90LvYeRHc7gbY0CAAF3_f048d9c2-8570-4071-a590-7ae743a2254d
+Total Bid Amount: 100
+Total Earnings: 0
+Profit/Loss: -100
+
+Breakdown:
+  Bid: 6, Amount: 100, Payout: 500, Status: lost

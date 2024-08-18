@@ -1,0 +1,9 @@
+User ID: v0_Wg7iZAdrKlgfuAAMP
+User Name: robot
+Ticket ID: v0_Wg7iZAdrKlgfuAAMP_3a3c9f6e-ea4d-4148-934a-d93cf7174bd3
+Total Bid Amount: 3000
+Total Earnings: 15000
+Profit/Loss: 12000
+
+Breakdown:
+  Bid: 4, Amount: 3000, Payout: 15000, Status: won

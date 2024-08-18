@@ -1,0 +1,10 @@
+User ID: aqZwi1s_neSIGzglAAQz
+User Name: robot
+Ticket ID: aqZwi1s_neSIGzglAAQz_6d2f5a00-8975-46ac-9313-eaee03859331
+Total Bid Amount: 7700
+Total Earnings: 0
+Profit/Loss: -7700
+
+Breakdown:
+  Bid: 4, Amount: 4300, Payout: 21500, Status: lost
+  Bid: 1, Amount: 3400, Payout: 17000, Status: lost

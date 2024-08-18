@@ -1,0 +1,9 @@
+User ID: MA5VS4lRWvYhiV9RAAMp
+User Name: robot
+Ticket ID: MA5VS4lRWvYhiV9RAAMp_37c5d6ff-88c8-4fb6-a9db-bee3fcec589b
+Total Bid Amount: 5100
+Total Earnings: 0
+Profit/Loss: -5100
+
+Breakdown:
+  Bid: 5, Amount: 5100, Payout: 25500, Status: lost

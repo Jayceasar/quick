@@ -1,0 +1,9 @@
+User ID: leMij_6qRjqtlBvzAAUY
+User Name: robot
+Ticket ID: leMij_6qRjqtlBvzAAUY_fdd1d695-454b-4933-9c35-12cc0df7ba3a
+Total Bid Amount: 5100
+Total Earnings: 0
+Profit/Loss: -5100
+
+Breakdown:
+  Bid: 1, Amount: 5100, Payout: 25500, Status: lost

@@ -1,0 +1,10 @@
+User ID: Z3gU4ldIl31iPJB0AAWq
+User Name: robot
+Ticket ID: Z3gU4ldIl31iPJB0AAWq_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 12600
+Total Earnings: 0
+Profit/Loss: -12600
+
+Breakdown:
+  Bid: 3, Amount: 6200, Payout: 31000, Status: lost
+  Bid: 4, Amount: 6400, Payout: 32000, Status: lost

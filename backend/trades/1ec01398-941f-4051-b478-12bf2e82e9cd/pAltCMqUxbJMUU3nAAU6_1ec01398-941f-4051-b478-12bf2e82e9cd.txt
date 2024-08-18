@@ -1,0 +1,9 @@
+User ID: pAltCMqUxbJMUU3nAAU6
+User Name: robot
+Ticket ID: pAltCMqUxbJMUU3nAAU6_1ec01398-941f-4051-b478-12bf2e82e9cd
+Total Bid Amount: 6200
+Total Earnings: 0
+Profit/Loss: -6200
+
+Breakdown:
+  Bid: 4, Amount: 6200, Payout: 31000, Status: lost

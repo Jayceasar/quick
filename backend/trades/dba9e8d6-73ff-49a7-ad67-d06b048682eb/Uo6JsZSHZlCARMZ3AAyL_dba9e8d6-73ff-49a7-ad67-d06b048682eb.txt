@@ -1,0 +1,9 @@
+User ID: Uo6JsZSHZlCARMZ3AAyL
+User Name: robot
+Ticket ID: Uo6JsZSHZlCARMZ3AAyL_dba9e8d6-73ff-49a7-ad67-d06b048682eb
+Total Bid Amount: 5500
+Total Earnings: 0
+Profit/Loss: -5500
+
+Breakdown:
+  Bid: 3, Amount: 5500, Payout: 27500, Status: lost

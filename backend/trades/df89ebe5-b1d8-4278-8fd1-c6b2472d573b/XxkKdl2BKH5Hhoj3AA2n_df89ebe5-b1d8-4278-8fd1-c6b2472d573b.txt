@@ -1,0 +1,9 @@
+User ID: XxkKdl2BKH5Hhoj3AA2n
+User Name: robot
+Ticket ID: XxkKdl2BKH5Hhoj3AA2n_df89ebe5-b1d8-4278-8fd1-c6b2472d573b
+Total Bid Amount: 8700
+Total Earnings: 0
+Profit/Loss: -8700
+
+Breakdown:
+  Bid: 5, Amount: 8700, Payout: 43500, Status: lost

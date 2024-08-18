@@ -1,0 +1,9 @@
+User ID: AawAIUXXl4VmCpv6AAhy
+User Name: robot
+Ticket ID: AawAIUXXl4VmCpv6AAhy_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 1500
+Total Earnings: 0
+Profit/Loss: -1500
+
+Breakdown:
+  Bid: 6, Amount: 1500, Payout: 7500, Status: lost

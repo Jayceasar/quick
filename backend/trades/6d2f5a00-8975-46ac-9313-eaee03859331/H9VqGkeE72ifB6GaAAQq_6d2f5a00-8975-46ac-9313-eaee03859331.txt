@@ -1,0 +1,10 @@
+User ID: H9VqGkeE72ifB6GaAAQq
+User Name: robot
+Ticket ID: H9VqGkeE72ifB6GaAAQq_6d2f5a00-8975-46ac-9313-eaee03859331
+Total Bid Amount: 16700
+Total Earnings: 0
+Profit/Loss: -16700
+
+Breakdown:
+  Bid: 6, Amount: 9600, Payout: 48000, Status: lost
+  Bid: 3, Amount: 7100, Payout: 35500, Status: lost

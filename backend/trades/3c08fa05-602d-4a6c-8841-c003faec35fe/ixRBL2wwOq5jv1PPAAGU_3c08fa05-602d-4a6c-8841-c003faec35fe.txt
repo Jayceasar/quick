@@ -1,0 +1,9 @@
+User ID: ixRBL2wwOq5jv1PPAAGU
+User Name: robot
+Ticket ID: ixRBL2wwOq5jv1PPAAGU_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 1700
+Total Earnings: 8500
+Profit/Loss: 6800
+
+Breakdown:
+  Bid: 5, Amount: 1700, Payout: 8500, Status: won

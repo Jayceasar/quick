@@ -1,0 +1,9 @@
+User ID: SB1JYR7AFC_pqptEAAiz
+User Name: robot
+Ticket ID: SB1JYR7AFC_pqptEAAiz_5584dc10-136c-4075-8421-ae5476398969
+Total Bid Amount: 300
+Total Earnings: 1500
+Profit/Loss: 1200
+
+Breakdown:
+  Bid: 2, Amount: 300, Payout: 1500, Status: won

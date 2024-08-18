@@ -1,0 +1,9 @@
+User ID: UOBLpINVTubd7_y0AAKd
+User Name: robot
+Ticket ID: UOBLpINVTubd7_y0AAKd_3750ca25-a9f1-4278-85de-ccbff503fd45
+Total Bid Amount: 7600
+Total Earnings: 38000
+Profit/Loss: 30400
+
+Breakdown:
+  Bid: 6, Amount: 7600, Payout: 38000, Status: won

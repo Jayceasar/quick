@@ -1,0 +1,9 @@
+User ID: jo8V_5BwLQni2MAIAAIx
+User Name: robot
+Ticket ID: jo8V_5BwLQni2MAIAAIx_f048d9c2-8570-4071-a590-7ae743a2254d
+Total Bid Amount: 6700
+Total Earnings: 0
+Profit/Loss: -6700
+
+Breakdown:
+  Bid: 6, Amount: 6700, Payout: 33500, Status: lost

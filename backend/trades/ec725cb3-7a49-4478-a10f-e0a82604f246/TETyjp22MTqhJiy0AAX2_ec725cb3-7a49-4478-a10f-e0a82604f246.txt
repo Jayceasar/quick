@@ -1,0 +1,9 @@
+User ID: TETyjp22MTqhJiy0AAX2
+User Name: robot
+Ticket ID: TETyjp22MTqhJiy0AAX2_ec725cb3-7a49-4478-a10f-e0a82604f246
+Total Bid Amount: 9800
+Total Earnings: 0
+Profit/Loss: -9800
+
+Breakdown:
+  Bid: 6, Amount: 9800, Payout: 49000, Status: lost

@@ -1,0 +1,10 @@
+User ID: erKAsmv0IaTbIaZ3AAII
+User Name: robot
+Ticket ID: erKAsmv0IaTbIaZ3AAII_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 11200
+Total Earnings: 0
+Profit/Loss: -11200
+
+Breakdown:
+  Bid: 5, Amount: 8200, Payout: 41000, Status: lost
+  Bid: 3, Amount: 3000, Payout: 15000, Status: lost

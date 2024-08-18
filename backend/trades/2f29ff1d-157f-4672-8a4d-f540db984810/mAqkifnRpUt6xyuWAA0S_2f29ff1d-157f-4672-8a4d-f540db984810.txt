@@ -1,0 +1,9 @@
+User ID: mAqkifnRpUt6xyuWAA0S
+User Name: robot
+Ticket ID: mAqkifnRpUt6xyuWAA0S_2f29ff1d-157f-4672-8a4d-f540db984810
+Total Bid Amount: 7200
+Total Earnings: 0
+Profit/Loss: -7200
+
+Breakdown:
+  Bid: 4, Amount: 7200, Payout: 36000, Status: lost

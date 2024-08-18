@@ -1,0 +1,10 @@
+User ID: rIE0GP_BvgJehYO-AAE2
+User Name: robot
+Ticket ID: rIE0GP_BvgJehYO-AAE2_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 5300
+Total Earnings: 4500
+Profit/Loss: -800
+
+Breakdown:
+  Bid: 4, Amount: 4400, Payout: 22000, Status: lost
+  Bid: 6, Amount: 900, Payout: 4500, Status: won

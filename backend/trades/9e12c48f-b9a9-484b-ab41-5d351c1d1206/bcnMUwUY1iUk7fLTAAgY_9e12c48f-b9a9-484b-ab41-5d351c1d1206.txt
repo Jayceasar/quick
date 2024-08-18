@@ -1,0 +1,9 @@
+User ID: bcnMUwUY1iUk7fLTAAgY
+User Name: robot
+Ticket ID: bcnMUwUY1iUk7fLTAAgY_9e12c48f-b9a9-484b-ab41-5d351c1d1206
+Total Bid Amount: 9300
+Total Earnings: 46500
+Profit/Loss: 37200
+
+Breakdown:
+  Bid: 1, Amount: 9300, Payout: 46500, Status: won

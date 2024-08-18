@@ -1,0 +1,10 @@
+User ID: xBgrALvUsEPAK_8gAAGd
+User Name: robot
+Ticket ID: xBgrALvUsEPAK_8gAAGd_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 13600
+Total Earnings: 0
+Profit/Loss: -13600
+
+Breakdown:
+  Bid: 5, Amount: 6900, Payout: 34500, Status: lost
+  Bid: 5, Amount: 6700, Payout: 33500, Status: lost

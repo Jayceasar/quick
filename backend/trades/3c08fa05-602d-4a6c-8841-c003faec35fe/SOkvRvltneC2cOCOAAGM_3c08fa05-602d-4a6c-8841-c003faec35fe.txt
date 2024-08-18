@@ -1,0 +1,9 @@
+User ID: SOkvRvltneC2cOCOAAGM
+User Name: robot
+Ticket ID: SOkvRvltneC2cOCOAAGM_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 9100
+Total Earnings: 0
+Profit/Loss: -9100
+
+Breakdown:
+  Bid: 1, Amount: 9100, Payout: 45500, Status: lost

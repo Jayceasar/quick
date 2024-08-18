@@ -1,0 +1,9 @@
+User ID: mAcBLJnt41jpsAhYAA1T
+User Name: robot
+Ticket ID: mAcBLJnt41jpsAhYAA1T_2f29ff1d-157f-4672-8a4d-f540db984810
+Total Bid Amount: 7500
+Total Earnings: 37500
+Profit/Loss: 30000
+
+Breakdown:
+  Bid: 1, Amount: 7500, Payout: 37500, Status: won

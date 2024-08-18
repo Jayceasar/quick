@@ -1,0 +1,9 @@
+User ID: lD_O7Nyw-Bn-rQCdAAtT
+User Name: robot
+Ticket ID: lD_O7Nyw-Bn-rQCdAAtT_db0ef95d-e018-483f-b64a-b1c385856283
+Total Bid Amount: 8500
+Total Earnings: 0
+Profit/Loss: -8500
+
+Breakdown:
+  Bid: 4, Amount: 8500, Payout: 42500, Status: lost

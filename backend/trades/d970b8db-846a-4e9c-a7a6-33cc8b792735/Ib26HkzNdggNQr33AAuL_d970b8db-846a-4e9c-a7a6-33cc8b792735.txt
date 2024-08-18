@@ -1,0 +1,10 @@
+User ID: Ib26HkzNdggNQr33AAuL
+User Name: robot
+Ticket ID: Ib26HkzNdggNQr33AAuL_d970b8db-846a-4e9c-a7a6-33cc8b792735
+Total Bid Amount: 14000
+Total Earnings: 47500
+Profit/Loss: 33500
+
+Breakdown:
+  Bid: 1, Amount: 4500, Payout: 22500, Status: lost
+  Bid: 3, Amount: 9500, Payout: 47500, Status: won

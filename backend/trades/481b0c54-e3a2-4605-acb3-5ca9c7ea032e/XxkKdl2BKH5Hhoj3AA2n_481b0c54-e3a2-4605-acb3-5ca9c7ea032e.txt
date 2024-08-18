@@ -1,0 +1,9 @@
+User ID: XxkKdl2BKH5Hhoj3AA2n
+User Name: robot
+Ticket ID: XxkKdl2BKH5Hhoj3AA2n_481b0c54-e3a2-4605-acb3-5ca9c7ea032e
+Total Bid Amount: 4300
+Total Earnings: 21500
+Profit/Loss: 17200
+
+Breakdown:
+  Bid: 2, Amount: 4300, Payout: 21500, Status: won

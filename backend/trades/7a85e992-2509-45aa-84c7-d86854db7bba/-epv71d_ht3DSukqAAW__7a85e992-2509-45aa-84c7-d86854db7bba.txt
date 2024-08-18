@@ -1,0 +1,9 @@
+User ID: -epv71d_ht3DSukqAAW_
+User Name: robot
+Ticket ID: -epv71d_ht3DSukqAAW__7a85e992-2509-45aa-84c7-d86854db7bba
+Total Bid Amount: 2400
+Total Earnings: 0
+Profit/Loss: -2400
+
+Breakdown:
+  Bid: 1, Amount: 2400, Payout: 12000, Status: lost

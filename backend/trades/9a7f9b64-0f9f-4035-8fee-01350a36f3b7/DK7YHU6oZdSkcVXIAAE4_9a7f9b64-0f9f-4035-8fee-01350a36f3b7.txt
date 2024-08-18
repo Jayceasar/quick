@@ -1,0 +1,10 @@
+User ID: DK7YHU6oZdSkcVXIAAE4
+User Name: robot
+Ticket ID: DK7YHU6oZdSkcVXIAAE4_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 8600
+Total Earnings: 21000
+Profit/Loss: 12400
+
+Breakdown:
+  Bid: 4, Amount: 4400, Payout: 22000, Status: lost
+  Bid: 6, Amount: 4200, Payout: 21000, Status: won

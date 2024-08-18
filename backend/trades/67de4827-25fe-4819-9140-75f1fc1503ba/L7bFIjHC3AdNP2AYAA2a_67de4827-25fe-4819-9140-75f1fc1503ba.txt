@@ -1,0 +1,10 @@
+User ID: L7bFIjHC3AdNP2AYAA2a
+User Name: robot
+Ticket ID: L7bFIjHC3AdNP2AYAA2a_67de4827-25fe-4819-9140-75f1fc1503ba
+Total Bid Amount: 10500
+Total Earnings: 0
+Profit/Loss: -10500
+
+Breakdown:
+  Bid: 2, Amount: 1200, Payout: 6000, Status: lost
+  Bid: 6, Amount: 9300, Payout: 46500, Status: lost

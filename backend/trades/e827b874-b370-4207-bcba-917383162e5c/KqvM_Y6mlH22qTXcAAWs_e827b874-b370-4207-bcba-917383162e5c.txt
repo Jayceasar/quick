@@ -1,0 +1,10 @@
+User ID: KqvM_Y6mlH22qTXcAAWs
+User Name: robot
+Ticket ID: KqvM_Y6mlH22qTXcAAWs_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 17300
+Total Earnings: 39000
+Profit/Loss: 21700
+
+Breakdown:
+  Bid: 4, Amount: 9500, Payout: 47500, Status: lost
+  Bid: 2, Amount: 7800, Payout: 39000, Status: won

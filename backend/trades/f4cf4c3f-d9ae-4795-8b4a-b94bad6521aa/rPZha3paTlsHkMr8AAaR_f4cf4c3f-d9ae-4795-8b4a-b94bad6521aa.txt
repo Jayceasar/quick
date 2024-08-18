@@ -1,0 +1,9 @@
+User ID: rPZha3paTlsHkMr8AAaR
+User Name: robot
+Ticket ID: rPZha3paTlsHkMr8AAaR_f4cf4c3f-d9ae-4795-8b4a-b94bad6521aa
+Total Bid Amount: 4100
+Total Earnings: 0
+Profit/Loss: -4100
+
+Breakdown:
+  Bid: 4, Amount: 4100, Payout: 20500, Status: lost

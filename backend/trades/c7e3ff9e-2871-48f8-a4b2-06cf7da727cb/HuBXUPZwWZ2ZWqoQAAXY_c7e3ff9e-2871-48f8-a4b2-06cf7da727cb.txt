@@ -1,0 +1,9 @@
+User ID: HuBXUPZwWZ2ZWqoQAAXY
+User Name: robot
+Ticket ID: HuBXUPZwWZ2ZWqoQAAXY_c7e3ff9e-2871-48f8-a4b2-06cf7da727cb
+Total Bid Amount: 2300
+Total Earnings: 0
+Profit/Loss: -2300
+
+Breakdown:
+  Bid: 6, Amount: 2300, Payout: 11500, Status: lost

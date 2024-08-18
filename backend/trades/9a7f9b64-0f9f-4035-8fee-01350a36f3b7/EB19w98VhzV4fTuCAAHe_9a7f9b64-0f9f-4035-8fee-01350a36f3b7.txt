@@ -1,0 +1,10 @@
+User ID: EB19w98VhzV4fTuCAAHe
+User Name: robot
+Ticket ID: EB19w98VhzV4fTuCAAHe_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 12400
+Total Earnings: 0
+Profit/Loss: -12400
+
+Breakdown:
+  Bid: 4, Amount: 2400, Payout: 12000, Status: lost
+  Bid: 5, Amount: 10000, Payout: 50000, Status: lost

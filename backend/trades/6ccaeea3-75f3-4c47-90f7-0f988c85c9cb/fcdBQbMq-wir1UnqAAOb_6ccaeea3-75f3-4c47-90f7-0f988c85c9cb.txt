@@ -1,0 +1,9 @@
+User ID: fcdBQbMq-wir1UnqAAOb
+User Name: robot
+Ticket ID: fcdBQbMq-wir1UnqAAOb_6ccaeea3-75f3-4c47-90f7-0f988c85c9cb
+Total Bid Amount: 8500
+Total Earnings: 0
+Profit/Loss: -8500
+
+Breakdown:
+  Bid: 4, Amount: 8500, Payout: 42500, Status: lost

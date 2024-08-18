@@ -1,0 +1,9 @@
+User ID: 8nmkZOJr43KCL434AAMX
+User Name: robot
+Ticket ID: 8nmkZOJr43KCL434AAMX_d5e53174-b5b5-4e62-9329-20f3aba07f71
+Total Bid Amount: 7200
+Total Earnings: 0
+Profit/Loss: -7200
+
+Breakdown:
+  Bid: 4, Amount: 7200, Payout: 36000, Status: lost

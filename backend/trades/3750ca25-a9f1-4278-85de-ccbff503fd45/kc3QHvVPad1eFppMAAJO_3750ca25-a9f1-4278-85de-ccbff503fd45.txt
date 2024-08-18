@@ -1,0 +1,9 @@
+User ID: kc3QHvVPad1eFppMAAJO
+User Name: robot
+Ticket ID: kc3QHvVPad1eFppMAAJO_3750ca25-a9f1-4278-85de-ccbff503fd45
+Total Bid Amount: 2800
+Total Earnings: 0
+Profit/Loss: -2800
+
+Breakdown:
+  Bid: 2, Amount: 2800, Payout: 14000, Status: lost

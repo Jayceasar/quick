@@ -1,0 +1,9 @@
+User ID: m5_Mc2RHpgUsl-88AAPJ
+User Name: robot
+Ticket ID: m5_Mc2RHpgUsl-88AAPJ_6ccaeea3-75f3-4c47-90f7-0f988c85c9cb
+Total Bid Amount: 3000
+Total Earnings: 0
+Profit/Loss: -3000
+
+Breakdown:
+  Bid: 6, Amount: 3000, Payout: 15000, Status: lost

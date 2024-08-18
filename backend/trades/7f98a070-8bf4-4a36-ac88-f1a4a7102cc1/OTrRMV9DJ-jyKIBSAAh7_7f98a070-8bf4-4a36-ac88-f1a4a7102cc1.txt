@@ -1,0 +1,9 @@
+User ID: OTrRMV9DJ-jyKIBSAAh7
+User Name: robot
+Ticket ID: OTrRMV9DJ-jyKIBSAAh7_7f98a070-8bf4-4a36-ac88-f1a4a7102cc1
+Total Bid Amount: 5800
+Total Earnings: 29000
+Profit/Loss: 23200
+
+Breakdown:
+  Bid: 5, Amount: 5800, Payout: 29000, Status: won

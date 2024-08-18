@@ -1,0 +1,9 @@
+User ID: tAQAGBs0awjH7InkAAyN
+User Name: robot
+Ticket ID: tAQAGBs0awjH7InkAAyN_9145baa4-fbb4-4c77-91ac-79451b8a8424
+Total Bid Amount: 9300
+Total Earnings: 0
+Profit/Loss: -9300
+
+Breakdown:
+  Bid: 4, Amount: 9300, Payout: 46500, Status: lost

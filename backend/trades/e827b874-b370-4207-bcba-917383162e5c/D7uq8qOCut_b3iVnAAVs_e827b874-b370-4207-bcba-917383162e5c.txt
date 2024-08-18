@@ -1,0 +1,10 @@
+User ID: D7uq8qOCut_b3iVnAAVs
+User Name: robot
+Ticket ID: D7uq8qOCut_b3iVnAAVs_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 12300
+Total Earnings: 0
+Profit/Loss: -12300
+
+Breakdown:
+  Bid: 1, Amount: 8500, Payout: 42500, Status: lost
+  Bid: 6, Amount: 3800, Payout: 19000, Status: lost

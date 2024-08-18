@@ -1,0 +1,10 @@
+User ID: BiFgQn6Ur-Sir4I8AAIo
+User Name: robot
+Ticket ID: BiFgQn6Ur-Sir4I8AAIo_bb5e3028-8c52-4b98-a381-0c2c68383464
+Total Bid Amount: 14900
+Total Earnings: 0
+Profit/Loss: -14900
+
+Breakdown:
+  Bid: 4, Amount: 6000, Payout: 30000, Status: lost
+  Bid: 5, Amount: 8900, Payout: 44500, Status: lost

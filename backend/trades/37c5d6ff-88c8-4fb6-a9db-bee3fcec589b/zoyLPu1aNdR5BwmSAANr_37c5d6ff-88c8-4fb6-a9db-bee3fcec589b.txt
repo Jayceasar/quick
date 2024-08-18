@@ -1,0 +1,9 @@
+User ID: zoyLPu1aNdR5BwmSAANr
+User Name: robot
+Ticket ID: zoyLPu1aNdR5BwmSAANr_37c5d6ff-88c8-4fb6-a9db-bee3fcec589b
+Total Bid Amount: 7400
+Total Earnings: 37000
+Profit/Loss: 29600
+
+Breakdown:
+  Bid: 4, Amount: 7400, Payout: 37000, Status: won

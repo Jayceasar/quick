@@ -1,0 +1,10 @@
+User ID: YcjsR8--nnYUuGdpAAGI
+User Name: robot
+Ticket ID: YcjsR8--nnYUuGdpAAGI_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 10500
+Total Earnings: 0
+Profit/Loss: -10500
+
+Breakdown:
+  Bid: 1, Amount: 4900, Payout: 24500, Status: lost
+  Bid: 5, Amount: 5600, Payout: 28000, Status: lost

@@ -1,0 +1,9 @@
+User ID: xantu_rGdXTuKMhZAAb1
+User Name: robot
+Ticket ID: xantu_rGdXTuKMhZAAb1_21d39602-8afc-46e7-aeb0-e79f363e1d3a
+Total Bid Amount: 5100
+Total Earnings: 25500
+Profit/Loss: 20400
+
+Breakdown:
+  Bid: 2, Amount: 5100, Payout: 25500, Status: won

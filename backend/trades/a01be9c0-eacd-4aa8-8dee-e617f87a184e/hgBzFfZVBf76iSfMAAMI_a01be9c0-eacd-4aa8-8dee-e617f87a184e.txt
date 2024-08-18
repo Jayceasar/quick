@@ -1,0 +1,9 @@
+User ID: hgBzFfZVBf76iSfMAAMI
+User Name: robot
+Ticket ID: hgBzFfZVBf76iSfMAAMI_a01be9c0-eacd-4aa8-8dee-e617f87a184e
+Total Bid Amount: 4200
+Total Earnings: 0
+Profit/Loss: -4200
+
+Breakdown:
+  Bid: 5, Amount: 4200, Payout: 21000, Status: lost

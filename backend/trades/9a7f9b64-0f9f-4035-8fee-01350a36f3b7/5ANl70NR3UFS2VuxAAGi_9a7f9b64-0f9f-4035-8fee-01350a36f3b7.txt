@@ -1,0 +1,10 @@
+User ID: 5ANl70NR3UFS2VuxAAGi
+User Name: robot
+Ticket ID: 5ANl70NR3UFS2VuxAAGi_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 8600
+Total Earnings: 500
+Profit/Loss: -8100
+
+Breakdown:
+  Bid: 6, Amount: 100, Payout: 500, Status: won
+  Bid: 4, Amount: 8500, Payout: 42500, Status: lost

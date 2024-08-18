@@ -1,0 +1,9 @@
+User ID: rTG57Fwloc_HAnv9AAby
+User Name: robot
+Ticket ID: rTG57Fwloc_HAnv9AAby_4cda0b6b-8394-48b0-ad59-36d0ff5426c2
+Total Bid Amount: 9300
+Total Earnings: 0
+Profit/Loss: -9300
+
+Breakdown:
+  Bid: 4, Amount: 9300, Payout: 46500, Status: lost

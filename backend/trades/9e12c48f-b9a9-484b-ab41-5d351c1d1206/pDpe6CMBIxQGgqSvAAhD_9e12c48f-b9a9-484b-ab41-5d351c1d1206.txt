@@ -1,0 +1,9 @@
+User ID: pDpe6CMBIxQGgqSvAAhD
+User Name: robot
+Ticket ID: pDpe6CMBIxQGgqSvAAhD_9e12c48f-b9a9-484b-ab41-5d351c1d1206
+Total Bid Amount: 10000
+Total Earnings: 0
+Profit/Loss: -10000
+
+Breakdown:
+  Bid: 4, Amount: 10000, Payout: 50000, Status: lost

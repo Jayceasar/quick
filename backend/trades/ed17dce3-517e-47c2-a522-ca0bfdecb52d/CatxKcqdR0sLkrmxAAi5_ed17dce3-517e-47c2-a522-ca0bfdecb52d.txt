@@ -1,0 +1,10 @@
+User ID: CatxKcqdR0sLkrmxAAi5
+User Name: robot
+Ticket ID: CatxKcqdR0sLkrmxAAi5_ed17dce3-517e-47c2-a522-ca0bfdecb52d
+Total Bid Amount: 4700
+Total Earnings: 0
+Profit/Loss: -4700
+
+Breakdown:
+  Bid: 6, Amount: 1800, Payout: 9000, Status: lost
+  Bid: 3, Amount: 2900, Payout: 14500, Status: lost

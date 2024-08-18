@@ -1,0 +1,14 @@
+User ID: 06rh6DvVk4wpQJEmAAAH
+User Name: test
+Ticket ID: 06rh6DvVk4wpQJEmAAAH_c74304cb-2d3c-48c1-85fd-8800a214c2a2
+Total Bid Amount: 600
+Total Earnings: 500
+Profit/Loss: -100
+
+Breakdown:
+  Bid: 1, Amount: 100, Payout: 500, Status: won
+  Bid: 3, Amount: 100, Payout: 500, Status: lost
+  Bid: 5, Amount: 100, Payout: 500, Status: lost
+  Bid: 6, Amount: 100, Payout: 500, Status: lost
+  Bid: 2, Amount: 100, Payout: 500, Status: lost
+  Bid: 4, Amount: 100, Payout: 500, Status: lost

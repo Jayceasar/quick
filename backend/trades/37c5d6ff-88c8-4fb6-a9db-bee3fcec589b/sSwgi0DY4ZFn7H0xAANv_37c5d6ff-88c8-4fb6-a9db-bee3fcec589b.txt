@@ -1,0 +1,9 @@
+User ID: sSwgi0DY4ZFn7H0xAANv
+User Name: robot
+Ticket ID: sSwgi0DY4ZFn7H0xAANv_37c5d6ff-88c8-4fb6-a9db-bee3fcec589b
+Total Bid Amount: 7700
+Total Earnings: 0
+Profit/Loss: -7700
+
+Breakdown:
+  Bid: 1, Amount: 7700, Payout: 38500, Status: lost

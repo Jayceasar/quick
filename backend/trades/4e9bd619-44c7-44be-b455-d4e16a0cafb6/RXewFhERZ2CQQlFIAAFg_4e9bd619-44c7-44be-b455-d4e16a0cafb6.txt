@@ -1,0 +1,10 @@
+User ID: RXewFhERZ2CQQlFIAAFg
+User Name: robot
+Ticket ID: RXewFhERZ2CQQlFIAAFg_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 9700
+Total Earnings: 0
+Profit/Loss: -9700
+
+Breakdown:
+  Bid: 1, Amount: 4100, Payout: 20500, Status: lost
+  Bid: 5, Amount: 5600, Payout: 28000, Status: lost

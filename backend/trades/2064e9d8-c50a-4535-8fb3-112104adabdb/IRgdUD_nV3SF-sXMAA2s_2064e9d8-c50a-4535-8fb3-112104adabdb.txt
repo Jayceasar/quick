@@ -1,0 +1,12 @@
+User ID: IRgdUD_nV3SF-sXMAA2s
+User Name: test
+Ticket ID: IRgdUD_nV3SF-sXMAA2s_2064e9d8-c50a-4535-8fb3-112104adabdb
+Total Bid Amount: 400
+Total Earnings: 500
+Profit/Loss: 100
+
+Breakdown:
+  Bid: 2, Amount: 100, Payout: 500, Status: lost
+  Bid: 1, Amount: 100, Payout: 500, Status: lost
+  Bid: 4, Amount: 100, Payout: 500, Status: lost
+  Bid: 5, Amount: 100, Payout: 500, Status: won

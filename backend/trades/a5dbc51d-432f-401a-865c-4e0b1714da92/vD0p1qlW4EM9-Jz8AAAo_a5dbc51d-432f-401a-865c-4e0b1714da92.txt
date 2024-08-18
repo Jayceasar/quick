@@ -1,0 +1,34 @@
+User ID: vD0p1qlW4EM9-Jz8AAAo
+User Name: test
+Ticket ID: vD0p1qlW4EM9-Jz8AAAo_a5dbc51d-432f-401a-865c-4e0b1714da92
+Total Bid Amount: 2600
+Total Earnings: 1000
+Profit/Loss: -1600
+
+Breakdown:
+  Bid: 6, Amount: 100, Payout: 500, Status: won
+  Bid: 6, Amount: 100, Payout: 500, Status: won
+  Bid: 1, Amount: 100, Payout: 500, Status: lost
+  Bid: 1, Amount: 100, Payout: 500, Status: lost
+  Bid: 1, Amount: 100, Payout: 500, Status: lost
+  Bid: 1, Amount: 100, Payout: 500, Status: lost
+  Bid: 1, Amount: 100, Payout: 500, Status: lost
+  Bid: 1, Amount: 100, Payout: 500, Status: lost
+  Bid: 5, Amount: 100, Payout: 500, Status: lost
+  Bid: 5, Amount: 100, Payout: 500, Status: lost
+  Bid: 5, Amount: 100, Payout: 500, Status: lost
+  Bid: 5, Amount: 100, Payout: 500, Status: lost
+  Bid: 5, Amount: 100, Payout: 500, Status: lost
+  Bid: 5, Amount: 100, Payout: 500, Status: lost
+  Bid: 5, Amount: 100, Payout: 500, Status: lost
+  Bid: 5, Amount: 100, Payout: 500, Status: lost
+  Bid: 5, Amount: 100, Payout: 500, Status: lost
+  Bid: 5, Amount: 100, Payout: 500, Status: lost
+  Bid: 5, Amount: 100, Payout: 500, Status: lost
+  Bid: 5, Amount: 100, Payout: 500, Status: lost
+  Bid: 5, Amount: 100, Payout: 500, Status: lost
+  Bid: 5, Amount: 100, Payout: 500, Status: lost
+  Bid: 5, Amount: 100, Payout: 500, Status: lost
+  Bid: 5, Amount: 100, Payout: 500, Status: lost
+  Bid: 5, Amount: 100, Payout: 500, Status: lost
+  Bid: 5, Amount: 100, Payout: 500, Status: lost

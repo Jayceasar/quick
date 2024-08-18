@@ -1,0 +1,10 @@
+User ID: XGd33qeaJXlIZcExAAOr
+User Name: robot
+Ticket ID: XGd33qeaJXlIZcExAAOr_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 11400
+Total Earnings: 10500
+Profit/Loss: -900
+
+Breakdown:
+  Bid: 2, Amount: 9300, Payout: 46500, Status: lost
+  Bid: 5, Amount: 2100, Payout: 10500, Status: won

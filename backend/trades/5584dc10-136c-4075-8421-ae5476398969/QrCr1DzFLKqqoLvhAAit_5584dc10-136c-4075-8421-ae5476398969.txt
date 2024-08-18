@@ -1,0 +1,9 @@
+User ID: QrCr1DzFLKqqoLvhAAit
+User Name: robot
+Ticket ID: QrCr1DzFLKqqoLvhAAit_5584dc10-136c-4075-8421-ae5476398969
+Total Bid Amount: 3700
+Total Earnings: 0
+Profit/Loss: -3700
+
+Breakdown:
+  Bid: 3, Amount: 3700, Payout: 18500, Status: lost

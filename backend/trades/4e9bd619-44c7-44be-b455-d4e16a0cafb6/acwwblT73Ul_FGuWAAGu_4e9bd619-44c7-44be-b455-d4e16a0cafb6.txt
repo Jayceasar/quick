@@ -1,0 +1,10 @@
+User ID: acwwblT73Ul_FGuWAAGu
+User Name: robot
+Ticket ID: acwwblT73Ul_FGuWAAGu_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 3600
+Total Earnings: 0
+Profit/Loss: -3600
+
+Breakdown:
+  Bid: 4, Amount: 2800, Payout: 14000, Status: lost
+  Bid: 1, Amount: 800, Payout: 4000, Status: lost

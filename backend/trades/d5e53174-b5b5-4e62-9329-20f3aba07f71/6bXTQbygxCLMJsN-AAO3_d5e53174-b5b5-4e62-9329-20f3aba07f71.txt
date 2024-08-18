@@ -1,0 +1,9 @@
+User ID: 6bXTQbygxCLMJsN-AAO3
+User Name: robot
+Ticket ID: 6bXTQbygxCLMJsN-AAO3_d5e53174-b5b5-4e62-9329-20f3aba07f71
+Total Bid Amount: 7200
+Total Earnings: 36000
+Profit/Loss: 28800
+
+Breakdown:
+  Bid: 1, Amount: 7200, Payout: 36000, Status: won

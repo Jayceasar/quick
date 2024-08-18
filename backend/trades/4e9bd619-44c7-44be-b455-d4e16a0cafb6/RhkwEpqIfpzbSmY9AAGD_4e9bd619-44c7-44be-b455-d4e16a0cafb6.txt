@@ -1,0 +1,10 @@
+User ID: RhkwEpqIfpzbSmY9AAGD
+User Name: robot
+Ticket ID: RhkwEpqIfpzbSmY9AAGD_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 13400
+Total Earnings: 0
+Profit/Loss: -13400
+
+Breakdown:
+  Bid: 6, Amount: 8400, Payout: 42000, Status: lost
+  Bid: 6, Amount: 5000, Payout: 25000, Status: lost

@@ -1,0 +1,9 @@
+User ID: IEX9S_mhn6F757XyAAM2
+User Name: robot
+Ticket ID: IEX9S_mhn6F757XyAAM2_ff6eba86-a652-47ed-9b5f-33d041300313
+Total Bid Amount: 8600
+Total Earnings: 0
+Profit/Loss: -8600
+
+Breakdown:
+  Bid: 4, Amount: 8600, Payout: 43000, Status: lost

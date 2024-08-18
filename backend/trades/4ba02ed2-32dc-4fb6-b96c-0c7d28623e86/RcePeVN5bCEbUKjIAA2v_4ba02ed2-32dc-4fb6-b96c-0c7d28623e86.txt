@@ -1,0 +1,9 @@
+User ID: RcePeVN5bCEbUKjIAA2v
+User Name: robot
+Ticket ID: RcePeVN5bCEbUKjIAA2v_4ba02ed2-32dc-4fb6-b96c-0c7d28623e86
+Total Bid Amount: 2200
+Total Earnings: 0
+Profit/Loss: -2200
+
+Breakdown:
+  Bid: 6, Amount: 2200, Payout: 11000, Status: lost

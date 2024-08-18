@@ -1,0 +1,10 @@
+User ID: PrdvDe7HtgBhon3iAAmP
+User Name: robot
+Ticket ID: PrdvDe7HtgBhon3iAAmP_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 7000
+Total Earnings: 0
+Profit/Loss: -7000
+
+Breakdown:
+  Bid: 6, Amount: 6600, Payout: 33000, Status: lost
+  Bid: 4, Amount: 400, Payout: 2000, Status: lost

@@ -1,0 +1,9 @@
+User ID: RBns7WRrrGc4PDWhAAht
+User Name: robot
+Ticket ID: RBns7WRrrGc4PDWhAAht_9e12c48f-b9a9-484b-ab41-5d351c1d1206
+Total Bid Amount: 4500
+Total Earnings: 0
+Profit/Loss: -4500
+
+Breakdown:
+  Bid: 4, Amount: 4500, Payout: 22500, Status: lost

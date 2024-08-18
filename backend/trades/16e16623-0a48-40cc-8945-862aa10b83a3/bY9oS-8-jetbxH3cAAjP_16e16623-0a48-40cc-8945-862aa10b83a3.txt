@@ -1,0 +1,9 @@
+User ID: bY9oS-8-jetbxH3cAAjP
+User Name: robot
+Ticket ID: bY9oS-8-jetbxH3cAAjP_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 8100
+Total Earnings: 0
+Profit/Loss: -8100
+
+Breakdown:
+  Bid: 5, Amount: 8100, Payout: 40500, Status: lost

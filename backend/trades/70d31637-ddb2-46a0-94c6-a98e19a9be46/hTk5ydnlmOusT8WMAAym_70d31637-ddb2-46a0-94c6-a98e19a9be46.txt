@@ -1,0 +1,9 @@
+User ID: hTk5ydnlmOusT8WMAAym
+User Name: robot
+Ticket ID: hTk5ydnlmOusT8WMAAym_70d31637-ddb2-46a0-94c6-a98e19a9be46
+Total Bid Amount: 3100
+Total Earnings: 0
+Profit/Loss: -3100
+
+Breakdown:
+  Bid: 5, Amount: 3100, Payout: 15500, Status: lost

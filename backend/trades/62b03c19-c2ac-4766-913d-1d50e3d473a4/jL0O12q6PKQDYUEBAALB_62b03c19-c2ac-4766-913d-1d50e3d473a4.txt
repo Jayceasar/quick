@@ -1,0 +1,9 @@
+User ID: jL0O12q6PKQDYUEBAALB
+User Name: robot
+Ticket ID: jL0O12q6PKQDYUEBAALB_62b03c19-c2ac-4766-913d-1d50e3d473a4
+Total Bid Amount: 9400
+Total Earnings: 0
+Profit/Loss: -9400
+
+Breakdown:
+  Bid: 6, Amount: 9400, Payout: 47000, Status: lost

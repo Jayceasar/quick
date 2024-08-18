@@ -1,0 +1,9 @@
+User ID: msFkTZRV7Kf_IDCbAAJ9
+User Name: robot
+Ticket ID: msFkTZRV7Kf_IDCbAAJ9_ad3a8c72-299f-43d4-805f-4646b325aae0
+Total Bid Amount: 9100
+Total Earnings: 0
+Profit/Loss: -9100
+
+Breakdown:
+  Bid: 5, Amount: 9100, Payout: 45500, Status: lost

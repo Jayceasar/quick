@@ -1,0 +1,9 @@
+User ID: MMj27bIEqvFjq-OdAAyI
+User Name: robot
+Ticket ID: MMj27bIEqvFjq-OdAAyI_d05e861f-f27e-4864-af86-257c4b623e47
+Total Bid Amount: 3900
+Total Earnings: 19500
+Profit/Loss: 15600
+
+Breakdown:
+  Bid: 3, Amount: 3900, Payout: 19500, Status: won

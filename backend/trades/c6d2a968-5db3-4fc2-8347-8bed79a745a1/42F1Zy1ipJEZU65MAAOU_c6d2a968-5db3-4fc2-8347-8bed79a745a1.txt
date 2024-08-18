@@ -1,0 +1,9 @@
+User ID: 42F1Zy1ipJEZU65MAAOU
+User Name: robot
+Ticket ID: 42F1Zy1ipJEZU65MAAOU_c6d2a968-5db3-4fc2-8347-8bed79a745a1
+Total Bid Amount: 500
+Total Earnings: 2500
+Profit/Loss: 2000
+
+Breakdown:
+  Bid: 2, Amount: 500, Payout: 2500, Status: won

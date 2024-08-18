@@ -1,0 +1,9 @@
+User ID: t4VIoJEECGSAqh59AAa1
+User Name: robot
+Ticket ID: t4VIoJEECGSAqh59AAa1_fdd1d695-454b-4933-9c35-12cc0df7ba3a
+Total Bid Amount: 8500
+Total Earnings: 0
+Profit/Loss: -8500
+
+Breakdown:
+  Bid: 1, Amount: 8500, Payout: 42500, Status: lost

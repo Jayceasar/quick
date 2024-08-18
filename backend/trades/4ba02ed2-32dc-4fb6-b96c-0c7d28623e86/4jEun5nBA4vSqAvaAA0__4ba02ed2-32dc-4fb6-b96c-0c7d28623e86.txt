@@ -1,0 +1,9 @@
+User ID: 4jEun5nBA4vSqAvaAA0_
+User Name: robot
+Ticket ID: 4jEun5nBA4vSqAvaAA0__4ba02ed2-32dc-4fb6-b96c-0c7d28623e86
+Total Bid Amount: 5400
+Total Earnings: 0
+Profit/Loss: -5400
+
+Breakdown:
+  Bid: 5, Amount: 5400, Payout: 27000, Status: lost

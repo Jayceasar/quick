@@ -1,0 +1,9 @@
+User ID: gpKkTvZMAXgT6EabAAM1
+User Name: robot
+Ticket ID: gpKkTvZMAXgT6EabAAM1_c4750aca-f17c-4be6-87a9-33a224b7d999
+Total Bid Amount: 6800
+Total Earnings: 0
+Profit/Loss: -6800
+
+Breakdown:
+  Bid: 1, Amount: 6800, Payout: 34000, Status: lost

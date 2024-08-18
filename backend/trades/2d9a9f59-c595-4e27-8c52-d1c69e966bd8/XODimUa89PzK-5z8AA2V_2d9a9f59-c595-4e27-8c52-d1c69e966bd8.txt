@@ -1,0 +1,9 @@
+User ID: XODimUa89PzK-5z8AA2V
+User Name: robot
+Ticket ID: XODimUa89PzK-5z8AA2V_2d9a9f59-c595-4e27-8c52-d1c69e966bd8
+Total Bid Amount: 9500
+Total Earnings: 0
+Profit/Loss: -9500
+
+Breakdown:
+  Bid: 2, Amount: 9500, Payout: 47500, Status: lost

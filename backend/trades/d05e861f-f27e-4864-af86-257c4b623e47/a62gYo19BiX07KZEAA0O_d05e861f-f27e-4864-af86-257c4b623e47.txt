@@ -1,0 +1,9 @@
+User ID: a62gYo19BiX07KZEAA0O
+User Name: robot
+Ticket ID: a62gYo19BiX07KZEAA0O_d05e861f-f27e-4864-af86-257c4b623e47
+Total Bid Amount: 800
+Total Earnings: 0
+Profit/Loss: -800
+
+Breakdown:
+  Bid: 5, Amount: 800, Payout: 4000, Status: lost

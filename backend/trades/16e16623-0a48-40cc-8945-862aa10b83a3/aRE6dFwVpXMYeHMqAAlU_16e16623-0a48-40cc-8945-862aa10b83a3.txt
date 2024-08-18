@@ -1,0 +1,10 @@
+User ID: aRE6dFwVpXMYeHMqAAlU
+User Name: robot
+Ticket ID: aRE6dFwVpXMYeHMqAAlU_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 10100
+Total Earnings: 0
+Profit/Loss: -10100
+
+Breakdown:
+  Bid: 2, Amount: 5200, Payout: 26000, Status: lost
+  Bid: 2, Amount: 4900, Payout: 24500, Status: lost

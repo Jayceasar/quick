@@ -1,0 +1,10 @@
+User ID: 2Kb912XU215Csc8FAAt3
+User Name: robot
+Ticket ID: 2Kb912XU215Csc8FAAt3_d970b8db-846a-4e9c-a7a6-33cc8b792735
+Total Bid Amount: 10400
+Total Earnings: 0
+Profit/Loss: -10400
+
+Breakdown:
+  Bid: 5, Amount: 7300, Payout: 36500, Status: lost
+  Bid: 4, Amount: 3100, Payout: 15500, Status: lost

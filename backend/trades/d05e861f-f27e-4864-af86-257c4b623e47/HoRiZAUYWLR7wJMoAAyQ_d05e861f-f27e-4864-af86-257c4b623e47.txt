@@ -1,0 +1,9 @@
+User ID: HoRiZAUYWLR7wJMoAAyQ
+User Name: robot
+Ticket ID: HoRiZAUYWLR7wJMoAAyQ_d05e861f-f27e-4864-af86-257c4b623e47
+Total Bid Amount: 4900
+Total Earnings: 0
+Profit/Loss: -4900
+
+Breakdown:
+  Bid: 6, Amount: 4900, Payout: 24500, Status: lost

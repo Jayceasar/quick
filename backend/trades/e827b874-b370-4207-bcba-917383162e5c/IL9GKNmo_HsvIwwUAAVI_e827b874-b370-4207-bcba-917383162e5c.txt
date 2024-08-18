@@ -1,0 +1,10 @@
+User ID: IL9GKNmo_HsvIwwUAAVI
+User Name: robot
+Ticket ID: IL9GKNmo_HsvIwwUAAVI_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 15000
+Total Earnings: 0
+Profit/Loss: -15000
+
+Breakdown:
+  Bid: 1, Amount: 5700, Payout: 28500, Status: lost
+  Bid: 5, Amount: 9300, Payout: 46500, Status: lost

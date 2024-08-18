@@ -1,0 +1,13 @@
+User ID: qk13YaYFA6qKoTEKAAAE
+User Name: test
+Ticket ID: qk13YaYFA6qKoTEKAAAE_c5f3f2a0-4650-43dc-adfb-f824e65495a1
+Total Bid Amount: 500
+Total Earnings: 500
+Profit/Loss: 0
+
+Breakdown:
+  Bid: 1, Amount: 100, Payout: 500, Status: lost
+  Bid: 3, Amount: 100, Payout: 500, Status: lost
+  Bid: 6, Amount: 100, Payout: 500, Status: won
+  Bid: 5, Amount: 100, Payout: 500, Status: lost
+  Bid: 2, Amount: 100, Payout: 500, Status: lost

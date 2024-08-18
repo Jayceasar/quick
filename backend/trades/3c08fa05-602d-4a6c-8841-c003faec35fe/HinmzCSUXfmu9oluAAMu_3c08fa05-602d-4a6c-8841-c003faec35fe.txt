@@ -1,0 +1,10 @@
+User ID: HinmzCSUXfmu9oluAAMu
+User Name: robot
+Ticket ID: HinmzCSUXfmu9oluAAMu_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 6900
+Total Earnings: 0
+Profit/Loss: -6900
+
+Breakdown:
+  Bid: 2, Amount: 3500, Payout: 17500, Status: lost
+  Bid: 2, Amount: 3400, Payout: 17000, Status: lost

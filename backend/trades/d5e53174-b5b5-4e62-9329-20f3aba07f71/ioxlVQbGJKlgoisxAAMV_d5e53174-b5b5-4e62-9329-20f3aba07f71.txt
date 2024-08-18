@@ -1,0 +1,9 @@
+User ID: ioxlVQbGJKlgoisxAAMV
+User Name: robot
+Ticket ID: ioxlVQbGJKlgoisxAAMV_d5e53174-b5b5-4e62-9329-20f3aba07f71
+Total Bid Amount: 9000
+Total Earnings: 0
+Profit/Loss: -9000
+
+Breakdown:
+  Bid: 2, Amount: 9000, Payout: 45000, Status: lost

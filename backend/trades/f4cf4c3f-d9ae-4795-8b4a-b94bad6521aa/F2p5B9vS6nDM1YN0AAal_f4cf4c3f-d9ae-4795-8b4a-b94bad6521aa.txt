@@ -1,0 +1,9 @@
+User ID: F2p5B9vS6nDM1YN0AAal
+User Name: robot
+Ticket ID: F2p5B9vS6nDM1YN0AAal_f4cf4c3f-d9ae-4795-8b4a-b94bad6521aa
+Total Bid Amount: 8200
+Total Earnings: 0
+Profit/Loss: -8200
+
+Breakdown:
+  Bid: 3, Amount: 8200, Payout: 41000, Status: lost

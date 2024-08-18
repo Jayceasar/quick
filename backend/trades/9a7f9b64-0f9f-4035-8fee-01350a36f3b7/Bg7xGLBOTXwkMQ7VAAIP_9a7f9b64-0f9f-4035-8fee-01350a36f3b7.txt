@@ -1,0 +1,10 @@
+User ID: Bg7xGLBOTXwkMQ7VAAIP
+User Name: robot
+Ticket ID: Bg7xGLBOTXwkMQ7VAAIP_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 17800
+Total Earnings: 0
+Profit/Loss: -17800
+
+Breakdown:
+  Bid: 5, Amount: 9000, Payout: 45000, Status: lost
+  Bid: 2, Amount: 8800, Payout: 44000, Status: lost

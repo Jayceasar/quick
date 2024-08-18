@@ -1,0 +1,10 @@
+User ID: RYblpGSQ3qnY7FrkAAFX
+User Name: robot
+Ticket ID: RYblpGSQ3qnY7FrkAAFX_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 5100
+Total Earnings: 0
+Profit/Loss: -5100
+
+Breakdown:
+  Bid: 1, Amount: 2900, Payout: 14500, Status: lost
+  Bid: 5, Amount: 2200, Payout: 11000, Status: lost

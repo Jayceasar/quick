@@ -1,0 +1,9 @@
+User ID: O85qI170YudA2xdVAAOn
+User Name: robot
+Ticket ID: O85qI170YudA2xdVAAOn_37c5d6ff-88c8-4fb6-a9db-bee3fcec589b
+Total Bid Amount: 1000
+Total Earnings: 0
+Profit/Loss: -1000
+
+Breakdown:
+  Bid: 6, Amount: 1000, Payout: 5000, Status: lost

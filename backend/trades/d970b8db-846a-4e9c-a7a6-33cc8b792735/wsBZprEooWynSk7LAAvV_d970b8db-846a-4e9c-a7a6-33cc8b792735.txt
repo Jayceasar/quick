@@ -1,0 +1,10 @@
+User ID: wsBZprEooWynSk7LAAvV
+User Name: robot
+Ticket ID: wsBZprEooWynSk7LAAvV_d970b8db-846a-4e9c-a7a6-33cc8b792735
+Total Bid Amount: 9900
+Total Earnings: 10500
+Profit/Loss: 600
+
+Breakdown:
+  Bid: 1, Amount: 7800, Payout: 39000, Status: lost
+  Bid: 3, Amount: 2100, Payout: 10500, Status: won

@@ -1,0 +1,9 @@
+User ID: KEv2wSvNYPMbqbjdAAMl
+User Name: robot
+Ticket ID: KEv2wSvNYPMbqbjdAAMl_c4750aca-f17c-4be6-87a9-33a224b7d999
+Total Bid Amount: 5800
+Total Earnings: 0
+Profit/Loss: -5800
+
+Breakdown:
+  Bid: 4, Amount: 5800, Payout: 29000, Status: lost

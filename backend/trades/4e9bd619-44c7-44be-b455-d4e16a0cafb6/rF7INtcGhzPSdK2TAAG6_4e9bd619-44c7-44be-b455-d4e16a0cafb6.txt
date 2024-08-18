@@ -1,0 +1,10 @@
+User ID: rF7INtcGhzPSdK2TAAG6
+User Name: robot
+Ticket ID: rF7INtcGhzPSdK2TAAG6_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 14500
+Total Earnings: 32500
+Profit/Loss: 18000
+
+Breakdown:
+  Bid: 4, Amount: 8000, Payout: 40000, Status: lost
+  Bid: 2, Amount: 6500, Payout: 32500, Status: won

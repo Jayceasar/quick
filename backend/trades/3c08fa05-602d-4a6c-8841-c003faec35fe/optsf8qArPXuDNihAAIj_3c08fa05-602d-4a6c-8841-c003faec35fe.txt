@@ -1,0 +1,9 @@
+User ID: optsf8qArPXuDNihAAIj
+User Name: robot
+Ticket ID: optsf8qArPXuDNihAAIj_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 9700
+Total Earnings: 0
+Profit/Loss: -9700
+
+Breakdown:
+  Bid: 2, Amount: 9700, Payout: 48500, Status: lost

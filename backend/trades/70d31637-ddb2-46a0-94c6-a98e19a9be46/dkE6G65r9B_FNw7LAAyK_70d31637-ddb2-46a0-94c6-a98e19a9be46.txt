@@ -1,0 +1,9 @@
+User ID: dkE6G65r9B_FNw7LAAyK
+User Name: robot
+Ticket ID: dkE6G65r9B_FNw7LAAyK_70d31637-ddb2-46a0-94c6-a98e19a9be46
+Total Bid Amount: 9500
+Total Earnings: 0
+Profit/Loss: -9500
+
+Breakdown:
+  Bid: 3, Amount: 9500, Payout: 47500, Status: lost

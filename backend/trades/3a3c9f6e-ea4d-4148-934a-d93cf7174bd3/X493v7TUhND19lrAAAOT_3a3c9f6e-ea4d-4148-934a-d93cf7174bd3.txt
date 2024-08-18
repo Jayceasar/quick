@@ -1,0 +1,9 @@
+User ID: X493v7TUhND19lrAAAOT
+User Name: robot
+Ticket ID: X493v7TUhND19lrAAAOT_3a3c9f6e-ea4d-4148-934a-d93cf7174bd3
+Total Bid Amount: 5400
+Total Earnings: 0
+Profit/Loss: -5400
+
+Breakdown:
+  Bid: 1, Amount: 5400, Payout: 27000, Status: lost

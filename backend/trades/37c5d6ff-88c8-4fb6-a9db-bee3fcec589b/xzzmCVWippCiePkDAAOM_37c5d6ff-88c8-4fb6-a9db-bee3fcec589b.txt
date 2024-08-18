@@ -1,0 +1,9 @@
+User ID: xzzmCVWippCiePkDAAOM
+User Name: robot
+Ticket ID: xzzmCVWippCiePkDAAOM_37c5d6ff-88c8-4fb6-a9db-bee3fcec589b
+Total Bid Amount: 5300
+Total Earnings: 0
+Profit/Loss: -5300
+
+Breakdown:
+  Bid: 3, Amount: 5300, Payout: 26500, Status: lost

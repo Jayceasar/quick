@@ -1,0 +1,9 @@
+User ID: uFXCClsDJkaU0qa4AAyU
+User Name: robot
+Ticket ID: uFXCClsDJkaU0qa4AAyU_d7f235bf-d254-4efd-894a-37a2ac2dbf1c
+Total Bid Amount: 8000
+Total Earnings: 40000
+Profit/Loss: 32000
+
+Breakdown:
+  Bid: 4, Amount: 8000, Payout: 40000, Status: won

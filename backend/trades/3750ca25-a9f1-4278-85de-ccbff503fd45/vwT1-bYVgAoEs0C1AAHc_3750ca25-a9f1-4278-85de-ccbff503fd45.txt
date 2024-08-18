@@ -1,0 +1,9 @@
+User ID: vwT1-bYVgAoEs0C1AAHc
+User Name: robot
+Ticket ID: vwT1-bYVgAoEs0C1AAHc_3750ca25-a9f1-4278-85de-ccbff503fd45
+Total Bid Amount: 8200
+Total Earnings: 0
+Profit/Loss: -8200
+
+Breakdown:
+  Bid: 3, Amount: 8200, Payout: 41000, Status: lost

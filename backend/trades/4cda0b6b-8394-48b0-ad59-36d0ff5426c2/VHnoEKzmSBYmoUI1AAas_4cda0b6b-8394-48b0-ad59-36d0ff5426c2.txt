@@ -1,0 +1,9 @@
+User ID: VHnoEKzmSBYmoUI1AAas
+User Name: robot
+Ticket ID: VHnoEKzmSBYmoUI1AAas_4cda0b6b-8394-48b0-ad59-36d0ff5426c2
+Total Bid Amount: 4300
+Total Earnings: 0
+Profit/Loss: -4300
+
+Breakdown:
+  Bid: 4, Amount: 4300, Payout: 21500, Status: lost

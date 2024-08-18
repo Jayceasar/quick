@@ -1,0 +1,9 @@
+User ID: EGciKs73ZxX5N7ppAAOS
+User Name: robot
+Ticket ID: EGciKs73ZxX5N7ppAAOS_b7702871-94c5-4aa2-a465-bc5c183e2b58
+Total Bid Amount: 5200
+Total Earnings: 0
+Profit/Loss: -5200
+
+Breakdown:
+  Bid: 2, Amount: 5200, Payout: 26000, Status: lost

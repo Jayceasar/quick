@@ -1,0 +1,9 @@
+User ID: TU9eYIuTnz0Y11CoAAA_
+User Name: robot
+Ticket ID: TU9eYIuTnz0Y11CoAAA__9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 2900
+Total Earnings: 14500
+Profit/Loss: 11600
+
+Breakdown:
+  Bid: 6, Amount: 2900, Payout: 14500, Status: won

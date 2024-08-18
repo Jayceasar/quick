@@ -1,0 +1,10 @@
+User ID: L2JoYFD6QoHg-xD0AAmJ
+User Name: robot
+Ticket ID: L2JoYFD6QoHg-xD0AAmJ_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 11000
+Total Earnings: 0
+Profit/Loss: -11000
+
+Breakdown:
+  Bid: 4, Amount: 9500, Payout: 47500, Status: lost
+  Bid: 4, Amount: 1500, Payout: 7500, Status: lost

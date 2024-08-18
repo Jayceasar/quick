@@ -1,0 +1,9 @@
+User ID: HUbHdBfHIOOBhLlEAAOO
+User Name: robot
+Ticket ID: HUbHdBfHIOOBhLlEAAOO_d5e53174-b5b5-4e62-9329-20f3aba07f71
+Total Bid Amount: 900
+Total Earnings: 0
+Profit/Loss: -900
+
+Breakdown:
+  Bid: 5, Amount: 900, Payout: 4500, Status: lost

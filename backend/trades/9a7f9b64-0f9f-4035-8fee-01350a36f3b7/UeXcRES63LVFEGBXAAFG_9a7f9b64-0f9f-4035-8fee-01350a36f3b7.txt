@@ -1,0 +1,10 @@
+User ID: UeXcRES63LVFEGBXAAFG
+User Name: robot
+Ticket ID: UeXcRES63LVFEGBXAAFG_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 9400
+Total Earnings: 0
+Profit/Loss: -9400
+
+Breakdown:
+  Bid: 2, Amount: 6800, Payout: 34000, Status: lost
+  Bid: 3, Amount: 2600, Payout: 13000, Status: lost

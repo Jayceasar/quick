@@ -1,0 +1,9 @@
+User ID: PvlKiXSWNWuIXLs4AAEn
+User Name: robot
+Ticket ID: PvlKiXSWNWuIXLs4AAEn_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 8400
+Total Earnings: 0
+Profit/Loss: -8400
+
+Breakdown:
+  Bid: 2, Amount: 8400, Payout: 42000, Status: lost

@@ -1,0 +1,9 @@
+User ID: CUlL2qaw_SgaCvz2AAx0
+User Name: robot
+Ticket ID: CUlL2qaw_SgaCvz2AAx0_3fd168b4-4edd-4385-a14b-998b524d61e6
+Total Bid Amount: 7900
+Total Earnings: 0
+Profit/Loss: -7900
+
+Breakdown:
+  Bid: 3, Amount: 7900, Payout: 39500, Status: lost

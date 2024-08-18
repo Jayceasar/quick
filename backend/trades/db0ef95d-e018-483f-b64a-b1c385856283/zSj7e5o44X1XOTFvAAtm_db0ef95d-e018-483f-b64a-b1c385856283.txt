@@ -1,0 +1,9 @@
+User ID: zSj7e5o44X1XOTFvAAtm
+User Name: robot
+Ticket ID: zSj7e5o44X1XOTFvAAtm_db0ef95d-e018-483f-b64a-b1c385856283
+Total Bid Amount: 7200
+Total Earnings: 0
+Profit/Loss: -7200
+
+Breakdown:
+  Bid: 1, Amount: 7200, Payout: 36000, Status: lost

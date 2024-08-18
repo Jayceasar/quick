@@ -1,0 +1,10 @@
+User ID: ABQ0CEQ830PiHvfEAAif
+User Name: robot
+Ticket ID: ABQ0CEQ830PiHvfEAAif_ed17dce3-517e-47c2-a522-ca0bfdecb52d
+Total Bid Amount: 14300
+Total Earnings: 23000
+Profit/Loss: 8700
+
+Breakdown:
+  Bid: 3, Amount: 9700, Payout: 48500, Status: lost
+  Bid: 4, Amount: 4600, Payout: 23000, Status: won

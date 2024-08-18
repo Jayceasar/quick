@@ -1,0 +1,9 @@
+User ID: T-KFadPM2lM_f_T-AAbM
+User Name: robot
+Ticket ID: T-KFadPM2lM_f_T-AAbM_e2b54825-fe1f-4019-ab68-0ac20cf73b19
+Total Bid Amount: 8400
+Total Earnings: 0
+Profit/Loss: -8400
+
+Breakdown:
+  Bid: 6, Amount: 8400, Payout: 42000, Status: lost

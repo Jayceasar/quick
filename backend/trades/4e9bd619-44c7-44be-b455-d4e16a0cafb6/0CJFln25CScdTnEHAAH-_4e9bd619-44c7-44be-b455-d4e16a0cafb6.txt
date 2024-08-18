@@ -1,0 +1,9 @@
+User ID: 0CJFln25CScdTnEHAAH-
+User Name: robot
+Ticket ID: 0CJFln25CScdTnEHAAH-_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 2900
+Total Earnings: 0
+Profit/Loss: -2900
+
+Breakdown:
+  Bid: 4, Amount: 2900, Payout: 14500, Status: lost

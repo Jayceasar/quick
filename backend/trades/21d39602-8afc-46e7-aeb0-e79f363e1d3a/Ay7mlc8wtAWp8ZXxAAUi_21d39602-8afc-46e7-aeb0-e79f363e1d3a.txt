@@ -1,0 +1,9 @@
+User ID: Ay7mlc8wtAWp8ZXxAAUi
+User Name: robot
+Ticket ID: Ay7mlc8wtAWp8ZXxAAUi_21d39602-8afc-46e7-aeb0-e79f363e1d3a
+Total Bid Amount: 4300
+Total Earnings: 0
+Profit/Loss: -4300
+
+Breakdown:
+  Bid: 4, Amount: 4300, Payout: 21500, Status: lost

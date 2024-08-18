@@ -1,0 +1,9 @@
+User ID: N2ilc5xJE-KH9avpAAG3
+User Name: robot
+Ticket ID: N2ilc5xJE-KH9avpAAG3_3750ca25-a9f1-4278-85de-ccbff503fd45
+Total Bid Amount: 600
+Total Earnings: 0
+Profit/Loss: -600
+
+Breakdown:
+  Bid: 1, Amount: 600, Payout: 3000, Status: lost

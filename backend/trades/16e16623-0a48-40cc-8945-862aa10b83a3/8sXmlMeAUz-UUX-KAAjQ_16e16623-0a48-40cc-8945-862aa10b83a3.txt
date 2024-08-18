@@ -1,0 +1,9 @@
+User ID: 8sXmlMeAUz-UUX-KAAjQ
+User Name: robot
+Ticket ID: 8sXmlMeAUz-UUX-KAAjQ_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 8200
+Total Earnings: 0
+Profit/Loss: -8200
+
+Breakdown:
+  Bid: 4, Amount: 8200, Payout: 41000, Status: lost

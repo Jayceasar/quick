@@ -1,0 +1,9 @@
+User ID: JZ84FfZccKeWhIfkAAiu
+User Name: robot
+Ticket ID: JZ84FfZccKeWhIfkAAiu_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 5400
+Total Earnings: 0
+Profit/Loss: -5400
+
+Breakdown:
+  Bid: 4, Amount: 5400, Payout: 27000, Status: lost

@@ -1,0 +1,9 @@
+User ID: 8TFD6bHtw-M8xQETAAaD
+User Name: robot
+Ticket ID: 8TFD6bHtw-M8xQETAAaD_51aaa087-b7d2-477a-9555-272cadfee5a8
+Total Bid Amount: 1100
+Total Earnings: 0
+Profit/Loss: -1100
+
+Breakdown:
+  Bid: 4, Amount: 1100, Payout: 5500, Status: lost

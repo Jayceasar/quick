@@ -1,0 +1,9 @@
+User ID: uakTDAIO7sh3io19AA0R
+User Name: robot
+Ticket ID: uakTDAIO7sh3io19AA0R_4ba02ed2-32dc-4fb6-b96c-0c7d28623e86
+Total Bid Amount: 2900
+Total Earnings: 0
+Profit/Loss: -2900
+
+Breakdown:
+  Bid: 3, Amount: 2900, Payout: 14500, Status: lost

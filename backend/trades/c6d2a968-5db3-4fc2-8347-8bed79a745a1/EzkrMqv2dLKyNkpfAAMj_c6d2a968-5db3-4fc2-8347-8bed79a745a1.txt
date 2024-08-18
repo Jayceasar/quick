@@ -1,0 +1,9 @@
+User ID: EzkrMqv2dLKyNkpfAAMj
+User Name: robot
+Ticket ID: EzkrMqv2dLKyNkpfAAMj_c6d2a968-5db3-4fc2-8347-8bed79a745a1
+Total Bid Amount: 7800
+Total Earnings: 0
+Profit/Loss: -7800
+
+Breakdown:
+  Bid: 1, Amount: 7800, Payout: 39000, Status: lost

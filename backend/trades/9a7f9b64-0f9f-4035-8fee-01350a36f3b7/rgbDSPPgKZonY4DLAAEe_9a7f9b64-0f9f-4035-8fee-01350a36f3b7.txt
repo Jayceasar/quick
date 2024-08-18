@@ -1,0 +1,10 @@
+User ID: rgbDSPPgKZonY4DLAAEe
+User Name: robot
+Ticket ID: rgbDSPPgKZonY4DLAAEe_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 8500
+Total Earnings: 0
+Profit/Loss: -8500
+
+Breakdown:
+  Bid: 4, Amount: 5500, Payout: 27500, Status: lost
+  Bid: 4, Amount: 3000, Payout: 15000, Status: lost

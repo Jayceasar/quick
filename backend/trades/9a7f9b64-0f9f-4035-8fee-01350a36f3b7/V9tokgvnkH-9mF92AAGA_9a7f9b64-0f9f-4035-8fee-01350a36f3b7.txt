@@ -1,0 +1,10 @@
+User ID: V9tokgvnkH-9mF92AAGA
+User Name: robot
+Ticket ID: V9tokgvnkH-9mF92AAGA_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 15100
+Total Earnings: 0
+Profit/Loss: -15100
+
+Breakdown:
+  Bid: 4, Amount: 7400, Payout: 37000, Status: lost
+  Bid: 5, Amount: 7700, Payout: 38500, Status: lost

@@ -1,0 +1,9 @@
+User ID: nCGUSR_NVpby4GXXAAM4
+User Name: robot
+Ticket ID: nCGUSR_NVpby4GXXAAM4_b7702871-94c5-4aa2-a465-bc5c183e2b58
+Total Bid Amount: 8000
+Total Earnings: 40000
+Profit/Loss: 32000
+
+Breakdown:
+  Bid: 5, Amount: 8000, Payout: 40000, Status: won

@@ -1,0 +1,9 @@
+User ID: H94vg5_BxIc8MwBcAAQN
+User Name: robot
+Ticket ID: H94vg5_BxIc8MwBcAAQN_6ccaeea3-75f3-4c47-90f7-0f988c85c9cb
+Total Bid Amount: 1000
+Total Earnings: 0
+Profit/Loss: -1000
+
+Breakdown:
+  Bid: 4, Amount: 1000, Payout: 5000, Status: lost

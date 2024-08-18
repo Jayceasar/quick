@@ -1,0 +1,9 @@
+User ID: 0cCr58BhVR7Hg-dLAAb_
+User Name: robot
+Ticket ID: 0cCr58BhVR7Hg-dLAAb__41f66e63-46da-4d74-8154-5daefd756864
+Total Bid Amount: 1300
+Total Earnings: 0
+Profit/Loss: -1300
+
+Breakdown:
+  Bid: 3, Amount: 1300, Payout: 6500, Status: lost

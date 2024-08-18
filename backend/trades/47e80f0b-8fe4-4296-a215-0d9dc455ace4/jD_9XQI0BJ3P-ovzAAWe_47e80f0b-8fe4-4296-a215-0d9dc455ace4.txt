@@ -1,0 +1,9 @@
+User ID: jD_9XQI0BJ3P-ovzAAWe
+User Name: robot
+Ticket ID: jD_9XQI0BJ3P-ovzAAWe_47e80f0b-8fe4-4296-a215-0d9dc455ace4
+Total Bid Amount: 5100
+Total Earnings: 0
+Profit/Loss: -5100
+
+Breakdown:
+  Bid: 4, Amount: 5100, Payout: 25500, Status: lost

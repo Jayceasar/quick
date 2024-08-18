@@ -1,0 +1,9 @@
+User ID: AAumMeFKKAuM6KSdAAP7
+User Name: robot
+Ticket ID: AAumMeFKKAuM6KSdAAP7_c6d2a968-5db3-4fc2-8347-8bed79a745a1
+Total Bid Amount: 8900
+Total Earnings: 0
+Profit/Loss: -8900
+
+Breakdown:
+  Bid: 6, Amount: 8900, Payout: 44500, Status: lost

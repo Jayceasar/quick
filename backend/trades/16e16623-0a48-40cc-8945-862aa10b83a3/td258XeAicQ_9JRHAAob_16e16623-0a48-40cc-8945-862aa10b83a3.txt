@@ -1,0 +1,10 @@
+User ID: td258XeAicQ_9JRHAAob
+User Name: robot
+Ticket ID: td258XeAicQ_9JRHAAob_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 5700
+Total Earnings: 0
+Profit/Loss: -5700
+
+Breakdown:
+  Bid: 5, Amount: 5600, Payout: 28000, Status: lost
+  Bid: 6, Amount: 100, Payout: 500, Status: lost

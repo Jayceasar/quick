@@ -1,0 +1,9 @@
+User ID: AkBDw71ykyV3dztKAAOl
+User Name: robot
+Ticket ID: AkBDw71ykyV3dztKAAOl_6ccaeea3-75f3-4c47-90f7-0f988c85c9cb
+Total Bid Amount: 1900
+Total Earnings: 9500
+Profit/Loss: 7600
+
+Breakdown:
+  Bid: 3, Amount: 1900, Payout: 9500, Status: won

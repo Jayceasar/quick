@@ -1,0 +1,10 @@
+User ID: Y60bz9S0YP1NIf_zAAZ3
+User Name: robot
+Ticket ID: Y60bz9S0YP1NIf_zAAZ3_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 10600
+Total Earnings: 0
+Profit/Loss: -10600
+
+Breakdown:
+  Bid: 6, Amount: 2200, Payout: 11000, Status: lost
+  Bid: 6, Amount: 8400, Payout: 42000, Status: lost

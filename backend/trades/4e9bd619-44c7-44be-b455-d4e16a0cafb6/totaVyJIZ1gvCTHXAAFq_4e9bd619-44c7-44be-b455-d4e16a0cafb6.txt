@@ -1,0 +1,10 @@
+User ID: totaVyJIZ1gvCTHXAAFq
+User Name: robot
+Ticket ID: totaVyJIZ1gvCTHXAAFq_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 9100
+Total Earnings: 0
+Profit/Loss: -9100
+
+Breakdown:
+  Bid: 3, Amount: 4800, Payout: 24000, Status: lost
+  Bid: 6, Amount: 4300, Payout: 21500, Status: lost

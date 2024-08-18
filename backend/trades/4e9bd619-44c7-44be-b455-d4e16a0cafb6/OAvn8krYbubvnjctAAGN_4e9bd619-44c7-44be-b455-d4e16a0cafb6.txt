@@ -1,0 +1,9 @@
+User ID: OAvn8krYbubvnjctAAGN
+User Name: robot
+Ticket ID: OAvn8krYbubvnjctAAGN_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 3100
+Total Earnings: 0
+Profit/Loss: -3100
+
+Breakdown:
+  Bid: 1, Amount: 3100, Payout: 15500, Status: lost

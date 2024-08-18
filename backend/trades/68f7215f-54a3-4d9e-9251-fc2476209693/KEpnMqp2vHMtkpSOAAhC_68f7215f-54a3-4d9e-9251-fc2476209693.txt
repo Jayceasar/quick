@@ -1,0 +1,9 @@
+User ID: KEpnMqp2vHMtkpSOAAhC
+User Name: robot
+Ticket ID: KEpnMqp2vHMtkpSOAAhC_68f7215f-54a3-4d9e-9251-fc2476209693
+Total Bid Amount: 3200
+Total Earnings: 16000
+Profit/Loss: 12800
+
+Breakdown:
+  Bid: 1, Amount: 3200, Payout: 16000, Status: won

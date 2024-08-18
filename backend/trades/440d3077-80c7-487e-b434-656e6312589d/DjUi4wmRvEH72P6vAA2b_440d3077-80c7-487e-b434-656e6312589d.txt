@@ -1,0 +1,9 @@
+User ID: DjUi4wmRvEH72P6vAA2b
+User Name: robot
+Ticket ID: DjUi4wmRvEH72P6vAA2b_440d3077-80c7-487e-b434-656e6312589d
+Total Bid Amount: 4300
+Total Earnings: 21500
+Profit/Loss: 17200
+
+Breakdown:
+  Bid: 1, Amount: 4300, Payout: 21500, Status: won

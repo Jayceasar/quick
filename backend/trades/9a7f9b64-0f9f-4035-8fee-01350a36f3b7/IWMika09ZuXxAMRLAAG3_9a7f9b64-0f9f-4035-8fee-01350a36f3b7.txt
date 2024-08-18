@@ -1,0 +1,10 @@
+User ID: IWMika09ZuXxAMRLAAG3
+User Name: robot
+Ticket ID: IWMika09ZuXxAMRLAAG3_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 5400
+Total Earnings: 0
+Profit/Loss: -5400
+
+Breakdown:
+  Bid: 3, Amount: 4900, Payout: 24500, Status: lost
+  Bid: 4, Amount: 500, Payout: 2500, Status: lost

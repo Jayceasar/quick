@@ -1,0 +1,9 @@
+User ID: Ks-6--FEJRyrpc3tAAZt
+User Name: robot
+Ticket ID: Ks-6--FEJRyrpc3tAAZt_41f66e63-46da-4d74-8154-5daefd756864
+Total Bid Amount: 7200
+Total Earnings: 0
+Profit/Loss: -7200
+
+Breakdown:
+  Bid: 3, Amount: 7200, Payout: 36000, Status: lost

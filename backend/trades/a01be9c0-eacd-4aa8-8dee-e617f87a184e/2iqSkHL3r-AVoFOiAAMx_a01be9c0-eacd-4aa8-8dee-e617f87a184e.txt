@@ -1,0 +1,9 @@
+User ID: 2iqSkHL3r-AVoFOiAAMx
+User Name: robot
+Ticket ID: 2iqSkHL3r-AVoFOiAAMx_a01be9c0-eacd-4aa8-8dee-e617f87a184e
+Total Bid Amount: 800
+Total Earnings: 0
+Profit/Loss: -800
+
+Breakdown:
+  Bid: 4, Amount: 800, Payout: 4000, Status: lost

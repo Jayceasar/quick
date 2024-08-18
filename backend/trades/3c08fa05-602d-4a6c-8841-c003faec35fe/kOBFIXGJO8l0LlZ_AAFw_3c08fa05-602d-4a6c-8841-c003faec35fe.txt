@@ -1,0 +1,9 @@
+User ID: kOBFIXGJO8l0LlZ_AAFw
+User Name: robot
+Ticket ID: kOBFIXGJO8l0LlZ_AAFw_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 6600
+Total Earnings: 0
+Profit/Loss: -6600
+
+Breakdown:
+  Bid: 3, Amount: 6600, Payout: 33000, Status: lost

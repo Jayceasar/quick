@@ -1,0 +1,9 @@
+User ID: hCLGe5vRXDH2iLM6AAIS
+User Name: robot
+Ticket ID: hCLGe5vRXDH2iLM6AAIS_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 7500
+Total Earnings: 0
+Profit/Loss: -7500
+
+Breakdown:
+  Bid: 4, Amount: 7500, Payout: 37500, Status: lost

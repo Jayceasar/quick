@@ -1,0 +1,9 @@
+User ID: PfFctxLV8P9Jf4_cAAJD
+User Name: robot
+Ticket ID: PfFctxLV8P9Jf4_cAAJD_3750ca25-a9f1-4278-85de-ccbff503fd45
+Total Bid Amount: 6100
+Total Earnings: 30500
+Profit/Loss: 24400
+
+Breakdown:
+  Bid: 6, Amount: 6100, Payout: 30500, Status: won

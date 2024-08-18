@@ -1,0 +1,9 @@
+User ID: 4vFhJfUGgs0mSsl4AAaw
+User Name: robot
+Ticket ID: 4vFhJfUGgs0mSsl4AAaw_1ec01398-941f-4051-b478-12bf2e82e9cd
+Total Bid Amount: 2300
+Total Earnings: 0
+Profit/Loss: -2300
+
+Breakdown:
+  Bid: 4, Amount: 2300, Payout: 11500, Status: lost

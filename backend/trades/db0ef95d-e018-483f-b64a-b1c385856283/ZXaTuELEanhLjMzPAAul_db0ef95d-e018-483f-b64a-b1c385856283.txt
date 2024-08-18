@@ -1,0 +1,9 @@
+User ID: ZXaTuELEanhLjMzPAAul
+User Name: robot
+Ticket ID: ZXaTuELEanhLjMzPAAul_db0ef95d-e018-483f-b64a-b1c385856283
+Total Bid Amount: 4800
+Total Earnings: 0
+Profit/Loss: -4800
+
+Breakdown:
+  Bid: 6, Amount: 4800, Payout: 24000, Status: lost

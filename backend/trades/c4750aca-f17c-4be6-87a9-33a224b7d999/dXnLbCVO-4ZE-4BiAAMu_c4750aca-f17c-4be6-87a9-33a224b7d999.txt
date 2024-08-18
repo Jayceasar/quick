@@ -1,0 +1,9 @@
+User ID: dXnLbCVO-4ZE-4BiAAMu
+User Name: robot
+Ticket ID: dXnLbCVO-4ZE-4BiAAMu_c4750aca-f17c-4be6-87a9-33a224b7d999
+Total Bid Amount: 4600
+Total Earnings: 0
+Profit/Loss: -4600
+
+Breakdown:
+  Bid: 2, Amount: 4600, Payout: 23000, Status: lost

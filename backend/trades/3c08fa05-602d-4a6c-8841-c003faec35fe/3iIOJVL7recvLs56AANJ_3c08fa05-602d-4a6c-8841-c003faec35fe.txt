@@ -1,0 +1,10 @@
+User ID: 3iIOJVL7recvLs56AANJ
+User Name: robot
+Ticket ID: 3iIOJVL7recvLs56AANJ_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 12600
+Total Earnings: 63000
+Profit/Loss: 50400
+
+Breakdown:
+  Bid: 5, Amount: 2900, Payout: 14500, Status: won
+  Bid: 5, Amount: 9700, Payout: 48500, Status: won

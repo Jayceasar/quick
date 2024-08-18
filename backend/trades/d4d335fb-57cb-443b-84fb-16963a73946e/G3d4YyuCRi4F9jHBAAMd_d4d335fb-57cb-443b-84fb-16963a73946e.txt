@@ -1,0 +1,9 @@
+User ID: G3d4YyuCRi4F9jHBAAMd
+User Name: robot
+Ticket ID: G3d4YyuCRi4F9jHBAAMd_d4d335fb-57cb-443b-84fb-16963a73946e
+Total Bid Amount: 3200
+Total Earnings: 0
+Profit/Loss: -3200
+
+Breakdown:
+  Bid: 2, Amount: 3200, Payout: 16000, Status: lost

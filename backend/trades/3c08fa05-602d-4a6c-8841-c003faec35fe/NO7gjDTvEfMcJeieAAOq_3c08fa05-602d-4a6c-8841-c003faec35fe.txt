@@ -1,0 +1,10 @@
+User ID: NO7gjDTvEfMcJeieAAOq
+User Name: robot
+Ticket ID: NO7gjDTvEfMcJeieAAOq_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 13300
+Total Earnings: 0
+Profit/Loss: -13300
+
+Breakdown:
+  Bid: 1, Amount: 9900, Payout: 49500, Status: lost
+  Bid: 6, Amount: 3400, Payout: 17000, Status: lost

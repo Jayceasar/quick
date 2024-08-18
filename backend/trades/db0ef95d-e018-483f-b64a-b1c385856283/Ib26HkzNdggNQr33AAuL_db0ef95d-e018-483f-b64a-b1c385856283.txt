@@ -1,0 +1,9 @@
+User ID: Ib26HkzNdggNQr33AAuL
+User Name: robot
+Ticket ID: Ib26HkzNdggNQr33AAuL_db0ef95d-e018-483f-b64a-b1c385856283
+Total Bid Amount: 1700
+Total Earnings: 0
+Profit/Loss: -1700
+
+Breakdown:
+  Bid: 2, Amount: 1700, Payout: 8500, Status: lost

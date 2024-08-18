@@ -1,0 +1,9 @@
+User ID: fns_XDckt-8ccZhHAAiN
+User Name: robot
+Ticket ID: fns_XDckt-8ccZhHAAiN_7f98a070-8bf4-4a36-ac88-f1a4a7102cc1
+Total Bid Amount: 400
+Total Earnings: 0
+Profit/Loss: -400
+
+Breakdown:
+  Bid: 2, Amount: 400, Payout: 2000, Status: lost

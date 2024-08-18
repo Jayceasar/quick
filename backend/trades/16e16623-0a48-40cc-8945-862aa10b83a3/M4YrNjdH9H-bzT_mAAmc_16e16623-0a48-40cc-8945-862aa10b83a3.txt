@@ -1,0 +1,10 @@
+User ID: M4YrNjdH9H-bzT_mAAmc
+User Name: robot
+Ticket ID: M4YrNjdH9H-bzT_mAAmc_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 14600
+Total Earnings: 0
+Profit/Loss: -14600
+
+Breakdown:
+  Bid: 4, Amount: 4600, Payout: 23000, Status: lost
+  Bid: 6, Amount: 10000, Payout: 50000, Status: lost

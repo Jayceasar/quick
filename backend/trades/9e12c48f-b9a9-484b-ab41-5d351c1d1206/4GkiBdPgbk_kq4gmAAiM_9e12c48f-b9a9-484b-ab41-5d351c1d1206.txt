@@ -1,0 +1,9 @@
+User ID: 4GkiBdPgbk_kq4gmAAiM
+User Name: robot
+Ticket ID: 4GkiBdPgbk_kq4gmAAiM_9e12c48f-b9a9-484b-ab41-5d351c1d1206
+Total Bid Amount: 2600
+Total Earnings: 0
+Profit/Loss: -2600
+
+Breakdown:
+  Bid: 5, Amount: 2600, Payout: 13000, Status: lost

@@ -1,0 +1,9 @@
+User ID: SIUP6TTyUh5RiYVJAAaT
+User Name: robot
+Ticket ID: SIUP6TTyUh5RiYVJAAaT_ca7e4dec-4d85-462c-9ca8-f41f30346fc3
+Total Bid Amount: 8100
+Total Earnings: 0
+Profit/Loss: -8100
+
+Breakdown:
+  Bid: 6, Amount: 8100, Payout: 40500, Status: lost

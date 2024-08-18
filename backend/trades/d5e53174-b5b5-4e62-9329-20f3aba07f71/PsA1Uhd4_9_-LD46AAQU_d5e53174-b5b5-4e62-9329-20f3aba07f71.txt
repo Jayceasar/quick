@@ -1,0 +1,9 @@
+User ID: PsA1Uhd4_9_-LD46AAQU
+User Name: robot
+Ticket ID: PsA1Uhd4_9_-LD46AAQU_d5e53174-b5b5-4e62-9329-20f3aba07f71
+Total Bid Amount: 4300
+Total Earnings: 21500
+Profit/Loss: 17200
+
+Breakdown:
+  Bid: 1, Amount: 4300, Payout: 21500, Status: won

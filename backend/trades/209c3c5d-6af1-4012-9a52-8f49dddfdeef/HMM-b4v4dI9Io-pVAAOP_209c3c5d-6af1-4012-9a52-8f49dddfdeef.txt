@@ -1,0 +1,9 @@
+User ID: HMM-b4v4dI9Io-pVAAOP
+User Name: robot
+Ticket ID: HMM-b4v4dI9Io-pVAAOP_209c3c5d-6af1-4012-9a52-8f49dddfdeef
+Total Bid Amount: 3200
+Total Earnings: 0
+Profit/Loss: -3200
+
+Breakdown:
+  Bid: 4, Amount: 3200, Payout: 16000, Status: lost

@@ -1,0 +1,9 @@
+User ID: b-GMuS8-MsEiK8TuAAUg
+User Name: robot
+Ticket ID: b-GMuS8-MsEiK8TuAAUg_fd914ecb-2e57-4006-9a27-3601ecf1d133
+Total Bid Amount: 3700
+Total Earnings: 18500
+Profit/Loss: 14800
+
+Breakdown:
+  Bid: 5, Amount: 3700, Payout: 18500, Status: won

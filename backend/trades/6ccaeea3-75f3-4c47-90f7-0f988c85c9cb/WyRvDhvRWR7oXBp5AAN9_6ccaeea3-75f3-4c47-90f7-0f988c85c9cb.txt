@@ -1,0 +1,9 @@
+User ID: WyRvDhvRWR7oXBp5AAN9
+User Name: robot
+Ticket ID: WyRvDhvRWR7oXBp5AAN9_6ccaeea3-75f3-4c47-90f7-0f988c85c9cb
+Total Bid Amount: 7300
+Total Earnings: 0
+Profit/Loss: -7300
+
+Breakdown:
+  Bid: 5, Amount: 7300, Payout: 36500, Status: lost

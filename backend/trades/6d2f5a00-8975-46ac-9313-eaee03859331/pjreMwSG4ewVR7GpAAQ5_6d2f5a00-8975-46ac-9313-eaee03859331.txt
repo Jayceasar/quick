@@ -1,0 +1,10 @@
+User ID: pjreMwSG4ewVR7GpAAQ5
+User Name: robot
+Ticket ID: pjreMwSG4ewVR7GpAAQ5_6d2f5a00-8975-46ac-9313-eaee03859331
+Total Bid Amount: 6200
+Total Earnings: 21500
+Profit/Loss: 15300
+
+Breakdown:
+  Bid: 1, Amount: 1900, Payout: 9500, Status: lost
+  Bid: 2, Amount: 4300, Payout: 21500, Status: won

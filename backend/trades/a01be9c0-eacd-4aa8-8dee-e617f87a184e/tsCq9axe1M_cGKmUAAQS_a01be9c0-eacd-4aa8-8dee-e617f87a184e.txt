@@ -1,0 +1,9 @@
+User ID: tsCq9axe1M_cGKmUAAQS
+User Name: robot
+Ticket ID: tsCq9axe1M_cGKmUAAQS_a01be9c0-eacd-4aa8-8dee-e617f87a184e
+Total Bid Amount: 7500
+Total Earnings: 0
+Profit/Loss: -7500
+
+Breakdown:
+  Bid: 3, Amount: 7500, Payout: 37500, Status: lost

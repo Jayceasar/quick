@@ -1,0 +1,10 @@
+User ID: gC9JUpX9ceRiUCfRAAFR
+User Name: robot
+Ticket ID: gC9JUpX9ceRiUCfRAAFR_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 11600
+Total Earnings: 0
+Profit/Loss: -11600
+
+Breakdown:
+  Bid: 1, Amount: 7000, Payout: 35000, Status: lost
+  Bid: 1, Amount: 4600, Payout: 23000, Status: lost

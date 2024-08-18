@@ -1,0 +1,9 @@
+User ID: c-vw7NSM8WweXPcpAAF0
+User Name: robot
+Ticket ID: c-vw7NSM8WweXPcpAAF0_bb5e3028-8c52-4b98-a381-0c2c68383464
+Total Bid Amount: 9200
+Total Earnings: 0
+Profit/Loss: -9200
+
+Breakdown:
+  Bid: 3, Amount: 9200, Payout: 46000, Status: lost

@@ -1,0 +1,9 @@
+User ID: SSwtCXECc-t1t9yFAAx9
+User Name: robot
+Ticket ID: SSwtCXECc-t1t9yFAAx9_68e62d25-465c-4fa3-a30f-dedebd975de0
+Total Bid Amount: 8900
+Total Earnings: 44500
+Profit/Loss: 35600
+
+Breakdown:
+  Bid: 5, Amount: 8900, Payout: 44500, Status: won

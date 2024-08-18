@@ -1,0 +1,9 @@
+User ID: Nxl-KvJNyY0j94Z-AAZ5
+User Name: robot
+Ticket ID: Nxl-KvJNyY0j94Z-AAZ5_21d39602-8afc-46e7-aeb0-e79f363e1d3a
+Total Bid Amount: 5800
+Total Earnings: 0
+Profit/Loss: -5800
+
+Breakdown:
+  Bid: 1, Amount: 5800, Payout: 29000, Status: lost

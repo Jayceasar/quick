@@ -1,0 +1,9 @@
+User ID: oxMVWI6kr-dLa2QjAAHH
+User Name: robot
+Ticket ID: oxMVWI6kr-dLa2QjAAHH_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 1700
+Total Earnings: 0
+Profit/Loss: -1700
+
+Breakdown:
+  Bid: 3, Amount: 1700, Payout: 8500, Status: lost

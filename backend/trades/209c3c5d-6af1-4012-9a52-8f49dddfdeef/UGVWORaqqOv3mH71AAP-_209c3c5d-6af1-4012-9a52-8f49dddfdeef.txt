@@ -1,0 +1,9 @@
+User ID: UGVWORaqqOv3mH71AAP-
+User Name: robot
+Ticket ID: UGVWORaqqOv3mH71AAP-_209c3c5d-6af1-4012-9a52-8f49dddfdeef
+Total Bid Amount: 1200
+Total Earnings: 0
+Profit/Loss: -1200
+
+Breakdown:
+  Bid: 4, Amount: 1200, Payout: 6000, Status: lost

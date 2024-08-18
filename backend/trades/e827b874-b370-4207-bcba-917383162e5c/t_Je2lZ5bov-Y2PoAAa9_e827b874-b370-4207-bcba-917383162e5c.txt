@@ -1,0 +1,10 @@
+User ID: t_Je2lZ5bov-Y2PoAAa9
+User Name: robot
+Ticket ID: t_Je2lZ5bov-Y2PoAAa9_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 13900
+Total Earnings: 0
+Profit/Loss: -13900
+
+Breakdown:
+  Bid: 1, Amount: 10000, Payout: 50000, Status: lost
+  Bid: 5, Amount: 3900, Payout: 19500, Status: lost

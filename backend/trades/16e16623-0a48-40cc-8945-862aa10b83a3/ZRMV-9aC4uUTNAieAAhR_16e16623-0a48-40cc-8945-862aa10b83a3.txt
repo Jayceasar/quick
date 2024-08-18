@@ -1,0 +1,9 @@
+User ID: ZRMV-9aC4uUTNAieAAhR
+User Name: robot
+Ticket ID: ZRMV-9aC4uUTNAieAAhR_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 8000
+Total Earnings: 0
+Profit/Loss: -8000
+
+Breakdown:
+  Bid: 4, Amount: 8000, Payout: 40000, Status: lost

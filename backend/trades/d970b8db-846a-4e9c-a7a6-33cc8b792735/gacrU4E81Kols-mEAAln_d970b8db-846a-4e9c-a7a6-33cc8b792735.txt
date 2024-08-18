@@ -1,0 +1,9 @@
+User ID: gacrU4E81Kols-mEAAln
+User Name: robot
+Ticket ID: gacrU4E81Kols-mEAAln_d970b8db-846a-4e9c-a7a6-33cc8b792735
+Total Bid Amount: 2800
+Total Earnings: 0
+Profit/Loss: -2800
+
+Breakdown:
+  Bid: 5, Amount: 2800, Payout: 14000, Status: lost

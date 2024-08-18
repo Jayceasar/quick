@@ -1,0 +1,9 @@
+User ID: JOcPonIpb8b9Q-71AAtx
+User Name: robot
+Ticket ID: JOcPonIpb8b9Q-71AAtx_db0ef95d-e018-483f-b64a-b1c385856283
+Total Bid Amount: 7900
+Total Earnings: 0
+Profit/Loss: -7900
+
+Breakdown:
+  Bid: 4, Amount: 7900, Payout: 39500, Status: lost

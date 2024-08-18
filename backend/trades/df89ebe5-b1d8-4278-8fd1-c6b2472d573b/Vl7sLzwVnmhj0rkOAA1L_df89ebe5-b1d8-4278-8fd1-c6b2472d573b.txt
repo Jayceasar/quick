@@ -1,0 +1,9 @@
+User ID: Vl7sLzwVnmhj0rkOAA1L
+User Name: robot
+Ticket ID: Vl7sLzwVnmhj0rkOAA1L_df89ebe5-b1d8-4278-8fd1-c6b2472d573b
+Total Bid Amount: 9300
+Total Earnings: 0
+Profit/Loss: -9300
+
+Breakdown:
+  Bid: 6, Amount: 9300, Payout: 46500, Status: lost

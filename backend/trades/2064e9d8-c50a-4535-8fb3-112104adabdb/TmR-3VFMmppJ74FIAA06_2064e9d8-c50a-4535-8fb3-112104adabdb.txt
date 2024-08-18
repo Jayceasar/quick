@@ -1,0 +1,9 @@
+User ID: TmR-3VFMmppJ74FIAA06
+User Name: robot
+Ticket ID: TmR-3VFMmppJ74FIAA06_2064e9d8-c50a-4535-8fb3-112104adabdb
+Total Bid Amount: 4400
+Total Earnings: 0
+Profit/Loss: -4400
+
+Breakdown:
+  Bid: 1, Amount: 4400, Payout: 22000, Status: lost

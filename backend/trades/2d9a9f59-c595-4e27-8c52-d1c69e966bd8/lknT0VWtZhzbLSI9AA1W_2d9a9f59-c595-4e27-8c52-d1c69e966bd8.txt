@@ -1,0 +1,9 @@
+User ID: lknT0VWtZhzbLSI9AA1W
+User Name: robot
+Ticket ID: lknT0VWtZhzbLSI9AA1W_2d9a9f59-c595-4e27-8c52-d1c69e966bd8
+Total Bid Amount: 8600
+Total Earnings: 0
+Profit/Loss: -8600
+
+Breakdown:
+  Bid: 4, Amount: 8600, Payout: 43000, Status: lost

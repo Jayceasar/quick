@@ -1,0 +1,10 @@
+User ID: tHKI3TzC2ZLGpgCoAAEf
+User Name: robot
+Ticket ID: tHKI3TzC2ZLGpgCoAAEf_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 14100
+Total Earnings: 47500
+Profit/Loss: 33400
+
+Breakdown:
+  Bid: 4, Amount: 4600, Payout: 23000, Status: lost
+  Bid: 6, Amount: 9500, Payout: 47500, Status: won

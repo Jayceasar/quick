@@ -1,0 +1,9 @@
+User ID: luget_a9ERvLucA6AAl-
+User Name: robot
+Ticket ID: luget_a9ERvLucA6AAl-_9b72d720-b462-47ff-83f5-bf8ba0942dab
+Total Bid Amount: 4800
+Total Earnings: 24000
+Profit/Loss: 19200
+
+Breakdown:
+  Bid: 5, Amount: 4800, Payout: 24000, Status: won

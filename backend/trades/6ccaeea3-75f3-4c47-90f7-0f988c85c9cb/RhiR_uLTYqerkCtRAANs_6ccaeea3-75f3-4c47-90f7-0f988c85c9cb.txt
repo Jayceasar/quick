@@ -1,0 +1,9 @@
+User ID: RhiR_uLTYqerkCtRAANs
+User Name: robot
+Ticket ID: RhiR_uLTYqerkCtRAANs_6ccaeea3-75f3-4c47-90f7-0f988c85c9cb
+Total Bid Amount: 800
+Total Earnings: 0
+Profit/Loss: -800
+
+Breakdown:
+  Bid: 4, Amount: 800, Payout: 4000, Status: lost

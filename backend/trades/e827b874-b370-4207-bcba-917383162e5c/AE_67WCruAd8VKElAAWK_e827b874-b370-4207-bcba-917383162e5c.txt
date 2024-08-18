@@ -1,0 +1,10 @@
+User ID: AE_67WCruAd8VKElAAWK
+User Name: robot
+Ticket ID: AE_67WCruAd8VKElAAWK_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 10000
+Total Earnings: 0
+Profit/Loss: -10000
+
+Breakdown:
+  Bid: 3, Amount: 9200, Payout: 46000, Status: lost
+  Bid: 4, Amount: 800, Payout: 4000, Status: lost

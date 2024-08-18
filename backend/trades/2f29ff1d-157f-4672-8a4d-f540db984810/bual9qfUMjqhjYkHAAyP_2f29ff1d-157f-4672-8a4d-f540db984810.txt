@@ -1,0 +1,9 @@
+User ID: bual9qfUMjqhjYkHAAyP
+User Name: robot
+Ticket ID: bual9qfUMjqhjYkHAAyP_2f29ff1d-157f-4672-8a4d-f540db984810
+Total Bid Amount: 5500
+Total Earnings: 0
+Profit/Loss: -5500
+
+Breakdown:
+  Bid: 2, Amount: 5500, Payout: 27500, Status: lost

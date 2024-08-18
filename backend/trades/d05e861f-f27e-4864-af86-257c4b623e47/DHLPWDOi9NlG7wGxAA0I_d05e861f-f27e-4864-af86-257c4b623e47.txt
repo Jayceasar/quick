@@ -1,0 +1,9 @@
+User ID: DHLPWDOi9NlG7wGxAA0I
+User Name: robot
+Ticket ID: DHLPWDOi9NlG7wGxAA0I_d05e861f-f27e-4864-af86-257c4b623e47
+Total Bid Amount: 2600
+Total Earnings: 0
+Profit/Loss: -2600
+
+Breakdown:
+  Bid: 5, Amount: 2600, Payout: 13000, Status: lost

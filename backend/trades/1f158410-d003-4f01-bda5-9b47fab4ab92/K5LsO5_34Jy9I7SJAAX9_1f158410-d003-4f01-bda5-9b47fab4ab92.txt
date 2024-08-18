@@ -1,0 +1,9 @@
+User ID: K5LsO5_34Jy9I7SJAAX9
+User Name: robot
+Ticket ID: K5LsO5_34Jy9I7SJAAX9_1f158410-d003-4f01-bda5-9b47fab4ab92
+Total Bid Amount: 3100
+Total Earnings: 0
+Profit/Loss: -3100
+
+Breakdown:
+  Bid: 3, Amount: 3100, Payout: 15500, Status: lost

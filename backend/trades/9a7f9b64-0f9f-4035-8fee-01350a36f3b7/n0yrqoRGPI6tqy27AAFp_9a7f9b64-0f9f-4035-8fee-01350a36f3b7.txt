@@ -1,0 +1,10 @@
+User ID: n0yrqoRGPI6tqy27AAFp
+User Name: robot
+Ticket ID: n0yrqoRGPI6tqy27AAFp_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 9000
+Total Earnings: 20000
+Profit/Loss: 11000
+
+Breakdown:
+  Bid: 6, Amount: 4000, Payout: 20000, Status: won
+  Bid: 3, Amount: 5000, Payout: 25000, Status: lost

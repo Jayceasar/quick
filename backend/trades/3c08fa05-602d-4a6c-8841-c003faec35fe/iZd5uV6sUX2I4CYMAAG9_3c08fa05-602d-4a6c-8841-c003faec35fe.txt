@@ -1,0 +1,9 @@
+User ID: iZd5uV6sUX2I4CYMAAG9
+User Name: robot
+Ticket ID: iZd5uV6sUX2I4CYMAAG9_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 2200
+Total Earnings: 0
+Profit/Loss: -2200
+
+Breakdown:
+  Bid: 1, Amount: 2200, Payout: 11000, Status: lost

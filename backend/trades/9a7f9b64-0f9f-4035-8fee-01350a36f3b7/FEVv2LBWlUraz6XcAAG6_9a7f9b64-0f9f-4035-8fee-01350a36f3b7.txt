@@ -1,0 +1,10 @@
+User ID: FEVv2LBWlUraz6XcAAG6
+User Name: robot
+Ticket ID: FEVv2LBWlUraz6XcAAG6_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 7800
+Total Earnings: 0
+Profit/Loss: -7800
+
+Breakdown:
+  Bid: 1, Amount: 6000, Payout: 30000, Status: lost
+  Bid: 2, Amount: 1800, Payout: 9000, Status: lost

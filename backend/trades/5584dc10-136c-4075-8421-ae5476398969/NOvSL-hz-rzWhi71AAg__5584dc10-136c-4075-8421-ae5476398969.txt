@@ -1,0 +1,9 @@
+User ID: NOvSL-hz-rzWhi71AAg_
+User Name: robot
+Ticket ID: NOvSL-hz-rzWhi71AAg__5584dc10-136c-4075-8421-ae5476398969
+Total Bid Amount: 5900
+Total Earnings: 0
+Profit/Loss: -5900
+
+Breakdown:
+  Bid: 1, Amount: 5900, Payout: 29500, Status: lost

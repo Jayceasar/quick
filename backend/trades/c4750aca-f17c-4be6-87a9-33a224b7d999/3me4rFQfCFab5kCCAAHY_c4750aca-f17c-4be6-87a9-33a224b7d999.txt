@@ -1,0 +1,9 @@
+User ID: 3me4rFQfCFab5kCCAAHY
+User Name: robot
+Ticket ID: 3me4rFQfCFab5kCCAAHY_c4750aca-f17c-4be6-87a9-33a224b7d999
+Total Bid Amount: 3800
+Total Earnings: 19000
+Profit/Loss: 15200
+
+Breakdown:
+  Bid: 5, Amount: 3800, Payout: 19000, Status: won

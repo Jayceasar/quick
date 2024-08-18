@@ -1,0 +1,9 @@
+User ID: 5tTJwELtWjudINJpAAjK
+User Name: robot
+Ticket ID: 5tTJwELtWjudINJpAAjK_68f7215f-54a3-4d9e-9251-fc2476209693
+Total Bid Amount: 2800
+Total Earnings: 0
+Profit/Loss: -2800
+
+Breakdown:
+  Bid: 6, Amount: 2800, Payout: 14000, Status: lost

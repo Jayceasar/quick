@@ -1,0 +1,9 @@
+User ID: M3E-oyk3CMWXpJq0AAM6
+User Name: robot
+Ticket ID: M3E-oyk3CMWXpJq0AAM6_d4d335fb-57cb-443b-84fb-16963a73946e
+Total Bid Amount: 4100
+Total Earnings: 0
+Profit/Loss: -4100
+
+Breakdown:
+  Bid: 4, Amount: 4100, Payout: 20500, Status: lost

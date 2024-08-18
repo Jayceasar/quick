@@ -1,0 +1,9 @@
+User ID: DTlKBRmgRcSUnA93AAjE
+User Name: robot
+Ticket ID: DTlKBRmgRcSUnA93AAjE_5584dc10-136c-4075-8421-ae5476398969
+Total Bid Amount: 5800
+Total Earnings: 0
+Profit/Loss: -5800
+
+Breakdown:
+  Bid: 5, Amount: 5800, Payout: 29000, Status: lost

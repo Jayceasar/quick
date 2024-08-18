@@ -1,0 +1,10 @@
+User ID: TfRxITCaJh-KxdnsAAOF
+User Name: robot
+Ticket ID: TfRxITCaJh-KxdnsAAOF_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 18100
+Total Earnings: 42000
+Profit/Loss: 23900
+
+Breakdown:
+  Bid: 5, Amount: 8400, Payout: 42000, Status: won
+  Bid: 4, Amount: 9700, Payout: 48500, Status: lost

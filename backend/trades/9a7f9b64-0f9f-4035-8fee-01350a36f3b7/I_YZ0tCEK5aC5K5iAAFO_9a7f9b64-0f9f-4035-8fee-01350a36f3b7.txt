@@ -1,0 +1,10 @@
+User ID: I_YZ0tCEK5aC5K5iAAFO
+User Name: robot
+Ticket ID: I_YZ0tCEK5aC5K5iAAFO_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 3300
+Total Earnings: 13500
+Profit/Loss: 10200
+
+Breakdown:
+  Bid: 4, Amount: 600, Payout: 3000, Status: lost
+  Bid: 6, Amount: 2700, Payout: 13500, Status: won

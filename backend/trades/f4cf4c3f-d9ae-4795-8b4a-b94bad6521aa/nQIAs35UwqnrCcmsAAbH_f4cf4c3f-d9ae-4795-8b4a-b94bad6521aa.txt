@@ -1,0 +1,9 @@
+User ID: nQIAs35UwqnrCcmsAAbH
+User Name: robot
+Ticket ID: nQIAs35UwqnrCcmsAAbH_f4cf4c3f-d9ae-4795-8b4a-b94bad6521aa
+Total Bid Amount: 2800
+Total Earnings: 0
+Profit/Loss: -2800
+
+Breakdown:
+  Bid: 5, Amount: 2800, Payout: 14000, Status: lost

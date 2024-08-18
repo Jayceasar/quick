@@ -1,0 +1,9 @@
+User ID: mG-StrEGDyyUuG8MAANW
+User Name: robot
+Ticket ID: mG-StrEGDyyUuG8MAANW_d4d335fb-57cb-443b-84fb-16963a73946e
+Total Bid Amount: 2300
+Total Earnings: 11500
+Profit/Loss: 9200
+
+Breakdown:
+  Bid: 3, Amount: 2300, Payout: 11500, Status: won

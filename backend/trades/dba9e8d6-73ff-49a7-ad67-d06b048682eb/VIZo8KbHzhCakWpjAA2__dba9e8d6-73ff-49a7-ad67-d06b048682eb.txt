@@ -1,0 +1,9 @@
+User ID: VIZo8KbHzhCakWpjAA2_
+User Name: robot
+Ticket ID: VIZo8KbHzhCakWpjAA2__dba9e8d6-73ff-49a7-ad67-d06b048682eb
+Total Bid Amount: 8100
+Total Earnings: 0
+Profit/Loss: -8100
+
+Breakdown:
+  Bid: 5, Amount: 8100, Payout: 40500, Status: lost

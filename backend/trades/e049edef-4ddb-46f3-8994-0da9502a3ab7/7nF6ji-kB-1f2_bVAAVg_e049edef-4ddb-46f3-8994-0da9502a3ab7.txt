@@ -1,0 +1,9 @@
+User ID: 7nF6ji-kB-1f2_bVAAVg
+User Name: robot
+Ticket ID: 7nF6ji-kB-1f2_bVAAVg_e049edef-4ddb-46f3-8994-0da9502a3ab7
+Total Bid Amount: 7000
+Total Earnings: 0
+Profit/Loss: -7000
+
+Breakdown:
+  Bid: 2, Amount: 7000, Payout: 35000, Status: lost

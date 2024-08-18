@@ -1,0 +1,10 @@
+User ID: INwXnTzoAA1ZvYzAAAOc
+User Name: robot
+Ticket ID: INwXnTzoAA1ZvYzAAAOc_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 7100
+Total Earnings: 0
+Profit/Loss: -7100
+
+Breakdown:
+  Bid: 3, Amount: 6900, Payout: 34500, Status: lost
+  Bid: 6, Amount: 200, Payout: 1000, Status: lost

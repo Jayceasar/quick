@@ -1,0 +1,9 @@
+User ID: amxkx_DBXeyL-BCHAAiT
+User Name: robot
+Ticket ID: amxkx_DBXeyL-BCHAAiT_5584dc10-136c-4075-8421-ae5476398969
+Total Bid Amount: 5800
+Total Earnings: 0
+Profit/Loss: -5800
+
+Breakdown:
+  Bid: 1, Amount: 5800, Payout: 29000, Status: lost

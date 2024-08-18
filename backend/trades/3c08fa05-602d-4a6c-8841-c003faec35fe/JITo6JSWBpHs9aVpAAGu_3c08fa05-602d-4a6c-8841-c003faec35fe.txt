@@ -1,0 +1,9 @@
+User ID: JITo6JSWBpHs9aVpAAGu
+User Name: robot
+Ticket ID: JITo6JSWBpHs9aVpAAGu_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 3700
+Total Earnings: 18500
+Profit/Loss: 14800
+
+Breakdown:
+  Bid: 5, Amount: 3700, Payout: 18500, Status: won

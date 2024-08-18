@@ -1,0 +1,9 @@
+User ID: oRf8dD_1gcmVblRMAAIX
+User Name: robot
+Ticket ID: oRf8dD_1gcmVblRMAAIX_3750ca25-a9f1-4278-85de-ccbff503fd45
+Total Bid Amount: 400
+Total Earnings: 0
+Profit/Loss: -400
+
+Breakdown:
+  Bid: 5, Amount: 400, Payout: 2000, Status: lost

@@ -1,0 +1,9 @@
+User ID: qStriAb7CIl7ScsQAAau
+User Name: robot
+Ticket ID: qStriAb7CIl7ScsQAAau_41f66e63-46da-4d74-8154-5daefd756864
+Total Bid Amount: 7800
+Total Earnings: 0
+Profit/Loss: -7800
+
+Breakdown:
+  Bid: 1, Amount: 7800, Payout: 39000, Status: lost

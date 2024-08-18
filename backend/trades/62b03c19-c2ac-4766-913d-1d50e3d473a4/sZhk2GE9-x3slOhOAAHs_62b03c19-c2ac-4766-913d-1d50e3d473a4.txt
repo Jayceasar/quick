@@ -1,0 +1,9 @@
+User ID: sZhk2GE9-x3slOhOAAHs
+User Name: robot
+Ticket ID: sZhk2GE9-x3slOhOAAHs_62b03c19-c2ac-4766-913d-1d50e3d473a4
+Total Bid Amount: 6100
+Total Earnings: 0
+Profit/Loss: -6100
+
+Breakdown:
+  Bid: 4, Amount: 6100, Payout: 30500, Status: lost

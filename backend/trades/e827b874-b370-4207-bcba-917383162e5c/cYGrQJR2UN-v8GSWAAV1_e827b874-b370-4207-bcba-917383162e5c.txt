@@ -1,0 +1,10 @@
+User ID: cYGrQJR2UN-v8GSWAAV1
+User Name: robot
+Ticket ID: cYGrQJR2UN-v8GSWAAV1_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 9500
+Total Earnings: 47500
+Profit/Loss: 38000
+
+Breakdown:
+  Bid: 2, Amount: 400, Payout: 2000, Status: won
+  Bid: 2, Amount: 9100, Payout: 45500, Status: won

@@ -1,0 +1,9 @@
+User ID: e4eor12VQ_29nupjAA1K
+User Name: robot
+Ticket ID: e4eor12VQ_29nupjAA1K_3fd168b4-4edd-4385-a14b-998b524d61e6
+Total Bid Amount: 1000
+Total Earnings: 5000
+Profit/Loss: 4000
+
+Breakdown:
+  Bid: 4, Amount: 1000, Payout: 5000, Status: won

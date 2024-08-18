@@ -1,0 +1,9 @@
+User ID: u_7WMfcGjKdRhcRIAANw
+User Name: robot
+Ticket ID: u_7WMfcGjKdRhcRIAANw_3a3c9f6e-ea4d-4148-934a-d93cf7174bd3
+Total Bid Amount: 3100
+Total Earnings: 0
+Profit/Loss: -3100
+
+Breakdown:
+  Bid: 1, Amount: 3100, Payout: 15500, Status: lost

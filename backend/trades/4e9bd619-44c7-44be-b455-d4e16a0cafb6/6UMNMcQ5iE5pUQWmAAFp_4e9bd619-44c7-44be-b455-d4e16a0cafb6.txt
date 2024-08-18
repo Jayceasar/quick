@@ -1,0 +1,10 @@
+User ID: 6UMNMcQ5iE5pUQWmAAFp
+User Name: robot
+Ticket ID: 6UMNMcQ5iE5pUQWmAAFp_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 10200
+Total Earnings: 17500
+Profit/Loss: 7300
+
+Breakdown:
+  Bid: 2, Amount: 3500, Payout: 17500, Status: won
+  Bid: 3, Amount: 6700, Payout: 33500, Status: lost

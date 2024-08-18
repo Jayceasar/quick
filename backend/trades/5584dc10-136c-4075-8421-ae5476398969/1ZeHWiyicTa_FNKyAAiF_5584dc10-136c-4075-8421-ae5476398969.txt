@@ -1,0 +1,9 @@
+User ID: 1ZeHWiyicTa_FNKyAAiF
+User Name: robot
+Ticket ID: 1ZeHWiyicTa_FNKyAAiF_5584dc10-136c-4075-8421-ae5476398969
+Total Bid Amount: 7200
+Total Earnings: 0
+Profit/Loss: -7200
+
+Breakdown:
+  Bid: 1, Amount: 7200, Payout: 36000, Status: lost

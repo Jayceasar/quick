@@ -1,0 +1,10 @@
+User ID: fpgbxjLuSAlsY2y1AAuN
+User Name: robot
+Ticket ID: fpgbxjLuSAlsY2y1AAuN_db0ef95d-e018-483f-b64a-b1c385856283
+Total Bid Amount: 7600
+Total Earnings: 0
+Profit/Loss: -7600
+
+Breakdown:
+  Bid: 5, Amount: 400, Payout: 2000, Status: lost
+  Bid: 5, Amount: 7200, Payout: 36000, Status: lost

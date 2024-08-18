@@ -1,0 +1,9 @@
+User ID: MFg1oXO-_4y_1XBjAAE_
+User Name: robot
+Ticket ID: MFg1oXO-_4y_1XBjAAE__3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 9300
+Total Earnings: 0
+Profit/Loss: -9300
+
+Breakdown:
+  Bid: 6, Amount: 9300, Payout: 46500, Status: lost

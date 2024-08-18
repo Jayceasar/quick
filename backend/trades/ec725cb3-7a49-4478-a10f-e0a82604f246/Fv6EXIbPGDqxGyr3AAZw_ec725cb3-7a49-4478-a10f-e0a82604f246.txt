@@ -1,0 +1,9 @@
+User ID: Fv6EXIbPGDqxGyr3AAZw
+User Name: robot
+Ticket ID: Fv6EXIbPGDqxGyr3AAZw_ec725cb3-7a49-4478-a10f-e0a82604f246
+Total Bid Amount: 2900
+Total Earnings: 0
+Profit/Loss: -2900
+
+Breakdown:
+  Bid: 2, Amount: 2900, Payout: 14500, Status: lost

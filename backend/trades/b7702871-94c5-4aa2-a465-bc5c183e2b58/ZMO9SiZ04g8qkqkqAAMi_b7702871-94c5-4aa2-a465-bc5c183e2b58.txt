@@ -1,0 +1,9 @@
+User ID: ZMO9SiZ04g8qkqkqAAMi
+User Name: robot
+Ticket ID: ZMO9SiZ04g8qkqkqAAMi_b7702871-94c5-4aa2-a465-bc5c183e2b58
+Total Bid Amount: 9500
+Total Earnings: 0
+Profit/Loss: -9500
+
+Breakdown:
+  Bid: 4, Amount: 9500, Payout: 47500, Status: lost

@@ -1,0 +1,10 @@
+User ID: kK_7E5-CM4lUVSnXAAHB
+User Name: robot
+Ticket ID: kK_7E5-CM4lUVSnXAAHB_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 4000
+Total Earnings: 0
+Profit/Loss: -4000
+
+Breakdown:
+  Bid: 5, Amount: 1000, Payout: 5000, Status: lost
+  Bid: 2, Amount: 3000, Payout: 15000, Status: lost

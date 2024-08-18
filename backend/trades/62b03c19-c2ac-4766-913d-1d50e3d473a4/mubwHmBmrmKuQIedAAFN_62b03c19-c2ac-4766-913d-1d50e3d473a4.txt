@@ -1,0 +1,9 @@
+User ID: mubwHmBmrmKuQIedAAFN
+User Name: robot
+Ticket ID: mubwHmBmrmKuQIedAAFN_62b03c19-c2ac-4766-913d-1d50e3d473a4
+Total Bid Amount: 6200
+Total Earnings: 31000
+Profit/Loss: 24800
+
+Breakdown:
+  Bid: 2, Amount: 6200, Payout: 31000, Status: won

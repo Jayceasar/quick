@@ -1,0 +1,16 @@
+User ID: lhUrSrkZjlg-hrxEAAGX
+User Name: test
+Ticket ID: lhUrSrkZjlg-hrxEAAGX_23ea4fa0-53b7-4c8d-86d6-28c8f1c96373
+Total Bid Amount: 4000
+Total Earnings: 2500
+Profit/Loss: -1500
+
+Breakdown:
+  Bid: 2, Amount: 500, Payout: 2500, Status: lost
+  Bid: 3, Amount: 500, Payout: 2500, Status: won
+  Bid: 5, Amount: 500, Payout: 2500, Status: lost
+  Bid: 6, Amount: 500, Payout: 2500, Status: lost
+  Bid: 4, Amount: 500, Payout: 2500, Status: lost
+  Bid: 6, Amount: 500, Payout: 2500, Status: lost
+  Bid: 6, Amount: 500, Payout: 2500, Status: lost
+  Bid: 2, Amount: 500, Payout: 2500, Status: lost

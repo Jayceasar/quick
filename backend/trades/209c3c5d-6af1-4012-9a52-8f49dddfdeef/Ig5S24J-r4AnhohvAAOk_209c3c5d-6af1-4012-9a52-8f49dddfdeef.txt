@@ -1,0 +1,9 @@
+User ID: Ig5S24J-r4AnhohvAAOk
+User Name: robot
+Ticket ID: Ig5S24J-r4AnhohvAAOk_209c3c5d-6af1-4012-9a52-8f49dddfdeef
+Total Bid Amount: 9200
+Total Earnings: 0
+Profit/Loss: -9200
+
+Breakdown:
+  Bid: 6, Amount: 9200, Payout: 46000, Status: lost

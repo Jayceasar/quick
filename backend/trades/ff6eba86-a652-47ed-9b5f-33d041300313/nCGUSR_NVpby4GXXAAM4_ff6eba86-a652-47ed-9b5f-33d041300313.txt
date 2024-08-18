@@ -1,0 +1,9 @@
+User ID: nCGUSR_NVpby4GXXAAM4
+User Name: robot
+Ticket ID: nCGUSR_NVpby4GXXAAM4_ff6eba86-a652-47ed-9b5f-33d041300313
+Total Bid Amount: 2000
+Total Earnings: 0
+Profit/Loss: -2000
+
+Breakdown:
+  Bid: 6, Amount: 2000, Payout: 10000, Status: lost

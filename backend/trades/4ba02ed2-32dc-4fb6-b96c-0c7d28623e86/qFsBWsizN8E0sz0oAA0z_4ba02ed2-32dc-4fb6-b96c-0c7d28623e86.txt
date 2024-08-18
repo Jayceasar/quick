@@ -1,0 +1,9 @@
+User ID: qFsBWsizN8E0sz0oAA0z
+User Name: robot
+Ticket ID: qFsBWsizN8E0sz0oAA0z_4ba02ed2-32dc-4fb6-b96c-0c7d28623e86
+Total Bid Amount: 8800
+Total Earnings: 0
+Profit/Loss: -8800
+
+Breakdown:
+  Bid: 1, Amount: 8800, Payout: 44000, Status: lost

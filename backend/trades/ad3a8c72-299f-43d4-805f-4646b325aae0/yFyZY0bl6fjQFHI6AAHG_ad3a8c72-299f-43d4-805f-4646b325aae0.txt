@@ -1,0 +1,9 @@
+User ID: yFyZY0bl6fjQFHI6AAHG
+User Name: robot
+Ticket ID: yFyZY0bl6fjQFHI6AAHG_ad3a8c72-299f-43d4-805f-4646b325aae0
+Total Bid Amount: 5300
+Total Earnings: 0
+Profit/Loss: -5300
+
+Breakdown:
+  Bid: 6, Amount: 5300, Payout: 26500, Status: lost

@@ -1,0 +1,9 @@
+User ID: aGiL_aEuMAzJtR83AAV4
+User Name: robot
+Ticket ID: aGiL_aEuMAzJtR83AAV4_51aaa087-b7d2-477a-9555-272cadfee5a8
+Total Bid Amount: 8600
+Total Earnings: 0
+Profit/Loss: -8600
+
+Breakdown:
+  Bid: 4, Amount: 8600, Payout: 43000, Status: lost

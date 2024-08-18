@@ -1,0 +1,9 @@
+User ID: soh8vnLomcQM0tOcAA0H
+User Name: robot
+Ticket ID: soh8vnLomcQM0tOcAA0H_9145baa4-fbb4-4c77-91ac-79451b8a8424
+Total Bid Amount: 9200
+Total Earnings: 46000
+Profit/Loss: 36800
+
+Breakdown:
+  Bid: 2, Amount: 9200, Payout: 46000, Status: won

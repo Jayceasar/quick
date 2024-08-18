@@ -1,0 +1,9 @@
+User ID: PuzNFBMeBMZ2Sz9HAAaZ
+User Name: robot
+Ticket ID: PuzNFBMeBMZ2Sz9HAAaZ_7a85e992-2509-45aa-84c7-d86854db7bba
+Total Bid Amount: 200
+Total Earnings: 1000
+Profit/Loss: 800
+
+Breakdown:
+  Bid: 6, Amount: 200, Payout: 1000, Status: won

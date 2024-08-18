@@ -1,0 +1,9 @@
+User ID: O30DGgh2jQnFzB9RAAhz
+User Name: robot
+Ticket ID: O30DGgh2jQnFzB9RAAhz_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 4700
+Total Earnings: 0
+Profit/Loss: -4700
+
+Breakdown:
+  Bid: 4, Amount: 4700, Payout: 23500, Status: lost

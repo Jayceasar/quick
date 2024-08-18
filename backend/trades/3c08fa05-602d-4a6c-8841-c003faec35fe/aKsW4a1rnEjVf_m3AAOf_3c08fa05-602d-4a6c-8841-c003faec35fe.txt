@@ -1,0 +1,10 @@
+User ID: aKsW4a1rnEjVf_m3AAOf
+User Name: robot
+Ticket ID: aKsW4a1rnEjVf_m3AAOf_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 12000
+Total Earnings: 42000
+Profit/Loss: 30000
+
+Breakdown:
+  Bid: 2, Amount: 3600, Payout: 18000, Status: lost
+  Bid: 5, Amount: 8400, Payout: 42000, Status: won

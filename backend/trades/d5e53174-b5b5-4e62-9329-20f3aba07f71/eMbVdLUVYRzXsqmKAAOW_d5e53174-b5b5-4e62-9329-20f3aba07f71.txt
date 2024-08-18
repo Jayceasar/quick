@@ -1,0 +1,9 @@
+User ID: eMbVdLUVYRzXsqmKAAOW
+User Name: robot
+Ticket ID: eMbVdLUVYRzXsqmKAAOW_d5e53174-b5b5-4e62-9329-20f3aba07f71
+Total Bid Amount: 6000
+Total Earnings: 0
+Profit/Loss: -6000
+
+Breakdown:
+  Bid: 6, Amount: 6000, Payout: 30000, Status: lost

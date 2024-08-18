@@ -1,0 +1,10 @@
+User ID: 27Xs1SF6T8cM7XpFAAt4
+User Name: robot
+Ticket ID: 27Xs1SF6T8cM7XpFAAt4_d970b8db-846a-4e9c-a7a6-33cc8b792735
+Total Bid Amount: 6400
+Total Earnings: 0
+Profit/Loss: -6400
+
+Breakdown:
+  Bid: 5, Amount: 4100, Payout: 20500, Status: lost
+  Bid: 6, Amount: 2300, Payout: 11500, Status: lost

@@ -1,0 +1,9 @@
+User ID: qVL-LXCQ-K6C4ckUAAOz
+User Name: robot
+Ticket ID: qVL-LXCQ-K6C4ckUAAOz_209c3c5d-6af1-4012-9a52-8f49dddfdeef
+Total Bid Amount: 4400
+Total Earnings: 0
+Profit/Loss: -4400
+
+Breakdown:
+  Bid: 1, Amount: 4400, Payout: 22000, Status: lost

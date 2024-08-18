@@ -1,0 +1,9 @@
+User ID: Fj0s55kTt7OKG70AAAig
+User Name: robot
+Ticket ID: Fj0s55kTt7OKG70AAAig_7edcaff6-689d-4d3c-9b04-4e875243c108
+Total Bid Amount: 8000
+Total Earnings: 0
+Profit/Loss: -8000
+
+Breakdown:
+  Bid: 4, Amount: 8000, Payout: 40000, Status: lost

@@ -1,0 +1,9 @@
+User ID: KlcieV_Z5T33L3_-AAMm
+User Name: robot
+Ticket ID: KlcieV_Z5T33L3_-AAMm_6ccaeea3-75f3-4c47-90f7-0f988c85c9cb
+Total Bid Amount: 6200
+Total Earnings: 0
+Profit/Loss: -6200
+
+Breakdown:
+  Bid: 1, Amount: 6200, Payout: 31000, Status: lost

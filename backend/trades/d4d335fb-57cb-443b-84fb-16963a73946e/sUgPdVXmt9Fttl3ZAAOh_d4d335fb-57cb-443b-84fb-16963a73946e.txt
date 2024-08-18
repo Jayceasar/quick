@@ -1,0 +1,9 @@
+User ID: sUgPdVXmt9Fttl3ZAAOh
+User Name: robot
+Ticket ID: sUgPdVXmt9Fttl3ZAAOh_d4d335fb-57cb-443b-84fb-16963a73946e
+Total Bid Amount: 8000
+Total Earnings: 0
+Profit/Loss: -8000
+
+Breakdown:
+  Bid: 2, Amount: 8000, Payout: 40000, Status: lost

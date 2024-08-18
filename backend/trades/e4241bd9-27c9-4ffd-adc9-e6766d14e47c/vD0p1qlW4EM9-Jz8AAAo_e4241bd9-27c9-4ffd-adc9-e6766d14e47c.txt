@@ -1,0 +1,22 @@
+User ID: vD0p1qlW4EM9-Jz8AAAo
+User Name: test
+Ticket ID: vD0p1qlW4EM9-Jz8AAAo_e4241bd9-27c9-4ffd-adc9-e6766d14e47c
+Total Bid Amount: 1400
+Total Earnings: 0
+Profit/Loss: -1400
+
+Breakdown:
+  Bid: 1, Amount: 100, Payout: 500, Status: lost
+  Bid: 1, Amount: 100, Payout: 500, Status: lost
+  Bid: 1, Amount: 100, Payout: 500, Status: lost
+  Bid: 1, Amount: 100, Payout: 500, Status: lost
+  Bid: 5, Amount: 100, Payout: 500, Status: lost
+  Bid: 5, Amount: 100, Payout: 500, Status: lost
+  Bid: 5, Amount: 100, Payout: 500, Status: lost
+  Bid: 5, Amount: 100, Payout: 500, Status: lost
+  Bid: 5, Amount: 100, Payout: 500, Status: lost
+  Bid: 5, Amount: 100, Payout: 500, Status: lost
+  Bid: 3, Amount: 100, Payout: 500, Status: lost
+  Bid: 3, Amount: 100, Payout: 500, Status: lost
+  Bid: 3, Amount: 100, Payout: 500, Status: lost
+  Bid: 3, Amount: 100, Payout: 500, Status: lost

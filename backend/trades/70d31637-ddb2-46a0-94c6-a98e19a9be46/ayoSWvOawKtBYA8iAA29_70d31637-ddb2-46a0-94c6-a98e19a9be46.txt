@@ -1,0 +1,9 @@
+User ID: ayoSWvOawKtBYA8iAA29
+User Name: robot
+Ticket ID: ayoSWvOawKtBYA8iAA29_70d31637-ddb2-46a0-94c6-a98e19a9be46
+Total Bid Amount: 2400
+Total Earnings: 12000
+Profit/Loss: 9600
+
+Breakdown:
+  Bid: 4, Amount: 2400, Payout: 12000, Status: won

@@ -1,0 +1,9 @@
+User ID: ByGN682exGRDUojPAAQA
+User Name: robot
+Ticket ID: ByGN682exGRDUojPAAQA_d5e53174-b5b5-4e62-9329-20f3aba07f71
+Total Bid Amount: 8900
+Total Earnings: 0
+Profit/Loss: -8900
+
+Breakdown:
+  Bid: 4, Amount: 8900, Payout: 44500, Status: lost

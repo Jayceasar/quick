@@ -1,0 +1,9 @@
+User ID: TBQlVBJSLeoD2E2uAAHT
+User Name: robot
+Ticket ID: TBQlVBJSLeoD2E2uAAHT_3750ca25-a9f1-4278-85de-ccbff503fd45
+Total Bid Amount: 9400
+Total Earnings: 47000
+Profit/Loss: 37600
+
+Breakdown:
+  Bid: 6, Amount: 9400, Payout: 47000, Status: won

@@ -1,0 +1,9 @@
+User ID: Oe_BXIhBcpdIoFPWAAN2
+User Name: robot
+Ticket ID: Oe_BXIhBcpdIoFPWAAN2_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 5400
+Total Earnings: 27000
+Profit/Loss: 21600
+
+Breakdown:
+  Bid: 2, Amount: 5400, Payout: 27000, Status: won

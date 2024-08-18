@@ -1,0 +1,9 @@
+User ID: PZFdxgpcCKaWvuPQAAJl
+User Name: robot
+Ticket ID: PZFdxgpcCKaWvuPQAAJl_ad3a8c72-299f-43d4-805f-4646b325aae0
+Total Bid Amount: 2100
+Total Earnings: 10500
+Profit/Loss: 8400
+
+Breakdown:
+  Bid: 1, Amount: 2100, Payout: 10500, Status: won

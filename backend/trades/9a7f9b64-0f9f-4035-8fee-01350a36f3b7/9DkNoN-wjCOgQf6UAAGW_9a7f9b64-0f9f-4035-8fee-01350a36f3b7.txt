@@ -1,0 +1,10 @@
+User ID: 9DkNoN-wjCOgQf6UAAGW
+User Name: robot
+Ticket ID: 9DkNoN-wjCOgQf6UAAGW_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 11400
+Total Earnings: 0
+Profit/Loss: -11400
+
+Breakdown:
+  Bid: 4, Amount: 9200, Payout: 46000, Status: lost
+  Bid: 1, Amount: 2200, Payout: 11000, Status: lost

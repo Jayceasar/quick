@@ -1,0 +1,9 @@
+User ID: j_Y5vW_oInN1QbtPAAg3
+User Name: robot
+Ticket ID: j_Y5vW_oInN1QbtPAAg3_9e12c48f-b9a9-484b-ab41-5d351c1d1206
+Total Bid Amount: 9300
+Total Earnings: 0
+Profit/Loss: -9300
+
+Breakdown:
+  Bid: 6, Amount: 9300, Payout: 46500, Status: lost

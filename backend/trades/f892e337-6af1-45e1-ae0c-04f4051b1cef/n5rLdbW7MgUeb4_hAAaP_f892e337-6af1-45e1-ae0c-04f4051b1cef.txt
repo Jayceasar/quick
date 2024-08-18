@@ -1,0 +1,9 @@
+User ID: n5rLdbW7MgUeb4_hAAaP
+User Name: robot
+Ticket ID: n5rLdbW7MgUeb4_hAAaP_f892e337-6af1-45e1-ae0c-04f4051b1cef
+Total Bid Amount: 300
+Total Earnings: 0
+Profit/Loss: -300
+
+Breakdown:
+  Bid: 1, Amount: 300, Payout: 1500, Status: lost

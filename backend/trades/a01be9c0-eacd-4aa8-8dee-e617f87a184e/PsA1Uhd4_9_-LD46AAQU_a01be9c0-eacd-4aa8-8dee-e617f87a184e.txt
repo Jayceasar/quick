@@ -1,0 +1,9 @@
+User ID: PsA1Uhd4_9_-LD46AAQU
+User Name: robot
+Ticket ID: PsA1Uhd4_9_-LD46AAQU_a01be9c0-eacd-4aa8-8dee-e617f87a184e
+Total Bid Amount: 3200
+Total Earnings: 0
+Profit/Loss: -3200
+
+Breakdown:
+  Bid: 6, Amount: 3200, Payout: 16000, Status: lost

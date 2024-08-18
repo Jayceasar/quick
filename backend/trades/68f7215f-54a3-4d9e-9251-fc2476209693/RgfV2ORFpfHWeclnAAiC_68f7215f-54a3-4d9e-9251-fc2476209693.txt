@@ -1,0 +1,9 @@
+User ID: RgfV2ORFpfHWeclnAAiC
+User Name: robot
+Ticket ID: RgfV2ORFpfHWeclnAAiC_68f7215f-54a3-4d9e-9251-fc2476209693
+Total Bid Amount: 3400
+Total Earnings: 0
+Profit/Loss: -3400
+
+Breakdown:
+  Bid: 5, Amount: 3400, Payout: 17000, Status: lost

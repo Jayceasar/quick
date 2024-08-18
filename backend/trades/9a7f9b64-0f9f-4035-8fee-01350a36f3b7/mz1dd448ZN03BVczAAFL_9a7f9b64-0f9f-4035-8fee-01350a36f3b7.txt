@@ -1,0 +1,10 @@
+User ID: mz1dd448ZN03BVczAAFL
+User Name: robot
+Ticket ID: mz1dd448ZN03BVczAAFL_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 8300
+Total Earnings: 0
+Profit/Loss: -8300
+
+Breakdown:
+  Bid: 4, Amount: 5100, Payout: 25500, Status: lost
+  Bid: 4, Amount: 3200, Payout: 16000, Status: lost

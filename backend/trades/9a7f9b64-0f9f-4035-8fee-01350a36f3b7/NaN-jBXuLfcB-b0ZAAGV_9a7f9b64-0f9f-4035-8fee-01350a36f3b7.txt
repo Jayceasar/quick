@@ -1,0 +1,10 @@
+User ID: NaN-jBXuLfcB-b0ZAAGV
+User Name: robot
+Ticket ID: NaN-jBXuLfcB-b0ZAAGV_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 8800
+Total Earnings: 0
+Profit/Loss: -8800
+
+Breakdown:
+  Bid: 3, Amount: 2400, Payout: 12000, Status: lost
+  Bid: 1, Amount: 6400, Payout: 32000, Status: lost

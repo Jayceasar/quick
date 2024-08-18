@@ -1,0 +1,9 @@
+User ID: c4pDaNT0_d5hRJMFAAtV
+User Name: robot
+Ticket ID: c4pDaNT0_d5hRJMFAAtV_db0ef95d-e018-483f-b64a-b1c385856283
+Total Bid Amount: 2000
+Total Earnings: 0
+Profit/Loss: -2000
+
+Breakdown:
+  Bid: 4, Amount: 2000, Payout: 10000, Status: lost

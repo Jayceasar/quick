@@ -1,0 +1,10 @@
+User ID: ADAyuRgJDWFccYAyAAG_
+User Name: robot
+Ticket ID: ADAyuRgJDWFccYAyAAG__9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 7800
+Total Earnings: 3000
+Profit/Loss: -4800
+
+Breakdown:
+  Bid: 6, Amount: 600, Payout: 3000, Status: won
+  Bid: 5, Amount: 7200, Payout: 36000, Status: lost

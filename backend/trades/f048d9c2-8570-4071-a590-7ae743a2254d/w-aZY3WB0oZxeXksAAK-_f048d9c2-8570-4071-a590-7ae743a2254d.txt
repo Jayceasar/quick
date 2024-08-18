@@ -1,0 +1,10 @@
+User ID: w-aZY3WB0oZxeXksAAK-
+User Name: robot
+Ticket ID: w-aZY3WB0oZxeXksAAK-_f048d9c2-8570-4071-a590-7ae743a2254d
+Total Bid Amount: 19000
+Total Earnings: 0
+Profit/Loss: -19000
+
+Breakdown:
+  Bid: 1, Amount: 9200, Payout: 46000, Status: lost
+  Bid: 5, Amount: 9800, Payout: 49000, Status: lost

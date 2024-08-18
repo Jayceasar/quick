@@ -1,0 +1,10 @@
+User ID: D8snVT0XbWZPro1IAAWJ
+User Name: robot
+Ticket ID: D8snVT0XbWZPro1IAAWJ_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 4100
+Total Earnings: 0
+Profit/Loss: -4100
+
+Breakdown:
+  Bid: 6, Amount: 900, Payout: 4500, Status: lost
+  Bid: 1, Amount: 3200, Payout: 16000, Status: lost

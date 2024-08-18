@@ -1,0 +1,9 @@
+User ID: eZV6z_bHDDTyr0muAAHo
+User Name: robot
+Ticket ID: eZV6z_bHDDTyr0muAAHo_3750ca25-a9f1-4278-85de-ccbff503fd45
+Total Bid Amount: 9600
+Total Earnings: 0
+Profit/Loss: -9600
+
+Breakdown:
+  Bid: 4, Amount: 9600, Payout: 48000, Status: lost

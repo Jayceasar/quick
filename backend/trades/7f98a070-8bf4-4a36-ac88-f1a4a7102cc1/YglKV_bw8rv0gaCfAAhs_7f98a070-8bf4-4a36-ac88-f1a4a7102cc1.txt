@@ -1,0 +1,9 @@
+User ID: YglKV_bw8rv0gaCfAAhs
+User Name: robot
+Ticket ID: YglKV_bw8rv0gaCfAAhs_7f98a070-8bf4-4a36-ac88-f1a4a7102cc1
+Total Bid Amount: 6800
+Total Earnings: 0
+Profit/Loss: -6800
+
+Breakdown:
+  Bid: 3, Amount: 6800, Payout: 34000, Status: lost

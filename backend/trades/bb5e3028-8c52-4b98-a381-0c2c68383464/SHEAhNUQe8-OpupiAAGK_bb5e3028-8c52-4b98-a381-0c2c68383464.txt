@@ -1,0 +1,9 @@
+User ID: SHEAhNUQe8-OpupiAAGK
+User Name: robot
+Ticket ID: SHEAhNUQe8-OpupiAAGK_bb5e3028-8c52-4b98-a381-0c2c68383464
+Total Bid Amount: 5600
+Total Earnings: 0
+Profit/Loss: -5600
+
+Breakdown:
+  Bid: 4, Amount: 5600, Payout: 28000, Status: lost

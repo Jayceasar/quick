@@ -1,0 +1,9 @@
+User ID: i4tpI3pRqJmOVLPkAAN7
+User Name: robot
+Ticket ID: i4tpI3pRqJmOVLPkAAN7_b7702871-94c5-4aa2-a465-bc5c183e2b58
+Total Bid Amount: 4100
+Total Earnings: 0
+Profit/Loss: -4100
+
+Breakdown:
+  Bid: 1, Amount: 4100, Payout: 20500, Status: lost

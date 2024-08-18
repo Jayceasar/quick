@@ -1,0 +1,9 @@
+User ID: 4a12sxzYh8t_yitKAALG
+User Name: robot
+Ticket ID: 4a12sxzYh8t_yitKAALG_ad3a8c72-299f-43d4-805f-4646b325aae0
+Total Bid Amount: 4600
+Total Earnings: 0
+Profit/Loss: -4600
+
+Breakdown:
+  Bid: 3, Amount: 4600, Payout: 23000, Status: lost

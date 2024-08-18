@@ -1,0 +1,9 @@
+User ID: lyepEj9w5QdMfLxNAAtP
+User Name: robot
+Ticket ID: lyepEj9w5QdMfLxNAAtP_db0ef95d-e018-483f-b64a-b1c385856283
+Total Bid Amount: 3900
+Total Earnings: 0
+Profit/Loss: -3900
+
+Breakdown:
+  Bid: 5, Amount: 3900, Payout: 19500, Status: lost

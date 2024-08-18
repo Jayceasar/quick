@@ -1,0 +1,10 @@
+User ID: c5zPdXhO0JzWbfPQAAuy
+User Name: robot
+Ticket ID: c5zPdXhO0JzWbfPQAAuy_db0ef95d-e018-483f-b64a-b1c385856283
+Total Bid Amount: 10700
+Total Earnings: 14000
+Profit/Loss: 3300
+
+Breakdown:
+  Bid: 3, Amount: 2800, Payout: 14000, Status: won
+  Bid: 4, Amount: 7900, Payout: 39500, Status: lost

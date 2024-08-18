@@ -1,10 +1,15 @@
 "use client";
 import React, { useEffect, useState } from "react";
-import { useBidStore, useSocketStore } from "./store/store";
+import {
+  useBidStore,
+  useSocketStore,
+  useUserAccountStore,
+} from "./store/store";
 import { Input } from "@/components/ui/input";
 import { io } from "socket.io-client";
 import { useToast } from "@/components/ui/use-toast";
 import { ToastAction } from "@/components/ui/toast";
+import { simulateUsers } from "./tests/loadTest";
 
 export default function Home() {
   const { toast } = useToast();
@@ -15,41 +20,76 @@ export default function Home() {
     updateServerResult,
     allBids,
     updateAllBids,
+    countdown,
+    updateCountdown,
   } = useSocketStore();
-  const { currentBid, amount, updateBid, placeBid } = useBidStore();
-  const digits = [
-    [2, 3],
-    [4, 5, 6],
-    [7, 8],
-  ];
+  const {
+    myTotalBidAmount,
+    resetMyTotalBidAmount,
+    currentBid,
+    amount,
+    updateBid,
+    placeBid,
+    userSocketId,
+    setUserSocketId,
+  } = useBidStore();
+  const { walletAmount, setWalletAmount } = useUserAccountStore();
+
+  const digits = [[1], [2, 3], [4, 5, 6]];
+
+  const BackendUrl =
+    process.env.NODE_ENV === "production"
+      ? `${process.env.BACKEND_URL}`
+      : "http://localhost:4000";
 
   // connect to socket io
   useEffect(() => {
     // Connect to the Socket.IO server
-    const socketIo = io("http://localhost:4000");
+    const socketIo = io(BackendUrl);
 
     // Set up the socket
     setSocket(socketIo);
 
-    // send request
-    socketIo.emit("join", { name: "Pirate" });
+    // Listen for the socket connection and store the socket ID
+    socketIo.on("connect", () => {
+      setUserSocketId(socketIo.id); // Store the socket ID in state
+    });
 
-    // Listen for results
+    // send request
+    socketIo.emit("join", { name: "test" });
+
+    // Listen for newNumber
     socketIo.on("newNumber", (data) => {
-      console.log(data);
       updateServerResult(data.number);
     });
 
+    // listen for results
+    socketIo.on("result", (data) => {
+      // console.log("results", data);
+      resetMyTotalBidAmount();
+    });
+
+    // listen for new bid
     socketIo.on("newBid", (data) => {
-      console.log("allBids", data);
       const { bid, amount, user } = data[data.length - 1];
       updateAllBids(data);
-      toast({
-        // title: "New order",
-        description: `${user} bid ${amount} on ${bid}`,
-        // action: <ToastAction altText="Goto schedule to undo">Undo</ToastAction>,
-      });
     });
+
+    // listen for countdown
+    socketIo.on("countdown", (data) => {
+      updateCountdown(data.timeLeft);
+    });
+
+    // listen for win
+    socketIo.on("ticketSummary", (ticket) => {
+      if (ticket && ticket.userId === socketIo.id) {
+        console.log("this is your ticket", ticket);
+        setWalletAmount(ticket.totalEarnings);
+      }
+    });
+
+    // run simulated tests
+    simulateUsers(100);
 
     // Clean up on unmount
     return () => {
@@ -63,16 +103,49 @@ export default function Home() {
         <div className=" w-full py-2 flex justify-between">
           <button>ogo</button>
           <span className=" text-xs flex gap-4">
-            <button>ohDarkknight</button>
-            <button>$4000</button>
+            <button>ohDarkknight || {userSocketId}</button>
+            <button>${walletAmount}</button>
           </span>
         </div>
       </section>
 
-      <section className=" w-full flex justify-center">
-        <div className=" flex items-center justify-center p-4 text-4xl w-32 aspect-square rounded-full ring-8 ring-orange-400">
+      <section className=" relative w-full h-fit  flex justify-center">
+        <div className=" absolute font-bold text-5xl top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
           {serverResult}
         </div>
+        <svg
+          className=" absolute top-0"
+          width="200"
+          height="200"
+          viewBox="0 0 100 100"
+        >
+          <path
+            id="circlePath"
+            d="M 50, 50 m -40, 0 a 40,40 0 1,0 80,0 a 40,40 0 1,0 -80,0"
+            stroke="#9ca3af"
+            strokeWidth="4"
+            fill="none"
+            strokeDasharray="251.2"
+            strokeDashoffset="0"
+          />
+        </svg>
+        <svg
+          className=" z-40 rotate-[90deg] transition-all"
+          width="200"
+          height="200"
+          viewBox="0 0 100 100"
+        >
+          <path
+            id="circlePath"
+            d="M 50, 50 m -40, 0 a 40,40 0 1,0 80,0 a 40,40 0 1,0 -80,0"
+            stroke="#f97316"
+            strokeWidth="4"
+            fill="none"
+            strokeDasharray="251.2"
+            strokeDashoffset={251.2 - (((countdown / 60) * 100) / 100) * 251.2}
+            strokeLinecap="round"
+          />
+        </svg>
       </section>
 
       <section className=" w-full  flex flex-col items-center ">
@@ -111,12 +184,19 @@ export default function Home() {
             value={amount}
             className=" placeholder:text-white w-fit bg-gray-400 focus-visible:ring-0 focus-visible:ring-ring focus-visible:ring-offset-0"
             onChange={(e) => {
-              updateBid(currentBid, e.target.value);
+              updateBid(currentBid, Number(e.target.value));
             }}
           />
           <button
             onClick={() => {
-              placeBid(currentBid, amount);
+              if (walletAmount > 0 && walletAmount >= amount) {
+                placeBid(currentBid, amount);
+                setWalletAmount(-amount);
+              } else {
+                toast({
+                  message: "You don't have enough money",
+                });
+              }
             }}
             className=" p-2 bg-white text-gray-600 rounded-lg"
           >
@@ -124,6 +204,8 @@ export default function Home() {
           </button>
         </div>
       </section>
+
+      <span className=" fixed top-10 left-10">{myTotalBidAmount}</span>
     </div>
   );
 }

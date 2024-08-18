@@ -1,0 +1,9 @@
+User ID: UdqMh10ryhiukw8-AAIN
+User Name: robot
+Ticket ID: UdqMh10ryhiukw8-AAIN_ad3a8c72-299f-43d4-805f-4646b325aae0
+Total Bid Amount: 1500
+Total Earnings: 0
+Profit/Loss: -1500
+
+Breakdown:
+  Bid: 5, Amount: 1500, Payout: 7500, Status: lost

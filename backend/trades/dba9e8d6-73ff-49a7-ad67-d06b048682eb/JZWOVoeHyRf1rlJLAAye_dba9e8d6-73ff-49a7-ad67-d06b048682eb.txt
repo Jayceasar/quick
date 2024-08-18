@@ -1,0 +1,9 @@
+User ID: JZWOVoeHyRf1rlJLAAye
+User Name: robot
+Ticket ID: JZWOVoeHyRf1rlJLAAye_dba9e8d6-73ff-49a7-ad67-d06b048682eb
+Total Bid Amount: 8900
+Total Earnings: 0
+Profit/Loss: -8900
+
+Breakdown:
+  Bid: 1, Amount: 8900, Payout: 44500, Status: lost

@@ -1,0 +1,9 @@
+User ID: bwu8Wa6G7o6TvE0bAAM1
+User Name: robot
+Ticket ID: bwu8Wa6G7o6TvE0bAAM1_6d2f5a00-8975-46ac-9313-eaee03859331
+Total Bid Amount: 6000
+Total Earnings: 30000
+Profit/Loss: 24000
+
+Breakdown:
+  Bid: 2, Amount: 6000, Payout: 30000, Status: won

@@ -1,0 +1,10 @@
+User ID: GgLZe6SIh_9BaRR-AAE5
+User Name: robot
+Ticket ID: GgLZe6SIh_9BaRR-AAE5_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 11600
+Total Earnings: 0
+Profit/Loss: -11600
+
+Breakdown:
+  Bid: 4, Amount: 7300, Payout: 36500, Status: lost
+  Bid: 1, Amount: 4300, Payout: 21500, Status: lost

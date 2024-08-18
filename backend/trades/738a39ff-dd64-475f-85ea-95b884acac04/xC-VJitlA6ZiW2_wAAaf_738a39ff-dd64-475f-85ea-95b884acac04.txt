@@ -1,0 +1,9 @@
+User ID: xC-VJitlA6ZiW2_wAAaf
+User Name: robot
+Ticket ID: xC-VJitlA6ZiW2_wAAaf_738a39ff-dd64-475f-85ea-95b884acac04
+Total Bid Amount: 5900
+Total Earnings: 29500
+Profit/Loss: 23600
+
+Breakdown:
+  Bid: 2, Amount: 5900, Payout: 29500, Status: won

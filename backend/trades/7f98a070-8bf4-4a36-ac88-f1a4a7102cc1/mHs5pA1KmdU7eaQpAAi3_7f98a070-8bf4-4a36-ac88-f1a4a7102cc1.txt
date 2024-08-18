@@ -1,0 +1,9 @@
+User ID: mHs5pA1KmdU7eaQpAAi3
+User Name: robot
+Ticket ID: mHs5pA1KmdU7eaQpAAi3_7f98a070-8bf4-4a36-ac88-f1a4a7102cc1
+Total Bid Amount: 7400
+Total Earnings: 0
+Profit/Loss: -7400
+
+Breakdown:
+  Bid: 4, Amount: 7400, Payout: 37000, Status: lost

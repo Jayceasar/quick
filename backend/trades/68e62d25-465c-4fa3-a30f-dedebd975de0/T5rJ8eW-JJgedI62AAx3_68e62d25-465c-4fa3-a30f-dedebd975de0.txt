@@ -1,0 +1,9 @@
+User ID: T5rJ8eW-JJgedI62AAx3
+User Name: robot
+Ticket ID: T5rJ8eW-JJgedI62AAx3_68e62d25-465c-4fa3-a30f-dedebd975de0
+Total Bid Amount: 4500
+Total Earnings: 0
+Profit/Loss: -4500
+
+Breakdown:
+  Bid: 2, Amount: 4500, Payout: 22500, Status: lost

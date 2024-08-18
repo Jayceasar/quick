@@ -1,0 +1,9 @@
+User ID: X8sO2m4_0Wsju37VAAMs
+User Name: robot
+Ticket ID: X8sO2m4_0Wsju37VAAMs_d4d335fb-57cb-443b-84fb-16963a73946e
+Total Bid Amount: 2500
+Total Earnings: 0
+Profit/Loss: -2500
+
+Breakdown:
+  Bid: 4, Amount: 2500, Payout: 12500, Status: lost

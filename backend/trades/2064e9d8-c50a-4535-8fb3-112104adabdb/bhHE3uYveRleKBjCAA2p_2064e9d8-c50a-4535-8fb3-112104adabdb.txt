@@ -1,0 +1,9 @@
+User ID: bhHE3uYveRleKBjCAA2p
+User Name: robot
+Ticket ID: bhHE3uYveRleKBjCAA2p_2064e9d8-c50a-4535-8fb3-112104adabdb
+Total Bid Amount: 6200
+Total Earnings: 0
+Profit/Loss: -6200
+
+Breakdown:
+  Bid: 6, Amount: 6200, Payout: 31000, Status: lost

@@ -1,0 +1,10 @@
+User ID: unvImHBRNvGdK-ChAANK
+User Name: robot
+Ticket ID: unvImHBRNvGdK-ChAANK_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 10700
+Total Earnings: 0
+Profit/Loss: -10700
+
+Breakdown:
+  Bid: 3, Amount: 5600, Payout: 28000, Status: lost
+  Bid: 2, Amount: 5100, Payout: 25500, Status: lost

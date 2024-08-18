@@ -1,0 +1,10 @@
+User ID: Kgnjzfr6vAdOjRMJAAGJ
+User Name: robot
+Ticket ID: Kgnjzfr6vAdOjRMJAAGJ_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 15900
+Total Earnings: 0
+Profit/Loss: -15900
+
+Breakdown:
+  Bid: 5, Amount: 6700, Payout: 33500, Status: lost
+  Bid: 3, Amount: 9200, Payout: 46000, Status: lost

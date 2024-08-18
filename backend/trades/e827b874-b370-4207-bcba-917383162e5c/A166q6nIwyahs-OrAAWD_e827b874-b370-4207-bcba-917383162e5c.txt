@@ -1,0 +1,10 @@
+User ID: A166q6nIwyahs-OrAAWD
+User Name: robot
+Ticket ID: A166q6nIwyahs-OrAAWD_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 15800
+Total Earnings: 0
+Profit/Loss: -15800
+
+Breakdown:
+  Bid: 5, Amount: 8700, Payout: 43500, Status: lost
+  Bid: 6, Amount: 7100, Payout: 35500, Status: lost

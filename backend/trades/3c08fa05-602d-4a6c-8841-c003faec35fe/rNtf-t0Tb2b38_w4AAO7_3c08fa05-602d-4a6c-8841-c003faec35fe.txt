@@ -1,0 +1,10 @@
+User ID: rNtf-t0Tb2b38_w4AAO7
+User Name: robot
+Ticket ID: rNtf-t0Tb2b38_w4AAO7_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 14000
+Total Earnings: 37000
+Profit/Loss: 23000
+
+Breakdown:
+  Bid: 5, Amount: 7400, Payout: 37000, Status: won
+  Bid: 2, Amount: 6600, Payout: 33000, Status: lost

@@ -1,0 +1,9 @@
+User ID: I5tL15jQxnSbrpFAAAFK
+User Name: robot
+Ticket ID: I5tL15jQxnSbrpFAAAFK_3750ca25-a9f1-4278-85de-ccbff503fd45
+Total Bid Amount: 7300
+Total Earnings: 0
+Profit/Loss: -7300
+
+Breakdown:
+  Bid: 2, Amount: 7300, Payout: 36500, Status: lost

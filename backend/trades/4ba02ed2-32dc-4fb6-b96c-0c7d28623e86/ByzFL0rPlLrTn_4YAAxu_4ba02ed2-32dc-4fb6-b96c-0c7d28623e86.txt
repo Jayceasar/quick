@@ -1,0 +1,9 @@
+User ID: ByzFL0rPlLrTn_4YAAxu
+User Name: robot
+Ticket ID: ByzFL0rPlLrTn_4YAAxu_4ba02ed2-32dc-4fb6-b96c-0c7d28623e86
+Total Bid Amount: 6700
+Total Earnings: 0
+Profit/Loss: -6700
+
+Breakdown:
+  Bid: 6, Amount: 6700, Payout: 33500, Status: lost

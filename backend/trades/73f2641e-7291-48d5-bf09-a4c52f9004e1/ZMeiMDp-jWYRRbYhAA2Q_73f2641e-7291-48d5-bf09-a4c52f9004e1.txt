@@ -1,0 +1,9 @@
+User ID: ZMeiMDp-jWYRRbYhAA2Q
+User Name: robot
+Ticket ID: ZMeiMDp-jWYRRbYhAA2Q_73f2641e-7291-48d5-bf09-a4c52f9004e1
+Total Bid Amount: 4100
+Total Earnings: 0
+Profit/Loss: -4100
+
+Breakdown:
+  Bid: 1, Amount: 4100, Payout: 20500, Status: lost

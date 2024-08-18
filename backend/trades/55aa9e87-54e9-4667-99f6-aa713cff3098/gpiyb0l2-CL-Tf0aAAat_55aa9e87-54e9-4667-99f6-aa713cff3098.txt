@@ -1,0 +1,9 @@
+User ID: gpiyb0l2-CL-Tf0aAAat
+User Name: robot
+Ticket ID: gpiyb0l2-CL-Tf0aAAat_55aa9e87-54e9-4667-99f6-aa713cff3098
+Total Bid Amount: 9100
+Total Earnings: 0
+Profit/Loss: -9100
+
+Breakdown:
+  Bid: 6, Amount: 9100, Payout: 45500, Status: lost

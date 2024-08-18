@@ -1,0 +1,9 @@
+User ID: JK3cxkbIKiMHYIdTAA20
+User Name: robot
+Ticket ID: JK3cxkbIKiMHYIdTAA20_481b0c54-e3a2-4605-acb3-5ca9c7ea032e
+Total Bid Amount: 8200
+Total Earnings: 0
+Profit/Loss: -8200
+
+Breakdown:
+  Bid: 3, Amount: 8200, Payout: 41000, Status: lost

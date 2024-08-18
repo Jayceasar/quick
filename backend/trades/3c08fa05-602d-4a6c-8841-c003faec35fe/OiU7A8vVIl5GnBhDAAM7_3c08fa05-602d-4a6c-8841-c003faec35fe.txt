@@ -1,0 +1,10 @@
+User ID: OiU7A8vVIl5GnBhDAAM7
+User Name: robot
+Ticket ID: OiU7A8vVIl5GnBhDAAM7_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 9300
+Total Earnings: 43500
+Profit/Loss: 34200
+
+Breakdown:
+  Bid: 5, Amount: 8700, Payout: 43500, Status: won
+  Bid: 4, Amount: 600, Payout: 3000, Status: lost

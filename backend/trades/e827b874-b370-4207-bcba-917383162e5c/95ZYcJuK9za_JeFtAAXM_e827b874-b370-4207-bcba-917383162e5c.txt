@@ -1,0 +1,10 @@
+User ID: 95ZYcJuK9za_JeFtAAXM
+User Name: robot
+Ticket ID: 95ZYcJuK9za_JeFtAAXM_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 8100
+Total Earnings: 0
+Profit/Loss: -8100
+
+Breakdown:
+  Bid: 1, Amount: 4100, Payout: 20500, Status: lost
+  Bid: 6, Amount: 4000, Payout: 20000, Status: lost

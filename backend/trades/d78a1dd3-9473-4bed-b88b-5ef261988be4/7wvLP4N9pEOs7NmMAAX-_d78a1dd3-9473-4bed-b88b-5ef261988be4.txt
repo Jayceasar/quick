@@ -1,0 +1,9 @@
+User ID: 7wvLP4N9pEOs7NmMAAX-
+User Name: robot
+Ticket ID: 7wvLP4N9pEOs7NmMAAX-_d78a1dd3-9473-4bed-b88b-5ef261988be4
+Total Bid Amount: 9900
+Total Earnings: 0
+Profit/Loss: -9900
+
+Breakdown:
+  Bid: 3, Amount: 9900, Payout: 49500, Status: lost

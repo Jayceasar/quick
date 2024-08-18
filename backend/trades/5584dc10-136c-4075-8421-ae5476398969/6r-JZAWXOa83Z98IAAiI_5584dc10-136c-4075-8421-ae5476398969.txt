@@ -1,0 +1,9 @@
+User ID: 6r-JZAWXOa83Z98IAAiI
+User Name: robot
+Ticket ID: 6r-JZAWXOa83Z98IAAiI_5584dc10-136c-4075-8421-ae5476398969
+Total Bid Amount: 100
+Total Earnings: 0
+Profit/Loss: -100
+
+Breakdown:
+  Bid: 6, Amount: 100, Payout: 500, Status: lost

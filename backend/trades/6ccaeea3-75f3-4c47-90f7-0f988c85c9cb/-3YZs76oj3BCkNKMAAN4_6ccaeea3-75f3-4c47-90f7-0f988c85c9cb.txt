@@ -1,0 +1,9 @@
+User ID: -3YZs76oj3BCkNKMAAN4
+User Name: robot
+Ticket ID: -3YZs76oj3BCkNKMAAN4_6ccaeea3-75f3-4c47-90f7-0f988c85c9cb
+Total Bid Amount: 2500
+Total Earnings: 0
+Profit/Loss: -2500
+
+Breakdown:
+  Bid: 4, Amount: 2500, Payout: 12500, Status: lost

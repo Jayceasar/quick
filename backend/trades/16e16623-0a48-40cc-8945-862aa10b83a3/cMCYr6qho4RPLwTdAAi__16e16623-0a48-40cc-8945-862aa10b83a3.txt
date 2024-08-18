@@ -1,0 +1,9 @@
+User ID: cMCYr6qho4RPLwTdAAi_
+User Name: robot
+Ticket ID: cMCYr6qho4RPLwTdAAi__16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 1600
+Total Earnings: 0
+Profit/Loss: -1600
+
+Breakdown:
+  Bid: 2, Amount: 1600, Payout: 8000, Status: lost

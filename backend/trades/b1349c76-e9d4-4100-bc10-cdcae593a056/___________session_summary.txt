@@ -1,0 +1,10 @@
+Session ID: b1349c76-e9d4-4100-bc10-cdcae593a056
+Total Bids: 4
+Total Amount: 400
+Profit: 400
+Payout: 0
+Winning Numbers: 3
+Total Winning Users: 0
+Total Losing Users: 1
+Total Winning Tickets: 0
+Total Losing Tickets: 4

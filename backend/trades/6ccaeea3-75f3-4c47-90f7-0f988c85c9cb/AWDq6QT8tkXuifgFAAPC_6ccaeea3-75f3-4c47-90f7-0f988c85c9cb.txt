@@ -1,0 +1,9 @@
+User ID: AWDq6QT8tkXuifgFAAPC
+User Name: robot
+Ticket ID: AWDq6QT8tkXuifgFAAPC_6ccaeea3-75f3-4c47-90f7-0f988c85c9cb
+Total Bid Amount: 9100
+Total Earnings: 0
+Profit/Loss: -9100
+
+Breakdown:
+  Bid: 2, Amount: 9100, Payout: 45500, Status: lost

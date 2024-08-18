@@ -1,0 +1,9 @@
+User ID: ocDbSktr-2tDezoCAAQW
+User Name: robot
+Ticket ID: ocDbSktr-2tDezoCAAQW_a01be9c0-eacd-4aa8-8dee-e617f87a184e
+Total Bid Amount: 2200
+Total Earnings: 0
+Profit/Loss: -2200
+
+Breakdown:
+  Bid: 5, Amount: 2200, Payout: 11000, Status: lost

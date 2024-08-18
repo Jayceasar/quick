@@ -1,0 +1,9 @@
+User ID: I25LyLadigBvvgTlAAan
+User Name: robot
+Ticket ID: I25LyLadigBvvgTlAAan_fd914ecb-2e57-4006-9a27-3601ecf1d133
+Total Bid Amount: 800
+Total Earnings: 0
+Profit/Loss: -800
+
+Breakdown:
+  Bid: 2, Amount: 800, Payout: 4000, Status: lost

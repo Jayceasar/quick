@@ -1,0 +1,10 @@
+User ID: wtanGjui9383KO_tAA2Y
+User Name: robot
+Ticket ID: wtanGjui9383KO_tAA2Y_67de4827-25fe-4819-9140-75f1fc1503ba
+Total Bid Amount: 10100
+Total Earnings: 18500
+Profit/Loss: 8400
+
+Breakdown:
+  Bid: 3, Amount: 3700, Payout: 18500, Status: won
+  Bid: 2, Amount: 6400, Payout: 32000, Status: lost

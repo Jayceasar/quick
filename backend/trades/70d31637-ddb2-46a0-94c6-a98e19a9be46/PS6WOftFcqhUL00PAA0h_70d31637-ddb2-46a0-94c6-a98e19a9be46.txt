@@ -1,0 +1,9 @@
+User ID: PS6WOftFcqhUL00PAA0h
+User Name: robot
+Ticket ID: PS6WOftFcqhUL00PAA0h_70d31637-ddb2-46a0-94c6-a98e19a9be46
+Total Bid Amount: 2000
+Total Earnings: 0
+Profit/Loss: -2000
+
+Breakdown:
+  Bid: 1, Amount: 2000, Payout: 10000, Status: lost

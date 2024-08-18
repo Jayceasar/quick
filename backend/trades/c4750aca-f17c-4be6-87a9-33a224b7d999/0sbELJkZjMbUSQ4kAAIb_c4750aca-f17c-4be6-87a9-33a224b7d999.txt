@@ -1,0 +1,9 @@
+User ID: 0sbELJkZjMbUSQ4kAAIb
+User Name: robot
+Ticket ID: 0sbELJkZjMbUSQ4kAAIb_c4750aca-f17c-4be6-87a9-33a224b7d999
+Total Bid Amount: 900
+Total Earnings: 0
+Profit/Loss: -900
+
+Breakdown:
+  Bid: 4, Amount: 900, Payout: 4500, Status: lost

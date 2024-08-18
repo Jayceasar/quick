@@ -1,0 +1,10 @@
+User ID: 5b1zUrCEaddD3wh2AAGj
+User Name: robot
+Ticket ID: 5b1zUrCEaddD3wh2AAGj_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 10000
+Total Earnings: 45500
+Profit/Loss: 35500
+
+Breakdown:
+  Bid: 3, Amount: 900, Payout: 4500, Status: lost
+  Bid: 6, Amount: 9100, Payout: 45500, Status: won

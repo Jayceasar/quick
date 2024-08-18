@@ -1,0 +1,9 @@
+User ID: RV1UR6Vl1LXCP0DWAAHa
+User Name: robot
+Ticket ID: RV1UR6Vl1LXCP0DWAAHa_ad3a8c72-299f-43d4-805f-4646b325aae0
+Total Bid Amount: 7300
+Total Earnings: 0
+Profit/Loss: -7300
+
+Breakdown:
+  Bid: 2, Amount: 7300, Payout: 36500, Status: lost

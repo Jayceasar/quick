@@ -1,0 +1,10 @@
+User ID: EusvlzUj4Ve6mce5AAHD
+User Name: robot
+Ticket ID: EusvlzUj4Ve6mce5AAHD_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 11100
+Total Earnings: 39000
+Profit/Loss: 27900
+
+Breakdown:
+  Bid: 5, Amount: 3300, Payout: 16500, Status: lost
+  Bid: 6, Amount: 7800, Payout: 39000, Status: won

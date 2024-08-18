@@ -1,0 +1,9 @@
+User ID: eCXibaSkQY6-sTOQAAVq
+User Name: robot
+Ticket ID: eCXibaSkQY6-sTOQAAVq_12a28a63-36a1-4295-9b29-055aa3a41e6f
+Total Bid Amount: 5600
+Total Earnings: 0
+Profit/Loss: -5600
+
+Breakdown:
+  Bid: 1, Amount: 5600, Payout: 28000, Status: lost

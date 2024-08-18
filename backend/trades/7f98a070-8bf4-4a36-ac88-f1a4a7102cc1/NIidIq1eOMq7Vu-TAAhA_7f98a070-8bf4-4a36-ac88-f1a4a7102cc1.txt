@@ -1,0 +1,9 @@
+User ID: NIidIq1eOMq7Vu-TAAhA
+User Name: robot
+Ticket ID: NIidIq1eOMq7Vu-TAAhA_7f98a070-8bf4-4a36-ac88-f1a4a7102cc1
+Total Bid Amount: 1300
+Total Earnings: 6500
+Profit/Loss: 5200
+
+Breakdown:
+  Bid: 5, Amount: 1300, Payout: 6500, Status: won

@@ -1,0 +1,10 @@
+User ID: 28KilFCBeHbuoF-KAAlh
+User Name: robot
+Ticket ID: 28KilFCBeHbuoF-KAAlh_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 2100
+Total Earnings: 0
+Profit/Loss: -2100
+
+Breakdown:
+  Bid: 6, Amount: 300, Payout: 1500, Status: lost
+  Bid: 5, Amount: 1800, Payout: 9000, Status: lost

@@ -1,0 +1,9 @@
+User ID: wkp1LagZ01j0A9KuAAup
+User Name: robot
+Ticket ID: wkp1LagZ01j0A9KuAAup_db0ef95d-e018-483f-b64a-b1c385856283
+Total Bid Amount: 5400
+Total Earnings: 0
+Profit/Loss: -5400
+
+Breakdown:
+  Bid: 2, Amount: 5400, Payout: 27000, Status: lost

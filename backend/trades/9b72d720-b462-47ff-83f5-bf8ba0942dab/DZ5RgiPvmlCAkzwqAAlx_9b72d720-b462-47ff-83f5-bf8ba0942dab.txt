@@ -1,0 +1,9 @@
+User ID: DZ5RgiPvmlCAkzwqAAlx
+User Name: robot
+Ticket ID: DZ5RgiPvmlCAkzwqAAlx_9b72d720-b462-47ff-83f5-bf8ba0942dab
+Total Bid Amount: 9200
+Total Earnings: 0
+Profit/Loss: -9200
+
+Breakdown:
+  Bid: 1, Amount: 9200, Payout: 46000, Status: lost

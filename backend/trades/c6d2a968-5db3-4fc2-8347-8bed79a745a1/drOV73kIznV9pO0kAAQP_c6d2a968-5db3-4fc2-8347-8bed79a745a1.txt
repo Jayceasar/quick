@@ -1,0 +1,9 @@
+User ID: drOV73kIznV9pO0kAAQP
+User Name: robot
+Ticket ID: drOV73kIznV9pO0kAAQP_c6d2a968-5db3-4fc2-8347-8bed79a745a1
+Total Bid Amount: 5700
+Total Earnings: 0
+Profit/Loss: -5700
+
+Breakdown:
+  Bid: 5, Amount: 5700, Payout: 28500, Status: lost

@@ -1,0 +1,9 @@
+User ID: KdneJCIZu10FfDq9AAMt
+User Name: robot
+Ticket ID: KdneJCIZu10FfDq9AAMt_c4750aca-f17c-4be6-87a9-33a224b7d999
+Total Bid Amount: 4100
+Total Earnings: 0
+Profit/Loss: -4100
+
+Breakdown:
+  Bid: 1, Amount: 4100, Payout: 20500, Status: lost

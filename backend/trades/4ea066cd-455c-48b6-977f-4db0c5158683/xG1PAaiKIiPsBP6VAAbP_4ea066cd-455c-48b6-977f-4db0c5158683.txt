@@ -1,0 +1,9 @@
+User ID: xG1PAaiKIiPsBP6VAAbP
+User Name: robot
+Ticket ID: xG1PAaiKIiPsBP6VAAbP_4ea066cd-455c-48b6-977f-4db0c5158683
+Total Bid Amount: 4900
+Total Earnings: 0
+Profit/Loss: -4900
+
+Breakdown:
+  Bid: 2, Amount: 4900, Payout: 24500, Status: lost

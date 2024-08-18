@@ -1,0 +1,10 @@
+User ID: NIGpRLgPnU_G6rlLAAFq
+User Name: robot
+Ticket ID: NIGpRLgPnU_G6rlLAAFq_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 8500
+Total Earnings: 28500
+Profit/Loss: 20000
+
+Breakdown:
+  Bid: 4, Amount: 2800, Payout: 14000, Status: lost
+  Bid: 6, Amount: 5700, Payout: 28500, Status: won

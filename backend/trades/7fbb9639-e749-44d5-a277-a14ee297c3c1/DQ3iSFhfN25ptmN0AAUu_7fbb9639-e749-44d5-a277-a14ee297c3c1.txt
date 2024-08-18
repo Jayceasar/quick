@@ -1,0 +1,9 @@
+User ID: DQ3iSFhfN25ptmN0AAUu
+User Name: robot
+Ticket ID: DQ3iSFhfN25ptmN0AAUu_7fbb9639-e749-44d5-a277-a14ee297c3c1
+Total Bid Amount: 1900
+Total Earnings: 9500
+Profit/Loss: 7600
+
+Breakdown:
+  Bid: 1, Amount: 1900, Payout: 9500, Status: won

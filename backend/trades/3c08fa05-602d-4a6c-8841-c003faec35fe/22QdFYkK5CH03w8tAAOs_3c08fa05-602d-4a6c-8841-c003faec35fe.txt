@@ -1,0 +1,10 @@
+User ID: 22QdFYkK5CH03w8tAAOs
+User Name: robot
+Ticket ID: 22QdFYkK5CH03w8tAAOs_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 15800
+Total Earnings: 39000
+Profit/Loss: 23200
+
+Breakdown:
+  Bid: 2, Amount: 8000, Payout: 40000, Status: lost
+  Bid: 5, Amount: 7800, Payout: 39000, Status: won

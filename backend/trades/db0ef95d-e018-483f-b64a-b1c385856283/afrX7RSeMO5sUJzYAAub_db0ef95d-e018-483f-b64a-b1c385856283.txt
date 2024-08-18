@@ -1,0 +1,10 @@
+User ID: afrX7RSeMO5sUJzYAAub
+User Name: robot
+Ticket ID: afrX7RSeMO5sUJzYAAub_db0ef95d-e018-483f-b64a-b1c385856283
+Total Bid Amount: 14100
+Total Earnings: 0
+Profit/Loss: -14100
+
+Breakdown:
+  Bid: 2, Amount: 4800, Payout: 24000, Status: lost
+  Bid: 6, Amount: 9300, Payout: 46500, Status: lost

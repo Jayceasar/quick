@@ -1,0 +1,10 @@
+User ID: Ph9whkK8pRu9DVwBAAVL
+User Name: robot
+Ticket ID: Ph9whkK8pRu9DVwBAAVL_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 8700
+Total Earnings: 0
+Profit/Loss: -8700
+
+Breakdown:
+  Bid: 1, Amount: 1100, Payout: 5500, Status: lost
+  Bid: 1, Amount: 7600, Payout: 38000, Status: lost

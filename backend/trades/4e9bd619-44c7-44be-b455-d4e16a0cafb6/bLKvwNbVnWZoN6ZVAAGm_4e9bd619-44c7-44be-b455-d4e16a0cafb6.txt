@@ -1,0 +1,10 @@
+User ID: bLKvwNbVnWZoN6ZVAAGm
+User Name: robot
+Ticket ID: bLKvwNbVnWZoN6ZVAAGm_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 18800
+Total Earnings: 0
+Profit/Loss: -18800
+
+Breakdown:
+  Bid: 4, Amount: 9600, Payout: 48000, Status: lost
+  Bid: 1, Amount: 9200, Payout: 46000, Status: lost

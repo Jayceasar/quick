@@ -1,0 +1,9 @@
+User ID: DexkAjfsu0QCHiLWAAhj
+User Name: robot
+Ticket ID: DexkAjfsu0QCHiLWAAhj_f3e07e15-d270-454e-8739-2e9bb78f4dc8
+Total Bid Amount: 4700
+Total Earnings: 0
+Profit/Loss: -4700
+
+Breakdown:
+  Bid: 3, Amount: 4700, Payout: 23500, Status: lost

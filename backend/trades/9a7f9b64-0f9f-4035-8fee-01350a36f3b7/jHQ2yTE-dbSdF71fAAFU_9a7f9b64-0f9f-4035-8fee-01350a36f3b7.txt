@@ -1,0 +1,10 @@
+User ID: jHQ2yTE-dbSdF71fAAFU
+User Name: robot
+Ticket ID: jHQ2yTE-dbSdF71fAAFU_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 9500
+Total Earnings: 33000
+Profit/Loss: 23500
+
+Breakdown:
+  Bid: 4, Amount: 2900, Payout: 14500, Status: lost
+  Bid: 6, Amount: 6600, Payout: 33000, Status: won

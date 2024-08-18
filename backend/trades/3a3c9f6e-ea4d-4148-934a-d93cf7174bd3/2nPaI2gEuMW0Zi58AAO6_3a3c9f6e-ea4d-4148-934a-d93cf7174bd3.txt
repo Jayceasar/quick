@@ -1,0 +1,9 @@
+User ID: 2nPaI2gEuMW0Zi58AAO6
+User Name: robot
+Ticket ID: 2nPaI2gEuMW0Zi58AAO6_3a3c9f6e-ea4d-4148-934a-d93cf7174bd3
+Total Bid Amount: 1900
+Total Earnings: 0
+Profit/Loss: -1900
+
+Breakdown:
+  Bid: 6, Amount: 1900, Payout: 9500, Status: lost

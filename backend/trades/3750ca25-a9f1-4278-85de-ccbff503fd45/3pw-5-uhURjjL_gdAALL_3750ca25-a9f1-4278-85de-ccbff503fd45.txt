@@ -1,0 +1,9 @@
+User ID: 3pw-5-uhURjjL_gdAALL
+User Name: robot
+Ticket ID: 3pw-5-uhURjjL_gdAALL_3750ca25-a9f1-4278-85de-ccbff503fd45
+Total Bid Amount: 6500
+Total Earnings: 0
+Profit/Loss: -6500
+
+Breakdown:
+  Bid: 3, Amount: 6500, Payout: 32500, Status: lost

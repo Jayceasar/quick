@@ -1,0 +1,10 @@
+User ID: prQ22gb20_rCzofcAAVB
+User Name: robot
+Ticket ID: prQ22gb20_rCzofcAAVB_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 10800
+Total Earnings: 0
+Profit/Loss: -10800
+
+Breakdown:
+  Bid: 5, Amount: 3200, Payout: 16000, Status: lost
+  Bid: 6, Amount: 7600, Payout: 38000, Status: lost

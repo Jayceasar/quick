@@ -1,0 +1,9 @@
+User ID: gJQQh_DB2uumSlbSAAPD
+User Name: robot
+Ticket ID: gJQQh_DB2uumSlbSAAPD_c6d2a968-5db3-4fc2-8347-8bed79a745a1
+Total Bid Amount: 6400
+Total Earnings: 0
+Profit/Loss: -6400
+
+Breakdown:
+  Bid: 5, Amount: 6400, Payout: 32000, Status: lost

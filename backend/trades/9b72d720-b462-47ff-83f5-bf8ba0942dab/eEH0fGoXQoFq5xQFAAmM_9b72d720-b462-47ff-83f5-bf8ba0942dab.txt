@@ -1,0 +1,9 @@
+User ID: eEH0fGoXQoFq5xQFAAmM
+User Name: robot
+Ticket ID: eEH0fGoXQoFq5xQFAAmM_9b72d720-b462-47ff-83f5-bf8ba0942dab
+Total Bid Amount: 800
+Total Earnings: 0
+Profit/Loss: -800
+
+Breakdown:
+  Bid: 1, Amount: 800, Payout: 4000, Status: lost

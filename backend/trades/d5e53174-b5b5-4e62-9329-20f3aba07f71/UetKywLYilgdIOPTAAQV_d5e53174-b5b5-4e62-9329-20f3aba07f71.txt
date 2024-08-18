@@ -1,0 +1,9 @@
+User ID: UetKywLYilgdIOPTAAQV
+User Name: robot
+Ticket ID: UetKywLYilgdIOPTAAQV_d5e53174-b5b5-4e62-9329-20f3aba07f71
+Total Bid Amount: 2800
+Total Earnings: 14000
+Profit/Loss: 11200
+
+Breakdown:
+  Bid: 1, Amount: 2800, Payout: 14000, Status: won

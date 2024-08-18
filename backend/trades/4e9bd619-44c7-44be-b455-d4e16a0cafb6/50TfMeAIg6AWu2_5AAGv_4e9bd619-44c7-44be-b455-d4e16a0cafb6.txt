@@ -1,0 +1,9 @@
+User ID: 50TfMeAIg6AWu2_5AAGv
+User Name: robot
+Ticket ID: 50TfMeAIg6AWu2_5AAGv_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 1100
+Total Earnings: 0
+Profit/Loss: -1100
+
+Breakdown:
+  Bid: 4, Amount: 1100, Payout: 5500, Status: lost

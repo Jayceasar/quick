@@ -1,0 +1,10 @@
+User ID: VF0rj_kWxlh-1zr_AAlX
+User Name: robot
+Ticket ID: VF0rj_kWxlh-1zr_AAlX_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 11800
+Total Earnings: 0
+Profit/Loss: -11800
+
+Breakdown:
+  Bid: 1, Amount: 3900, Payout: 19500, Status: lost
+  Bid: 6, Amount: 7900, Payout: 39500, Status: lost

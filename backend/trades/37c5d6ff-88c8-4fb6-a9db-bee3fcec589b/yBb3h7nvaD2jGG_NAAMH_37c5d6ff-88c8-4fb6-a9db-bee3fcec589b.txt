@@ -1,0 +1,9 @@
+User ID: yBb3h7nvaD2jGG_NAAMH
+User Name: robot
+Ticket ID: yBb3h7nvaD2jGG_NAAMH_37c5d6ff-88c8-4fb6-a9db-bee3fcec589b
+Total Bid Amount: 8700
+Total Earnings: 43500
+Profit/Loss: 34800
+
+Breakdown:
+  Bid: 4, Amount: 8700, Payout: 43500, Status: won

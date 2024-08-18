@@ -1,0 +1,10 @@
+User ID: 5Cy-M1rd_D5vEcyQAAPH
+User Name: robot
+Ticket ID: 5Cy-M1rd_D5vEcyQAAPH_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 16800
+Total Earnings: 0
+Profit/Loss: -16800
+
+Breakdown:
+  Bid: 6, Amount: 9800, Payout: 49000, Status: lost
+  Bid: 3, Amount: 7000, Payout: 35000, Status: lost

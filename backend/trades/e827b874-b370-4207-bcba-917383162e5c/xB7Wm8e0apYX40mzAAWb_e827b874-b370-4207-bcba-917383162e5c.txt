@@ -1,0 +1,10 @@
+User ID: xB7Wm8e0apYX40mzAAWb
+User Name: robot
+Ticket ID: xB7Wm8e0apYX40mzAAWb_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 14300
+Total Earnings: 36500
+Profit/Loss: 22200
+
+Breakdown:
+  Bid: 2, Amount: 7300, Payout: 36500, Status: won
+  Bid: 4, Amount: 7000, Payout: 35000, Status: lost

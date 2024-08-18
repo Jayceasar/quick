@@ -1,0 +1,9 @@
+User ID: Fb2U4g1_L1CuelfCAAFJ
+User Name: robot
+Ticket ID: Fb2U4g1_L1CuelfCAAFJ_f048d9c2-8570-4071-a590-7ae743a2254d
+Total Bid Amount: 3900
+Total Earnings: 0
+Profit/Loss: -3900
+
+Breakdown:
+  Bid: 1, Amount: 3900, Payout: 19500, Status: lost

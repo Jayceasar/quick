@@ -1,0 +1,10 @@
+User ID: IooJYZOe2nlpBzRGAAIJ
+User Name: robot
+Ticket ID: IooJYZOe2nlpBzRGAAIJ_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 12100
+Total Earnings: 0
+Profit/Loss: -12100
+
+Breakdown:
+  Bid: 2, Amount: 3400, Payout: 17000, Status: lost
+  Bid: 3, Amount: 8700, Payout: 43500, Status: lost

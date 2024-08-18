@@ -1,0 +1,10 @@
+User ID: 4Kro0lfMYVw2t6kEAABB
+User Name: robot
+Ticket ID: 4Kro0lfMYVw2t6kEAABB_62ffd283-3933-4076-b86a-25e9acd3821e
+Total Bid Amount: 8900
+Total Earnings: 0
+Profit/Loss: -8900
+
+Breakdown:
+  Bid: 5, Amount: 200, Payout: 1000, Status: lost
+  Bid: 5, Amount: 8700, Payout: 43500, Status: lost

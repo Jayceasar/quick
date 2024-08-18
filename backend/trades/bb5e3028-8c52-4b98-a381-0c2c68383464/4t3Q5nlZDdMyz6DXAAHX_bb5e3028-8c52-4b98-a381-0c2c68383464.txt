@@ -1,0 +1,9 @@
+User ID: 4t3Q5nlZDdMyz6DXAAHX
+User Name: robot
+Ticket ID: 4t3Q5nlZDdMyz6DXAAHX_bb5e3028-8c52-4b98-a381-0c2c68383464
+Total Bid Amount: 1000
+Total Earnings: 0
+Profit/Loss: -1000
+
+Breakdown:
+  Bid: 5, Amount: 1000, Payout: 5000, Status: lost

@@ -1,0 +1,9 @@
+User ID: UmW1dXPHmI56hvbaAAh2
+User Name: robot
+Ticket ID: UmW1dXPHmI56hvbaAAh2_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 8600
+Total Earnings: 0
+Profit/Loss: -8600
+
+Breakdown:
+  Bid: 1, Amount: 8600, Payout: 43000, Status: lost

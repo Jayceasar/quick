@@ -1,0 +1,9 @@
+User ID: usr4UTFfPI4QUGEMAANX
+User Name: robot
+Ticket ID: usr4UTFfPI4QUGEMAANX_209c3c5d-6af1-4012-9a52-8f49dddfdeef
+Total Bid Amount: 3700
+Total Earnings: 18500
+Profit/Loss: 14800
+
+Breakdown:
+  Bid: 5, Amount: 3700, Payout: 18500, Status: won

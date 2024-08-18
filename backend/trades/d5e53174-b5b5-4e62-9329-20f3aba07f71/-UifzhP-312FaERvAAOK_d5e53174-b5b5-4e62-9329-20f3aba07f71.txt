@@ -1,0 +1,9 @@
+User ID: -UifzhP-312FaERvAAOK
+User Name: robot
+Ticket ID: -UifzhP-312FaERvAAOK_d5e53174-b5b5-4e62-9329-20f3aba07f71
+Total Bid Amount: 500
+Total Earnings: 0
+Profit/Loss: -500
+
+Breakdown:
+  Bid: 3, Amount: 500, Payout: 2500, Status: lost

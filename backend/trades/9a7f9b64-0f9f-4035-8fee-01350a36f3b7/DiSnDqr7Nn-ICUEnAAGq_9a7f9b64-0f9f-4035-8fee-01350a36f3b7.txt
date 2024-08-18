@@ -1,0 +1,10 @@
+User ID: DiSnDqr7Nn-ICUEnAAGq
+User Name: robot
+Ticket ID: DiSnDqr7Nn-ICUEnAAGq_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 10800
+Total Earnings: 0
+Profit/Loss: -10800
+
+Breakdown:
+  Bid: 4, Amount: 7500, Payout: 37500, Status: lost
+  Bid: 2, Amount: 3300, Payout: 16500, Status: lost

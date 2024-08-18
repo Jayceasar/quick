@@ -1,0 +1,10 @@
+User ID: 8yK70Pj4_6MR4YnaAAlm
+User Name: robot
+Ticket ID: 8yK70Pj4_6MR4YnaAAlm_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 15100
+Total Earnings: 0
+Profit/Loss: -15100
+
+Breakdown:
+  Bid: 2, Amount: 8400, Payout: 42000, Status: lost
+  Bid: 6, Amount: 6700, Payout: 33500, Status: lost

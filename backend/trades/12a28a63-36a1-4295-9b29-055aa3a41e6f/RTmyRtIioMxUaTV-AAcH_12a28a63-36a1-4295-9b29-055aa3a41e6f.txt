@@ -1,0 +1,9 @@
+User ID: RTmyRtIioMxUaTV-AAcH
+User Name: robot
+Ticket ID: RTmyRtIioMxUaTV-AAcH_12a28a63-36a1-4295-9b29-055aa3a41e6f
+Total Bid Amount: 1000
+Total Earnings: 0
+Profit/Loss: -1000
+
+Breakdown:
+  Bid: 4, Amount: 1000, Payout: 5000, Status: lost

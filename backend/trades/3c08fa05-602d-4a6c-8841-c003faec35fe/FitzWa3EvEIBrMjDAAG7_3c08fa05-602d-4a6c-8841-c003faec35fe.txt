@@ -1,0 +1,9 @@
+User ID: FitzWa3EvEIBrMjDAAG7
+User Name: robot
+Ticket ID: FitzWa3EvEIBrMjDAAG7_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 2600
+Total Earnings: 0
+Profit/Loss: -2600
+
+Breakdown:
+  Bid: 4, Amount: 2600, Payout: 13000, Status: lost

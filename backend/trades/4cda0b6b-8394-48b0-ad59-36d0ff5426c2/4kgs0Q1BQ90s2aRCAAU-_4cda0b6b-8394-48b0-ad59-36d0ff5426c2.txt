@@ -1,0 +1,9 @@
+User ID: 4kgs0Q1BQ90s2aRCAAU-
+User Name: robot
+Ticket ID: 4kgs0Q1BQ90s2aRCAAU-_4cda0b6b-8394-48b0-ad59-36d0ff5426c2
+Total Bid Amount: 3700
+Total Earnings: 0
+Profit/Loss: -3700
+
+Breakdown:
+  Bid: 4, Amount: 3700, Payout: 18500, Status: lost

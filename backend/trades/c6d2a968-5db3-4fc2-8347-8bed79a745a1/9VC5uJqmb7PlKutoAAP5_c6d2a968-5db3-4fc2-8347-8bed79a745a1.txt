@@ -1,0 +1,9 @@
+User ID: 9VC5uJqmb7PlKutoAAP5
+User Name: robot
+Ticket ID: 9VC5uJqmb7PlKutoAAP5_c6d2a968-5db3-4fc2-8347-8bed79a745a1
+Total Bid Amount: 3000
+Total Earnings: 15000
+Profit/Loss: 12000
+
+Breakdown:
+  Bid: 2, Amount: 3000, Payout: 15000, Status: won

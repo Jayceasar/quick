@@ -1,0 +1,9 @@
+User ID: 86x4kZQhDZRQKs2FAAJj
+User Name: robot
+Ticket ID: 86x4kZQhDZRQKs2FAAJj_f048d9c2-8570-4071-a590-7ae743a2254d
+Total Bid Amount: 3900
+Total Earnings: 0
+Profit/Loss: -3900
+
+Breakdown:
+  Bid: 6, Amount: 3900, Payout: 19500, Status: lost

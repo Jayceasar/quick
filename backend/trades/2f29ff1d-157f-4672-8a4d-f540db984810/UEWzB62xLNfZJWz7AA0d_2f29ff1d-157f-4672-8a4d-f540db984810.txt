@@ -1,0 +1,9 @@
+User ID: UEWzB62xLNfZJWz7AA0d
+User Name: robot
+Ticket ID: UEWzB62xLNfZJWz7AA0d_2f29ff1d-157f-4672-8a4d-f540db984810
+Total Bid Amount: 2100
+Total Earnings: 0
+Profit/Loss: -2100
+
+Breakdown:
+  Bid: 5, Amount: 2100, Payout: 10500, Status: lost

@@ -1,0 +1,10 @@
+User ID: OjoQvo6-w03jb0FLAAto
+User Name: robot
+Ticket ID: OjoQvo6-w03jb0FLAAto_d970b8db-846a-4e9c-a7a6-33cc8b792735
+Total Bid Amount: 12200
+Total Earnings: 0
+Profit/Loss: -12200
+
+Breakdown:
+  Bid: 2, Amount: 3900, Payout: 19500, Status: lost
+  Bid: 5, Amount: 8300, Payout: 41500, Status: lost

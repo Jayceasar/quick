@@ -1,0 +1,10 @@
+User ID: dtVbL0tayryQdpaBAAmi
+User Name: robot
+Ticket ID: dtVbL0tayryQdpaBAAmi_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 17800
+Total Earnings: 0
+Profit/Loss: -17800
+
+Breakdown:
+  Bid: 4, Amount: 8000, Payout: 40000, Status: lost
+  Bid: 4, Amount: 9800, Payout: 49000, Status: lost

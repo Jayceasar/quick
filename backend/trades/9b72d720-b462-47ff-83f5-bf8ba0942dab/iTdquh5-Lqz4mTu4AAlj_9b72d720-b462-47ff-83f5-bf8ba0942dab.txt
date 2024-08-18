@@ -1,0 +1,9 @@
+User ID: iTdquh5-Lqz4mTu4AAlj
+User Name: robot
+Ticket ID: iTdquh5-Lqz4mTu4AAlj_9b72d720-b462-47ff-83f5-bf8ba0942dab
+Total Bid Amount: 4200
+Total Earnings: 0
+Profit/Loss: -4200
+
+Breakdown:
+  Bid: 2, Amount: 4200, Payout: 21000, Status: lost

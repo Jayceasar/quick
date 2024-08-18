@@ -1,0 +1,10 @@
+User ID: JCZ0lNgbDqeJ0GurAAG2
+User Name: robot
+Ticket ID: JCZ0lNgbDqeJ0GurAAG2_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 5900
+Total Earnings: 19000
+Profit/Loss: 13100
+
+Breakdown:
+  Bid: 6, Amount: 3800, Payout: 19000, Status: won
+  Bid: 3, Amount: 2100, Payout: 10500, Status: lost

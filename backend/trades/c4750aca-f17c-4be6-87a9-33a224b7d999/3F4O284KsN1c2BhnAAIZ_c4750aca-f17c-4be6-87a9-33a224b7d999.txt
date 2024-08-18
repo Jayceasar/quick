@@ -1,0 +1,9 @@
+User ID: 3F4O284KsN1c2BhnAAIZ
+User Name: robot
+Ticket ID: 3F4O284KsN1c2BhnAAIZ_c4750aca-f17c-4be6-87a9-33a224b7d999
+Total Bid Amount: 3400
+Total Earnings: 0
+Profit/Loss: -3400
+
+Breakdown:
+  Bid: 4, Amount: 3400, Payout: 17000, Status: lost

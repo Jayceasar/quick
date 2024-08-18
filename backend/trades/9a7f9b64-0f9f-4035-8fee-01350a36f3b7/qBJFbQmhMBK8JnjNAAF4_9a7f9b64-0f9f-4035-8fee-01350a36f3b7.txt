@@ -1,0 +1,10 @@
+User ID: qBJFbQmhMBK8JnjNAAF4
+User Name: robot
+Ticket ID: qBJFbQmhMBK8JnjNAAF4_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 15700
+Total Earnings: 0
+Profit/Loss: -15700
+
+Breakdown:
+  Bid: 3, Amount: 9200, Payout: 46000, Status: lost
+  Bid: 1, Amount: 6500, Payout: 32500, Status: lost

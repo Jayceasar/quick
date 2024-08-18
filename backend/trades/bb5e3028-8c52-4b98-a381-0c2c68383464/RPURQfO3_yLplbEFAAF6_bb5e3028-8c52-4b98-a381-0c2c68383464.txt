@@ -1,0 +1,9 @@
+User ID: RPURQfO3_yLplbEFAAF6
+User Name: robot
+Ticket ID: RPURQfO3_yLplbEFAAF6_bb5e3028-8c52-4b98-a381-0c2c68383464
+Total Bid Amount: 8900
+Total Earnings: 0
+Profit/Loss: -8900
+
+Breakdown:
+  Bid: 1, Amount: 8900, Payout: 44500, Status: lost

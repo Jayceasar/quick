@@ -1,0 +1,9 @@
+User ID: Szwe27PZ1zjIw-MRAAbB
+User Name: robot
+Ticket ID: Szwe27PZ1zjIw-MRAAbB_e049edef-4ddb-46f3-8994-0da9502a3ab7
+Total Bid Amount: 6300
+Total Earnings: 0
+Profit/Loss: -6300
+
+Breakdown:
+  Bid: 4, Amount: 6300, Payout: 31500, Status: lost

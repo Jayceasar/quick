@@ -1,0 +1,9 @@
+User ID: 0cCr58BhVR7Hg-dLAAb_
+User Name: robot
+Ticket ID: 0cCr58BhVR7Hg-dLAAb__f892e337-6af1-45e1-ae0c-04f4051b1cef
+Total Bid Amount: 900
+Total Earnings: 4500
+Profit/Loss: 3600
+
+Breakdown:
+  Bid: 4, Amount: 900, Payout: 4500, Status: won

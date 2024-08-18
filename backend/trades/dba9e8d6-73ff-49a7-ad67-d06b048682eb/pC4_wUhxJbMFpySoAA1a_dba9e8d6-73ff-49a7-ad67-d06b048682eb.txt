@@ -1,0 +1,9 @@
+User ID: pC4_wUhxJbMFpySoAA1a
+User Name: robot
+Ticket ID: pC4_wUhxJbMFpySoAA1a_dba9e8d6-73ff-49a7-ad67-d06b048682eb
+Total Bid Amount: 1100
+Total Earnings: 0
+Profit/Loss: -1100
+
+Breakdown:
+  Bid: 5, Amount: 1100, Payout: 5500, Status: lost

@@ -1,0 +1,9 @@
+User ID: FK4PpJLwmOWY--iTAAIn
+User Name: robot
+Ticket ID: FK4PpJLwmOWY--iTAAIn_3750ca25-a9f1-4278-85de-ccbff503fd45
+Total Bid Amount: 7000
+Total Earnings: 0
+Profit/Loss: -7000
+
+Breakdown:
+  Bid: 1, Amount: 7000, Payout: 35000, Status: lost

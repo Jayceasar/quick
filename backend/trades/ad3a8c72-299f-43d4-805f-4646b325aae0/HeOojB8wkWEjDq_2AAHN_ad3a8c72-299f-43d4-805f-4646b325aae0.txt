@@ -1,0 +1,9 @@
+User ID: HeOojB8wkWEjDq_2AAHN
+User Name: robot
+Ticket ID: HeOojB8wkWEjDq_2AAHN_ad3a8c72-299f-43d4-805f-4646b325aae0
+Total Bid Amount: 2200
+Total Earnings: 0
+Profit/Loss: -2200
+
+Breakdown:
+  Bid: 2, Amount: 2200, Payout: 11000, Status: lost

@@ -1,0 +1,9 @@
+User ID: ZaQFYlL6CcdEvQxTAAiZ
+User Name: robot
+Ticket ID: ZaQFYlL6CcdEvQxTAAiZ_5584dc10-136c-4075-8421-ae5476398969
+Total Bid Amount: 7900
+Total Earnings: 0
+Profit/Loss: -7900
+
+Breakdown:
+  Bid: 3, Amount: 7900, Payout: 39500, Status: lost

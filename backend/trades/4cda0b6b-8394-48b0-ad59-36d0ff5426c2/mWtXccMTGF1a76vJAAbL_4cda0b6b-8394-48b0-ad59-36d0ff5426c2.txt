@@ -1,0 +1,9 @@
+User ID: mWtXccMTGF1a76vJAAbL
+User Name: robot
+Ticket ID: mWtXccMTGF1a76vJAAbL_4cda0b6b-8394-48b0-ad59-36d0ff5426c2
+Total Bid Amount: 5900
+Total Earnings: 29500
+Profit/Loss: 23600
+
+Breakdown:
+  Bid: 5, Amount: 5900, Payout: 29500, Status: won

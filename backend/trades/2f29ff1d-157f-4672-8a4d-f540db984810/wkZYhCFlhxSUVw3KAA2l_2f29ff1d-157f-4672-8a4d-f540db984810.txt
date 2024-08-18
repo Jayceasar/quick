@@ -1,0 +1,9 @@
+User ID: wkZYhCFlhxSUVw3KAA2l
+User Name: robot
+Ticket ID: wkZYhCFlhxSUVw3KAA2l_2f29ff1d-157f-4672-8a4d-f540db984810
+Total Bid Amount: 6200
+Total Earnings: 31000
+Profit/Loss: 24800
+
+Breakdown:
+  Bid: 1, Amount: 6200, Payout: 31000, Status: won

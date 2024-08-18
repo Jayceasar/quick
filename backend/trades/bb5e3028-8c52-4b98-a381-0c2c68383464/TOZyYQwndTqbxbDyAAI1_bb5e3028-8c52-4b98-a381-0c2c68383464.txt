@@ -1,0 +1,10 @@
+User ID: TOZyYQwndTqbxbDyAAI1
+User Name: robot
+Ticket ID: TOZyYQwndTqbxbDyAAI1_bb5e3028-8c52-4b98-a381-0c2c68383464
+Total Bid Amount: 10900
+Total Earnings: 0
+Profit/Loss: -10900
+
+Breakdown:
+  Bid: 2, Amount: 6700, Payout: 33500, Status: lost
+  Bid: 2, Amount: 4200, Payout: 21000, Status: lost

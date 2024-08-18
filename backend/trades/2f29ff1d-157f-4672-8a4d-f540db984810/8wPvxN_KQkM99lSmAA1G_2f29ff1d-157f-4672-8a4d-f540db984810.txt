@@ -1,0 +1,9 @@
+User ID: 8wPvxN_KQkM99lSmAA1G
+User Name: robot
+Ticket ID: 8wPvxN_KQkM99lSmAA1G_2f29ff1d-157f-4672-8a4d-f540db984810
+Total Bid Amount: 200
+Total Earnings: 0
+Profit/Loss: -200
+
+Breakdown:
+  Bid: 5, Amount: 200, Payout: 1000, Status: lost

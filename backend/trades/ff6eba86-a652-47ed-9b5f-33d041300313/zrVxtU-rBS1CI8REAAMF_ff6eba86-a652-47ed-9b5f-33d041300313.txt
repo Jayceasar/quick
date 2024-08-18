@@ -1,0 +1,9 @@
+User ID: zrVxtU-rBS1CI8REAAMF
+User Name: robot
+Ticket ID: zrVxtU-rBS1CI8REAAMF_ff6eba86-a652-47ed-9b5f-33d041300313
+Total Bid Amount: 5900
+Total Earnings: 0
+Profit/Loss: -5900
+
+Breakdown:
+  Bid: 5, Amount: 5900, Payout: 29500, Status: lost

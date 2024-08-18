@@ -1,0 +1,9 @@
+User ID: tT3sW2PWiigCLRY2AAOI
+User Name: robot
+Ticket ID: tT3sW2PWiigCLRY2AAOI_ff6eba86-a652-47ed-9b5f-33d041300313
+Total Bid Amount: 4000
+Total Earnings: 0
+Profit/Loss: -4000
+
+Breakdown:
+  Bid: 5, Amount: 4000, Payout: 20000, Status: lost

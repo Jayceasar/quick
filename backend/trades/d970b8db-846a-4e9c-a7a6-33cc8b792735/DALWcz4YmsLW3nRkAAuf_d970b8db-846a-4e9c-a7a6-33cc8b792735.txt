@@ -1,0 +1,10 @@
+User ID: DALWcz4YmsLW3nRkAAuf
+User Name: robot
+Ticket ID: DALWcz4YmsLW3nRkAAuf_d970b8db-846a-4e9c-a7a6-33cc8b792735
+Total Bid Amount: 3700
+Total Earnings: 9500
+Profit/Loss: 5800
+
+Breakdown:
+  Bid: 3, Amount: 1900, Payout: 9500, Status: won
+  Bid: 1, Amount: 1800, Payout: 9000, Status: lost

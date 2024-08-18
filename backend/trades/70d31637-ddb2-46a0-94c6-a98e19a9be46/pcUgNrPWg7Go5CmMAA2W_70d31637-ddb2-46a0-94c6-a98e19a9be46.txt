@@ -1,0 +1,9 @@
+User ID: pcUgNrPWg7Go5CmMAA2W
+User Name: robot
+Ticket ID: pcUgNrPWg7Go5CmMAA2W_70d31637-ddb2-46a0-94c6-a98e19a9be46
+Total Bid Amount: 200
+Total Earnings: 1000
+Profit/Loss: 800
+
+Breakdown:
+  Bid: 4, Amount: 200, Payout: 1000, Status: won

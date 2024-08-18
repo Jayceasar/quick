@@ -1,0 +1,9 @@
+User ID: sc0ldeqSFr37qgY9AAgr
+User Name: robot
+Ticket ID: sc0ldeqSFr37qgY9AAgr_68f7215f-54a3-4d9e-9251-fc2476209693
+Total Bid Amount: 3600
+Total Earnings: 0
+Profit/Loss: -3600
+
+Breakdown:
+  Bid: 3, Amount: 3600, Payout: 18000, Status: lost

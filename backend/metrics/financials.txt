@@ -1,0 +1,9 @@
+
+
+allTimeUserTotalBids = 0
+allTimeTotalPlatformEarnings = 0
+allTimePayouts = 0
+
+
+
+

@@ -1,0 +1,9 @@
+User ID: v0_Wg7iZAdrKlgfuAAMP
+User Name: robot
+Ticket ID: v0_Wg7iZAdrKlgfuAAMP_c6d2a968-5db3-4fc2-8347-8bed79a745a1
+Total Bid Amount: 800
+Total Earnings: 0
+Profit/Loss: -800
+
+Breakdown:
+  Bid: 5, Amount: 800, Payout: 4000, Status: lost

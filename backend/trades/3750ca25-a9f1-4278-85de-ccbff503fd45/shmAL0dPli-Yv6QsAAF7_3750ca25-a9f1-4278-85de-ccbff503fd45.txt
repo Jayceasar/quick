@@ -1,0 +1,9 @@
+User ID: shmAL0dPli-Yv6QsAAF7
+User Name: robot
+Ticket ID: shmAL0dPli-Yv6QsAAF7_3750ca25-a9f1-4278-85de-ccbff503fd45
+Total Bid Amount: 6800
+Total Earnings: 0
+Profit/Loss: -6800
+
+Breakdown:
+  Bid: 4, Amount: 6800, Payout: 34000, Status: lost

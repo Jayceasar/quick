@@ -1,0 +1,9 @@
+User ID: gN_8QN-lQdVcx5k1AAyg
+User Name: robot
+Ticket ID: gN_8QN-lQdVcx5k1AAyg_2064e9d8-c50a-4535-8fb3-112104adabdb
+Total Bid Amount: 500
+Total Earnings: 2500
+Profit/Loss: 2000
+
+Breakdown:
+  Bid: 5, Amount: 500, Payout: 2500, Status: won

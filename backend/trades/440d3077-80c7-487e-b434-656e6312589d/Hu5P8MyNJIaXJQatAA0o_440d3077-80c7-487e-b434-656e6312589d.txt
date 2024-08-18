@@ -1,0 +1,9 @@
+User ID: Hu5P8MyNJIaXJQatAA0o
+User Name: robot
+Ticket ID: Hu5P8MyNJIaXJQatAA0o_440d3077-80c7-487e-b434-656e6312589d
+Total Bid Amount: 5400
+Total Earnings: 0
+Profit/Loss: -5400
+
+Breakdown:
+  Bid: 3, Amount: 5400, Payout: 27000, Status: lost

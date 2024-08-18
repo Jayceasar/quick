@@ -1,0 +1,10 @@
+User ID: _08uv-NjAKhhn_P-AAIv
+User Name: robot
+Ticket ID: _08uv-NjAKhhn_P-AAIv_bb5e3028-8c52-4b98-a381-0c2c68383464
+Total Bid Amount: 12100
+Total Earnings: 0
+Profit/Loss: -12100
+
+Breakdown:
+  Bid: 1, Amount: 8600, Payout: 43000, Status: lost
+  Bid: 4, Amount: 3500, Payout: 17500, Status: lost

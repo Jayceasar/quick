@@ -1,0 +1,9 @@
+User ID: ZPTeaMr8t1yRqzmFAAhU
+User Name: robot
+Ticket ID: ZPTeaMr8t1yRqzmFAAhU_9e12c48f-b9a9-484b-ab41-5d351c1d1206
+Total Bid Amount: 700
+Total Earnings: 3500
+Profit/Loss: 2800
+
+Breakdown:
+  Bid: 1, Amount: 700, Payout: 3500, Status: won

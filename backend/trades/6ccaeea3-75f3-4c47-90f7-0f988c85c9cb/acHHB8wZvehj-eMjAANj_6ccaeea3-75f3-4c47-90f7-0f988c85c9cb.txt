@@ -1,0 +1,9 @@
+User ID: acHHB8wZvehj-eMjAANj
+User Name: robot
+Ticket ID: acHHB8wZvehj-eMjAANj_6ccaeea3-75f3-4c47-90f7-0f988c85c9cb
+Total Bid Amount: 4300
+Total Earnings: 0
+Profit/Loss: -4300
+
+Breakdown:
+  Bid: 5, Amount: 4300, Payout: 21500, Status: lost

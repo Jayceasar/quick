@@ -1,0 +1,9 @@
+User ID: YInIkIc7YtCEednnAAP_
+User Name: robot
+Ticket ID: YInIkIc7YtCEednnAAP__a01be9c0-eacd-4aa8-8dee-e617f87a184e
+Total Bid Amount: 500
+Total Earnings: 2500
+Profit/Loss: 2000
+
+Breakdown:
+  Bid: 2, Amount: 500, Payout: 2500, Status: won

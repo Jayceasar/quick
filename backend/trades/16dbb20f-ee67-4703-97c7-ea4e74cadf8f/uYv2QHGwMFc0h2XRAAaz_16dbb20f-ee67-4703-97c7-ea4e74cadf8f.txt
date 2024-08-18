@@ -1,0 +1,9 @@
+User ID: uYv2QHGwMFc0h2XRAAaz
+User Name: robot
+Ticket ID: uYv2QHGwMFc0h2XRAAaz_16dbb20f-ee67-4703-97c7-ea4e74cadf8f
+Total Bid Amount: 2000
+Total Earnings: 0
+Profit/Loss: -2000
+
+Breakdown:
+  Bid: 1, Amount: 2000, Payout: 10000, Status: lost

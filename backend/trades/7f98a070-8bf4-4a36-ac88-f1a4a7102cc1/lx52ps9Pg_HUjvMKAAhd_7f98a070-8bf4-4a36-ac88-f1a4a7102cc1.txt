@@ -1,0 +1,9 @@
+User ID: lx52ps9Pg_HUjvMKAAhd
+User Name: robot
+Ticket ID: lx52ps9Pg_HUjvMKAAhd_7f98a070-8bf4-4a36-ac88-f1a4a7102cc1
+Total Bid Amount: 3500
+Total Earnings: 0
+Profit/Loss: -3500
+
+Breakdown:
+  Bid: 4, Amount: 3500, Payout: 17500, Status: lost

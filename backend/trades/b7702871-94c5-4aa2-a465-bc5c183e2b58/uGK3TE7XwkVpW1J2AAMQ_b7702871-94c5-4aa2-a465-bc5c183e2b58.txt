@@ -1,0 +1,9 @@
+User ID: uGK3TE7XwkVpW1J2AAMQ
+User Name: robot
+Ticket ID: uGK3TE7XwkVpW1J2AAMQ_b7702871-94c5-4aa2-a465-bc5c183e2b58
+Total Bid Amount: 2100
+Total Earnings: 0
+Profit/Loss: -2100
+
+Breakdown:
+  Bid: 3, Amount: 2100, Payout: 10500, Status: lost

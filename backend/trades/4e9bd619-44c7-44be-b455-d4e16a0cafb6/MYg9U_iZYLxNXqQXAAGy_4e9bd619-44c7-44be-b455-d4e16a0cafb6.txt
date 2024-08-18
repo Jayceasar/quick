@@ -1,0 +1,10 @@
+User ID: MYg9U_iZYLxNXqQXAAGy
+User Name: robot
+Ticket ID: MYg9U_iZYLxNXqQXAAGy_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 11000
+Total Earnings: 19000
+Profit/Loss: 8000
+
+Breakdown:
+  Bid: 2, Amount: 3800, Payout: 19000, Status: won
+  Bid: 1, Amount: 7200, Payout: 36000, Status: lost

@@ -1,0 +1,9 @@
+User ID: YF4fmlYakcRXxmHeAAJW
+User Name: robot
+Ticket ID: YF4fmlYakcRXxmHeAAJW_62b03c19-c2ac-4766-913d-1d50e3d473a4
+Total Bid Amount: 4900
+Total Earnings: 24500
+Profit/Loss: 19600
+
+Breakdown:
+  Bid: 2, Amount: 4900, Payout: 24500, Status: won

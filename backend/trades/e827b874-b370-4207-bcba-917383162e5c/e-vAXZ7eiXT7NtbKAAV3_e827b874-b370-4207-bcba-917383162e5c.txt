@@ -1,0 +1,10 @@
+User ID: e-vAXZ7eiXT7NtbKAAV3
+User Name: robot
+Ticket ID: e-vAXZ7eiXT7NtbKAAV3_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 3200
+Total Earnings: 5000
+Profit/Loss: 1800
+
+Breakdown:
+  Bid: 1, Amount: 2200, Payout: 11000, Status: lost
+  Bid: 2, Amount: 1000, Payout: 5000, Status: won

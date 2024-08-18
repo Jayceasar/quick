@@ -1,0 +1,9 @@
+User ID: 1vSf-_p9G3u581gXAAa_
+User Name: robot
+Ticket ID: 1vSf-_p9G3u581gXAAa__55aa9e87-54e9-4667-99f6-aa713cff3098
+Total Bid Amount: 1000
+Total Earnings: 5000
+Profit/Loss: 4000
+
+Breakdown:
+  Bid: 3, Amount: 1000, Payout: 5000, Status: won

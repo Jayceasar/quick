@@ -1,0 +1,9 @@
+User ID: _Bdj7gCwtX7xu8mZAAIy
+User Name: robot
+Ticket ID: _Bdj7gCwtX7xu8mZAAIy_f048d9c2-8570-4071-a590-7ae743a2254d
+Total Bid Amount: 400
+Total Earnings: 0
+Profit/Loss: -400
+
+Breakdown:
+  Bid: 4, Amount: 400, Payout: 2000, Status: lost

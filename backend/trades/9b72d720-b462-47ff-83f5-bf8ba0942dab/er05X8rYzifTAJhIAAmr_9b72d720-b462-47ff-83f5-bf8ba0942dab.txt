@@ -1,0 +1,9 @@
+User ID: er05X8rYzifTAJhIAAmr
+User Name: robot
+Ticket ID: er05X8rYzifTAJhIAAmr_9b72d720-b462-47ff-83f5-bf8ba0942dab
+Total Bid Amount: 9300
+Total Earnings: 0
+Profit/Loss: -9300
+
+Breakdown:
+  Bid: 4, Amount: 9300, Payout: 46500, Status: lost

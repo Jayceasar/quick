@@ -1,0 +1,9 @@
+User ID: uSC19G6up-3Euk1pAAQG
+User Name: robot
+Ticket ID: uSC19G6up-3Euk1pAAQG_6ccaeea3-75f3-4c47-90f7-0f988c85c9cb
+Total Bid Amount: 5100
+Total Earnings: 0
+Profit/Loss: -5100
+
+Breakdown:
+  Bid: 4, Amount: 5100, Payout: 25500, Status: lost

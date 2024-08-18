@@ -1,0 +1,10 @@
+User ID: -MEkp8c1G8mNcsaSAAFf
+User Name: robot
+Ticket ID: -MEkp8c1G8mNcsaSAAFf_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 6000
+Total Earnings: 21000
+Profit/Loss: 15000
+
+Breakdown:
+  Bid: 2, Amount: 4200, Payout: 21000, Status: won
+  Bid: 4, Amount: 1800, Payout: 9000, Status: lost

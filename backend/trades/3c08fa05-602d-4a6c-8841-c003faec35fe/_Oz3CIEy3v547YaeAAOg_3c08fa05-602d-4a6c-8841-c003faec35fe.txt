@@ -1,0 +1,10 @@
+User ID: _Oz3CIEy3v547YaeAAOg
+User Name: robot
+Ticket ID: _Oz3CIEy3v547YaeAAOg_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 16500
+Total Earnings: 0
+Profit/Loss: -16500
+
+Breakdown:
+  Bid: 3, Amount: 6900, Payout: 34500, Status: lost
+  Bid: 1, Amount: 9600, Payout: 48000, Status: lost

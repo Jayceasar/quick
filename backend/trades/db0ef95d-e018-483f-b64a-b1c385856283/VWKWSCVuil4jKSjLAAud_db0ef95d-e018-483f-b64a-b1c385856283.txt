@@ -1,0 +1,9 @@
+User ID: VWKWSCVuil4jKSjLAAud
+User Name: robot
+Ticket ID: VWKWSCVuil4jKSjLAAud_db0ef95d-e018-483f-b64a-b1c385856283
+Total Bid Amount: 9200
+Total Earnings: 0
+Profit/Loss: -9200
+
+Breakdown:
+  Bid: 5, Amount: 9200, Payout: 46000, Status: lost

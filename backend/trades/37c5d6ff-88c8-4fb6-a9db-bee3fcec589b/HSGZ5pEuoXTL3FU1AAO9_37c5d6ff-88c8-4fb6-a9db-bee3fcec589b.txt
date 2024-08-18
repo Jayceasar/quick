@@ -1,0 +1,9 @@
+User ID: HSGZ5pEuoXTL3FU1AAO9
+User Name: robot
+Ticket ID: HSGZ5pEuoXTL3FU1AAO9_37c5d6ff-88c8-4fb6-a9db-bee3fcec589b
+Total Bid Amount: 1100
+Total Earnings: 0
+Profit/Loss: -1100
+
+Breakdown:
+  Bid: 2, Amount: 1100, Payout: 5500, Status: lost

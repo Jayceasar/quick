@@ -1,0 +1,10 @@
+User ID: _ybraQwO0EgMF5ANAAma
+User Name: robot
+Ticket ID: _ybraQwO0EgMF5ANAAma_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 6300
+Total Earnings: 15000
+Profit/Loss: 8700
+
+Breakdown:
+  Bid: 3, Amount: 3000, Payout: 15000, Status: won
+  Bid: 2, Amount: 3300, Payout: 16500, Status: lost

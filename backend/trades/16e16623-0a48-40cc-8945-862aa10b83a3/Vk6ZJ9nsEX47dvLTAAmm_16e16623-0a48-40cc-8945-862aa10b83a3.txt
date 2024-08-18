@@ -1,0 +1,10 @@
+User ID: Vk6ZJ9nsEX47dvLTAAmm
+User Name: robot
+Ticket ID: Vk6ZJ9nsEX47dvLTAAmm_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 3400
+Total Earnings: 7000
+Profit/Loss: 3600
+
+Breakdown:
+  Bid: 3, Amount: 1400, Payout: 7000, Status: won
+  Bid: 4, Amount: 2000, Payout: 10000, Status: lost

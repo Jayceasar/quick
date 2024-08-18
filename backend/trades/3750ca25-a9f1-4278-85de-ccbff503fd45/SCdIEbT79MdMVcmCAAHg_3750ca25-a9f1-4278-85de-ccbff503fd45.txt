@@ -1,0 +1,9 @@
+User ID: SCdIEbT79MdMVcmCAAHg
+User Name: robot
+Ticket ID: SCdIEbT79MdMVcmCAAHg_3750ca25-a9f1-4278-85de-ccbff503fd45
+Total Bid Amount: 8500
+Total Earnings: 0
+Profit/Loss: -8500
+
+Breakdown:
+  Bid: 4, Amount: 8500, Payout: 42500, Status: lost

@@ -1,0 +1,9 @@
+User ID: 324vUO0J7FxlmiTIAAhl
+User Name: robot
+Ticket ID: 324vUO0J7FxlmiTIAAhl_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 5800
+Total Earnings: 0
+Profit/Loss: -5800
+
+Breakdown:
+  Bid: 2, Amount: 5800, Payout: 29000, Status: lost

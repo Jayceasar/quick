@@ -1,0 +1,10 @@
+User ID: 0RD8dWTJFM1Hj5l7AAHJ
+User Name: robot
+Ticket ID: 0RD8dWTJFM1Hj5l7AAHJ_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 3000
+Total Earnings: 0
+Profit/Loss: -3000
+
+Breakdown:
+  Bid: 2, Amount: 100, Payout: 500, Status: lost
+  Bid: 3, Amount: 2900, Payout: 14500, Status: lost

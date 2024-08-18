@@ -1,0 +1,9 @@
+User ID: af8JmlN4AfORPB3eAAWR
+User Name: robot
+Ticket ID: af8JmlN4AfORPB3eAAWR_e2b54825-fe1f-4019-ab68-0ac20cf73b19
+Total Bid Amount: 2700
+Total Earnings: 0
+Profit/Loss: -2700
+
+Breakdown:
+  Bid: 4, Amount: 2700, Payout: 13500, Status: lost

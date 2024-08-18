@@ -1,0 +1,9 @@
+User ID: lgFtig1UEEFwuiJ8AAhf
+User Name: robot
+Ticket ID: lgFtig1UEEFwuiJ8AAhf_68f7215f-54a3-4d9e-9251-fc2476209693
+Total Bid Amount: 8600
+Total Earnings: 43000
+Profit/Loss: 34400
+
+Breakdown:
+  Bid: 1, Amount: 8600, Payout: 43000, Status: won

@@ -1,0 +1,9 @@
+User ID: Fc70NWC1zYS3Sr3pAANb
+User Name: robot
+Ticket ID: Fc70NWC1zYS3Sr3pAANb_6d2f5a00-8975-46ac-9313-eaee03859331
+Total Bid Amount: 1500
+Total Earnings: 0
+Profit/Loss: -1500
+
+Breakdown:
+  Bid: 1, Amount: 1500, Payout: 7500, Status: lost

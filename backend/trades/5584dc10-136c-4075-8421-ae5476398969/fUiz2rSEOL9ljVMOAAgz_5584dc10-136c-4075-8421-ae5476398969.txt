@@ -1,0 +1,9 @@
+User ID: fUiz2rSEOL9ljVMOAAgz
+User Name: robot
+Ticket ID: fUiz2rSEOL9ljVMOAAgz_5584dc10-136c-4075-8421-ae5476398969
+Total Bid Amount: 9900
+Total Earnings: 0
+Profit/Loss: -9900
+
+Breakdown:
+  Bid: 4, Amount: 9900, Payout: 49500, Status: lost

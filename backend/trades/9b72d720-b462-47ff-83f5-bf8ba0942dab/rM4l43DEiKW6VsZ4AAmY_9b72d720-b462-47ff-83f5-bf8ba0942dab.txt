@@ -1,0 +1,9 @@
+User ID: rM4l43DEiKW6VsZ4AAmY
+User Name: robot
+Ticket ID: rM4l43DEiKW6VsZ4AAmY_9b72d720-b462-47ff-83f5-bf8ba0942dab
+Total Bid Amount: 7200
+Total Earnings: 0
+Profit/Loss: -7200
+
+Breakdown:
+  Bid: 4, Amount: 7200, Payout: 36000, Status: lost

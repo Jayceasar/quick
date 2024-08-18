@@ -1,0 +1,9 @@
+User ID: TETyjp22MTqhJiy0AAX2
+User Name: robot
+Ticket ID: TETyjp22MTqhJiy0AAX2_dcb97303-c131-46b3-b018-cdc9fad52521
+Total Bid Amount: 3500
+Total Earnings: 17500
+Profit/Loss: 14000
+
+Breakdown:
+  Bid: 5, Amount: 3500, Payout: 17500, Status: won

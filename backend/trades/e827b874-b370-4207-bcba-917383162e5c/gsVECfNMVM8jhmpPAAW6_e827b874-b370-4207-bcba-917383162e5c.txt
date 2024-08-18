@@ -1,0 +1,10 @@
+User ID: gsVECfNMVM8jhmpPAAW6
+User Name: robot
+Ticket ID: gsVECfNMVM8jhmpPAAW6_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 3900
+Total Earnings: 0
+Profit/Loss: -3900
+
+Breakdown:
+  Bid: 6, Amount: 500, Payout: 2500, Status: lost
+  Bid: 6, Amount: 3400, Payout: 17000, Status: lost

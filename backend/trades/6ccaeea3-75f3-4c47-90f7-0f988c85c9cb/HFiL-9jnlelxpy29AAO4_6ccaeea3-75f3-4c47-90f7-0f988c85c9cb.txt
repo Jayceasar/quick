@@ -1,0 +1,9 @@
+User ID: HFiL-9jnlelxpy29AAO4
+User Name: robot
+Ticket ID: HFiL-9jnlelxpy29AAO4_6ccaeea3-75f3-4c47-90f7-0f988c85c9cb
+Total Bid Amount: 2000
+Total Earnings: 0
+Profit/Loss: -2000
+
+Breakdown:
+  Bid: 6, Amount: 2000, Payout: 10000, Status: lost

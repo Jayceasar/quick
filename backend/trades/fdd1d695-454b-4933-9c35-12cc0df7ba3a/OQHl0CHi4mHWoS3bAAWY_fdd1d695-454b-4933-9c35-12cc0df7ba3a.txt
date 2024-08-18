@@ -1,0 +1,9 @@
+User ID: OQHl0CHi4mHWoS3bAAWY
+User Name: robot
+Ticket ID: OQHl0CHi4mHWoS3bAAWY_fdd1d695-454b-4933-9c35-12cc0df7ba3a
+Total Bid Amount: 2200
+Total Earnings: 0
+Profit/Loss: -2200
+
+Breakdown:
+  Bid: 5, Amount: 2200, Payout: 11000, Status: lost

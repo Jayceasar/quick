@@ -1,0 +1,9 @@
+User ID: AAumMeFKKAuM6KSdAAP7
+User Name: robot
+Ticket ID: AAumMeFKKAuM6KSdAAP7_37c5d6ff-88c8-4fb6-a9db-bee3fcec589b
+Total Bid Amount: 2600
+Total Earnings: 13000
+Profit/Loss: 10400
+
+Breakdown:
+  Bid: 4, Amount: 2600, Payout: 13000, Status: won

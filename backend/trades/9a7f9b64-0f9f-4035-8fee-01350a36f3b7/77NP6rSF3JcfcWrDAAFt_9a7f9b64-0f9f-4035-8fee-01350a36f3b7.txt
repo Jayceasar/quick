@@ -1,0 +1,10 @@
+User ID: 77NP6rSF3JcfcWrDAAFt
+User Name: robot
+Ticket ID: 77NP6rSF3JcfcWrDAAFt_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 15000
+Total Earnings: 0
+Profit/Loss: -15000
+
+Breakdown:
+  Bid: 1, Amount: 7200, Payout: 36000, Status: lost
+  Bid: 3, Amount: 7800, Payout: 39000, Status: lost

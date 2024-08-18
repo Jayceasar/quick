@@ -1,0 +1,9 @@
+User ID: gt_kOtswDM2g3KfeAAjV
+User Name: robot
+Ticket ID: gt_kOtswDM2g3KfeAAjV_7edcaff6-689d-4d3c-9b04-4e875243c108
+Total Bid Amount: 7400
+Total Earnings: 0
+Profit/Loss: -7400
+
+Breakdown:
+  Bid: 1, Amount: 7400, Payout: 37000, Status: lost

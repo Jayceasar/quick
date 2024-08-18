@@ -1,0 +1,11 @@
+User ID: K6JRHhUyaJ1mhLj4AAAW
+User Name: test
+Ticket ID: K6JRHhUyaJ1mhLj4AAAW_a7fbf687-aaa0-4166-b9ad-0d8add8c5166
+Total Bid Amount: 300
+Total Earnings: 0
+Profit/Loss: -300
+
+Breakdown:
+  Bid: 2, Amount: 100, Payout: 500, Status: lost
+  Bid: 6, Amount: 100, Payout: 500, Status: lost
+  Bid: 6, Amount: 100, Payout: 500, Status: lost

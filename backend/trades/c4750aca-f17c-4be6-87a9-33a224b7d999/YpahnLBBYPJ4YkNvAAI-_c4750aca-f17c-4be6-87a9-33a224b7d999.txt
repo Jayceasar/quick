@@ -1,0 +1,9 @@
+User ID: YpahnLBBYPJ4YkNvAAI-
+User Name: robot
+Ticket ID: YpahnLBBYPJ4YkNvAAI-_c4750aca-f17c-4be6-87a9-33a224b7d999
+Total Bid Amount: 10000
+Total Earnings: 0
+Profit/Loss: -10000
+
+Breakdown:
+  Bid: 4, Amount: 10000, Payout: 50000, Status: lost

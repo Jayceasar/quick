@@ -1,0 +1,9 @@
+User ID: IHNyqihXeZN43kUyAAbN
+User Name: robot
+Ticket ID: IHNyqihXeZN43kUyAAbN_738a39ff-dd64-475f-85ea-95b884acac04
+Total Bid Amount: 5100
+Total Earnings: 0
+Profit/Loss: -5100
+
+Breakdown:
+  Bid: 1, Amount: 5100, Payout: 25500, Status: lost

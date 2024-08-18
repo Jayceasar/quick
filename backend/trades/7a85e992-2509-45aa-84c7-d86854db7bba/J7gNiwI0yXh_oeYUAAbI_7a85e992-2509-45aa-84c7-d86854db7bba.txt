@@ -1,0 +1,9 @@
+User ID: J7gNiwI0yXh_oeYUAAbI
+User Name: robot
+Ticket ID: J7gNiwI0yXh_oeYUAAbI_7a85e992-2509-45aa-84c7-d86854db7bba
+Total Bid Amount: 4400
+Total Earnings: 0
+Profit/Loss: -4400
+
+Breakdown:
+  Bid: 1, Amount: 4400, Payout: 22000, Status: lost

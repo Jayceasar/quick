@@ -1,0 +1,9 @@
+User ID: khSX_NKrCE-gOaqXAAOu
+User Name: robot
+Ticket ID: khSX_NKrCE-gOaqXAAOu_c6d2a968-5db3-4fc2-8347-8bed79a745a1
+Total Bid Amount: 500
+Total Earnings: 0
+Profit/Loss: -500
+
+Breakdown:
+  Bid: 4, Amount: 500, Payout: 2500, Status: lost

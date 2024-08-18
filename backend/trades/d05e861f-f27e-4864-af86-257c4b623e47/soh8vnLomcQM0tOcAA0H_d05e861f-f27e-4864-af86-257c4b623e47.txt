@@ -1,0 +1,9 @@
+User ID: soh8vnLomcQM0tOcAA0H
+User Name: robot
+Ticket ID: soh8vnLomcQM0tOcAA0H_d05e861f-f27e-4864-af86-257c4b623e47
+Total Bid Amount: 100
+Total Earnings: 500
+Profit/Loss: 400
+
+Breakdown:
+  Bid: 3, Amount: 100, Payout: 500, Status: won

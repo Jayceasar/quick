@@ -1,0 +1,9 @@
+User ID: Fdx1m9VTbvkrvZq2AAbF
+User Name: robot
+Ticket ID: Fdx1m9VTbvkrvZq2AAbF_e049edef-4ddb-46f3-8994-0da9502a3ab7
+Total Bid Amount: 9100
+Total Earnings: 0
+Profit/Loss: -9100
+
+Breakdown:
+  Bid: 5, Amount: 9100, Payout: 45500, Status: lost

@@ -1,0 +1,9 @@
+User ID: kjPYwO-nWBtO2ebSAA2d
+User Name: robot
+Ticket ID: kjPYwO-nWBtO2ebSAA2d_2f29ff1d-157f-4672-8a4d-f540db984810
+Total Bid Amount: 2400
+Total Earnings: 12000
+Profit/Loss: 9600
+
+Breakdown:
+  Bid: 1, Amount: 2400, Payout: 12000, Status: won

@@ -1,0 +1,9 @@
+User ID: L_wrastRHvP8LQCSAAcJ
+User Name: robot
+Ticket ID: L_wrastRHvP8LQCSAAcJ_4ea066cd-455c-48b6-977f-4db0c5158683
+Total Bid Amount: 6200
+Total Earnings: 0
+Profit/Loss: -6200
+
+Breakdown:
+  Bid: 2, Amount: 6200, Payout: 31000, Status: lost

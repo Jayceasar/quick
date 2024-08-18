@@ -1,0 +1,10 @@
+User ID: 4iOG35LjcHToBriLAAFk
+User Name: robot
+Ticket ID: 4iOG35LjcHToBriLAAFk_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 11000
+Total Earnings: 32500
+Profit/Loss: 21500
+
+Breakdown:
+  Bid: 6, Amount: 6500, Payout: 32500, Status: won
+  Bid: 1, Amount: 4500, Payout: 22500, Status: lost

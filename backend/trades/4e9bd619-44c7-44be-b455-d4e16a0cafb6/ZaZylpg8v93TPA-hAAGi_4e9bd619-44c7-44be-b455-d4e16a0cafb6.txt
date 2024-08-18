@@ -1,0 +1,10 @@
+User ID: ZaZylpg8v93TPA-hAAGi
+User Name: robot
+Ticket ID: ZaZylpg8v93TPA-hAAGi_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 8100
+Total Earnings: 0
+Profit/Loss: -8100
+
+Breakdown:
+  Bid: 3, Amount: 1600, Payout: 8000, Status: lost
+  Bid: 4, Amount: 6500, Payout: 32500, Status: lost

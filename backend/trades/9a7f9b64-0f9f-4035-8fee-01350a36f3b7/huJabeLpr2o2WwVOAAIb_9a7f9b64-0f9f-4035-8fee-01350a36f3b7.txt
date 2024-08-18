@@ -1,0 +1,10 @@
+User ID: huJabeLpr2o2WwVOAAIb
+User Name: robot
+Ticket ID: huJabeLpr2o2WwVOAAIb_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 14000
+Total Earnings: 35000
+Profit/Loss: 21000
+
+Breakdown:
+  Bid: 4, Amount: 7000, Payout: 35000, Status: lost
+  Bid: 6, Amount: 7000, Payout: 35000, Status: won

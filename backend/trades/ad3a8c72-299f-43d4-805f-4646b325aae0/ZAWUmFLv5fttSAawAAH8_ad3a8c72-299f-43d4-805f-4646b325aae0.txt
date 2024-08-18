@@ -1,0 +1,9 @@
+User ID: ZAWUmFLv5fttSAawAAH8
+User Name: robot
+Ticket ID: ZAWUmFLv5fttSAawAAH8_ad3a8c72-299f-43d4-805f-4646b325aae0
+Total Bid Amount: 2200
+Total Earnings: 11000
+Profit/Loss: 8800
+
+Breakdown:
+  Bid: 1, Amount: 2200, Payout: 11000, Status: won

@@ -1,0 +1,9 @@
+User ID: lhGpV2CB7YOaiyyYAAGs
+User Name: robot
+Ticket ID: lhGpV2CB7YOaiyyYAAGs_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 5400
+Total Earnings: 0
+Profit/Loss: -5400
+
+Breakdown:
+  Bid: 4, Amount: 5400, Payout: 27000, Status: lost

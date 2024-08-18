@@ -1,0 +1,9 @@
+User ID: VSxVo7Y7h4iIBQkTAA2u
+User Name: robot
+Ticket ID: VSxVo7Y7h4iIBQkTAA2u_68e62d25-465c-4fa3-a30f-dedebd975de0
+Total Bid Amount: 7600
+Total Earnings: 38000
+Profit/Loss: 30400
+
+Breakdown:
+  Bid: 5, Amount: 7600, Payout: 38000, Status: won

@@ -1,0 +1,9 @@
+User ID: uAm12uAWnDijWjTkAAJ_
+User Name: robot
+Ticket ID: uAm12uAWnDijWjTkAAJ__3750ca25-a9f1-4278-85de-ccbff503fd45
+Total Bid Amount: 4500
+Total Earnings: 22500
+Profit/Loss: 18000
+
+Breakdown:
+  Bid: 6, Amount: 4500, Payout: 22500, Status: won

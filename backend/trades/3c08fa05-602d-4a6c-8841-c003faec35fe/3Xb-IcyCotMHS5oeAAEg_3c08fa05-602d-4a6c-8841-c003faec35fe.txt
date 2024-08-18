@@ -1,0 +1,9 @@
+User ID: 3Xb-IcyCotMHS5oeAAEg
+User Name: robot
+Ticket ID: 3Xb-IcyCotMHS5oeAAEg_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 1000
+Total Earnings: 0
+Profit/Loss: -1000
+
+Breakdown:
+  Bid: 1, Amount: 1000, Payout: 5000, Status: lost

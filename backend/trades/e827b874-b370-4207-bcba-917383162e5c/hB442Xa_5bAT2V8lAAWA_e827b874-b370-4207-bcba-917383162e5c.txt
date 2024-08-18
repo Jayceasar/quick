@@ -1,0 +1,10 @@
+User ID: hB442Xa_5bAT2V8lAAWA
+User Name: robot
+Ticket ID: hB442Xa_5bAT2V8lAAWA_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 11600
+Total Earnings: 0
+Profit/Loss: -11600
+
+Breakdown:
+  Bid: 4, Amount: 4600, Payout: 23000, Status: lost
+  Bid: 5, Amount: 7000, Payout: 35000, Status: lost

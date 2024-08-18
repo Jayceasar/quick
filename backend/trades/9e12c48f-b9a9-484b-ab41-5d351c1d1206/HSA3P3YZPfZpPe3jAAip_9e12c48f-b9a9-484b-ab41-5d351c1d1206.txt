@@ -1,0 +1,9 @@
+User ID: HSA3P3YZPfZpPe3jAAip
+User Name: robot
+Ticket ID: HSA3P3YZPfZpPe3jAAip_9e12c48f-b9a9-484b-ab41-5d351c1d1206
+Total Bid Amount: 7000
+Total Earnings: 35000
+Profit/Loss: 28000
+
+Breakdown:
+  Bid: 1, Amount: 7000, Payout: 35000, Status: won

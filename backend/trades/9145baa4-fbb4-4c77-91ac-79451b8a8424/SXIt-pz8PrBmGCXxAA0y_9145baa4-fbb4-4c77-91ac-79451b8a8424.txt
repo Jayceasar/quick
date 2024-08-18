@@ -1,0 +1,9 @@
+User ID: SXIt-pz8PrBmGCXxAA0y
+User Name: robot
+Ticket ID: SXIt-pz8PrBmGCXxAA0y_9145baa4-fbb4-4c77-91ac-79451b8a8424
+Total Bid Amount: 8900
+Total Earnings: 0
+Profit/Loss: -8900
+
+Breakdown:
+  Bid: 1, Amount: 8900, Payout: 44500, Status: lost

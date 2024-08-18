@@ -1,0 +1,10 @@
+User ID: fY-_W6CrH0ZXI_BOAAFj
+User Name: robot
+Ticket ID: fY-_W6CrH0ZXI_BOAAFj_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 5000
+Total Earnings: 0
+Profit/Loss: -5000
+
+Breakdown:
+  Bid: 1, Amount: 3700, Payout: 18500, Status: lost
+  Bid: 1, Amount: 1300, Payout: 6500, Status: lost

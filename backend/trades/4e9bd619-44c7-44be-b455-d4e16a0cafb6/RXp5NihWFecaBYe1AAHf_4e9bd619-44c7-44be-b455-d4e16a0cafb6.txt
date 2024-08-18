@@ -1,0 +1,10 @@
+User ID: RXp5NihWFecaBYe1AAHf
+User Name: robot
+Ticket ID: RXp5NihWFecaBYe1AAHf_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 12600
+Total Earnings: 43000
+Profit/Loss: 30400
+
+Breakdown:
+  Bid: 2, Amount: 8600, Payout: 43000, Status: won
+  Bid: 4, Amount: 4000, Payout: 20000, Status: lost

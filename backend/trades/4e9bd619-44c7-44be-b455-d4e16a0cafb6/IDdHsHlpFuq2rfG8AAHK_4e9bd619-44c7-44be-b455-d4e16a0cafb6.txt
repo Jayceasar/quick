@@ -1,0 +1,9 @@
+User ID: IDdHsHlpFuq2rfG8AAHK
+User Name: robot
+Ticket ID: IDdHsHlpFuq2rfG8AAHK_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 1000
+Total Earnings: 0
+Profit/Loss: -1000
+
+Breakdown:
+  Bid: 6, Amount: 1000, Payout: 5000, Status: lost

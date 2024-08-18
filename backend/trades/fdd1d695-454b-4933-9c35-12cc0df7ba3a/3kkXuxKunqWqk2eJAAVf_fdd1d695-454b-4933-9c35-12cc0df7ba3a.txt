@@ -1,0 +1,9 @@
+User ID: 3kkXuxKunqWqk2eJAAVf
+User Name: robot
+Ticket ID: 3kkXuxKunqWqk2eJAAVf_fdd1d695-454b-4933-9c35-12cc0df7ba3a
+Total Bid Amount: 4100
+Total Earnings: 20500
+Profit/Loss: 16400
+
+Breakdown:
+  Bid: 6, Amount: 4100, Payout: 20500, Status: won

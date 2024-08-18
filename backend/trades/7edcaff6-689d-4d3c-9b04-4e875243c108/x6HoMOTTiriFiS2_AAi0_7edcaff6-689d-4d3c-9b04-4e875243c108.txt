@@ -1,0 +1,9 @@
+User ID: x6HoMOTTiriFiS2_AAi0
+User Name: robot
+Ticket ID: x6HoMOTTiriFiS2_AAi0_7edcaff6-689d-4d3c-9b04-4e875243c108
+Total Bid Amount: 5400
+Total Earnings: 27000
+Profit/Loss: 21600
+
+Breakdown:
+  Bid: 2, Amount: 5400, Payout: 27000, Status: won

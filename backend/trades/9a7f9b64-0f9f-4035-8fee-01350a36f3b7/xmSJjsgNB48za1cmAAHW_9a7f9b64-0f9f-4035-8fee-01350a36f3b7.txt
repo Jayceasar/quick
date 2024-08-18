@@ -1,0 +1,10 @@
+User ID: xmSJjsgNB48za1cmAAHW
+User Name: robot
+Ticket ID: xmSJjsgNB48za1cmAAHW_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 3300
+Total Earnings: 7000
+Profit/Loss: 3700
+
+Breakdown:
+  Bid: 3, Amount: 1900, Payout: 9500, Status: lost
+  Bid: 6, Amount: 1400, Payout: 7000, Status: won

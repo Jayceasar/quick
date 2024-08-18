@@ -1,0 +1,10 @@
+User ID: PcWkgUDnDXdWD4wYAAFv
+User Name: robot
+Ticket ID: PcWkgUDnDXdWD4wYAAFv_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 13700
+Total Earnings: 0
+Profit/Loss: -13700
+
+Breakdown:
+  Bid: 3, Amount: 7200, Payout: 36000, Status: lost
+  Bid: 1, Amount: 6500, Payout: 32500, Status: lost

@@ -1,0 +1,10 @@
+User ID: CELRAuXS0Fz4Zuh_AANp
+User Name: robot
+Ticket ID: CELRAuXS0Fz4Zuh_AANp_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 2300
+Total Earnings: 6000
+Profit/Loss: 3700
+
+Breakdown:
+  Bid: 5, Amount: 1200, Payout: 6000, Status: won
+  Bid: 6, Amount: 1100, Payout: 5500, Status: lost

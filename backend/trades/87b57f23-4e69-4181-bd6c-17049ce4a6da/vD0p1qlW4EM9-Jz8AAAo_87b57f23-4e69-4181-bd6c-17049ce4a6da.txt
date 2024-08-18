@@ -1,0 +1,12 @@
+User ID: vD0p1qlW4EM9-Jz8AAAo
+User Name: test
+Ticket ID: vD0p1qlW4EM9-Jz8AAAo_87b57f23-4e69-4181-bd6c-17049ce4a6da
+Total Bid Amount: 400
+Total Earnings: 0
+Profit/Loss: -400
+
+Breakdown:
+  Bid: 5, Amount: 100, Payout: 500, Status: lost
+  Bid: 5, Amount: 100, Payout: 500, Status: lost
+  Bid: 6, Amount: 100, Payout: 500, Status: lost
+  Bid: 6, Amount: 100, Payout: 500, Status: lost

@@ -1,0 +1,9 @@
+User ID: F9iUsWlra4TJ683FAAay
+User Name: robot
+Ticket ID: F9iUsWlra4TJ683FAAay_f892e337-6af1-45e1-ae0c-04f4051b1cef
+Total Bid Amount: 100
+Total Earnings: 0
+Profit/Loss: -100
+
+Breakdown:
+  Bid: 2, Amount: 100, Payout: 500, Status: lost

@@ -1,0 +1,10 @@
+User ID: RjayPnrkp7Eo0GwjAAOj
+User Name: robot
+Ticket ID: RjayPnrkp7Eo0GwjAAOj_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 16300
+Total Earnings: 0
+Profit/Loss: -16300
+
+Breakdown:
+  Bid: 1, Amount: 6900, Payout: 34500, Status: lost
+  Bid: 3, Amount: 9400, Payout: 47000, Status: lost

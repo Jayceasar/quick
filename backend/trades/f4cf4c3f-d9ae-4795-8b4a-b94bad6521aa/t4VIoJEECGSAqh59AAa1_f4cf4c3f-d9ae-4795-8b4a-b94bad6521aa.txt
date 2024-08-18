@@ -1,0 +1,9 @@
+User ID: t4VIoJEECGSAqh59AAa1
+User Name: robot
+Ticket ID: t4VIoJEECGSAqh59AAa1_f4cf4c3f-d9ae-4795-8b4a-b94bad6521aa
+Total Bid Amount: 3300
+Total Earnings: 16500
+Profit/Loss: 13200
+
+Breakdown:
+  Bid: 1, Amount: 3300, Payout: 16500, Status: won

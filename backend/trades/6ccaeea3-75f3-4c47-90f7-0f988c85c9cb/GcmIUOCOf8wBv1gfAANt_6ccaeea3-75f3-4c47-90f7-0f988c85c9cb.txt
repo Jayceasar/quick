@@ -1,0 +1,9 @@
+User ID: GcmIUOCOf8wBv1gfAANt
+User Name: robot
+Ticket ID: GcmIUOCOf8wBv1gfAANt_6ccaeea3-75f3-4c47-90f7-0f988c85c9cb
+Total Bid Amount: 1700
+Total Earnings: 0
+Profit/Loss: -1700
+
+Breakdown:
+  Bid: 6, Amount: 1700, Payout: 8500, Status: lost

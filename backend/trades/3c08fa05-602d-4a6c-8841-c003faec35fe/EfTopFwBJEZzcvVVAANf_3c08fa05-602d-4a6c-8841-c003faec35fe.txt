@@ -1,0 +1,10 @@
+User ID: EfTopFwBJEZzcvVVAANf
+User Name: robot
+Ticket ID: EfTopFwBJEZzcvVVAANf_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 14400
+Total Earnings: 34000
+Profit/Loss: 19600
+
+Breakdown:
+  Bid: 5, Amount: 6800, Payout: 34000, Status: won
+  Bid: 1, Amount: 7600, Payout: 38000, Status: lost

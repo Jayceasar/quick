@@ -1,0 +1,9 @@
+User ID: 2TF_KES4HNY0N6zJAAMb
+User Name: robot
+Ticket ID: 2TF_KES4HNY0N6zJAAMb_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 1800
+Total Earnings: 0
+Profit/Loss: -1800
+
+Breakdown:
+  Bid: 6, Amount: 1800, Payout: 9000, Status: lost

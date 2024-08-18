@@ -1,0 +1,9 @@
+User ID: JwIrtfpsDr996J8jAAE-
+User Name: robot
+Ticket ID: JwIrtfpsDr996J8jAAE-_ad3a8c72-299f-43d4-805f-4646b325aae0
+Total Bid Amount: 6300
+Total Earnings: 0
+Profit/Loss: -6300
+
+Breakdown:
+  Bid: 2, Amount: 6300, Payout: 31500, Status: lost

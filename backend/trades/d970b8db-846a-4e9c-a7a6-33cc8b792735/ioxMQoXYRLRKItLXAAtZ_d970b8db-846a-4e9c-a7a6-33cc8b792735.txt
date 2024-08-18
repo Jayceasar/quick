@@ -1,0 +1,10 @@
+User ID: ioxMQoXYRLRKItLXAAtZ
+User Name: robot
+Ticket ID: ioxMQoXYRLRKItLXAAtZ_d970b8db-846a-4e9c-a7a6-33cc8b792735
+Total Bid Amount: 6400
+Total Earnings: 0
+Profit/Loss: -6400
+
+Breakdown:
+  Bid: 2, Amount: 1300, Payout: 6500, Status: lost
+  Bid: 2, Amount: 5100, Payout: 25500, Status: lost

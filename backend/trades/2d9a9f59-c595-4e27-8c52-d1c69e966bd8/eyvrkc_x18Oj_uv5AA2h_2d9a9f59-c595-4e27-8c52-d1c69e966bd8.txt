@@ -1,0 +1,9 @@
+User ID: eyvrkc_x18Oj_uv5AA2h
+User Name: robot
+Ticket ID: eyvrkc_x18Oj_uv5AA2h_2d9a9f59-c595-4e27-8c52-d1c69e966bd8
+Total Bid Amount: 1800
+Total Earnings: 9000
+Profit/Loss: 7200
+
+Breakdown:
+  Bid: 5, Amount: 1800, Payout: 9000, Status: won

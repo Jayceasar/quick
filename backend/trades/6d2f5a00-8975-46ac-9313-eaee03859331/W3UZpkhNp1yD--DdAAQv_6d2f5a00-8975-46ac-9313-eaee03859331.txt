@@ -1,0 +1,10 @@
+User ID: W3UZpkhNp1yD--DdAAQv
+User Name: robot
+Ticket ID: W3UZpkhNp1yD--DdAAQv_6d2f5a00-8975-46ac-9313-eaee03859331
+Total Bid Amount: 10800
+Total Earnings: 0
+Profit/Loss: -10800
+
+Breakdown:
+  Bid: 6, Amount: 9000, Payout: 45000, Status: lost
+  Bid: 4, Amount: 1800, Payout: 9000, Status: lost

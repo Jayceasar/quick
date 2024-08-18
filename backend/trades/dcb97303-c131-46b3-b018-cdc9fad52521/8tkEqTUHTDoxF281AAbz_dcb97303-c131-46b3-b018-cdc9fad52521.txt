@@ -1,0 +1,9 @@
+User ID: 8tkEqTUHTDoxF281AAbz
+User Name: robot
+Ticket ID: 8tkEqTUHTDoxF281AAbz_dcb97303-c131-46b3-b018-cdc9fad52521
+Total Bid Amount: 8900
+Total Earnings: 44500
+Profit/Loss: 35600
+
+Breakdown:
+  Bid: 5, Amount: 8900, Payout: 44500, Status: won

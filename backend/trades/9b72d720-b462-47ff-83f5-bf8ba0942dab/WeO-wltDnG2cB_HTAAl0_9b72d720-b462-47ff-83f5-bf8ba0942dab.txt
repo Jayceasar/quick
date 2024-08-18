@@ -1,0 +1,9 @@
+User ID: WeO-wltDnG2cB_HTAAl0
+User Name: robot
+Ticket ID: WeO-wltDnG2cB_HTAAl0_9b72d720-b462-47ff-83f5-bf8ba0942dab
+Total Bid Amount: 1500
+Total Earnings: 7500
+Profit/Loss: 6000
+
+Breakdown:
+  Bid: 5, Amount: 1500, Payout: 7500, Status: won

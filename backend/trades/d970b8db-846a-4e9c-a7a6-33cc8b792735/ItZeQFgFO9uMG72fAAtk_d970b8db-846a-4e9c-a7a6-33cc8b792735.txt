@@ -1,0 +1,10 @@
+User ID: ItZeQFgFO9uMG72fAAtk
+User Name: robot
+Ticket ID: ItZeQFgFO9uMG72fAAtk_d970b8db-846a-4e9c-a7a6-33cc8b792735
+Total Bid Amount: 11900
+Total Earnings: 0
+Profit/Loss: -11900
+
+Breakdown:
+  Bid: 4, Amount: 4500, Payout: 22500, Status: lost
+  Bid: 1, Amount: 7400, Payout: 37000, Status: lost

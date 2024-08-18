@@ -1,0 +1,10 @@
+User ID: tCu50gN0ca0n6PfMAAGa
+User Name: robot
+Ticket ID: tCu50gN0ca0n6PfMAAGa_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 13300
+Total Earnings: 0
+Profit/Loss: -13300
+
+Breakdown:
+  Bid: 4, Amount: 5500, Payout: 27500, Status: lost
+  Bid: 5, Amount: 7800, Payout: 39000, Status: lost

@@ -1,0 +1,9 @@
+User ID: kE6TKSKsLEfdrIpTAAhc
+User Name: robot
+Ticket ID: kE6TKSKsLEfdrIpTAAhc_5584dc10-136c-4075-8421-ae5476398969
+Total Bid Amount: 6400
+Total Earnings: 0
+Profit/Loss: -6400
+
+Breakdown:
+  Bid: 4, Amount: 6400, Payout: 32000, Status: lost

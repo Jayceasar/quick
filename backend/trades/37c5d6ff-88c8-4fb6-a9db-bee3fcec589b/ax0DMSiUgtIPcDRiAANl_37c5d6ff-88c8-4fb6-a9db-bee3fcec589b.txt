@@ -1,0 +1,9 @@
+User ID: ax0DMSiUgtIPcDRiAANl
+User Name: robot
+Ticket ID: ax0DMSiUgtIPcDRiAANl_37c5d6ff-88c8-4fb6-a9db-bee3fcec589b
+Total Bid Amount: 4600
+Total Earnings: 0
+Profit/Loss: -4600
+
+Breakdown:
+  Bid: 2, Amount: 4600, Payout: 23000, Status: lost

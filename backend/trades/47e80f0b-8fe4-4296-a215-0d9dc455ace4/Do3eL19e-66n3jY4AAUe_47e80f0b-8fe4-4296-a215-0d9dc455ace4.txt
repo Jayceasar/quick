@@ -1,0 +1,9 @@
+User ID: Do3eL19e-66n3jY4AAUe
+User Name: robot
+Ticket ID: Do3eL19e-66n3jY4AAUe_47e80f0b-8fe4-4296-a215-0d9dc455ace4
+Total Bid Amount: 3900
+Total Earnings: 19500
+Profit/Loss: 15600
+
+Breakdown:
+  Bid: 1, Amount: 3900, Payout: 19500, Status: won

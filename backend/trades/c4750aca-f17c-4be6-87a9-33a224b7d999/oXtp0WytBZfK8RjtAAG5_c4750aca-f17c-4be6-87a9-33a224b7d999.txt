@@ -1,0 +1,9 @@
+User ID: oXtp0WytBZfK8RjtAAG5
+User Name: robot
+Ticket ID: oXtp0WytBZfK8RjtAAG5_c4750aca-f17c-4be6-87a9-33a224b7d999
+Total Bid Amount: 2600
+Total Earnings: 0
+Profit/Loss: -2600
+
+Breakdown:
+  Bid: 6, Amount: 2600, Payout: 13000, Status: lost

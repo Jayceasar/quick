@@ -1,0 +1,9 @@
+User ID: ycafJtRSrhwzZEKKAAEa
+User Name: robot
+Ticket ID: ycafJtRSrhwzZEKKAAEa_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 5300
+Total Earnings: 0
+Profit/Loss: -5300
+
+Breakdown:
+  Bid: 2, Amount: 5300, Payout: 26500, Status: lost

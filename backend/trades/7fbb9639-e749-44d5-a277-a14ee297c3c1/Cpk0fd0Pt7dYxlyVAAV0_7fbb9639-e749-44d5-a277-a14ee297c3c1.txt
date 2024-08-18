@@ -1,0 +1,9 @@
+User ID: Cpk0fd0Pt7dYxlyVAAV0
+User Name: robot
+Ticket ID: Cpk0fd0Pt7dYxlyVAAV0_7fbb9639-e749-44d5-a277-a14ee297c3c1
+Total Bid Amount: 7100
+Total Earnings: 35500
+Profit/Loss: 28400
+
+Breakdown:
+  Bid: 1, Amount: 7100, Payout: 35500, Status: won

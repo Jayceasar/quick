@@ -1,0 +1,10 @@
+User ID: CTcnlEQh6pJ0XqaLAAoc
+User Name: robot
+Ticket ID: CTcnlEQh6pJ0XqaLAAoc_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 12600
+Total Earnings: 0
+Profit/Loss: -12600
+
+Breakdown:
+  Bid: 6, Amount: 4100, Payout: 20500, Status: lost
+  Bid: 4, Amount: 8500, Payout: 42500, Status: lost

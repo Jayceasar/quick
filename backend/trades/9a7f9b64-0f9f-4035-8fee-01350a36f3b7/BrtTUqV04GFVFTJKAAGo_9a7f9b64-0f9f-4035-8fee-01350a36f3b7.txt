@@ -1,0 +1,10 @@
+User ID: BrtTUqV04GFVFTJKAAGo
+User Name: robot
+Ticket ID: BrtTUqV04GFVFTJKAAGo_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 11000
+Total Earnings: 0
+Profit/Loss: -11000
+
+Breakdown:
+  Bid: 5, Amount: 4400, Payout: 22000, Status: lost
+  Bid: 4, Amount: 6600, Payout: 33000, Status: lost

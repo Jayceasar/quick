@@ -1,0 +1,9 @@
+User ID: Cv8uvccfCtzpQY0pAAHJ
+User Name: robot
+Ticket ID: Cv8uvccfCtzpQY0pAAHJ_62b03c19-c2ac-4766-913d-1d50e3d473a4
+Total Bid Amount: 5400
+Total Earnings: 0
+Profit/Loss: -5400
+
+Breakdown:
+  Bid: 5, Amount: 5400, Payout: 27000, Status: lost

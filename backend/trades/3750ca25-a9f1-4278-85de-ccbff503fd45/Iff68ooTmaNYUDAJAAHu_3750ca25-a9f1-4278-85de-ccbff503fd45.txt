@@ -1,0 +1,9 @@
+User ID: Iff68ooTmaNYUDAJAAHu
+User Name: robot
+Ticket ID: Iff68ooTmaNYUDAJAAHu_3750ca25-a9f1-4278-85de-ccbff503fd45
+Total Bid Amount: 1700
+Total Earnings: 8500
+Profit/Loss: 6800
+
+Breakdown:
+  Bid: 6, Amount: 1700, Payout: 8500, Status: won

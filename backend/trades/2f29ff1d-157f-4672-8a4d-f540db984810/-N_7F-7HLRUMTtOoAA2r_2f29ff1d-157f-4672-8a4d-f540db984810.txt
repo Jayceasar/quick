@@ -1,0 +1,9 @@
+User ID: -N_7F-7HLRUMTtOoAA2r
+User Name: robot
+Ticket ID: -N_7F-7HLRUMTtOoAA2r_2f29ff1d-157f-4672-8a4d-f540db984810
+Total Bid Amount: 8000
+Total Earnings: 0
+Profit/Loss: -8000
+
+Breakdown:
+  Bid: 4, Amount: 8000, Payout: 40000, Status: lost

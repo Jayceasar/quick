@@ -1,0 +1,9 @@
+User ID: 436SG6HTrNqOaJc-AAb0
+User Name: robot
+Ticket ID: 436SG6HTrNqOaJc-AAb0_21d39602-8afc-46e7-aeb0-e79f363e1d3a
+Total Bid Amount: 9500
+Total Earnings: 0
+Profit/Loss: -9500
+
+Breakdown:
+  Bid: 4, Amount: 9500, Payout: 47500, Status: lost

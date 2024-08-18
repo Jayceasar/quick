@@ -1,0 +1,9 @@
+User ID: WBaqesuF5JeoKlvzAA01
+User Name: robot
+Ticket ID: WBaqesuF5JeoKlvzAA01_2064e9d8-c50a-4535-8fb3-112104adabdb
+Total Bid Amount: 3300
+Total Earnings: 0
+Profit/Loss: -3300
+
+Breakdown:
+  Bid: 1, Amount: 3300, Payout: 16500, Status: lost

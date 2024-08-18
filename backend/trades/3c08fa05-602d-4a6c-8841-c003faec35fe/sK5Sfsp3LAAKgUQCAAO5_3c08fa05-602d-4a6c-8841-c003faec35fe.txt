@@ -1,0 +1,10 @@
+User ID: sK5Sfsp3LAAKgUQCAAO5
+User Name: robot
+Ticket ID: sK5Sfsp3LAAKgUQCAAO5_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 9000
+Total Earnings: 0
+Profit/Loss: -9000
+
+Breakdown:
+  Bid: 2, Amount: 6800, Payout: 34000, Status: lost
+  Bid: 2, Amount: 2200, Payout: 11000, Status: lost

@@ -1,0 +1,9 @@
+User ID: nmSPpCCTXAcawlVGAAi4
+User Name: robot
+Ticket ID: nmSPpCCTXAcawlVGAAi4_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 2100
+Total Earnings: 0
+Profit/Loss: -2100
+
+Breakdown:
+  Bid: 4, Amount: 2100, Payout: 10500, Status: lost

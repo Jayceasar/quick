@@ -1,0 +1,9 @@
+User ID: r5N-mNsF5KfIt_ZBAAOy
+User Name: robot
+Ticket ID: r5N-mNsF5KfIt_ZBAAOy_b7702871-94c5-4aa2-a465-bc5c183e2b58
+Total Bid Amount: 6200
+Total Earnings: 0
+Profit/Loss: -6200
+
+Breakdown:
+  Bid: 2, Amount: 6200, Payout: 31000, Status: lost

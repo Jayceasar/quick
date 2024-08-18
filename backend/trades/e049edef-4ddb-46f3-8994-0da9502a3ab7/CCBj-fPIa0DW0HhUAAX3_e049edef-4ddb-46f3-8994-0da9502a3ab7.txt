@@ -1,0 +1,9 @@
+User ID: CCBj-fPIa0DW0HhUAAX3
+User Name: robot
+Ticket ID: CCBj-fPIa0DW0HhUAAX3_e049edef-4ddb-46f3-8994-0da9502a3ab7
+Total Bid Amount: 4000
+Total Earnings: 0
+Profit/Loss: -4000
+
+Breakdown:
+  Bid: 6, Amount: 4000, Payout: 20000, Status: lost

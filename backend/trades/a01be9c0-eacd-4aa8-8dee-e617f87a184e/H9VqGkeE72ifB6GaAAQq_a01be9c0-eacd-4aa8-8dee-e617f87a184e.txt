@@ -1,0 +1,9 @@
+User ID: H9VqGkeE72ifB6GaAAQq
+User Name: robot
+Ticket ID: H9VqGkeE72ifB6GaAAQq_a01be9c0-eacd-4aa8-8dee-e617f87a184e
+Total Bid Amount: 6200
+Total Earnings: 31000
+Profit/Loss: 24800
+
+Breakdown:
+  Bid: 2, Amount: 6200, Payout: 31000, Status: won

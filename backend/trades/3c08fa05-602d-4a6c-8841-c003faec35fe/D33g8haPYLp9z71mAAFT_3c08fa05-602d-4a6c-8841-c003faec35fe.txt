@@ -1,0 +1,9 @@
+User ID: D33g8haPYLp9z71mAAFT
+User Name: robot
+Ticket ID: D33g8haPYLp9z71mAAFT_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 3200
+Total Earnings: 0
+Profit/Loss: -3200
+
+Breakdown:
+  Bid: 1, Amount: 3200, Payout: 16000, Status: lost

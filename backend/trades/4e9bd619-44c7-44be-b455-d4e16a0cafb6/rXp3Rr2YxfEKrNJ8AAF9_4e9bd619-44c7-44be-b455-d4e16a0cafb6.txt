@@ -1,0 +1,10 @@
+User ID: rXp3Rr2YxfEKrNJ8AAF9
+User Name: robot
+Ticket ID: rXp3Rr2YxfEKrNJ8AAF9_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 17700
+Total Earnings: 0
+Profit/Loss: -17700
+
+Breakdown:
+  Bid: 4, Amount: 7700, Payout: 38500, Status: lost
+  Bid: 4, Amount: 10000, Payout: 50000, Status: lost

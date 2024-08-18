@@ -1,0 +1,10 @@
+User ID: TTAsTEzUw0HVMXfPAAMs
+User Name: robot
+Ticket ID: TTAsTEzUw0HVMXfPAAMs_ad3a8c72-299f-43d4-805f-4646b325aae0
+Total Bid Amount: 18000
+Total Earnings: 0
+Profit/Loss: -18000
+
+Breakdown:
+  Bid: 4, Amount: 8800, Payout: 44000, Status: lost
+  Bid: 4, Amount: 9200, Payout: 46000, Status: lost

@@ -1,0 +1,9 @@
+User ID: ioHut0vSvQWxCZ2lAA1H
+User Name: robot
+Ticket ID: ioHut0vSvQWxCZ2lAA1H_481b0c54-e3a2-4605-acb3-5ca9c7ea032e
+Total Bid Amount: 7600
+Total Earnings: 0
+Profit/Loss: -7600
+
+Breakdown:
+  Bid: 4, Amount: 7600, Payout: 38000, Status: lost

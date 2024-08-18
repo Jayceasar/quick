@@ -1,0 +1,10 @@
+User ID: 2xylOwg7Q9Lkn-LAAAlz
+User Name: robot
+Ticket ID: 2xylOwg7Q9Lkn-LAAAlz_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 13800
+Total Earnings: 0
+Profit/Loss: -13800
+
+Breakdown:
+  Bid: 2, Amount: 4100, Payout: 20500, Status: lost
+  Bid: 6, Amount: 9700, Payout: 48500, Status: lost

@@ -1,0 +1,10 @@
+User ID: C_lo07MRpWSwvd9PAAWx
+User Name: robot
+Ticket ID: C_lo07MRpWSwvd9PAAWx_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 6600
+Total Earnings: 0
+Profit/Loss: -6600
+
+Breakdown:
+  Bid: 6, Amount: 6400, Payout: 32000, Status: lost
+  Bid: 6, Amount: 200, Payout: 1000, Status: lost

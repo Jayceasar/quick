@@ -1,0 +1,9 @@
+User ID: 2rDwD6OqxVgyo8hqAAut
+User Name: robot
+Ticket ID: 2rDwD6OqxVgyo8hqAAut_db0ef95d-e018-483f-b64a-b1c385856283
+Total Bid Amount: 8200
+Total Earnings: 0
+Profit/Loss: -8200
+
+Breakdown:
+  Bid: 5, Amount: 8200, Payout: 41000, Status: lost

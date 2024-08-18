@@ -1,0 +1,9 @@
+User ID: 5s8fHkXxP6a0v_S5AAlk
+User Name: robot
+Ticket ID: 5s8fHkXxP6a0v_S5AAlk_d970b8db-846a-4e9c-a7a6-33cc8b792735
+Total Bid Amount: 9400
+Total Earnings: 0
+Profit/Loss: -9400
+
+Breakdown:
+  Bid: 4, Amount: 9400, Payout: 47000, Status: lost

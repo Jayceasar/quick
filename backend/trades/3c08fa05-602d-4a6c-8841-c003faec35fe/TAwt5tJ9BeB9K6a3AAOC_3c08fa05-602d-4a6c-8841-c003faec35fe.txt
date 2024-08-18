@@ -1,0 +1,10 @@
+User ID: TAwt5tJ9BeB9K6a3AAOC
+User Name: robot
+Ticket ID: TAwt5tJ9BeB9K6a3AAOC_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 14400
+Total Earnings: 25000
+Profit/Loss: 10600
+
+Breakdown:
+  Bid: 5, Amount: 5000, Payout: 25000, Status: won
+  Bid: 4, Amount: 9400, Payout: 47000, Status: lost

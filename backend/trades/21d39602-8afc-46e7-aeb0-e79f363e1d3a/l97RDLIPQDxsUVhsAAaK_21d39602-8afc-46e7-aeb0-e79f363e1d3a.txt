@@ -1,0 +1,9 @@
+User ID: l97RDLIPQDxsUVhsAAaK
+User Name: robot
+Ticket ID: l97RDLIPQDxsUVhsAAaK_21d39602-8afc-46e7-aeb0-e79f363e1d3a
+Total Bid Amount: 2200
+Total Earnings: 0
+Profit/Loss: -2200
+
+Breakdown:
+  Bid: 6, Amount: 2200, Payout: 11000, Status: lost

@@ -1,0 +1,9 @@
+User ID: ZPTeaMr8t1yRqzmFAAhU
+User Name: robot
+Ticket ID: ZPTeaMr8t1yRqzmFAAhU_5584dc10-136c-4075-8421-ae5476398969
+Total Bid Amount: 2500
+Total Earnings: 0
+Profit/Loss: -2500
+
+Breakdown:
+  Bid: 1, Amount: 2500, Payout: 12500, Status: lost

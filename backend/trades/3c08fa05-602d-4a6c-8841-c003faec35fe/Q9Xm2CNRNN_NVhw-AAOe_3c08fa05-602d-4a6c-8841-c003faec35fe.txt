@@ -1,0 +1,10 @@
+User ID: Q9Xm2CNRNN_NVhw-AAOe
+User Name: robot
+Ticket ID: Q9Xm2CNRNN_NVhw-AAOe_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 13600
+Total Earnings: 0
+Profit/Loss: -13600
+
+Breakdown:
+  Bid: 2, Amount: 4200, Payout: 21000, Status: lost
+  Bid: 2, Amount: 9400, Payout: 47000, Status: lost

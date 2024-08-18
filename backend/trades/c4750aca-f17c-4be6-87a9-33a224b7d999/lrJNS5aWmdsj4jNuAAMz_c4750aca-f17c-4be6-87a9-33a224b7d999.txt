@@ -1,0 +1,9 @@
+User ID: lrJNS5aWmdsj4jNuAAMz
+User Name: robot
+Ticket ID: lrJNS5aWmdsj4jNuAAMz_c4750aca-f17c-4be6-87a9-33a224b7d999
+Total Bid Amount: 8700
+Total Earnings: 0
+Profit/Loss: -8700
+
+Breakdown:
+  Bid: 6, Amount: 8700, Payout: 43500, Status: lost

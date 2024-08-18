@@ -1,0 +1,10 @@
+User ID: b8VwxJCMwkja23SlAAFI
+User Name: robot
+Ticket ID: b8VwxJCMwkja23SlAAFI_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 10400
+Total Earnings: 0
+Profit/Loss: -10400
+
+Breakdown:
+  Bid: 2, Amount: 1900, Payout: 9500, Status: lost
+  Bid: 4, Amount: 8500, Payout: 42500, Status: lost

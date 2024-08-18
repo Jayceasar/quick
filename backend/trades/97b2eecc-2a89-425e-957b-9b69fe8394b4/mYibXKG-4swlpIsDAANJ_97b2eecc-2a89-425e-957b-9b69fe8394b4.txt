@@ -1,0 +1,14 @@
+User ID: mYibXKG-4swlpIsDAANJ
+User Name: test
+Ticket ID: mYibXKG-4swlpIsDAANJ_97b2eecc-2a89-425e-957b-9b69fe8394b4
+Total Bid Amount: 600
+Total Earnings: 0
+Profit/Loss: -600
+
+Breakdown:
+  Bid: 6, Amount: 100, Payout: 500, Status: lost
+  Bid: 6, Amount: 100, Payout: 500, Status: lost
+  Bid: 2, Amount: 100, Payout: 500, Status: lost
+  Bid: 2, Amount: 100, Payout: 500, Status: lost
+  Bid: 1, Amount: 100, Payout: 500, Status: lost
+  Bid: 1, Amount: 100, Payout: 500, Status: lost

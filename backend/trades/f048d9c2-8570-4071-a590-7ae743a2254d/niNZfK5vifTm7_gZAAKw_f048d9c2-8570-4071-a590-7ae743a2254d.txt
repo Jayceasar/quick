@@ -1,0 +1,10 @@
+User ID: niNZfK5vifTm7_gZAAKw
+User Name: robot
+Ticket ID: niNZfK5vifTm7_gZAAKw_f048d9c2-8570-4071-a590-7ae743a2254d
+Total Bid Amount: 11800
+Total Earnings: 19500
+Profit/Loss: 7700
+
+Breakdown:
+  Bid: 3, Amount: 3900, Payout: 19500, Status: won
+  Bid: 6, Amount: 7900, Payout: 39500, Status: lost

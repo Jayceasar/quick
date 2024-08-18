@@ -1,0 +1,9 @@
+User ID: Uvaqn1hyD3S0A374AANA
+User Name: robot
+Ticket ID: Uvaqn1hyD3S0A374AANA_d4d335fb-57cb-443b-84fb-16963a73946e
+Total Bid Amount: 7800
+Total Earnings: 0
+Profit/Loss: -7800
+
+Breakdown:
+  Bid: 1, Amount: 7800, Payout: 39000, Status: lost

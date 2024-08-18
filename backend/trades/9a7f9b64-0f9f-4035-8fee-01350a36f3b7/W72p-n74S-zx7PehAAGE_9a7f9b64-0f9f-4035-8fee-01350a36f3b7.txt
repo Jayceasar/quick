@@ -1,0 +1,10 @@
+User ID: W72p-n74S-zx7PehAAGE
+User Name: robot
+Ticket ID: W72p-n74S-zx7PehAAGE_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 8300
+Total Earnings: 16000
+Profit/Loss: 7700
+
+Breakdown:
+  Bid: 6, Amount: 3200, Payout: 16000, Status: won
+  Bid: 1, Amount: 5100, Payout: 25500, Status: lost

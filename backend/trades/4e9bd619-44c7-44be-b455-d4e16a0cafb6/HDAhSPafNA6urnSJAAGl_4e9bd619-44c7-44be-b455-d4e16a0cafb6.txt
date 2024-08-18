@@ -1,0 +1,10 @@
+User ID: HDAhSPafNA6urnSJAAGl
+User Name: robot
+Ticket ID: HDAhSPafNA6urnSJAAGl_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 4500
+Total Earnings: 0
+Profit/Loss: -4500
+
+Breakdown:
+  Bid: 3, Amount: 3800, Payout: 19000, Status: lost
+  Bid: 4, Amount: 700, Payout: 3500, Status: lost

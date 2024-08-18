@@ -1,0 +1,9 @@
+User ID: 0681cHyt8iHnENsYAA1D
+User Name: robot
+Ticket ID: 0681cHyt8iHnENsYAA1D_68e62d25-465c-4fa3-a30f-dedebd975de0
+Total Bid Amount: 5300
+Total Earnings: 26500
+Profit/Loss: 21200
+
+Breakdown:
+  Bid: 5, Amount: 5300, Payout: 26500, Status: won

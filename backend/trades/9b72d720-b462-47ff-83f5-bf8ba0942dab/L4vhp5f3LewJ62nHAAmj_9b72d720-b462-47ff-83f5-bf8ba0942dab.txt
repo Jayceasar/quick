@@ -1,0 +1,9 @@
+User ID: L4vhp5f3LewJ62nHAAmj
+User Name: robot
+Ticket ID: L4vhp5f3LewJ62nHAAmj_9b72d720-b462-47ff-83f5-bf8ba0942dab
+Total Bid Amount: 9800
+Total Earnings: 0
+Profit/Loss: -9800
+
+Breakdown:
+  Bid: 1, Amount: 9800, Payout: 49000, Status: lost

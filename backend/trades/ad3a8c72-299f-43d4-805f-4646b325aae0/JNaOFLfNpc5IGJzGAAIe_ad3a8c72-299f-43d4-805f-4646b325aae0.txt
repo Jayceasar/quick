@@ -1,0 +1,9 @@
+User ID: JNaOFLfNpc5IGJzGAAIe
+User Name: robot
+Ticket ID: JNaOFLfNpc5IGJzGAAIe_ad3a8c72-299f-43d4-805f-4646b325aae0
+Total Bid Amount: 8900
+Total Earnings: 44500
+Profit/Loss: 35600
+
+Breakdown:
+  Bid: 1, Amount: 8900, Payout: 44500, Status: won

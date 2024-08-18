@@ -1,0 +1,9 @@
+User ID: SH43IpnhsLjbStLXAAQM
+User Name: robot
+Ticket ID: SH43IpnhsLjbStLXAAQM_3a3c9f6e-ea4d-4148-934a-d93cf7174bd3
+Total Bid Amount: 4400
+Total Earnings: 0
+Profit/Loss: -4400
+
+Breakdown:
+  Bid: 6, Amount: 4400, Payout: 22000, Status: lost

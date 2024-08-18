@@ -1,0 +1,9 @@
+User ID: JBwwpMxkX1REIN-YAAGL
+User Name: robot
+Ticket ID: JBwwpMxkX1REIN-YAAGL_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 6100
+Total Earnings: 0
+Profit/Loss: -6100
+
+Breakdown:
+  Bid: 1, Amount: 6100, Payout: 30500, Status: lost

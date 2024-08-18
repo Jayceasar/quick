@@ -1,0 +1,9 @@
+User ID: QshCbL--CRg6EdtaAAax
+User Name: robot
+Ticket ID: QshCbL--CRg6EdtaAAax_16dbb20f-ee67-4703-97c7-ea4e74cadf8f
+Total Bid Amount: 5000
+Total Earnings: 25000
+Profit/Loss: 20000
+
+Breakdown:
+  Bid: 2, Amount: 5000, Payout: 25000, Status: won

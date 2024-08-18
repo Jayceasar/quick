@@ -1,0 +1,9 @@
+User ID: pRJ0p-9QknN8DhJZAAx1
+User Name: robot
+Ticket ID: pRJ0p-9QknN8DhJZAAx1_68e62d25-465c-4fa3-a30f-dedebd975de0
+Total Bid Amount: 1000
+Total Earnings: 0
+Profit/Loss: -1000
+
+Breakdown:
+  Bid: 2, Amount: 1000, Payout: 5000, Status: lost

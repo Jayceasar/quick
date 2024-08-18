@@ -1,0 +1,9 @@
+User ID: luget_a9ERvLucA6AAl-
+User Name: robot
+Ticket ID: luget_a9ERvLucA6AAl-_d970b8db-846a-4e9c-a7a6-33cc8b792735
+Total Bid Amount: 1300
+Total Earnings: 0
+Profit/Loss: -1300
+
+Breakdown:
+  Bid: 6, Amount: 1300, Payout: 6500, Status: lost

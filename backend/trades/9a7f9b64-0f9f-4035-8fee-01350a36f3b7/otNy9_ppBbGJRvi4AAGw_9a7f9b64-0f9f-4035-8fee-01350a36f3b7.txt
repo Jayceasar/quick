@@ -1,0 +1,10 @@
+User ID: otNy9_ppBbGJRvi4AAGw
+User Name: robot
+Ticket ID: otNy9_ppBbGJRvi4AAGw_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 11100
+Total Earnings: 38000
+Profit/Loss: 26900
+
+Breakdown:
+  Bid: 6, Amount: 7600, Payout: 38000, Status: won
+  Bid: 2, Amount: 3500, Payout: 17500, Status: lost

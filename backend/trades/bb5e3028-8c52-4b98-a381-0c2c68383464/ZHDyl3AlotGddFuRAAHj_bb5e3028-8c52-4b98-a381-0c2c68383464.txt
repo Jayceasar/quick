@@ -1,0 +1,9 @@
+User ID: ZHDyl3AlotGddFuRAAHj
+User Name: robot
+Ticket ID: ZHDyl3AlotGddFuRAAHj_bb5e3028-8c52-4b98-a381-0c2c68383464
+Total Bid Amount: 8200
+Total Earnings: 0
+Profit/Loss: -8200
+
+Breakdown:
+  Bid: 2, Amount: 8200, Payout: 41000, Status: lost

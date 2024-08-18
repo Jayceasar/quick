@@ -1,0 +1,9 @@
+User ID: jIvKXk5Dvc1qWlpgAA0K
+User Name: robot
+Ticket ID: jIvKXk5Dvc1qWlpgAA0K_d7f235bf-d254-4efd-894a-37a2ac2dbf1c
+Total Bid Amount: 6300
+Total Earnings: 0
+Profit/Loss: -6300
+
+Breakdown:
+  Bid: 2, Amount: 6300, Payout: 31500, Status: lost

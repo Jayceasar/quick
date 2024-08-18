@@ -1,0 +1,10 @@
+User ID: IgVQ0ALXSd03vF7CAANU
+User Name: robot
+Ticket ID: IgVQ0ALXSd03vF7CAANU_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 8900
+Total Earnings: 39500
+Profit/Loss: 30600
+
+Breakdown:
+  Bid: 5, Amount: 7900, Payout: 39500, Status: won
+  Bid: 2, Amount: 1000, Payout: 5000, Status: lost

@@ -1,0 +1,9 @@
+User ID: MMj27bIEqvFjq-OdAAyI
+User Name: robot
+Ticket ID: MMj27bIEqvFjq-OdAAyI_d7f235bf-d254-4efd-894a-37a2ac2dbf1c
+Total Bid Amount: 9300
+Total Earnings: 0
+Profit/Loss: -9300
+
+Breakdown:
+  Bid: 1, Amount: 9300, Payout: 46500, Status: lost

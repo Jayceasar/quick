@@ -1,0 +1,10 @@
+User ID: r5Ovsgg_WEYgR1HhAAFN
+User Name: robot
+Ticket ID: r5Ovsgg_WEYgR1HhAAFN_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 10000
+Total Earnings: 0
+Profit/Loss: -10000
+
+Breakdown:
+  Bid: 4, Amount: 200, Payout: 1000, Status: lost
+  Bid: 1, Amount: 9800, Payout: 49000, Status: lost

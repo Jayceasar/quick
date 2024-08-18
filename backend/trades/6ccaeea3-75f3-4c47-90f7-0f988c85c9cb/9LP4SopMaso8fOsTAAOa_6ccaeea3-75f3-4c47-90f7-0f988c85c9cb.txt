@@ -1,0 +1,9 @@
+User ID: 9LP4SopMaso8fOsTAAOa
+User Name: robot
+Ticket ID: 9LP4SopMaso8fOsTAAOa_6ccaeea3-75f3-4c47-90f7-0f988c85c9cb
+Total Bid Amount: 6500
+Total Earnings: 32500
+Profit/Loss: 26000
+
+Breakdown:
+  Bid: 3, Amount: 6500, Payout: 32500, Status: won

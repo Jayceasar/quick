@@ -1,0 +1,9 @@
+User ID: I-FLseYC-RnzWa7lAAOx
+User Name: robot
+Ticket ID: I-FLseYC-RnzWa7lAAOx_ff6eba86-a652-47ed-9b5f-33d041300313
+Total Bid Amount: 6400
+Total Earnings: 0
+Profit/Loss: -6400
+
+Breakdown:
+  Bid: 3, Amount: 6400, Payout: 32000, Status: lost

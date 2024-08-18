@@ -1,0 +1,9 @@
+User ID: 7ozDPFMueXV8-f3uAAIY
+User Name: robot
+Ticket ID: 7ozDPFMueXV8-f3uAAIY_3750ca25-a9f1-4278-85de-ccbff503fd45
+Total Bid Amount: 600
+Total Earnings: 3000
+Profit/Loss: 2400
+
+Breakdown:
+  Bid: 6, Amount: 600, Payout: 3000, Status: won

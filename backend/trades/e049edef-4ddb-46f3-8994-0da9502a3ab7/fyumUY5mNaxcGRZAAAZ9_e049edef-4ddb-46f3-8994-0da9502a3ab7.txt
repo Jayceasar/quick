@@ -1,0 +1,9 @@
+User ID: fyumUY5mNaxcGRZAAAZ9
+User Name: robot
+Ticket ID: fyumUY5mNaxcGRZAAAZ9_e049edef-4ddb-46f3-8994-0da9502a3ab7
+Total Bid Amount: 8500
+Total Earnings: 0
+Profit/Loss: -8500
+
+Breakdown:
+  Bid: 4, Amount: 8500, Payout: 42500, Status: lost

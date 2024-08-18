@@ -1,0 +1,10 @@
+User ID: 9PfwD9gzitdq0wOdAAWi
+User Name: robot
+Ticket ID: 9PfwD9gzitdq0wOdAAWi_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 10100
+Total Earnings: 17000
+Profit/Loss: 6900
+
+Breakdown:
+  Bid: 1, Amount: 6700, Payout: 33500, Status: lost
+  Bid: 2, Amount: 3400, Payout: 17000, Status: won

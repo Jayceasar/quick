@@ -1,0 +1,9 @@
+User ID: x23X2rE_ctNZ0NBxAAla
+User Name: robot
+Ticket ID: x23X2rE_ctNZ0NBxAAla_9b72d720-b462-47ff-83f5-bf8ba0942dab
+Total Bid Amount: 6200
+Total Earnings: 0
+Profit/Loss: -6200
+
+Breakdown:
+  Bid: 4, Amount: 6200, Payout: 31000, Status: lost

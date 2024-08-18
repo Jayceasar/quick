@@ -1,0 +1,9 @@
+User ID: rIGV_naRBP3tq_fsAAik
+User Name: robot
+Ticket ID: rIGV_naRBP3tq_fsAAik_f3e07e15-d270-454e-8739-2e9bb78f4dc8
+Total Bid Amount: 6500
+Total Earnings: 32500
+Profit/Loss: 26000
+
+Breakdown:
+  Bid: 2, Amount: 6500, Payout: 32500, Status: won

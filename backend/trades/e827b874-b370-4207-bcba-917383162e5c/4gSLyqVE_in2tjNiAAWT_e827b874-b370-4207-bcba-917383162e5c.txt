@@ -1,0 +1,10 @@
+User ID: 4gSLyqVE_in2tjNiAAWT
+User Name: robot
+Ticket ID: 4gSLyqVE_in2tjNiAAWT_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 10800
+Total Earnings: 27500
+Profit/Loss: 16700
+
+Breakdown:
+  Bid: 2, Amount: 5500, Payout: 27500, Status: won
+  Bid: 6, Amount: 5300, Payout: 26500, Status: lost

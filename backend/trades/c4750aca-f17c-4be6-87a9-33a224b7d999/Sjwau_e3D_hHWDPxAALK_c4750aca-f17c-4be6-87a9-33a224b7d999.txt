@@ -1,0 +1,9 @@
+User ID: Sjwau_e3D_hHWDPxAALK
+User Name: robot
+Ticket ID: Sjwau_e3D_hHWDPxAALK_c4750aca-f17c-4be6-87a9-33a224b7d999
+Total Bid Amount: 9900
+Total Earnings: 49500
+Profit/Loss: 39600
+
+Breakdown:
+  Bid: 5, Amount: 9900, Payout: 49500, Status: won

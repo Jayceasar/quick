@@ -1,0 +1,9 @@
+User ID: LGoS9tUrVKo7YrFJAAcG
+User Name: robot
+Ticket ID: LGoS9tUrVKo7YrFJAAcG_fdd1d695-454b-4933-9c35-12cc0df7ba3a
+Total Bid Amount: 1500
+Total Earnings: 0
+Profit/Loss: -1500
+
+Breakdown:
+  Bid: 1, Amount: 1500, Payout: 7500, Status: lost

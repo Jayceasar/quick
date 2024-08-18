@@ -1,0 +1,9 @@
+User ID: TlJtqSipoMTOmQ1EAAao
+User Name: robot
+Ticket ID: TlJtqSipoMTOmQ1EAAao_e049edef-4ddb-46f3-8994-0da9502a3ab7
+Total Bid Amount: 6700
+Total Earnings: 33500
+Profit/Loss: 26800
+
+Breakdown:
+  Bid: 3, Amount: 6700, Payout: 33500, Status: won

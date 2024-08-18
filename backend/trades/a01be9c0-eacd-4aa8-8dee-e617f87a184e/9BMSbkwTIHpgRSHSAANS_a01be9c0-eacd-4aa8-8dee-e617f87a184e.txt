@@ -1,0 +1,9 @@
+User ID: 9BMSbkwTIHpgRSHSAANS
+User Name: robot
+Ticket ID: 9BMSbkwTIHpgRSHSAANS_a01be9c0-eacd-4aa8-8dee-e617f87a184e
+Total Bid Amount: 3500
+Total Earnings: 0
+Profit/Loss: -3500
+
+Breakdown:
+  Bid: 3, Amount: 3500, Payout: 17500, Status: lost

@@ -1,0 +1,9 @@
+User ID: latBqxJRrPlllVdOAA02
+User Name: robot
+Ticket ID: latBqxJRrPlllVdOAA02_3fd168b4-4edd-4385-a14b-998b524d61e6
+Total Bid Amount: 2500
+Total Earnings: 12500
+Profit/Loss: 10000
+
+Breakdown:
+  Bid: 4, Amount: 2500, Payout: 12500, Status: won

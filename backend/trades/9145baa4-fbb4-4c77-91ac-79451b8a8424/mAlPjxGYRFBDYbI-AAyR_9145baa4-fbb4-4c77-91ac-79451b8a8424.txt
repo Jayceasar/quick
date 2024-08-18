@@ -1,0 +1,9 @@
+User ID: mAlPjxGYRFBDYbI-AAyR
+User Name: robot
+Ticket ID: mAlPjxGYRFBDYbI-AAyR_9145baa4-fbb4-4c77-91ac-79451b8a8424
+Total Bid Amount: 6200
+Total Earnings: 31000
+Profit/Loss: 24800
+
+Breakdown:
+  Bid: 2, Amount: 6200, Payout: 31000, Status: won

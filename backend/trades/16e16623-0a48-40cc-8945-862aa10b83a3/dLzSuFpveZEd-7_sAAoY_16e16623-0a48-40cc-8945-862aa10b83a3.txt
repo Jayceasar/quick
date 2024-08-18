@@ -1,0 +1,10 @@
+User ID: dLzSuFpveZEd-7_sAAoY
+User Name: robot
+Ticket ID: dLzSuFpveZEd-7_sAAoY_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 12900
+Total Earnings: 0
+Profit/Loss: -12900
+
+Breakdown:
+  Bid: 5, Amount: 3700, Payout: 18500, Status: lost
+  Bid: 2, Amount: 9200, Payout: 46000, Status: lost

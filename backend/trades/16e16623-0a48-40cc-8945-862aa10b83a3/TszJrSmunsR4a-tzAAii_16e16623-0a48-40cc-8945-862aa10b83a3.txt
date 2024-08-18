@@ -1,0 +1,9 @@
+User ID: TszJrSmunsR4a-tzAAii
+User Name: robot
+Ticket ID: TszJrSmunsR4a-tzAAii_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 2400
+Total Earnings: 0
+Profit/Loss: -2400
+
+Breakdown:
+  Bid: 1, Amount: 2400, Payout: 12000, Status: lost

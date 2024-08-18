@@ -1,0 +1,9 @@
+User ID: XKorhFrjC7HI6NPMAA0k
+User Name: robot
+Ticket ID: XKorhFrjC7HI6NPMAA0k_d05e861f-f27e-4864-af86-257c4b623e47
+Total Bid Amount: 5100
+Total Earnings: 0
+Profit/Loss: -5100
+
+Breakdown:
+  Bid: 2, Amount: 5100, Payout: 25500, Status: lost

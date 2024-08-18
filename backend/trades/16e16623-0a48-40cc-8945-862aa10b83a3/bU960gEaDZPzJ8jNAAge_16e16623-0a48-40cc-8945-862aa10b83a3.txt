@@ -1,0 +1,9 @@
+User ID: bU960gEaDZPzJ8jNAAge
+User Name: robot
+Ticket ID: bU960gEaDZPzJ8jNAAge_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 7100
+Total Earnings: 35500
+Profit/Loss: 28400
+
+Breakdown:
+  Bid: 3, Amount: 7100, Payout: 35500, Status: won

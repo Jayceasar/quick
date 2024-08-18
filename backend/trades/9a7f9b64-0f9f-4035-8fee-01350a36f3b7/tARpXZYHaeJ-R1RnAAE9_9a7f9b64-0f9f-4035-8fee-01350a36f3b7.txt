@@ -1,0 +1,10 @@
+User ID: tARpXZYHaeJ-R1RnAAE9
+User Name: robot
+Ticket ID: tARpXZYHaeJ-R1RnAAE9_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 15400
+Total Earnings: 0
+Profit/Loss: -15400
+
+Breakdown:
+  Bid: 5, Amount: 9000, Payout: 45000, Status: lost
+  Bid: 3, Amount: 6400, Payout: 32000, Status: lost

@@ -1,0 +1,9 @@
+User ID: 1kl277CLM9FIEX2vAAUZ
+User Name: robot
+Ticket ID: 1kl277CLM9FIEX2vAAUZ_738a39ff-dd64-475f-85ea-95b884acac04
+Total Bid Amount: 4900
+Total Earnings: 0
+Profit/Loss: -4900
+
+Breakdown:
+  Bid: 3, Amount: 4900, Payout: 24500, Status: lost

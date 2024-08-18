@@ -1,0 +1,10 @@
+User ID: b3aZ-iSBRU7G3j-MAAGy
+User Name: robot
+Ticket ID: b3aZ-iSBRU7G3j-MAAGy_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 5700
+Total Earnings: 0
+Profit/Loss: -5700
+
+Breakdown:
+  Bid: 3, Amount: 700, Payout: 3500, Status: lost
+  Bid: 2, Amount: 5000, Payout: 25000, Status: lost

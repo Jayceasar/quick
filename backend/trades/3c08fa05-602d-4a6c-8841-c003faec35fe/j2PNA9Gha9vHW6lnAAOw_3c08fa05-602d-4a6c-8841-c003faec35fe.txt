@@ -1,0 +1,10 @@
+User ID: j2PNA9Gha9vHW6lnAAOw
+User Name: robot
+Ticket ID: j2PNA9Gha9vHW6lnAAOw_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 3900
+Total Earnings: 0
+Profit/Loss: -3900
+
+Breakdown:
+  Bid: 1, Amount: 700, Payout: 3500, Status: lost
+  Bid: 3, Amount: 3200, Payout: 16000, Status: lost

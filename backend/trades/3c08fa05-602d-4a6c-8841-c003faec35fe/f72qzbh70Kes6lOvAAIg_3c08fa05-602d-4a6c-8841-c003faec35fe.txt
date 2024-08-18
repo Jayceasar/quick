@@ -1,0 +1,9 @@
+User ID: f72qzbh70Kes6lOvAAIg
+User Name: robot
+Ticket ID: f72qzbh70Kes6lOvAAIg_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 1200
+Total Earnings: 0
+Profit/Loss: -1200
+
+Breakdown:
+  Bid: 3, Amount: 1200, Payout: 6000, Status: lost

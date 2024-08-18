@@ -1,0 +1,10 @@
+User ID: I0OEQladsY7enkTSAAFY
+User Name: robot
+Ticket ID: I0OEQladsY7enkTSAAFY_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 11700
+Total Earnings: 0
+Profit/Loss: -11700
+
+Breakdown:
+  Bid: 5, Amount: 1900, Payout: 9500, Status: lost
+  Bid: 3, Amount: 9800, Payout: 49000, Status: lost

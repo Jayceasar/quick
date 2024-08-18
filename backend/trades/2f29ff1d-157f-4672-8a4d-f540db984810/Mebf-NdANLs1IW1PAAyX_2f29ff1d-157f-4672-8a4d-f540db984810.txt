@@ -1,0 +1,9 @@
+User ID: Mebf-NdANLs1IW1PAAyX
+User Name: robot
+Ticket ID: Mebf-NdANLs1IW1PAAyX_2f29ff1d-157f-4672-8a4d-f540db984810
+Total Bid Amount: 9500
+Total Earnings: 0
+Profit/Loss: -9500
+
+Breakdown:
+  Bid: 2, Amount: 9500, Payout: 47500, Status: lost

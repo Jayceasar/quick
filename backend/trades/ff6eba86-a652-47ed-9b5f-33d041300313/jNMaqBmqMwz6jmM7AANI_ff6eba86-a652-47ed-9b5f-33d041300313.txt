@@ -1,0 +1,9 @@
+User ID: jNMaqBmqMwz6jmM7AANI
+User Name: robot
+Ticket ID: jNMaqBmqMwz6jmM7AANI_ff6eba86-a652-47ed-9b5f-33d041300313
+Total Bid Amount: 900
+Total Earnings: 0
+Profit/Loss: -900
+
+Breakdown:
+  Bid: 4, Amount: 900, Payout: 4500, Status: lost

@@ -1,0 +1,9 @@
+User ID: zCQJRLt9V2v0UR1IAAF8
+User Name: robot
+Ticket ID: zCQJRLt9V2v0UR1IAAF8_bb5e3028-8c52-4b98-a381-0c2c68383464
+Total Bid Amount: 2800
+Total Earnings: 14000
+Profit/Loss: 11200
+
+Breakdown:
+  Bid: 6, Amount: 2800, Payout: 14000, Status: won

@@ -1,0 +1,9 @@
+User ID: wRlfPGRniXNwuR-zAAHl
+User Name: robot
+Ticket ID: wRlfPGRniXNwuR-zAAHl_3750ca25-a9f1-4278-85de-ccbff503fd45
+Total Bid Amount: 3800
+Total Earnings: 0
+Profit/Loss: -3800
+
+Breakdown:
+  Bid: 1, Amount: 3800, Payout: 19000, Status: lost

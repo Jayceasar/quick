@@ -1,0 +1,9 @@
+User ID: mdMpJqWvUVuHaAxaAAUa
+User Name: robot
+Ticket ID: mdMpJqWvUVuHaAxaAAUa_e5c8435f-e1c9-4163-99e8-aa0c1b077786
+Total Bid Amount: 4000
+Total Earnings: 0
+Profit/Loss: -4000
+
+Breakdown:
+  Bid: 1, Amount: 4000, Payout: 20000, Status: lost

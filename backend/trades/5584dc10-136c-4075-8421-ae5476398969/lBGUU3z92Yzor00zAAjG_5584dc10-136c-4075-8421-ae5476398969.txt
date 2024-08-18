@@ -1,0 +1,9 @@
+User ID: lBGUU3z92Yzor00zAAjG
+User Name: robot
+Ticket ID: lBGUU3z92Yzor00zAAjG_5584dc10-136c-4075-8421-ae5476398969
+Total Bid Amount: 9800
+Total Earnings: 0
+Profit/Loss: -9800
+
+Breakdown:
+  Bid: 3, Amount: 9800, Payout: 49000, Status: lost

@@ -1,0 +1,10 @@
+User ID: tnp45F-FcB9CLSPsAAUh
+User Name: robot
+Ticket ID: tnp45F-FcB9CLSPsAAUh_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 15700
+Total Earnings: 0
+Profit/Loss: -15700
+
+Breakdown:
+  Bid: 1, Amount: 6300, Payout: 31500, Status: lost
+  Bid: 4, Amount: 9400, Payout: 47000, Status: lost

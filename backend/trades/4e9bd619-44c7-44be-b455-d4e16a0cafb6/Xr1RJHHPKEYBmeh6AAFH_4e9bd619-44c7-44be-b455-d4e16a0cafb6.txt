@@ -1,0 +1,10 @@
+User ID: Xr1RJHHPKEYBmeh6AAFH
+User Name: robot
+Ticket ID: Xr1RJHHPKEYBmeh6AAFH_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 4700
+Total Earnings: 7500
+Profit/Loss: 2800
+
+Breakdown:
+  Bid: 6, Amount: 3200, Payout: 16000, Status: lost
+  Bid: 2, Amount: 1500, Payout: 7500, Status: won

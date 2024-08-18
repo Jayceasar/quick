@@ -1,0 +1,9 @@
+User ID: 53P9DqypyoyK0ZrXAAbO
+User Name: robot
+Ticket ID: 53P9DqypyoyK0ZrXAAbO_4ea066cd-455c-48b6-977f-4db0c5158683
+Total Bid Amount: 7000
+Total Earnings: 0
+Profit/Loss: -7000
+
+Breakdown:
+  Bid: 2, Amount: 7000, Payout: 35000, Status: lost

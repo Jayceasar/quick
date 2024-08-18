@@ -1,0 +1,9 @@
+User ID: mGy1amTRC9acHocoAAPz
+User Name: robot
+Ticket ID: mGy1amTRC9acHocoAAPz_6d2f5a00-8975-46ac-9313-eaee03859331
+Total Bid Amount: 8000
+Total Earnings: 0
+Profit/Loss: -8000
+
+Breakdown:
+  Bid: 1, Amount: 8000, Payout: 40000, Status: lost

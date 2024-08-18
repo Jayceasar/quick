@@ -1,0 +1,9 @@
+User ID: Te0BK4SqOqK0ImoGAAUk
+User Name: robot
+Ticket ID: Te0BK4SqOqK0ImoGAAUk_7a85e992-2509-45aa-84c7-d86854db7bba
+Total Bid Amount: 6400
+Total Earnings: 0
+Profit/Loss: -6400
+
+Breakdown:
+  Bid: 3, Amount: 6400, Payout: 32000, Status: lost

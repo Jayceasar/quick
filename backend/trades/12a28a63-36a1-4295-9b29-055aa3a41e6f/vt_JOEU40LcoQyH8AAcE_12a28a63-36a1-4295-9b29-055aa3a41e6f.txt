@@ -1,0 +1,9 @@
+User ID: vt_JOEU40LcoQyH8AAcE
+User Name: robot
+Ticket ID: vt_JOEU40LcoQyH8AAcE_12a28a63-36a1-4295-9b29-055aa3a41e6f
+Total Bid Amount: 3000
+Total Earnings: 0
+Profit/Loss: -3000
+
+Breakdown:
+  Bid: 5, Amount: 3000, Payout: 15000, Status: lost

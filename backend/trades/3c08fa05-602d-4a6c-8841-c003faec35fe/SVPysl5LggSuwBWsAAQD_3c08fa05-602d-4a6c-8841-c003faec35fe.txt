@@ -1,0 +1,10 @@
+User ID: SVPysl5LggSuwBWsAAQD
+User Name: robot
+Ticket ID: SVPysl5LggSuwBWsAAQD_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 13300
+Total Earnings: 0
+Profit/Loss: -13300
+
+Breakdown:
+  Bid: 4, Amount: 8000, Payout: 40000, Status: lost
+  Bid: 3, Amount: 5300, Payout: 26500, Status: lost

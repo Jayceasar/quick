@@ -1,0 +1,9 @@
+User ID: C2kx_ys4STJ3jBsWAAGG
+User Name: robot
+Ticket ID: C2kx_ys4STJ3jBsWAAGG_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 600
+Total Earnings: 0
+Profit/Loss: -600
+
+Breakdown:
+  Bid: 1, Amount: 600, Payout: 3000, Status: lost

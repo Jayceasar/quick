@@ -1,0 +1,9 @@
+User ID: -kobo1JdCoaFSe6mAAh4
+User Name: robot
+Ticket ID: -kobo1JdCoaFSe6mAAh4_7edcaff6-689d-4d3c-9b04-4e875243c108
+Total Bid Amount: 7500
+Total Earnings: 0
+Profit/Loss: -7500
+
+Breakdown:
+  Bid: 6, Amount: 7500, Payout: 37500, Status: lost

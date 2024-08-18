@@ -1,0 +1,10 @@
+User ID: SNZo4p8msb5h55SiAAIB
+User Name: robot
+Ticket ID: SNZo4p8msb5h55SiAAIB_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 8000
+Total Earnings: 40000
+Profit/Loss: 32000
+
+Breakdown:
+  Bid: 2, Amount: 6200, Payout: 31000, Status: won
+  Bid: 2, Amount: 1800, Payout: 9000, Status: won

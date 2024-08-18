@@ -1,0 +1,9 @@
+User ID: S0Nn1MaJXFudfJGQAAaa
+User Name: robot
+Ticket ID: S0Nn1MaJXFudfJGQAAaa_d78a1dd3-9473-4bed-b88b-5ef261988be4
+Total Bid Amount: 5600
+Total Earnings: 0
+Profit/Loss: -5600
+
+Breakdown:
+  Bid: 3, Amount: 5600, Payout: 28000, Status: lost

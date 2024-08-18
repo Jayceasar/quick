@@ -1,0 +1,10 @@
+User ID: eDhRZt-n5Uf_ZOEqAAU2
+User Name: robot
+Ticket ID: eDhRZt-n5Uf_ZOEqAAU2_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 13700
+Total Earnings: 46500
+Profit/Loss: 32800
+
+Breakdown:
+  Bid: 2, Amount: 9300, Payout: 46500, Status: won
+  Bid: 5, Amount: 4400, Payout: 22000, Status: lost

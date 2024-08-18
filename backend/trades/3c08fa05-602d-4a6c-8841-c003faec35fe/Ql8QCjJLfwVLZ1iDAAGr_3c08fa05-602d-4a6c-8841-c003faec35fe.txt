@@ -1,0 +1,9 @@
+User ID: Ql8QCjJLfwVLZ1iDAAGr
+User Name: robot
+Ticket ID: Ql8QCjJLfwVLZ1iDAAGr_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 8400
+Total Earnings: 0
+Profit/Loss: -8400
+
+Breakdown:
+  Bid: 1, Amount: 8400, Payout: 42000, Status: lost

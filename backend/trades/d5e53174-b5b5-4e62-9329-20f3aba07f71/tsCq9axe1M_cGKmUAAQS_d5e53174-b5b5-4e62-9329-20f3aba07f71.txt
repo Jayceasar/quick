@@ -1,0 +1,9 @@
+User ID: tsCq9axe1M_cGKmUAAQS
+User Name: robot
+Ticket ID: tsCq9axe1M_cGKmUAAQS_d5e53174-b5b5-4e62-9329-20f3aba07f71
+Total Bid Amount: 5200
+Total Earnings: 0
+Profit/Loss: -5200
+
+Breakdown:
+  Bid: 6, Amount: 5200, Payout: 26000, Status: lost

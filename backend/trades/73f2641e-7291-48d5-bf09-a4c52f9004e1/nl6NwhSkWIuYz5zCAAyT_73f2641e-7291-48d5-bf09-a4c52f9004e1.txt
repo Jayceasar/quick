@@ -1,0 +1,9 @@
+User ID: nl6NwhSkWIuYz5zCAAyT
+User Name: robot
+Ticket ID: nl6NwhSkWIuYz5zCAAyT_73f2641e-7291-48d5-bf09-a4c52f9004e1
+Total Bid Amount: 10000
+Total Earnings: 0
+Profit/Loss: -10000
+
+Breakdown:
+  Bid: 3, Amount: 10000, Payout: 50000, Status: lost

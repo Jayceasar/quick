@@ -1,0 +1,10 @@
+User ID: L_0GF9KeSNZxK_SfAAHP
+User Name: robot
+Ticket ID: L_0GF9KeSNZxK_SfAAHP_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 12100
+Total Earnings: 0
+Profit/Loss: -12100
+
+Breakdown:
+  Bid: 1, Amount: 8900, Payout: 44500, Status: lost
+  Bid: 2, Amount: 3200, Payout: 16000, Status: lost

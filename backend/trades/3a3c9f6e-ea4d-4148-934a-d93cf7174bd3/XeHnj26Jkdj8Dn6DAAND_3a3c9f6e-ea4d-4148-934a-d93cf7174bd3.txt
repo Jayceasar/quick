@@ -1,0 +1,9 @@
+User ID: XeHnj26Jkdj8Dn6DAAND
+User Name: robot
+Ticket ID: XeHnj26Jkdj8Dn6DAAND_3a3c9f6e-ea4d-4148-934a-d93cf7174bd3
+Total Bid Amount: 200
+Total Earnings: 1000
+Profit/Loss: 800
+
+Breakdown:
+  Bid: 4, Amount: 200, Payout: 1000, Status: won

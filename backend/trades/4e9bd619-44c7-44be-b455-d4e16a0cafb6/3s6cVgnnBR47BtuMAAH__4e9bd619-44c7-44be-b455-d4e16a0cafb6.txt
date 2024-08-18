@@ -1,0 +1,9 @@
+User ID: 3s6cVgnnBR47BtuMAAH_
+User Name: robot
+Ticket ID: 3s6cVgnnBR47BtuMAAH__4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 7800
+Total Earnings: 39000
+Profit/Loss: 31200
+
+Breakdown:
+  Bid: 2, Amount: 7800, Payout: 39000, Status: won

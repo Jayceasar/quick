@@ -1,0 +1,9 @@
+User ID: gF5FrUp8tZAqZz8pAA23
+User Name: robot
+Ticket ID: gF5FrUp8tZAqZz8pAA23_df89ebe5-b1d8-4278-8fd1-c6b2472d573b
+Total Bid Amount: 7900
+Total Earnings: 0
+Profit/Loss: -7900
+
+Breakdown:
+  Bid: 1, Amount: 7900, Payout: 39500, Status: lost

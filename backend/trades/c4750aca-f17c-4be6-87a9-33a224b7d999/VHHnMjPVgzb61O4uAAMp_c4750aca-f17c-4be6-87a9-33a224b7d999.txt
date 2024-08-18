@@ -1,0 +1,9 @@
+User ID: VHHnMjPVgzb61O4uAAMp
+User Name: robot
+Ticket ID: VHHnMjPVgzb61O4uAAMp_c4750aca-f17c-4be6-87a9-33a224b7d999
+Total Bid Amount: 1300
+Total Earnings: 0
+Profit/Loss: -1300
+
+Breakdown:
+  Bid: 4, Amount: 1300, Payout: 6500, Status: lost

@@ -1,0 +1,10 @@
+User ID: cQhMps-wH1RCPD2EAAV2
+User Name: robot
+Ticket ID: cQhMps-wH1RCPD2EAAV2_e827b874-b370-4207-bcba-917383162e5c
+Total Bid Amount: 9900
+Total Earnings: 48500
+Profit/Loss: 38600
+
+Breakdown:
+  Bid: 3, Amount: 200, Payout: 1000, Status: lost
+  Bid: 2, Amount: 9700, Payout: 48500, Status: won

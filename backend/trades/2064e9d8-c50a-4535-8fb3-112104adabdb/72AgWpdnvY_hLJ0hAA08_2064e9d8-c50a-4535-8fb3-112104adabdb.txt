@@ -1,0 +1,9 @@
+User ID: 72AgWpdnvY_hLJ0hAA08
+User Name: robot
+Ticket ID: 72AgWpdnvY_hLJ0hAA08_2064e9d8-c50a-4535-8fb3-112104adabdb
+Total Bid Amount: 4900
+Total Earnings: 0
+Profit/Loss: -4900
+
+Breakdown:
+  Bid: 6, Amount: 4900, Payout: 24500, Status: lost

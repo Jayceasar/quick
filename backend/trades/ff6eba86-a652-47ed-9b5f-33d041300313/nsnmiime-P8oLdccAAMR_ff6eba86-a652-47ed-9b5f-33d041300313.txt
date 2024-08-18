@@ -1,0 +1,9 @@
+User ID: nsnmiime-P8oLdccAAMR
+User Name: robot
+Ticket ID: nsnmiime-P8oLdccAAMR_ff6eba86-a652-47ed-9b5f-33d041300313
+Total Bid Amount: 8500
+Total Earnings: 0
+Profit/Loss: -8500
+
+Breakdown:
+  Bid: 5, Amount: 8500, Payout: 42500, Status: lost

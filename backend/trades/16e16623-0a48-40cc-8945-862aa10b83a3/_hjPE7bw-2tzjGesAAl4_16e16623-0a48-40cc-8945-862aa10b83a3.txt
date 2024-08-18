@@ -1,0 +1,10 @@
+User ID: _hjPE7bw-2tzjGesAAl4
+User Name: robot
+Ticket ID: _hjPE7bw-2tzjGesAAl4_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 13600
+Total Earnings: 39000
+Profit/Loss: 25400
+
+Breakdown:
+  Bid: 3, Amount: 7800, Payout: 39000, Status: won
+  Bid: 1, Amount: 5800, Payout: 29000, Status: lost

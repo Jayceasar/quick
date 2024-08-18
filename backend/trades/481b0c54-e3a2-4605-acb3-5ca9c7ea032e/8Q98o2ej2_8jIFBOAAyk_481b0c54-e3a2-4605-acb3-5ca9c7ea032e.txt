@@ -1,0 +1,9 @@
+User ID: 8Q98o2ej2_8jIFBOAAyk
+User Name: robot
+Ticket ID: 8Q98o2ej2_8jIFBOAAyk_481b0c54-e3a2-4605-acb3-5ca9c7ea032e
+Total Bid Amount: 2000
+Total Earnings: 10000
+Profit/Loss: 8000
+
+Breakdown:
+  Bid: 2, Amount: 2000, Payout: 10000, Status: won

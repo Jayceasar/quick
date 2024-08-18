@@ -1,0 +1,9 @@
+User ID: F-ewckBx_kFjfgTuAAxw
+User Name: robot
+Ticket ID: F-ewckBx_kFjfgTuAAxw_4ba02ed2-32dc-4fb6-b96c-0c7d28623e86
+Total Bid Amount: 9300
+Total Earnings: 46500
+Profit/Loss: 37200
+
+Breakdown:
+  Bid: 4, Amount: 9300, Payout: 46500, Status: won

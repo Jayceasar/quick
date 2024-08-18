@@ -1,0 +1,9 @@
+User ID: djvsonoqCwlFY7gFAAa8
+User Name: robot
+Ticket ID: djvsonoqCwlFY7gFAAa8_7a85e992-2509-45aa-84c7-d86854db7bba
+Total Bid Amount: 2100
+Total Earnings: 10500
+Profit/Loss: 8400
+
+Breakdown:
+  Bid: 6, Amount: 2100, Payout: 10500, Status: won

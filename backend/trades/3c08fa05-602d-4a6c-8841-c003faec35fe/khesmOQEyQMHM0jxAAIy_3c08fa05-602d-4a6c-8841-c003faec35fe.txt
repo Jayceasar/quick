@@ -1,0 +1,9 @@
+User ID: khesmOQEyQMHM0jxAAIy
+User Name: robot
+Ticket ID: khesmOQEyQMHM0jxAAIy_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 6600
+Total Earnings: 33000
+Profit/Loss: 26400
+
+Breakdown:
+  Bid: 5, Amount: 6600, Payout: 33000, Status: won

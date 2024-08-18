@@ -1,0 +1,9 @@
+User ID: uCPg6j8K15Y9dvmUAAhQ
+User Name: robot
+Ticket ID: uCPg6j8K15Y9dvmUAAhQ_68f7215f-54a3-4d9e-9251-fc2476209693
+Total Bid Amount: 9200
+Total Earnings: 0
+Profit/Loss: -9200
+
+Breakdown:
+  Bid: 3, Amount: 9200, Payout: 46000, Status: lost

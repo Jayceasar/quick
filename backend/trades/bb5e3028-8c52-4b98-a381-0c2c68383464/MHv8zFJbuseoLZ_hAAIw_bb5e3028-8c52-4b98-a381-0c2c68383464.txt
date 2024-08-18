@@ -1,0 +1,10 @@
+User ID: MHv8zFJbuseoLZ_hAAIw
+User Name: robot
+Ticket ID: MHv8zFJbuseoLZ_hAAIw_bb5e3028-8c52-4b98-a381-0c2c68383464
+Total Bid Amount: 3900
+Total Earnings: 0
+Profit/Loss: -3900
+
+Breakdown:
+  Bid: 4, Amount: 2400, Payout: 12000, Status: lost
+  Bid: 2, Amount: 1500, Payout: 7500, Status: lost

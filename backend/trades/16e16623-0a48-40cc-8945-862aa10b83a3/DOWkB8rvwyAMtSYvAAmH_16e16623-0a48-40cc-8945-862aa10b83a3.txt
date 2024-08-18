@@ -1,0 +1,10 @@
+User ID: DOWkB8rvwyAMtSYvAAmH
+User Name: robot
+Ticket ID: DOWkB8rvwyAMtSYvAAmH_16e16623-0a48-40cc-8945-862aa10b83a3
+Total Bid Amount: 8400
+Total Earnings: 0
+Profit/Loss: -8400
+
+Breakdown:
+  Bid: 4, Amount: 1000, Payout: 5000, Status: lost
+  Bid: 4, Amount: 7400, Payout: 37000, Status: lost

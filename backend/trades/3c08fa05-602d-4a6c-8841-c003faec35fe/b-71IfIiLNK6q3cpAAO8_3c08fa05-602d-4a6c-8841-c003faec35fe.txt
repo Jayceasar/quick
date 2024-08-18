@@ -1,0 +1,10 @@
+User ID: b-71IfIiLNK6q3cpAAO8
+User Name: robot
+Ticket ID: b-71IfIiLNK6q3cpAAO8_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 9500
+Total Earnings: 0
+Profit/Loss: -9500
+
+Breakdown:
+  Bid: 3, Amount: 5700, Payout: 28500, Status: lost
+  Bid: 6, Amount: 3800, Payout: 19000, Status: lost

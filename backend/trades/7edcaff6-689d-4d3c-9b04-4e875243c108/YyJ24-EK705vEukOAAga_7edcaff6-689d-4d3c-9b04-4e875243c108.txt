@@ -1,0 +1,9 @@
+User ID: YyJ24-EK705vEukOAAga
+User Name: robot
+Ticket ID: YyJ24-EK705vEukOAAga_7edcaff6-689d-4d3c-9b04-4e875243c108
+Total Bid Amount: 3800
+Total Earnings: 19000
+Profit/Loss: 15200
+
+Breakdown:
+  Bid: 2, Amount: 3800, Payout: 19000, Status: won

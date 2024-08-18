@@ -1,0 +1,9 @@
+User ID: VWrCxk6GwLMliCtsAAGv
+User Name: robot
+Ticket ID: VWrCxk6GwLMliCtsAAGv_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 5900
+Total Earnings: 29500
+Profit/Loss: 23600
+
+Breakdown:
+  Bid: 5, Amount: 5900, Payout: 29500, Status: won

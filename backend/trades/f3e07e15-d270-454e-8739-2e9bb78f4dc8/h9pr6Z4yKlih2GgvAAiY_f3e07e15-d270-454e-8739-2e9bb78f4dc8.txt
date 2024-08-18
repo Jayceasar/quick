@@ -1,0 +1,9 @@
+User ID: h9pr6Z4yKlih2GgvAAiY
+User Name: robot
+Ticket ID: h9pr6Z4yKlih2GgvAAiY_f3e07e15-d270-454e-8739-2e9bb78f4dc8
+Total Bid Amount: 7100
+Total Earnings: 0
+Profit/Loss: -7100
+
+Breakdown:
+  Bid: 5, Amount: 7100, Payout: 35500, Status: lost

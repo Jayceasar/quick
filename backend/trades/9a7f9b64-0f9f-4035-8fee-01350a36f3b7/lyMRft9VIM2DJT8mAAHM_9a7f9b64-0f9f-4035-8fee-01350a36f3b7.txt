@@ -1,0 +1,10 @@
+User ID: lyMRft9VIM2DJT8mAAHM
+User Name: robot
+Ticket ID: lyMRft9VIM2DJT8mAAHM_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 17800
+Total Earnings: 40500
+Profit/Loss: 22700
+
+Breakdown:
+  Bid: 5, Amount: 9700, Payout: 48500, Status: lost
+  Bid: 6, Amount: 8100, Payout: 40500, Status: won

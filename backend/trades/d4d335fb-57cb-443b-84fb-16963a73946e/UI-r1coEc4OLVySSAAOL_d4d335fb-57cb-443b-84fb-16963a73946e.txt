@@ -1,0 +1,9 @@
+User ID: UI-r1coEc4OLVySSAAOL
+User Name: robot
+Ticket ID: UI-r1coEc4OLVySSAAOL_d4d335fb-57cb-443b-84fb-16963a73946e
+Total Bid Amount: 9500
+Total Earnings: 47500
+Profit/Loss: 38000
+
+Breakdown:
+  Bid: 3, Amount: 9500, Payout: 47500, Status: won

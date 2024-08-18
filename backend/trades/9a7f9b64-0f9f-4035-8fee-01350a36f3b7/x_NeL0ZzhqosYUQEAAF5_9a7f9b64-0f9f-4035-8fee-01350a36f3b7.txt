@@ -1,0 +1,10 @@
+User ID: x_NeL0ZzhqosYUQEAAF5
+User Name: robot
+Ticket ID: x_NeL0ZzhqosYUQEAAF5_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 11800
+Total Earnings: 24500
+Profit/Loss: 12700
+
+Breakdown:
+  Bid: 6, Amount: 4900, Payout: 24500, Status: won
+  Bid: 3, Amount: 6900, Payout: 34500, Status: lost

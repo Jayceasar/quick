@@ -1,0 +1,9 @@
+User ID: Ga-eMGaWoBGn9MTbAAHb
+User Name: robot
+Ticket ID: Ga-eMGaWoBGn9MTbAAHb_62b03c19-c2ac-4766-913d-1d50e3d473a4
+Total Bid Amount: 1500
+Total Earnings: 0
+Profit/Loss: -1500
+
+Breakdown:
+  Bid: 5, Amount: 1500, Payout: 7500, Status: lost

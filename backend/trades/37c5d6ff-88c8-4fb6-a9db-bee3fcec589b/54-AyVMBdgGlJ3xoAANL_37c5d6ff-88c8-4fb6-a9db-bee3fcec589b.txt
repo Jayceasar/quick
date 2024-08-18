@@ -1,0 +1,9 @@
+User ID: 54-AyVMBdgGlJ3xoAANL
+User Name: robot
+Ticket ID: 54-AyVMBdgGlJ3xoAANL_37c5d6ff-88c8-4fb6-a9db-bee3fcec589b
+Total Bid Amount: 8000
+Total Earnings: 0
+Profit/Loss: -8000
+
+Breakdown:
+  Bid: 6, Amount: 8000, Payout: 40000, Status: lost

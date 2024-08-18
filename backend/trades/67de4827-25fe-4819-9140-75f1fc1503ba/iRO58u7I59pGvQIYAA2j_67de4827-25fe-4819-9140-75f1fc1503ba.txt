@@ -1,0 +1,10 @@
+User ID: iRO58u7I59pGvQIYAA2j
+User Name: robot
+Ticket ID: iRO58u7I59pGvQIYAA2j_67de4827-25fe-4819-9140-75f1fc1503ba
+Total Bid Amount: 18800
+Total Earnings: 45500
+Profit/Loss: 26700
+
+Breakdown:
+  Bid: 3, Amount: 9100, Payout: 45500, Status: won
+  Bid: 4, Amount: 9700, Payout: 48500, Status: lost

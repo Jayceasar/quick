@@ -1,0 +1,10 @@
+User ID: UfHS13PObUML_bsKAAG0
+User Name: robot
+Ticket ID: UfHS13PObUML_bsKAAG0_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
+Total Bid Amount: 13400
+Total Earnings: 22000
+Profit/Loss: 8600
+
+Breakdown:
+  Bid: 6, Amount: 4400, Payout: 22000, Status: won
+  Bid: 1, Amount: 9000, Payout: 45000, Status: lost

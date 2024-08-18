@@ -1,0 +1,9 @@
+User ID: v2EBL90BRsvzIMtpAAl_
+User Name: robot
+Ticket ID: v2EBL90BRsvzIMtpAAl__9b72d720-b462-47ff-83f5-bf8ba0942dab
+Total Bid Amount: 8100
+Total Earnings: 40500
+Profit/Loss: 32400
+
+Breakdown:
+  Bid: 5, Amount: 8100, Payout: 40500, Status: won

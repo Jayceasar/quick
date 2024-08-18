@@ -1,0 +1,9 @@
+User ID: ENxn06vwN8pCPAxJAAFZ
+User Name: robot
+Ticket ID: ENxn06vwN8pCPAxJAAFZ_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 500
+Total Earnings: 0
+Profit/Loss: -500
+
+Breakdown:
+  Bid: 4, Amount: 500, Payout: 2500, Status: lost

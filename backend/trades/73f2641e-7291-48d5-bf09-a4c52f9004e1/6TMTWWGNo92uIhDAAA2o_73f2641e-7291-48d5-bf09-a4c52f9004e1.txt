@@ -1,0 +1,9 @@
+User ID: 6TMTWWGNo92uIhDAAA2o
+User Name: robot
+Ticket ID: 6TMTWWGNo92uIhDAAA2o_73f2641e-7291-48d5-bf09-a4c52f9004e1
+Total Bid Amount: 7800
+Total Earnings: 0
+Profit/Loss: -7800
+
+Breakdown:
+  Bid: 6, Amount: 7800, Payout: 39000, Status: lost

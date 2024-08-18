@@ -1,0 +1,9 @@
+User ID: CaqNPKXdS5LOtWF1AAh8
+User Name: robot
+Ticket ID: CaqNPKXdS5LOtWF1AAh8_f3e07e15-d270-454e-8739-2e9bb78f4dc8
+Total Bid Amount: 3200
+Total Earnings: 0
+Profit/Loss: -3200
+
+Breakdown:
+  Bid: 6, Amount: 3200, Payout: 16000, Status: lost

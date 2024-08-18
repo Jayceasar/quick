@@ -1,0 +1,9 @@
+User ID: lu4o4dotjtmPNGPdAA1J
+User Name: robot
+Ticket ID: lu4o4dotjtmPNGPdAA1J_3fd168b4-4edd-4385-a14b-998b524d61e6
+Total Bid Amount: 3600
+Total Earnings: 0
+Profit/Loss: -3600
+
+Breakdown:
+  Bid: 1, Amount: 3600, Payout: 18000, Status: lost

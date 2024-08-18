@@ -1,0 +1,9 @@
+User ID: 27jawBb_IhSqVI37AAPA
+User Name: robot
+Ticket ID: 27jawBb_IhSqVI37AAPA_37c5d6ff-88c8-4fb6-a9db-bee3fcec589b
+Total Bid Amount: 800
+Total Earnings: 0
+Profit/Loss: -800
+
+Breakdown:
+  Bid: 1, Amount: 800, Payout: 4000, Status: lost

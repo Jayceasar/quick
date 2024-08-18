@@ -1,0 +1,9 @@
+User ID: rXp3Rr2YxfEKrNJ8AAF9
+User Name: robot
+Ticket ID: rXp3Rr2YxfEKrNJ8AAF9_bb5e3028-8c52-4b98-a381-0c2c68383464
+Total Bid Amount: 400
+Total Earnings: 0
+Profit/Loss: -400
+
+Breakdown:
+  Bid: 5, Amount: 400, Payout: 2000, Status: lost

@@ -1,0 +1,10 @@
+User ID: cjNPfP2z0amXCLasAAH6
+User Name: robot
+Ticket ID: cjNPfP2z0amXCLasAAH6_4e9bd619-44c7-44be-b455-d4e16a0cafb6
+Total Bid Amount: 11500
+Total Earnings: 0
+Profit/Loss: -11500
+
+Breakdown:
+  Bid: 4, Amount: 6400, Payout: 32000, Status: lost
+  Bid: 1, Amount: 5100, Payout: 25500, Status: lost

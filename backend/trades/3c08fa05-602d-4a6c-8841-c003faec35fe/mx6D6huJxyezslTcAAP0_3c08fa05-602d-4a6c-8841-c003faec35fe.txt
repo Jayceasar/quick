@@ -1,0 +1,10 @@
+User ID: mx6D6huJxyezslTcAAP0
+User Name: robot
+Ticket ID: mx6D6huJxyezslTcAAP0_3c08fa05-602d-4a6c-8841-c003faec35fe
+Total Bid Amount: 13200
+Total Earnings: 0
+Profit/Loss: -13200
+
+Breakdown:
+  Bid: 2, Amount: 3400, Payout: 17000, Status: lost
+  Bid: 4, Amount: 9800, Payout: 49000, Status: lost

@@ -1,0 +1,9 @@
+User ID: SC-tIZCV0kzbEV1fAA0X
+User Name: robot
+Ticket ID: SC-tIZCV0kzbEV1fAA0X_481b0c54-e3a2-4605-acb3-5ca9c7ea032e
+Total Bid Amount: 3600
+Total Earnings: 0
+Profit/Loss: -3600
+
+Breakdown:
+  Bid: 3, Amount: 3600, Payout: 18000, Status: lost
