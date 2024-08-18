@@ -1,0 +1,9 @@
+User ID: IuQYxsHJT7A8C1Z3AA0N
+User Name: robot
+Ticket ID: IuQYxsHJT7A8C1Z3AA0N_ea2ac63c-b057-4cf3-9c72-de8e18bd58ea
+Total Bid Amount: 9800
+Total Earnings: 0
+Profit/Loss: -9800
+
+Breakdown:
+  Bid: 5, Amount: 9800, Payout: 49000, Status: lost

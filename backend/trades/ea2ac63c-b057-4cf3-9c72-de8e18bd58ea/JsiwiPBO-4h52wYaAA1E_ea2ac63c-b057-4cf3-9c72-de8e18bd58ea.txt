@@ -1,0 +1,9 @@
+User ID: JsiwiPBO-4h52wYaAA1E
+User Name: robot
+Ticket ID: JsiwiPBO-4h52wYaAA1E_ea2ac63c-b057-4cf3-9c72-de8e18bd58ea
+Total Bid Amount: 3100
+Total Earnings: 0
+Profit/Loss: -3100
+
+Breakdown:
+  Bid: 4, Amount: 3100, Payout: 15500, Status: lost

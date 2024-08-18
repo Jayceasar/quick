@@ -1,0 +1,9 @@
+User ID: H4O4DnnId0eD8DgsAAyS
+User Name: robot
+Ticket ID: H4O4DnnId0eD8DgsAAyS_638b4014-4f48-4861-9c22-31f771b7d2b4
+Total Bid Amount: 4200
+Total Earnings: 0
+Profit/Loss: -4200
+
+Breakdown:
+  Bid: 6, Amount: 4200, Payout: 21000, Status: lost

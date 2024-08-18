@@ -1,0 +1,9 @@
+User ID: gmhSFVnXQMzhWCiGAAyB
+User Name: robot
+Ticket ID: gmhSFVnXQMzhWCiGAAyB_ea2ac63c-b057-4cf3-9c72-de8e18bd58ea
+Total Bid Amount: 6800
+Total Earnings: 0
+Profit/Loss: -6800
+
+Breakdown:
+  Bid: 5, Amount: 6800, Payout: 34000, Status: lost

@@ -1,0 +1,9 @@
+User ID: z6p18jUFgs4rs496AAyG
+User Name: robot
+Ticket ID: z6p18jUFgs4rs496AAyG_638b4014-4f48-4861-9c22-31f771b7d2b4
+Total Bid Amount: 2900
+Total Earnings: 0
+Profit/Loss: -2900
+
+Breakdown:
+  Bid: 1, Amount: 2900, Payout: 14500, Status: lost

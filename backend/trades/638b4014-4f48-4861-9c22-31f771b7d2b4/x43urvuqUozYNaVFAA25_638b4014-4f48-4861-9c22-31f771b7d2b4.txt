@@ -1,0 +1,9 @@
+User ID: x43urvuqUozYNaVFAA25
+User Name: robot
+Ticket ID: x43urvuqUozYNaVFAA25_638b4014-4f48-4861-9c22-31f771b7d2b4
+Total Bid Amount: 5600
+Total Earnings: 0
+Profit/Loss: -5600
+
+Breakdown:
+  Bid: 6, Amount: 5600, Payout: 28000, Status: lost
