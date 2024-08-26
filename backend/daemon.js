@@ -1,8 +1,16 @@
-import { Server } from "socket.io";
-import { v4 as uuidv4 } from "uuid";
-import fs from "fs/promises";
-import path from "path";
-import { Worker } from "worker_threads";
+const express = require("express");
+const http = require("http");
+const { Server } = require("socket.io");
+const { v4: uuidv4 } = require("uuid");
+const fs = require("fs/promises");
+const path = require("path");
+const { Worker } = require("worker_threads");
+
+const app = express();
+const server = http.createServer(app);
+const io = new Server(server, {
+  cors: { origin: "*", methods: ["GET", "POST"] },
+});
 
 // Constants
 const UPDATE_INTERVAL = 60000;
@@ -28,11 +36,6 @@ let totalWinningUsers = new Set();
 let totalLosingUsers = new Set();
 let totalWinningTickets = 0;
 let totalLosingTickets = 0;
-
-// Initialize server
-const io = new Server(4000, {
-  cors: { origin: "*", methods: ["GET", "POST"] },
-});
 
 // Utility functions
 function getRandomNumber(numbersToAvoid = []) {
@@ -99,7 +102,6 @@ function countBids() {
   const userBids = new Map();
   let totalAmount = 0;
 
-  // Create an object to store bidder names for each bid
   const bidderNames = Object.fromEntries(VALID_BIDS.map((num) => [num, []]));
 
   allBidsData.forEach(({ bid, amount, user, name }) => {
@@ -113,7 +115,6 @@ function countBids() {
       }
       userBids.get(user).push({ bid, amount, name });
 
-      // Add the bidder's name to the corresponding bid
       bidderNames[bid].push(name);
     }
   });
@@ -129,7 +130,7 @@ function countBids() {
       totalBids: counts[bid],
       totalAmount: amounts[bid],
       payout,
-      bidders: bidderNames[bid], // Include the list of bidder names
+      bidders: bidderNames[bid],
     };
 
     if (payout <= targetPayout && payout > closestPayout) {
@@ -194,7 +195,6 @@ function updateGame() {
   SESSION_UNIQUE_ID = uuidv4();
   SESSION_COUNT = SESSION_COUNT + 1;
 
-  // emit session ID
   emitSessionUniqueId();
 
   io.emit("result", results);
@@ -209,7 +209,6 @@ function updateGame() {
     );
     tickets.push(userTicket);
 
-    // If the user is still connected, send them their ticket summary
     const userSocket = connectedUsers.get(userId);
     if (userSocket) {
       userSocket.emit("ticketSummary", userTicket);
@@ -218,46 +217,46 @@ function updateGame() {
 
   console.log(`Generated tickets for ${tickets.length} users who placed bets`);
 
-  // Start a new worker thread to handle file operations
-  // const worker = new Worker("./workers/fileWorker.js", {
-  //   workerData: {
-  //     sessionId: SESSION_UNIQUE_ID,
-  //     tickets,
-  //     sessionSummary: {
-  //       totalBids: allBidsData.length,
-  //       totalAmount,
-  //       profit,
-  //       sessionId: SESSION_UNIQUE_ID,
-  //       payout: closestPayout,
-  //       winningNumber: newNumber,
-  //       totalWinningUsers: totalWinningUsers.size,
-  //       totalLosingUsers: totalLosingUsers.size,
-  //       totalWinningTickets,
-  //       totalLosingTickets,
-  //     },
-  //   },
-  // });
+  // Uncomment these lines if you want to use worker threads and update financials
+  /*
+  const worker = new Worker("./workers/fileWorker.js", {
+    workerData: {
+      sessionId: SESSION_UNIQUE_ID,
+      tickets,
+      sessionSummary: {
+        totalBids: allBidsData.length,
+        totalAmount,
+        profit,
+        sessionId: SESSION_UNIQUE_ID,
+        payout: closestPayout,
+        winningNumber: newNumber,
+        totalWinningUsers: totalWinningUsers.size,
+        totalLosingUsers: totalLosingUsers.size,
+        totalWinningTickets,
+        totalLosingTickets,
+      },
+    },
+  });
 
-  // worker.on("error", (err) => {
-  //   console.error("Worker error:", err);
-  // });
+  worker.on("error", (err) => {
+    console.error("Worker error:", err);
+  });
 
-  // worker.on("exit", (code) => {
-  //   if (code !== 0) {
-  //     console.error(`Worker stopped with exit code ${code}`);
-  //   } else {
-  //     console.log("Worker completed successfully");
-  //   }
-  // });
+  worker.on("exit", (code) => {
+    if (code !== 0) {
+      console.error(`Worker stopped with exit code ${code}`);
+    } else {
+      console.log("Worker completed successfully");
+    }
+  });
 
-  // updateFinancials(totalAmount, closestPayout);
+  updateFinancials(totalAmount, closestPayout);
 
-  // Push financials report to all clients
-  // getFinancialsReport().then((report) => {
-  //   io.emit("financials", report);
-  // });
+  getFinancialsReport().then((report) => {
+    io.emit("financials", report);
+  });
+  */
 
-  // Reset unique user sets for next session
   allBidsData = [];
   totalWinningUsers.clear();
   totalLosingUsers.clear();
@@ -292,7 +291,6 @@ function generateComprehensiveTicket(userId, userBids, winningNumber) {
       status,
     });
 
-    // Store the user's name (assuming it's the same for all bids)
     userName = name;
   });
 
@@ -306,7 +304,7 @@ function generateComprehensiveTicket(userId, userBids, winningNumber) {
 
   return {
     userId,
-    userName, // Include the user's name in the ticket
+    userName,
     ticketId: generateTicketId(userId),
     totalBidAmount,
     totalEarnings,
@@ -318,13 +316,13 @@ function generateComprehensiveTicket(userId, userBids, winningNumber) {
 function formatBidData(bidsData) {
   const formattedBids = VALID_BIDS.map((number) => ({
     number,
-    totalBids: 0, // Initialize the count for each number
+    totalBids: 0,
   }));
 
   bidsData.forEach((bid) => {
     const bidEntry = formattedBids.find((item) => item.number === bid.bid);
     if (bidEntry) {
-      bidEntry.totalBids += 1; // Increment the count for each bid
+      bidEntry.totalBids += 1;
     }
   });
 
@@ -368,7 +366,6 @@ function handleConnection(socket) {
 
   socket.emit("countdown", { timeLeft: countdown });
 
-  // Emit initial data to the newly connected client
   const formattedBids = formatBidData(allBidsData);
   socket.emit("allBidsData", formattedBids);
   socket.emit("sessionUniqueId", SESSION_UNIQUE_ID);
@@ -378,7 +375,7 @@ function handleConnection(socket) {
 // Initialize game
 currentNumber = getRandomNumber();
 lastUpdate = new Date();
-readFinancials(); // Initialize all-time financials
+readFinancials();
 
 // Set up intervals
 setInterval(updateGame, UPDATE_INTERVAL);
@@ -389,3 +386,23 @@ setInterval(() => {
 
 // Set up socket connection
 io.on("connection", handleConnection);
+
+// Express routes
+app.get("/", (req, res) => {
+  res.send("Welcome to the Betting Game Server");
+});
+
+app.get("/status", (req, res) => {
+  res.json({
+    currentNumber,
+    lastUpdate: lastUpdate ? lastUpdate.toLocaleString() : null,
+    connectedUsers: connectedUsers.size,
+    totalBids: allBidsData.length,
+  });
+});
+
+// Start the server
+const PORT = process.env.PORT || 4000;
+server.listen(PORT, () => {
+  console.log(`Server running on port ${PORT}`);
+});
