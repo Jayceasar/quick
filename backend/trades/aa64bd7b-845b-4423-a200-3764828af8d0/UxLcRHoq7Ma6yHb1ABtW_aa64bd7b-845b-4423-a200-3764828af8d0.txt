@@ -1,0 +1,10 @@
+User ID: UxLcRHoq7Ma6yHb1ABtW
+User Name: robot
+Ticket ID: UxLcRHoq7Ma6yHb1ABtW_aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 13500
+Total Earnings: 0
+Profit/Loss: -13500
+
+Breakdown:
+  Bid: 2, Amount: 5400, Payout: 27000, Status: lost
+  Bid: 5, Amount: 8100, Payout: 40500, Status: lost

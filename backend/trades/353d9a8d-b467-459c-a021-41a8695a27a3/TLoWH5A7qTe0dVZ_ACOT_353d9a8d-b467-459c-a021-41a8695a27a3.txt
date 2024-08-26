@@ -1,0 +1,9 @@
+User ID: TLoWH5A7qTe0dVZ_ACOT
+User Name: robot
+Ticket ID: TLoWH5A7qTe0dVZ_ACOT_353d9a8d-b467-459c-a021-41a8695a27a3
+Total Bid Amount: 9300
+Total Earnings: 0
+Profit/Loss: -9300
+
+Breakdown:
+  Bid: 3, Amount: 9300, Payout: 46500, Status: lost

@@ -1,0 +1,10 @@
+User ID: WNL6eIUkKud1MEu_ABmy
+User Name: robot
+Ticket ID: WNL6eIUkKud1MEu_ABmy_33fbb41f-21df-4ee4-a3d1-4429a431ece2
+Total Bid Amount: 12600
+Total Earnings: 0
+Profit/Loss: -12600
+
+Breakdown:
+  Bid: 5, Amount: 3500, Payout: 17500, Status: lost
+  Bid: 1, Amount: 9100, Payout: 45500, Status: lost

@@ -1,0 +1,11 @@
+User ID: YKG5LHkhHKzpWDdDABez
+User Name: robot
+Ticket ID: YKG5LHkhHKzpWDdDABez_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 15800
+Total Earnings: 0
+Profit/Loss: -15800
+
+Breakdown:
+  Bid: 2, Amount: 1300, Payout: 6500, Status: lost
+  Bid: 2, Amount: 7800, Payout: 39000, Status: lost
+  Bid: 2, Amount: 6700, Payout: 33500, Status: lost

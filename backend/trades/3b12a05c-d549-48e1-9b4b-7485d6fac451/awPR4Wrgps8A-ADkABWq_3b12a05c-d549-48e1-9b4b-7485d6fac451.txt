@@ -1,0 +1,9 @@
+User ID: awPR4Wrgps8A-ADkABWq
+User Name: robot
+Ticket ID: awPR4Wrgps8A-ADkABWq_3b12a05c-d549-48e1-9b4b-7485d6fac451
+Total Bid Amount: 2900
+Total Earnings: 0
+Profit/Loss: -2900
+
+Breakdown:
+  Bid: 5, Amount: 2900, Payout: 14500, Status: lost

@@ -1,0 +1,9 @@
+User ID: MyVxKjVseKe5CtPiAB01
+User Name: robot
+Ticket ID: MyVxKjVseKe5CtPiAB01_a295add0-ed87-4739-9946-a802886ede6f
+Total Bid Amount: 4900
+Total Earnings: 0
+Profit/Loss: -4900
+
+Breakdown:
+  Bid: 5, Amount: 4900, Payout: 24500, Status: lost

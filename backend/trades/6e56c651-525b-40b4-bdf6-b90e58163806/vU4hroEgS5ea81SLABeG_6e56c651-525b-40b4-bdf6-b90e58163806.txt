@@ -1,0 +1,11 @@
+User ID: vU4hroEgS5ea81SLABeG
+User Name: robot
+Ticket ID: vU4hroEgS5ea81SLABeG_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 12100
+Total Earnings: 0
+Profit/Loss: -12100
+
+Breakdown:
+  Bid: 6, Amount: 2100, Payout: 10500, Status: lost
+  Bid: 5, Amount: 7000, Payout: 35000, Status: lost
+  Bid: 2, Amount: 3000, Payout: 15000, Status: lost

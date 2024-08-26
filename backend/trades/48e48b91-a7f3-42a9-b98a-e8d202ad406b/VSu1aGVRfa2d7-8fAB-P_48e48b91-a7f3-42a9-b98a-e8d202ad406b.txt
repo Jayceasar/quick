@@ -1,0 +1,9 @@
+User ID: VSu1aGVRfa2d7-8fAB-P
+User Name: robot
+Ticket ID: VSu1aGVRfa2d7-8fAB-P_48e48b91-a7f3-42a9-b98a-e8d202ad406b
+Total Bid Amount: 1300
+Total Earnings: 0
+Profit/Loss: -1300
+
+Breakdown:
+  Bid: 2, Amount: 1300, Payout: 6500, Status: lost

@@ -1,0 +1,10 @@
+User ID: GYGcX_FYE0yvxjQqABPs
+User Name: robot
+Ticket ID: GYGcX_FYE0yvxjQqABPs_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 18900
+Total Earnings: 0
+Profit/Loss: -18900
+
+Breakdown:
+  Bid: 6, Amount: 10000, Payout: 50000, Status: lost
+  Bid: 4, Amount: 8900, Payout: 44500, Status: lost

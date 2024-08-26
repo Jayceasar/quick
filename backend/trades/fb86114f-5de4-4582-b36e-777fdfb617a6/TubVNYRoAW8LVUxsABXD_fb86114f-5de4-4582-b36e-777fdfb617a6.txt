@@ -1,0 +1,9 @@
+User ID: TubVNYRoAW8LVUxsABXD
+User Name: robot
+Ticket ID: TubVNYRoAW8LVUxsABXD_fb86114f-5de4-4582-b36e-777fdfb617a6
+Total Bid Amount: 300
+Total Earnings: 0
+Profit/Loss: -300
+
+Breakdown:
+  Bid: 2, Amount: 300, Payout: 1500, Status: lost

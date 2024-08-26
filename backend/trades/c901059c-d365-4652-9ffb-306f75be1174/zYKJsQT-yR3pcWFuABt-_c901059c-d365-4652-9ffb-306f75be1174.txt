@@ -1,0 +1,9 @@
+User ID: zYKJsQT-yR3pcWFuABt-
+User Name: robot
+Ticket ID: zYKJsQT-yR3pcWFuABt-_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 9500
+Total Earnings: 0
+Profit/Loss: -9500
+
+Breakdown:
+  Bid: 5, Amount: 9500, Payout: 47500, Status: lost

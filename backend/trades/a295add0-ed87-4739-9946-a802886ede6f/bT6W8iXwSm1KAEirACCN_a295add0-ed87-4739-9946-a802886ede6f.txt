@@ -1,0 +1,10 @@
+User ID: bT6W8iXwSm1KAEirACCN
+User Name: robot
+Ticket ID: bT6W8iXwSm1KAEirACCN_a295add0-ed87-4739-9946-a802886ede6f
+Total Bid Amount: 8700
+Total Earnings: 0
+Profit/Loss: -8700
+
+Breakdown:
+  Bid: 1, Amount: 6200, Payout: 31000, Status: lost
+  Bid: 1, Amount: 2500, Payout: 12500, Status: lost

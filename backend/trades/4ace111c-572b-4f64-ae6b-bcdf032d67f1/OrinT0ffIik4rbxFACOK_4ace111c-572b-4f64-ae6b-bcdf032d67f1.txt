@@ -1,0 +1,10 @@
+User ID: OrinT0ffIik4rbxFACOK
+User Name: robot
+Ticket ID: OrinT0ffIik4rbxFACOK_4ace111c-572b-4f64-ae6b-bcdf032d67f1
+Total Bid Amount: 11700
+Total Earnings: 50000
+Profit/Loss: 38300
+
+Breakdown:
+  Bid: 4, Amount: 10000, Payout: 50000, Status: won
+  Bid: 1, Amount: 1700, Payout: 8500, Status: lost

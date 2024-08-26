@@ -1,0 +1,9 @@
+User ID: rDAzdp6viKD5cJCdAByh
+User Name: robot
+Ticket ID: rDAzdp6viKD5cJCdAByh_a295add0-ed87-4739-9946-a802886ede6f
+Total Bid Amount: 1000
+Total Earnings: 0
+Profit/Loss: -1000
+
+Breakdown:
+  Bid: 6, Amount: 1000, Payout: 5000, Status: lost

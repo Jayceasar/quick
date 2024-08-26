@@ -1,0 +1,10 @@
+User ID: GdDwPXp0zjeI2mU8AA8Z
+User Name: robot
+Ticket ID: GdDwPXp0zjeI2mU8AA8Z_c2621c2b-31fe-494f-9a0a-60049100734b
+Total Bid Amount: 12700
+Total Earnings: 0
+Profit/Loss: -12700
+
+Breakdown:
+  Bid: 4, Amount: 2700, Payout: 13500, Status: lost
+  Bid: 6, Amount: 10000, Payout: 50000, Status: lost

@@ -1,0 +1,9 @@
+User ID: 1l3OlOAKMibGYfLJACBO
+User Name: robot
+Ticket ID: 1l3OlOAKMibGYfLJACBO_14610649-3f15-4017-8252-a28623982c47
+Total Bid Amount: 9400
+Total Earnings: 47000
+Profit/Loss: 37600
+
+Breakdown:
+  Bid: 3, Amount: 9400, Payout: 47000, Status: won

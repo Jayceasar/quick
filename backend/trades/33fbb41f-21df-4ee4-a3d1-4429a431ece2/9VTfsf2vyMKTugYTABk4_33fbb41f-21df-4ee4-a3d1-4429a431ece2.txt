@@ -1,0 +1,10 @@
+User ID: 9VTfsf2vyMKTugYTABk4
+User Name: robot
+Ticket ID: 9VTfsf2vyMKTugYTABk4_33fbb41f-21df-4ee4-a3d1-4429a431ece2
+Total Bid Amount: 6400
+Total Earnings: 14500
+Profit/Loss: 8100
+
+Breakdown:
+  Bid: 4, Amount: 2900, Payout: 14500, Status: won
+  Bid: 1, Amount: 3500, Payout: 17500, Status: lost

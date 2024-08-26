@@ -1,0 +1,9 @@
+User ID: ZlmSuduNR0hqavFaACJA
+User Name: robot
+Ticket ID: ZlmSuduNR0hqavFaACJA_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
+Total Bid Amount: 7000
+Total Earnings: 35000
+Profit/Loss: 28000
+
+Breakdown:
+  Bid: 5, Amount: 7000, Payout: 35000, Status: won

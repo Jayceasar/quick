@@ -1,0 +1,9 @@
+User ID: Bxc3JJzPdZydsVgEABLt
+User Name: robot
+Ticket ID: Bxc3JJzPdZydsVgEABLt_53f52dfa-658a-410e-aa4f-daee0e5a689c
+Total Bid Amount: 600
+Total Earnings: 3000
+Profit/Loss: 2400
+
+Breakdown:
+  Bid: 6, Amount: 600, Payout: 3000, Status: won

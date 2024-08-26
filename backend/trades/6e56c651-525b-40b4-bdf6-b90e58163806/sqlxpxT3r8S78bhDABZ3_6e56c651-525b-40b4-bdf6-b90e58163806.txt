@@ -1,0 +1,9 @@
+User ID: sqlxpxT3r8S78bhDABZ3
+User Name: robot
+Ticket ID: sqlxpxT3r8S78bhDABZ3_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 6200
+Total Earnings: 0
+Profit/Loss: -6200
+
+Breakdown:
+  Bid: 1, Amount: 6200, Payout: 31000, Status: lost

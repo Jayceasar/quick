@@ -1,0 +1,9 @@
+User ID: cFbiPywDNPl1ppY2ACPw
+User Name: robot
+Ticket ID: cFbiPywDNPl1ppY2ACPw_fa7d9f6f-c80b-46ec-9a5b-617fd6799868
+Total Bid Amount: 6900
+Total Earnings: 0
+Profit/Loss: -6900
+
+Breakdown:
+  Bid: 4, Amount: 6900, Payout: 34500, Status: lost

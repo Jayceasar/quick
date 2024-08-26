@@ -1,0 +1,9 @@
+User ID: WnECa5UVBx_zDQjWABdy
+User Name: robot
+Ticket ID: WnECa5UVBx_zDQjWABdy_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 2800
+Total Earnings: 0
+Profit/Loss: -2800
+
+Breakdown:
+  Bid: 6, Amount: 2800, Payout: 14000, Status: lost

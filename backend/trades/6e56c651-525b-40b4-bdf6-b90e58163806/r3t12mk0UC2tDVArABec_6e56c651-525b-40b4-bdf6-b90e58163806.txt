@@ -1,0 +1,11 @@
+User ID: r3t12mk0UC2tDVArABec
+User Name: robot
+Ticket ID: r3t12mk0UC2tDVArABec_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 16600
+Total Earnings: 0
+Profit/Loss: -16600
+
+Breakdown:
+  Bid: 6, Amount: 6600, Payout: 33000, Status: lost
+  Bid: 6, Amount: 9100, Payout: 45500, Status: lost
+  Bid: 1, Amount: 900, Payout: 4500, Status: lost

@@ -1,0 +1,9 @@
+User ID: JxemZKBIOHihPd7IAA9j
+User Name: robot
+Ticket ID: JxemZKBIOHihPd7IAA9j_73e52ea7-53a0-471d-a88d-2ad368de3cb4
+Total Bid Amount: 1700
+Total Earnings: 8500
+Profit/Loss: 6800
+
+Breakdown:
+  Bid: 2, Amount: 1700, Payout: 8500, Status: won

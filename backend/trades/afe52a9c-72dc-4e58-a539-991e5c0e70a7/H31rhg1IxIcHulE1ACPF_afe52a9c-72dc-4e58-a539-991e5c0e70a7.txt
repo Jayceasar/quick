@@ -1,0 +1,9 @@
+User ID: H31rhg1IxIcHulE1ACPF
+User Name: robot
+Ticket ID: H31rhg1IxIcHulE1ACPF_afe52a9c-72dc-4e58-a539-991e5c0e70a7
+Total Bid Amount: 1100
+Total Earnings: 5500
+Profit/Loss: 4400
+
+Breakdown:
+  Bid: 2, Amount: 1100, Payout: 5500, Status: won

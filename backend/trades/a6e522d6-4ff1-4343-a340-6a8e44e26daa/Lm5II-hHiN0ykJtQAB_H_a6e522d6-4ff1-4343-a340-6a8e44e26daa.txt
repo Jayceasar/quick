@@ -1,0 +1,9 @@
+User ID: Lm5II-hHiN0ykJtQAB_H
+User Name: robot
+Ticket ID: Lm5II-hHiN0ykJtQAB_H_a6e522d6-4ff1-4343-a340-6a8e44e26daa
+Total Bid Amount: 2400
+Total Earnings: 12000
+Profit/Loss: 9600
+
+Breakdown:
+  Bid: 1, Amount: 2400, Payout: 12000, Status: won

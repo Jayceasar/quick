@@ -1,0 +1,9 @@
+User ID: IwB4mrXwVhbLUDSkAB2a
+User Name: robot
+Ticket ID: IwB4mrXwVhbLUDSkAB2a_44666ccb-6626-428d-95d3-f7a7a00e87a7
+Total Bid Amount: 6900
+Total Earnings: 34500
+Profit/Loss: 27600
+
+Breakdown:
+  Bid: 6, Amount: 6900, Payout: 34500, Status: won

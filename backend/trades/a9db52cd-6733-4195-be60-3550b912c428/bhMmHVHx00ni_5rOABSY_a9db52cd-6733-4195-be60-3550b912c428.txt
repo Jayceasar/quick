@@ -1,0 +1,10 @@
+User ID: bhMmHVHx00ni_5rOABSY
+User Name: robot
+Ticket ID: bhMmHVHx00ni_5rOABSY_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 5900
+Total Earnings: 0
+Profit/Loss: -5900
+
+Breakdown:
+  Bid: 5, Amount: 1600, Payout: 8000, Status: lost
+  Bid: 6, Amount: 4300, Payout: 21500, Status: lost

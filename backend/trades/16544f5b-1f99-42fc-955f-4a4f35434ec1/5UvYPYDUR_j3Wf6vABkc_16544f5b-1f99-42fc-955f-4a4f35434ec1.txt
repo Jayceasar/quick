@@ -1,0 +1,9 @@
+User ID: 5UvYPYDUR_j3Wf6vABkc
+User Name: robot
+Ticket ID: 5UvYPYDUR_j3Wf6vABkc_16544f5b-1f99-42fc-955f-4a4f35434ec1
+Total Bid Amount: 4400
+Total Earnings: 0
+Profit/Loss: -4400
+
+Breakdown:
+  Bid: 2, Amount: 4400, Payout: 22000, Status: lost

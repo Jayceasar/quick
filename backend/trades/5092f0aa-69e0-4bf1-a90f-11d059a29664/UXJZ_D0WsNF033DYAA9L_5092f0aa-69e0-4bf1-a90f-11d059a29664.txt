@@ -1,0 +1,9 @@
+User ID: UXJZ_D0WsNF033DYAA9L
+User Name: robot
+Ticket ID: UXJZ_D0WsNF033DYAA9L_5092f0aa-69e0-4bf1-a90f-11d059a29664
+Total Bid Amount: 9200
+Total Earnings: 0
+Profit/Loss: -9200
+
+Breakdown:
+  Bid: 6, Amount: 9200, Payout: 46000, Status: lost

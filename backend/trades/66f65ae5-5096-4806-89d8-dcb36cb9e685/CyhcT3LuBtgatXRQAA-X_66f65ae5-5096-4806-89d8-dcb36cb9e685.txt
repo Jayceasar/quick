@@ -1,0 +1,9 @@
+User ID: CyhcT3LuBtgatXRQAA-X
+User Name: robot
+Ticket ID: CyhcT3LuBtgatXRQAA-X_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 5100
+Total Earnings: 0
+Profit/Loss: -5100
+
+Breakdown:
+  Bid: 4, Amount: 5100, Payout: 25500, Status: lost

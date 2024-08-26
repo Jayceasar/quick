@@ -1,0 +1,9 @@
+User ID: MBX8ZmZmHom6fWHqACGb
+User Name: robot
+Ticket ID: MBX8ZmZmHom6fWHqACGb_baae20bc-bbdc-4a0c-addb-c4a83365506c
+Total Bid Amount: 8400
+Total Earnings: 0
+Profit/Loss: -8400
+
+Breakdown:
+  Bid: 4, Amount: 8400, Payout: 42000, Status: lost

@@ -1,0 +1,9 @@
+User ID: 7drBtimbolw7QVMOABK7
+User Name: robot
+Ticket ID: 7drBtimbolw7QVMOABK7_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 1300
+Total Earnings: 0
+Profit/Loss: -1300
+
+Breakdown:
+  Bid: 2, Amount: 1300, Payout: 6500, Status: lost

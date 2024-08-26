@@ -1,0 +1,9 @@
+User ID: JHmyFCCob3hFDuoLACN5
+User Name: robot
+Ticket ID: JHmyFCCob3hFDuoLACN5_410f81c4-640a-426c-adae-e0f04fe1a0ef
+Total Bid Amount: 7300
+Total Earnings: 36500
+Profit/Loss: 29200
+
+Breakdown:
+  Bid: 2, Amount: 7300, Payout: 36500, Status: won

@@ -1,0 +1,9 @@
+User ID: kInakBcM8Xw-FkHDAB5E
+User Name: robot
+Ticket ID: kInakBcM8Xw-FkHDAB5E_4e590ac0-442e-4e7c-bb69-b3985af4acef
+Total Bid Amount: 8500
+Total Earnings: 0
+Profit/Loss: -8500
+
+Breakdown:
+  Bid: 4, Amount: 8500, Payout: 42500, Status: lost

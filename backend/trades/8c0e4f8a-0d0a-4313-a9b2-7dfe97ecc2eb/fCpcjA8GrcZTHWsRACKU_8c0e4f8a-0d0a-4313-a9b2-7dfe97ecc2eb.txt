@@ -1,0 +1,9 @@
+User ID: fCpcjA8GrcZTHWsRACKU
+User Name: robot
+Ticket ID: fCpcjA8GrcZTHWsRACKU_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
+Total Bid Amount: 1900
+Total Earnings: 9500
+Profit/Loss: 7600
+
+Breakdown:
+  Bid: 5, Amount: 1900, Payout: 9500, Status: won

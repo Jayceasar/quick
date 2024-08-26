@@ -1,0 +1,9 @@
+User ID: qboQFTsvIhwJsFOsAA8U
+User Name: robot
+Ticket ID: qboQFTsvIhwJsFOsAA8U_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 200
+Total Earnings: 1000
+Profit/Loss: 800
+
+Breakdown:
+  Bid: 5, Amount: 200, Payout: 1000, Status: won

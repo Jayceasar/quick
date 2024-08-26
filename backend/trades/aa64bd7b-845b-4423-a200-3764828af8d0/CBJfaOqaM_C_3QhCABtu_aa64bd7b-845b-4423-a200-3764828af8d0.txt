@@ -1,0 +1,10 @@
+User ID: CBJfaOqaM_C_3QhCABtu
+User Name: robot
+Ticket ID: CBJfaOqaM_C_3QhCABtu_aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 14500
+Total Earnings: 0
+Profit/Loss: -14500
+
+Breakdown:
+  Bid: 1, Amount: 5900, Payout: 29500, Status: lost
+  Bid: 2, Amount: 8600, Payout: 43000, Status: lost

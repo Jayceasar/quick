@@ -1,0 +1,9 @@
+User ID: lmAll32LSOWpZTqvABY5
+User Name: robot
+Ticket ID: lmAll32LSOWpZTqvABY5_fb86114f-5de4-4582-b36e-777fdfb617a6
+Total Bid Amount: 400
+Total Earnings: 0
+Profit/Loss: -400
+
+Breakdown:
+  Bid: 2, Amount: 400, Payout: 2000, Status: lost

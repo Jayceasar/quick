@@ -1,0 +1,9 @@
+User ID: QrlEah5XqClmT9ldACCF
+User Name: robot
+Ticket ID: QrlEah5XqClmT9ldACCF_07612224-3336-47cc-8c54-187b9f190cab
+Total Bid Amount: 200
+Total Earnings: 0
+Profit/Loss: -200
+
+Breakdown:
+  Bid: 4, Amount: 200, Payout: 1000, Status: lost

@@ -1,0 +1,9 @@
+User ID: aPrgp7rY0BJ1S91OACO7
+User Name: robot
+Ticket ID: aPrgp7rY0BJ1S91OACO7_afc94687-39ff-493c-a227-f7a63a0fc398
+Total Bid Amount: 300
+Total Earnings: 0
+Profit/Loss: -300
+
+Breakdown:
+  Bid: 6, Amount: 300, Payout: 1500, Status: lost

@@ -1,0 +1,9 @@
+User ID: g9kDA16IG9E0TlwQAA-c
+User Name: robot
+Ticket ID: g9kDA16IG9E0TlwQAA-c_5092f0aa-69e0-4bf1-a90f-11d059a29664
+Total Bid Amount: 2400
+Total Earnings: 0
+Profit/Loss: -2400
+
+Breakdown:
+  Bid: 5, Amount: 2400, Payout: 12000, Status: lost

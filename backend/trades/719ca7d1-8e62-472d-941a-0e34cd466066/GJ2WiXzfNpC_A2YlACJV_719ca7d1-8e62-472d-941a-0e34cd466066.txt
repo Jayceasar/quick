@@ -1,0 +1,9 @@
+User ID: GJ2WiXzfNpC_A2YlACJV
+User Name: robot
+Ticket ID: GJ2WiXzfNpC_A2YlACJV_719ca7d1-8e62-472d-941a-0e34cd466066
+Total Bid Amount: 2200
+Total Earnings: 11000
+Profit/Loss: 8800
+
+Breakdown:
+  Bid: 4, Amount: 2200, Payout: 11000, Status: won

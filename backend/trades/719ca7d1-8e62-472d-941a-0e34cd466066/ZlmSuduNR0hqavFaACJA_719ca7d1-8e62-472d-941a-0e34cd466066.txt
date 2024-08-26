@@ -1,0 +1,9 @@
+User ID: ZlmSuduNR0hqavFaACJA
+User Name: robot
+Ticket ID: ZlmSuduNR0hqavFaACJA_719ca7d1-8e62-472d-941a-0e34cd466066
+Total Bid Amount: 200
+Total Earnings: 0
+Profit/Loss: -200
+
+Breakdown:
+  Bid: 6, Amount: 200, Payout: 1000, Status: lost

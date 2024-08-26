@@ -1,0 +1,9 @@
+User ID: eHpDA2dhSo9wK2ODABvI
+User Name: robot
+Ticket ID: eHpDA2dhSo9wK2ODABvI_7a1cf374-3b0b-47a8-92f4-370088b1d70d
+Total Bid Amount: 8700
+Total Earnings: 43500
+Profit/Loss: 34800
+
+Breakdown:
+  Bid: 2, Amount: 8700, Payout: 43500, Status: won

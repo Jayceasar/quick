@@ -1,0 +1,9 @@
+User ID: 8nV_SrMZcgXnInmWACPB
+User Name: robot
+Ticket ID: 8nV_SrMZcgXnInmWACPB_77088560-ba8b-44f6-b09c-9599bfe848ce
+Total Bid Amount: 5700
+Total Earnings: 0
+Profit/Loss: -5700
+
+Breakdown:
+  Bid: 5, Amount: 5700, Payout: 28500, Status: lost

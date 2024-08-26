@@ -1,0 +1,10 @@
+User ID: 48sOAan-iRxOX5-PABm9
+User Name: robot
+Ticket ID: 48sOAan-iRxOX5-PABm9_33fbb41f-21df-4ee4-a3d1-4429a431ece2
+Total Bid Amount: 16500
+Total Earnings: 0
+Profit/Loss: -16500
+
+Breakdown:
+  Bid: 5, Amount: 8500, Payout: 42500, Status: lost
+  Bid: 2, Amount: 8000, Payout: 40000, Status: lost

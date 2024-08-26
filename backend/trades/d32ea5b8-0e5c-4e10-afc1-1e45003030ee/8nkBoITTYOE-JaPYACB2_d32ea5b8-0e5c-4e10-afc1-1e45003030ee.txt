@@ -1,0 +1,9 @@
+User ID: 8nkBoITTYOE-JaPYACB2
+User Name: robot
+Ticket ID: 8nkBoITTYOE-JaPYACB2_d32ea5b8-0e5c-4e10-afc1-1e45003030ee
+Total Bid Amount: 200
+Total Earnings: 0
+Profit/Loss: -200
+
+Breakdown:
+  Bid: 4, Amount: 200, Payout: 1000, Status: lost

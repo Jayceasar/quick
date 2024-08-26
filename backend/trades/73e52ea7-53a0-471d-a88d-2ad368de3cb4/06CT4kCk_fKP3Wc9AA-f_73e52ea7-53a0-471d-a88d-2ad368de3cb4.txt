@@ -1,0 +1,9 @@
+User ID: 06CT4kCk_fKP3Wc9AA-f
+User Name: robot
+Ticket ID: 06CT4kCk_fKP3Wc9AA-f_73e52ea7-53a0-471d-a88d-2ad368de3cb4
+Total Bid Amount: 6700
+Total Earnings: 33500
+Profit/Loss: 26800
+
+Breakdown:
+  Bid: 2, Amount: 6700, Payout: 33500, Status: won

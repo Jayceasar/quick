@@ -1,0 +1,10 @@
+User ID: 1AcGLdTnEmLOiY8MABfV
+User Name: robot
+Ticket ID: 1AcGLdTnEmLOiY8MABfV_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 14000
+Total Earnings: 0
+Profit/Loss: -14000
+
+Breakdown:
+  Bid: 2, Amount: 6900, Payout: 34500, Status: lost
+  Bid: 4, Amount: 7100, Payout: 35500, Status: lost

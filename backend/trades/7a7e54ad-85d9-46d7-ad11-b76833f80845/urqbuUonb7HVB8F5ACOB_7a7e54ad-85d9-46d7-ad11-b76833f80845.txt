@@ -1,0 +1,9 @@
+User ID: urqbuUonb7HVB8F5ACOB
+User Name: robot
+Ticket ID: urqbuUonb7HVB8F5ACOB_7a7e54ad-85d9-46d7-ad11-b76833f80845
+Total Bid Amount: 4600
+Total Earnings: 0
+Profit/Loss: -4600
+
+Breakdown:
+  Bid: 5, Amount: 4600, Payout: 23000, Status: lost

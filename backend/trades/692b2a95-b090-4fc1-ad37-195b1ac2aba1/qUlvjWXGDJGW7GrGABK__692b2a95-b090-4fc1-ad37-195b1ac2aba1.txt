@@ -1,0 +1,9 @@
+User ID: qUlvjWXGDJGW7GrGABK_
+User Name: robot
+Ticket ID: qUlvjWXGDJGW7GrGABK__692b2a95-b090-4fc1-ad37-195b1ac2aba1
+Total Bid Amount: 8800
+Total Earnings: 44000
+Profit/Loss: 35200
+
+Breakdown:
+  Bid: 5, Amount: 8800, Payout: 44000, Status: won

@@ -1,0 +1,10 @@
+User ID: dy-N6kGUH1QBegsHABPE
+User Name: robot
+Ticket ID: dy-N6kGUH1QBegsHABPE_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 11400
+Total Earnings: 0
+Profit/Loss: -11400
+
+Breakdown:
+  Bid: 3, Amount: 9800, Payout: 49000, Status: lost
+  Bid: 5, Amount: 1600, Payout: 8000, Status: lost

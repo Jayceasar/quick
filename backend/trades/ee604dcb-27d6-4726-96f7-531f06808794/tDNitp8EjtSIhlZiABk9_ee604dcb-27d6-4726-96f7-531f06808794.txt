@@ -1,0 +1,9 @@
+User ID: tDNitp8EjtSIhlZiABk9
+User Name: robot
+Ticket ID: tDNitp8EjtSIhlZiABk9_ee604dcb-27d6-4726-96f7-531f06808794
+Total Bid Amount: 200
+Total Earnings: 0
+Profit/Loss: -200
+
+Breakdown:
+  Bid: 1, Amount: 200, Payout: 1000, Status: lost

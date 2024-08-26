@@ -1,0 +1,9 @@
+User ID: yg_6uZShKaxCHzSnACKH
+User Name: robot
+Ticket ID: yg_6uZShKaxCHzSnACKH_baae20bc-bbdc-4a0c-addb-c4a83365506c
+Total Bid Amount: 6400
+Total Earnings: 0
+Profit/Loss: -6400
+
+Breakdown:
+  Bid: 4, Amount: 6400, Payout: 32000, Status: lost

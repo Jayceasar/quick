@@ -1,0 +1,9 @@
+User ID: L7xbr7MezXL9CkjjABX1
+User Name: robot
+Ticket ID: L7xbr7MezXL9CkjjABX1_a8e43219-fb0d-4493-bd00-d9f0476aecaf
+Total Bid Amount: 500
+Total Earnings: 0
+Profit/Loss: -500
+
+Breakdown:
+  Bid: 2, Amount: 500, Payout: 2500, Status: lost

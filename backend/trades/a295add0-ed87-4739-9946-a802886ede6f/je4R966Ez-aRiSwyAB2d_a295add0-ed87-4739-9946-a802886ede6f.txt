@@ -1,0 +1,9 @@
+User ID: je4R966Ez-aRiSwyAB2d
+User Name: robot
+Ticket ID: je4R966Ez-aRiSwyAB2d_a295add0-ed87-4739-9946-a802886ede6f
+Total Bid Amount: 5900
+Total Earnings: 29500
+Profit/Loss: 23600
+
+Breakdown:
+  Bid: 3, Amount: 5900, Payout: 29500, Status: won

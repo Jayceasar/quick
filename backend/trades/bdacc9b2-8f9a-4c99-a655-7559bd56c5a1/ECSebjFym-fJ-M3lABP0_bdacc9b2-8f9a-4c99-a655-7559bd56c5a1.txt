@@ -1,0 +1,9 @@
+User ID: ECSebjFym-fJ-M3lABP0
+User Name: robot
+Ticket ID: ECSebjFym-fJ-M3lABP0_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 5200
+Total Earnings: 0
+Profit/Loss: -5200
+
+Breakdown:
+  Bid: 6, Amount: 5200, Payout: 26000, Status: lost

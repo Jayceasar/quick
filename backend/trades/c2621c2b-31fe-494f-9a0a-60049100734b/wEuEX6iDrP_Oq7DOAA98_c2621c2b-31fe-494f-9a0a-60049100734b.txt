@@ -1,0 +1,10 @@
+User ID: wEuEX6iDrP_Oq7DOAA98
+User Name: robot
+Ticket ID: wEuEX6iDrP_Oq7DOAA98_c2621c2b-31fe-494f-9a0a-60049100734b
+Total Bid Amount: 9400
+Total Earnings: 17500
+Profit/Loss: 8100
+
+Breakdown:
+  Bid: 5, Amount: 5900, Payout: 29500, Status: lost
+  Bid: 2, Amount: 3500, Payout: 17500, Status: won

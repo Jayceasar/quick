@@ -1,0 +1,9 @@
+User ID: tiCZEXQX3vI94lSfABKx
+User Name: robot
+Ticket ID: tiCZEXQX3vI94lSfABKx_692b2a95-b090-4fc1-ad37-195b1ac2aba1
+Total Bid Amount: 5600
+Total Earnings: 28000
+Profit/Loss: 22400
+
+Breakdown:
+  Bid: 5, Amount: 5600, Payout: 28000, Status: won

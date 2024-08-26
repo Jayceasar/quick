@@ -1,0 +1,9 @@
+User ID: 1wNlVYv1GWRjslcZAB1B
+User Name: robot
+Ticket ID: 1wNlVYv1GWRjslcZAB1B_c5622fe9-fa66-4682-a1ea-f8ed721f9645
+Total Bid Amount: 3400
+Total Earnings: 17000
+Profit/Loss: 13600
+
+Breakdown:
+  Bid: 3, Amount: 3400, Payout: 17000, Status: won

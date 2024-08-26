@@ -1,0 +1,9 @@
+User ID: qC1Ae1tcMW_iN07tABey
+User Name: robot
+Ticket ID: qC1Ae1tcMW_iN07tABey_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 4100
+Total Earnings: 20500
+Profit/Loss: 16400
+
+Breakdown:
+  Bid: 2, Amount: 4100, Payout: 20500, Status: won

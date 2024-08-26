@@ -1,0 +1,9 @@
+User ID: PRAeFJRnwHj7gjbiACQ_
+User Name: robot
+Ticket ID: PRAeFJRnwHj7gjbiACQ__fa7d9f6f-c80b-46ec-9a5b-617fd6799868
+Total Bid Amount: 7600
+Total Earnings: 0
+Profit/Loss: -7600
+
+Breakdown:
+  Bid: 1, Amount: 7600, Payout: 38000, Status: lost

@@ -1,0 +1,9 @@
+User ID: 8nVpuhL9sXlOxBu1ACRL
+User Name: robot
+Ticket ID: 8nVpuhL9sXlOxBu1ACRL_01f9d651-f1ef-433d-b500-ded64344ab1b
+Total Bid Amount: 6600
+Total Earnings: 0
+Profit/Loss: -6600
+
+Breakdown:
+  Bid: 2, Amount: 6600, Payout: 33000, Status: lost

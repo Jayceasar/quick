@@ -1,0 +1,9 @@
+User ID: Rgqk9ncq03aK0blJABKU
+User Name: robot
+Ticket ID: Rgqk9ncq03aK0blJABKU_53f52dfa-658a-410e-aa4f-daee0e5a689c
+Total Bid Amount: 7500
+Total Earnings: 0
+Profit/Loss: -7500
+
+Breakdown:
+  Bid: 5, Amount: 7500, Payout: 37500, Status: lost

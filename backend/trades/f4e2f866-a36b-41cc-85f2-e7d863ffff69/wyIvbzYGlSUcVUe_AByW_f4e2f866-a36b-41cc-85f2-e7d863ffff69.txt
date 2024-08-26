@@ -1,0 +1,9 @@
+User ID: wyIvbzYGlSUcVUe_AByW
+User Name: robot
+Ticket ID: wyIvbzYGlSUcVUe_AByW_f4e2f866-a36b-41cc-85f2-e7d863ffff69
+Total Bid Amount: 9000
+Total Earnings: 0
+Profit/Loss: -9000
+
+Breakdown:
+  Bid: 1, Amount: 9000, Payout: 45000, Status: lost

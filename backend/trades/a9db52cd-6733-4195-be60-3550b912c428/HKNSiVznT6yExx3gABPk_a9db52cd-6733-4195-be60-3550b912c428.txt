@@ -1,0 +1,10 @@
+User ID: HKNSiVznT6yExx3gABPk
+User Name: robot
+Ticket ID: HKNSiVznT6yExx3gABPk_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 7000
+Total Earnings: 0
+Profit/Loss: -7000
+
+Breakdown:
+  Bid: 4, Amount: 1000, Payout: 5000, Status: lost
+  Bid: 6, Amount: 6000, Payout: 30000, Status: lost

@@ -1,0 +1,9 @@
+User ID: PnMVFYkx7ium-Q2rABJn
+User Name: robot
+Ticket ID: PnMVFYkx7ium-Q2rABJn_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 5500
+Total Earnings: 0
+Profit/Loss: -5500
+
+Breakdown:
+  Bid: 2, Amount: 5500, Payout: 27500, Status: lost

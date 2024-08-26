@@ -1,0 +1,9 @@
+User ID: mf3IXrVfXHA5epW8ACBm
+User Name: robot
+Ticket ID: mf3IXrVfXHA5epW8ACBm_414b2b96-9ea1-4f03-977a-f2301d814e84
+Total Bid Amount: 3300
+Total Earnings: 0
+Profit/Loss: -3300
+
+Breakdown:
+  Bid: 5, Amount: 3300, Payout: 16500, Status: lost

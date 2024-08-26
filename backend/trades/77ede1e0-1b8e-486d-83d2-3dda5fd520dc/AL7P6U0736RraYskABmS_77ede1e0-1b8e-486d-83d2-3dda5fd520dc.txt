@@ -1,0 +1,9 @@
+User ID: AL7P6U0736RraYskABmS
+User Name: robot
+Ticket ID: AL7P6U0736RraYskABmS_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
+Total Bid Amount: 4900
+Total Earnings: 0
+Profit/Loss: -4900
+
+Breakdown:
+  Bid: 6, Amount: 4900, Payout: 24500, Status: lost

@@ -1,0 +1,10 @@
+User ID: MbNB3fQMNVfeD06bABhl
+User Name: robot
+Ticket ID: MbNB3fQMNVfeD06bABhl_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 8900
+Total Earnings: 0
+Profit/Loss: -8900
+
+Breakdown:
+  Bid: 6, Amount: 2400, Payout: 12000, Status: lost
+  Bid: 5, Amount: 6500, Payout: 32500, Status: lost

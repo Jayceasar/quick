@@ -1,0 +1,9 @@
+User ID: rCr6ku7SwcP8uTrzACJz
+User Name: robot
+Ticket ID: rCr6ku7SwcP8uTrzACJz_baae20bc-bbdc-4a0c-addb-c4a83365506c
+Total Bid Amount: 6300
+Total Earnings: 0
+Profit/Loss: -6300
+
+Breakdown:
+  Bid: 1, Amount: 6300, Payout: 31500, Status: lost

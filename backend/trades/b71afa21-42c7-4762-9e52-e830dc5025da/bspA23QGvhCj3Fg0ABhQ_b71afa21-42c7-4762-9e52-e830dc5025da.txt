@@ -1,0 +1,10 @@
+User ID: bspA23QGvhCj3Fg0ABhQ
+User Name: robot
+Ticket ID: bspA23QGvhCj3Fg0ABhQ_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 13200
+Total Earnings: 21000
+Profit/Loss: 7800
+
+Breakdown:
+  Bid: 3, Amount: 9000, Payout: 45000, Status: lost
+  Bid: 2, Amount: 4200, Payout: 21000, Status: won

@@ -1,0 +1,9 @@
+User ID: QC31RA_bYPVJRt76AB1P
+User Name: robot
+Ticket ID: QC31RA_bYPVJRt76AB1P_f4e2f866-a36b-41cc-85f2-e7d863ffff69
+Total Bid Amount: 8600
+Total Earnings: 0
+Profit/Loss: -8600
+
+Breakdown:
+  Bid: 5, Amount: 8600, Payout: 43000, Status: lost

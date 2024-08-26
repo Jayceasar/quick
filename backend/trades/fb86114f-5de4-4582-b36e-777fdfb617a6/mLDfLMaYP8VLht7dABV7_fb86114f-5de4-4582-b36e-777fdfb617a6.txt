@@ -1,0 +1,9 @@
+User ID: mLDfLMaYP8VLht7dABV7
+User Name: robot
+Ticket ID: mLDfLMaYP8VLht7dABV7_fb86114f-5de4-4582-b36e-777fdfb617a6
+Total Bid Amount: 900
+Total Earnings: 0
+Profit/Loss: -900
+
+Breakdown:
+  Bid: 3, Amount: 900, Payout: 4500, Status: lost

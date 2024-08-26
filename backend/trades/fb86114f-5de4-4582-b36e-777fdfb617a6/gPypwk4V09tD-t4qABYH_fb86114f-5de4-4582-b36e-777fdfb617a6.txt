@@ -1,0 +1,9 @@
+User ID: gPypwk4V09tD-t4qABYH
+User Name: robot
+Ticket ID: gPypwk4V09tD-t4qABYH_fb86114f-5de4-4582-b36e-777fdfb617a6
+Total Bid Amount: 1900
+Total Earnings: 0
+Profit/Loss: -1900
+
+Breakdown:
+  Bid: 6, Amount: 1900, Payout: 9500, Status: lost

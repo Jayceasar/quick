@@ -1,0 +1,9 @@
+User ID: nDZoxO73BcV54PDmAB-l
+User Name: robot
+Ticket ID: nDZoxO73BcV54PDmAB-l_ce826aab-9a87-417c-932c-403d0e5f1b5b
+Total Bid Amount: 2700
+Total Earnings: 0
+Profit/Loss: -2700
+
+Breakdown:
+  Bid: 6, Amount: 2700, Payout: 13500, Status: lost

@@ -1,0 +1,9 @@
+User ID: KoYSfdetlLW2lPBTABlQ
+User Name: robot
+Ticket ID: KoYSfdetlLW2lPBTABlQ_ee604dcb-27d6-4726-96f7-531f06808794
+Total Bid Amount: 2000
+Total Earnings: 0
+Profit/Loss: -2000
+
+Breakdown:
+  Bid: 1, Amount: 2000, Payout: 10000, Status: lost

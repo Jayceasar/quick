@@ -1,0 +1,10 @@
+User ID: 7JluI22gahfBjxXTABQD
+User Name: robot
+Ticket ID: 7JluI22gahfBjxXTABQD_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 14200
+Total Earnings: 0
+Profit/Loss: -14200
+
+Breakdown:
+  Bid: 2, Amount: 8300, Payout: 41500, Status: lost
+  Bid: 2, Amount: 5900, Payout: 29500, Status: lost

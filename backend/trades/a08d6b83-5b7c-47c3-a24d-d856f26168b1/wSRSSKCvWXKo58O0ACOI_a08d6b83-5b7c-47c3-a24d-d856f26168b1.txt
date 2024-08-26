@@ -1,0 +1,9 @@
+User ID: wSRSSKCvWXKo58O0ACOI
+User Name: robot
+Ticket ID: wSRSSKCvWXKo58O0ACOI_a08d6b83-5b7c-47c3-a24d-d856f26168b1
+Total Bid Amount: 5400
+Total Earnings: 27000
+Profit/Loss: 21600
+
+Breakdown:
+  Bid: 5, Amount: 5400, Payout: 27000, Status: won

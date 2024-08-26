@@ -1,0 +1,9 @@
+User ID: D9Tll26-oSWv3MScACOo
+User Name: robot
+Ticket ID: D9Tll26-oSWv3MScACOo_55f16f53-70d4-4875-b933-f102425b0614
+Total Bid Amount: 2600
+Total Earnings: 0
+Profit/Loss: -2600
+
+Breakdown:
+  Bid: 6, Amount: 2600, Payout: 13000, Status: lost

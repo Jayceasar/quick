@@ -1,0 +1,9 @@
+User ID: ioUFh4PyDNp-BNuTABMC
+User Name: robot
+Ticket ID: ioUFh4PyDNp-BNuTABMC_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 900
+Total Earnings: 0
+Profit/Loss: -900
+
+Breakdown:
+  Bid: 3, Amount: 900, Payout: 4500, Status: lost

@@ -1,0 +1,9 @@
+User ID: mRrimsRKvh8to-GyACRJ
+User Name: robot
+Ticket ID: mRrimsRKvh8to-GyACRJ_e78b4f4a-2598-4e1a-9515-3df9c694c231
+Total Bid Amount: 3900
+Total Earnings: 0
+Profit/Loss: -3900
+
+Breakdown:
+  Bid: 2, Amount: 3900, Payout: 19500, Status: lost

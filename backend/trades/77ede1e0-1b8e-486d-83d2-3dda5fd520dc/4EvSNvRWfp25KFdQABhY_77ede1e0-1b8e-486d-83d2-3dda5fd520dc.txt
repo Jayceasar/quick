@@ -1,0 +1,9 @@
+User ID: 4EvSNvRWfp25KFdQABhY
+User Name: robot
+Ticket ID: 4EvSNvRWfp25KFdQABhY_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
+Total Bid Amount: 3600
+Total Earnings: 0
+Profit/Loss: -3600
+
+Breakdown:
+  Bid: 6, Amount: 3600, Payout: 18000, Status: lost

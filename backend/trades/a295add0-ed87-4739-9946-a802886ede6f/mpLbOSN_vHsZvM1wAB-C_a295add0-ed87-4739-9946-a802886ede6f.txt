@@ -1,0 +1,10 @@
+User ID: mpLbOSN_vHsZvM1wAB-C
+User Name: robot
+Ticket ID: mpLbOSN_vHsZvM1wAB-C_a295add0-ed87-4739-9946-a802886ede6f
+Total Bid Amount: 4200
+Total Earnings: 0
+Profit/Loss: -4200
+
+Breakdown:
+  Bid: 2, Amount: 600, Payout: 3000, Status: lost
+  Bid: 2, Amount: 3600, Payout: 18000, Status: lost

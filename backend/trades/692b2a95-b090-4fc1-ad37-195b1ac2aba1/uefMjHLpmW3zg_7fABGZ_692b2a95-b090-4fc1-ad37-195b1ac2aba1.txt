@@ -1,0 +1,9 @@
+User ID: uefMjHLpmW3zg_7fABGZ
+User Name: robot
+Ticket ID: uefMjHLpmW3zg_7fABGZ_692b2a95-b090-4fc1-ad37-195b1ac2aba1
+Total Bid Amount: 300
+Total Earnings: 0
+Profit/Loss: -300
+
+Breakdown:
+  Bid: 3, Amount: 300, Payout: 1500, Status: lost

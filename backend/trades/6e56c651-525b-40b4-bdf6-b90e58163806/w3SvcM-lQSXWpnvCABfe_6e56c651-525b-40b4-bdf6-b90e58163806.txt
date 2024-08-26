@@ -1,0 +1,10 @@
+User ID: w3SvcM-lQSXWpnvCABfe
+User Name: robot
+Ticket ID: w3SvcM-lQSXWpnvCABfe_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 19200
+Total Earnings: 0
+Profit/Loss: -19200
+
+Breakdown:
+  Bid: 1, Amount: 9400, Payout: 47000, Status: lost
+  Bid: 6, Amount: 9800, Payout: 49000, Status: lost

@@ -1,0 +1,9 @@
+User ID: wBM10X4lRvzr891vAB-Q
+User Name: robot
+Ticket ID: wBM10X4lRvzr891vAB-Q_8fc6b331-1cf2-4f7e-b22b-f0768821f205
+Total Bid Amount: 900
+Total Earnings: 0
+Profit/Loss: -900
+
+Breakdown:
+  Bid: 4, Amount: 900, Payout: 4500, Status: lost

@@ -1,0 +1,9 @@
+User ID: K83ewZlWjNxWFG28ACOE
+User Name: robot
+Ticket ID: K83ewZlWjNxWFG28ACOE_dae14f69-3f67-457b-8673-ca273cbd7cdd
+Total Bid Amount: 400
+Total Earnings: 0
+Profit/Loss: -400
+
+Breakdown:
+  Bid: 5, Amount: 400, Payout: 2000, Status: lost

@@ -1,0 +1,9 @@
+User ID: 83lydpNPW7asjHE7ABLV
+User Name: robot
+Ticket ID: 83lydpNPW7asjHE7ABLV_692b2a95-b090-4fc1-ad37-195b1ac2aba1
+Total Bid Amount: 5600
+Total Earnings: 0
+Profit/Loss: -5600
+
+Breakdown:
+  Bid: 2, Amount: 5600, Payout: 28000, Status: lost

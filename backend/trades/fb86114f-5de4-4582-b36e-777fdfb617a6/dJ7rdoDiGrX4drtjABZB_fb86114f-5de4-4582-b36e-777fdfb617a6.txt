@@ -1,0 +1,9 @@
+User ID: dJ7rdoDiGrX4drtjABZB
+User Name: robot
+Ticket ID: dJ7rdoDiGrX4drtjABZB_fb86114f-5de4-4582-b36e-777fdfb617a6
+Total Bid Amount: 5400
+Total Earnings: 0
+Profit/Loss: -5400
+
+Breakdown:
+  Bid: 6, Amount: 5400, Payout: 27000, Status: lost

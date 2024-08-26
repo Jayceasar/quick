@@ -1,0 +1,9 @@
+User ID: GvV_JVoScFnQ93YyAByQ
+User Name: robot
+Ticket ID: GvV_JVoScFnQ93YyAByQ_2ca79661-347a-468a-9798-531cec82b083
+Total Bid Amount: 6000
+Total Earnings: 30000
+Profit/Loss: 24000
+
+Breakdown:
+  Bid: 1, Amount: 6000, Payout: 30000, Status: won

@@ -1,0 +1,9 @@
+User ID: BNK2qlVkOc6M_t1oAA_K
+User Name: robot
+Ticket ID: BNK2qlVkOc6M_t1oAA_K_5092f0aa-69e0-4bf1-a90f-11d059a29664
+Total Bid Amount: 7800
+Total Earnings: 0
+Profit/Loss: -7800
+
+Breakdown:
+  Bid: 4, Amount: 7800, Payout: 39000, Status: lost

@@ -1,0 +1,9 @@
+User ID: JddV0FEoUepdOfp2ACRF
+User Name: robot
+Ticket ID: JddV0FEoUepdOfp2ACRF_1b116764-9029-44ae-8a1b-5f22d99e725b
+Total Bid Amount: 2200
+Total Earnings: 0
+Profit/Loss: -2200
+
+Breakdown:
+  Bid: 1, Amount: 2200, Payout: 11000, Status: lost

@@ -1,0 +1,10 @@
+User ID: 200dreaLHuL4PyKxABYA
+User Name: robot
+Ticket ID: 200dreaLHuL4PyKxABYA_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 7600
+Total Earnings: 4000
+Profit/Loss: -3600
+
+Breakdown:
+  Bid: 2, Amount: 6800, Payout: 34000, Status: lost
+  Bid: 3, Amount: 800, Payout: 4000, Status: won

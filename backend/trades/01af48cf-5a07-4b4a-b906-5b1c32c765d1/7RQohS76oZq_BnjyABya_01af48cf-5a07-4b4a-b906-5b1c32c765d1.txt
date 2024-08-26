@@ -1,0 +1,9 @@
+User ID: 7RQohS76oZq_BnjyABya
+User Name: robot
+Ticket ID: 7RQohS76oZq_BnjyABya_01af48cf-5a07-4b4a-b906-5b1c32c765d1
+Total Bid Amount: 2600
+Total Earnings: 13000
+Profit/Loss: 10400
+
+Breakdown:
+  Bid: 6, Amount: 2600, Payout: 13000, Status: won

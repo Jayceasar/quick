@@ -1,0 +1,9 @@
+User ID: zKeqPhTbSI89oh3JABO9
+User Name: robot
+Ticket ID: zKeqPhTbSI89oh3JABO9_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 7800
+Total Earnings: 0
+Profit/Loss: -7800
+
+Breakdown:
+  Bid: 2, Amount: 7800, Payout: 39000, Status: lost

@@ -1,0 +1,9 @@
+User ID: Qn7FoJ9GPRjN4WZaACPW
+User Name: robot
+Ticket ID: Qn7FoJ9GPRjN4WZaACPW_246465d8-2555-4fa7-b74a-8773effd4599
+Total Bid Amount: 9000
+Total Earnings: 0
+Profit/Loss: -9000
+
+Breakdown:
+  Bid: 2, Amount: 9000, Payout: 45000, Status: lost

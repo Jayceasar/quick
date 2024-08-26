@@ -1,0 +1,9 @@
+User ID: Vs6_OjeY93PWdLr9ABOx
+User Name: robot
+Ticket ID: Vs6_OjeY93PWdLr9ABOx_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 3800
+Total Earnings: 0
+Profit/Loss: -3800
+
+Breakdown:
+  Bid: 1, Amount: 3800, Payout: 19000, Status: lost

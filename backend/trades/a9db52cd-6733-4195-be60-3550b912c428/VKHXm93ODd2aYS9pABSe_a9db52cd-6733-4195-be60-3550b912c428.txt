@@ -1,0 +1,10 @@
+User ID: VKHXm93ODd2aYS9pABSe
+User Name: robot
+Ticket ID: VKHXm93ODd2aYS9pABSe_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 10400
+Total Earnings: 31500
+Profit/Loss: 21100
+
+Breakdown:
+  Bid: 2, Amount: 4100, Payout: 20500, Status: lost
+  Bid: 1, Amount: 6300, Payout: 31500, Status: won

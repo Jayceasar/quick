@@ -1,0 +1,11 @@
+User ID: tTvj7skiAgrLiYAIABd4
+User Name: robot
+Ticket ID: tTvj7skiAgrLiYAIABd4_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 11800
+Total Earnings: 0
+Profit/Loss: -11800
+
+Breakdown:
+  Bid: 2, Amount: 5500, Payout: 27500, Status: lost
+  Bid: 2, Amount: 600, Payout: 3000, Status: lost
+  Bid: 2, Amount: 5700, Payout: 28500, Status: lost

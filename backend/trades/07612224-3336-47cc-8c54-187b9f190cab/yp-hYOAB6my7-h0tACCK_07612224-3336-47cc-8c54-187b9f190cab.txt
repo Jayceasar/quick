@@ -1,0 +1,9 @@
+User ID: yp-hYOAB6my7-h0tACCK
+User Name: robot
+Ticket ID: yp-hYOAB6my7-h0tACCK_07612224-3336-47cc-8c54-187b9f190cab
+Total Bid Amount: 9400
+Total Earnings: 47000
+Profit/Loss: 37600
+
+Breakdown:
+  Bid: 3, Amount: 9400, Payout: 47000, Status: won

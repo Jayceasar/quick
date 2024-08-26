@@ -1,0 +1,9 @@
+User ID: 75woTkXXVhcd6FADACJU
+User Name: robot
+Ticket ID: 75woTkXXVhcd6FADACJU_2a327de1-2fbe-48c6-b3b3-e81f12d12845
+Total Bid Amount: 5400
+Total Earnings: 27000
+Profit/Loss: 21600
+
+Breakdown:
+  Bid: 5, Amount: 5400, Payout: 27000, Status: won

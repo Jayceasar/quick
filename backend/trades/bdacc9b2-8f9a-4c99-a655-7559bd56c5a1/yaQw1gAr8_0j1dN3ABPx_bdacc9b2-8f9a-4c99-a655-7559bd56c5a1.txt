@@ -1,0 +1,9 @@
+User ID: yaQw1gAr8_0j1dN3ABPx
+User Name: robot
+Ticket ID: yaQw1gAr8_0j1dN3ABPx_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 7400
+Total Earnings: 0
+Profit/Loss: -7400
+
+Breakdown:
+  Bid: 4, Amount: 7400, Payout: 37000, Status: lost

@@ -1,0 +1,9 @@
+User ID: Yj-WEgGt_T0iIWjYACNw
+User Name: robot
+Ticket ID: Yj-WEgGt_T0iIWjYACNw_834d1eca-0fba-4529-95f6-926cf877b44a
+Total Bid Amount: 8800
+Total Earnings: 44000
+Profit/Loss: 35200
+
+Breakdown:
+  Bid: 2, Amount: 8800, Payout: 44000, Status: won

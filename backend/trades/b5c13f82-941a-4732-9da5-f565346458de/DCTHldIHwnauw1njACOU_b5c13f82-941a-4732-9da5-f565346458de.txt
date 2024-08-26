@@ -1,0 +1,9 @@
+User ID: DCTHldIHwnauw1njACOU
+User Name: robot
+Ticket ID: DCTHldIHwnauw1njACOU_b5c13f82-941a-4732-9da5-f565346458de
+Total Bid Amount: 5400
+Total Earnings: 0
+Profit/Loss: -5400
+
+Breakdown:
+  Bid: 6, Amount: 5400, Payout: 27000, Status: lost

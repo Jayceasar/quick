@@ -1,0 +1,9 @@
+User ID: eO-zjomBkPssSa5DABlx
+User Name: robot
+Ticket ID: eO-zjomBkPssSa5DABlx_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
+Total Bid Amount: 8700
+Total Earnings: 0
+Profit/Loss: -8700
+
+Breakdown:
+  Bid: 4, Amount: 8700, Payout: 43500, Status: lost

@@ -1,0 +1,9 @@
+User ID: vHu9HJdlhi9awjRdABk2
+User Name: robot
+Ticket ID: vHu9HJdlhi9awjRdABk2_ee604dcb-27d6-4726-96f7-531f06808794
+Total Bid Amount: 4200
+Total Earnings: 0
+Profit/Loss: -4200
+
+Breakdown:
+  Bid: 3, Amount: 4200, Payout: 21000, Status: lost

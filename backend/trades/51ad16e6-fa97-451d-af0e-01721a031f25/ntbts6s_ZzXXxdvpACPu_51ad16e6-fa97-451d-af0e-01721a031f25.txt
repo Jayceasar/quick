@@ -1,0 +1,9 @@
+User ID: ntbts6s_ZzXXxdvpACPu
+User Name: robot
+Ticket ID: ntbts6s_ZzXXxdvpACPu_51ad16e6-fa97-451d-af0e-01721a031f25
+Total Bid Amount: 7500
+Total Earnings: 0
+Profit/Loss: -7500
+
+Breakdown:
+  Bid: 6, Amount: 7500, Payout: 37500, Status: lost

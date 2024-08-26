@@ -1,0 +1,9 @@
+User ID: nRbckhJrOpcXa5OPAB0z
+User Name: robot
+Ticket ID: nRbckhJrOpcXa5OPAB0z_cb7b5adb-35cb-4abd-a9dd-0532d0ca6333
+Total Bid Amount: 7800
+Total Earnings: 39000
+Profit/Loss: 31200
+
+Breakdown:
+  Bid: 3, Amount: 7800, Payout: 39000, Status: won

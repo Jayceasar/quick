@@ -1,0 +1,10 @@
+User ID: DPJ3bKIYAlrR3UTiABlw
+User Name: robot
+Ticket ID: DPJ3bKIYAlrR3UTiABlw_33fbb41f-21df-4ee4-a3d1-4429a431ece2
+Total Bid Amount: 2200
+Total Earnings: 9500
+Profit/Loss: 7300
+
+Breakdown:
+  Bid: 4, Amount: 1900, Payout: 9500, Status: won
+  Bid: 3, Amount: 300, Payout: 1500, Status: lost

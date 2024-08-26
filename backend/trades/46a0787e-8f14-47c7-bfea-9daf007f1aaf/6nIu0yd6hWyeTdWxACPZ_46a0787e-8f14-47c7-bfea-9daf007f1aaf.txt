@@ -1,0 +1,9 @@
+User ID: 6nIu0yd6hWyeTdWxACPZ
+User Name: robot
+Ticket ID: 6nIu0yd6hWyeTdWxACPZ_46a0787e-8f14-47c7-bfea-9daf007f1aaf
+Total Bid Amount: 100
+Total Earnings: 0
+Profit/Loss: -100
+
+Breakdown:
+  Bid: 3, Amount: 100, Payout: 500, Status: lost

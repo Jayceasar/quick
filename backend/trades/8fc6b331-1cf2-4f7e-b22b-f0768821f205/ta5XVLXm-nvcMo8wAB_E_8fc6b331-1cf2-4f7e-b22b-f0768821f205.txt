@@ -1,0 +1,9 @@
+User ID: ta5XVLXm-nvcMo8wAB_E
+User Name: robot
+Ticket ID: ta5XVLXm-nvcMo8wAB_E_8fc6b331-1cf2-4f7e-b22b-f0768821f205
+Total Bid Amount: 9900
+Total Earnings: 49500
+Profit/Loss: 39600
+
+Breakdown:
+  Bid: 6, Amount: 9900, Payout: 49500, Status: won

@@ -1,0 +1,9 @@
+User ID: H8-t2s5o6hF-cQjFACJZ
+User Name: robot
+Ticket ID: H8-t2s5o6hF-cQjFACJZ_7f17eed6-7359-4dae-af38-f93e4d907ad3
+Total Bid Amount: 7700
+Total Earnings: 0
+Profit/Loss: -7700
+
+Breakdown:
+  Bid: 1, Amount: 7700, Payout: 38500, Status: lost

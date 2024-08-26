@@ -1,0 +1,9 @@
+User ID: _vgezyUNTFRkYpJzACCG
+User Name: robot
+Ticket ID: _vgezyUNTFRkYpJzACCG_14610649-3f15-4017-8252-a28623982c47
+Total Bid Amount: 600
+Total Earnings: 0
+Profit/Loss: -600
+
+Breakdown:
+  Bid: 6, Amount: 600, Payout: 3000, Status: lost

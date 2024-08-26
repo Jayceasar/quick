@@ -1,0 +1,9 @@
+User ID: J6YXrJUZI2DN8anKAB-k
+User Name: robot
+Ticket ID: J6YXrJUZI2DN8anKAB-k_3e3ffb49-a8be-4e48-a533-33eb486e2676
+Total Bid Amount: 7900
+Total Earnings: 0
+Profit/Loss: -7900
+
+Breakdown:
+  Bid: 5, Amount: 7900, Payout: 39500, Status: lost

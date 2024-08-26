@@ -1,0 +1,10 @@
+User ID: nNDfw54X9WTsJBdCABmp
+User Name: robot
+Ticket ID: nNDfw54X9WTsJBdCABmp_33fbb41f-21df-4ee4-a3d1-4429a431ece2
+Total Bid Amount: 19100
+Total Earnings: 50000
+Profit/Loss: 30900
+
+Breakdown:
+  Bid: 2, Amount: 9100, Payout: 45500, Status: lost
+  Bid: 4, Amount: 10000, Payout: 50000, Status: won

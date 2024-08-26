@@ -1,0 +1,9 @@
+User ID: NhSkzbKvdadiL-SZAByc
+User Name: robot
+Ticket ID: NhSkzbKvdadiL-SZAByc_f4e2f866-a36b-41cc-85f2-e7d863ffff69
+Total Bid Amount: 9800
+Total Earnings: 0
+Profit/Loss: -9800
+
+Breakdown:
+  Bid: 3, Amount: 9800, Payout: 49000, Status: lost

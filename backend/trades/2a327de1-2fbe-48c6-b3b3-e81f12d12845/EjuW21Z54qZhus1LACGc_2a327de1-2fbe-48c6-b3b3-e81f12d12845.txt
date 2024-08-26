@@ -1,0 +1,9 @@
+User ID: EjuW21Z54qZhus1LACGc
+User Name: robot
+Ticket ID: EjuW21Z54qZhus1LACGc_2a327de1-2fbe-48c6-b3b3-e81f12d12845
+Total Bid Amount: 3800
+Total Earnings: 0
+Profit/Loss: -3800
+
+Breakdown:
+  Bid: 6, Amount: 3800, Payout: 19000, Status: lost

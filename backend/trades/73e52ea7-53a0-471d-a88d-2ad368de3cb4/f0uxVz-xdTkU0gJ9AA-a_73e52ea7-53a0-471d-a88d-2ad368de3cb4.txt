@@ -1,0 +1,9 @@
+User ID: f0uxVz-xdTkU0gJ9AA-a
+User Name: robot
+Ticket ID: f0uxVz-xdTkU0gJ9AA-a_73e52ea7-53a0-471d-a88d-2ad368de3cb4
+Total Bid Amount: 7500
+Total Earnings: 0
+Profit/Loss: -7500
+
+Breakdown:
+  Bid: 4, Amount: 7500, Payout: 37500, Status: lost

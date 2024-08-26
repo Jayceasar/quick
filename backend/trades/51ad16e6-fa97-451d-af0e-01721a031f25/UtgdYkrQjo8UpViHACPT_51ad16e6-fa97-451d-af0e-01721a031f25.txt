@@ -1,0 +1,9 @@
+User ID: UtgdYkrQjo8UpViHACPT
+User Name: robot
+Ticket ID: UtgdYkrQjo8UpViHACPT_51ad16e6-fa97-451d-af0e-01721a031f25
+Total Bid Amount: 3500
+Total Earnings: 0
+Profit/Loss: -3500
+
+Breakdown:
+  Bid: 5, Amount: 3500, Payout: 17500, Status: lost

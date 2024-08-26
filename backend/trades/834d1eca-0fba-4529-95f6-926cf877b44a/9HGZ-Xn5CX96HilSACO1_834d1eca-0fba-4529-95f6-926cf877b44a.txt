@@ -1,0 +1,9 @@
+User ID: 9HGZ-Xn5CX96HilSACO1
+User Name: robot
+Ticket ID: 9HGZ-Xn5CX96HilSACO1_834d1eca-0fba-4529-95f6-926cf877b44a
+Total Bid Amount: 2300
+Total Earnings: 11500
+Profit/Loss: 9200
+
+Breakdown:
+  Bid: 2, Amount: 2300, Payout: 11500, Status: won

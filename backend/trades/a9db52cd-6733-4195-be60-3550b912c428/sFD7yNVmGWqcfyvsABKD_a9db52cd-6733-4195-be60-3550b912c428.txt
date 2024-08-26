@@ -1,0 +1,9 @@
+User ID: sFD7yNVmGWqcfyvsABKD
+User Name: robot
+Ticket ID: sFD7yNVmGWqcfyvsABKD_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 3200
+Total Earnings: 0
+Profit/Loss: -3200
+
+Breakdown:
+  Bid: 6, Amount: 3200, Payout: 16000, Status: lost

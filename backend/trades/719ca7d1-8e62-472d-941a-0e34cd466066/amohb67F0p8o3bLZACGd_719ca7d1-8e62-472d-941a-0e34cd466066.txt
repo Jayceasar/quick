@@ -1,0 +1,9 @@
+User ID: amohb67F0p8o3bLZACGd
+User Name: robot
+Ticket ID: amohb67F0p8o3bLZACGd_719ca7d1-8e62-472d-941a-0e34cd466066
+Total Bid Amount: 8600
+Total Earnings: 0
+Profit/Loss: -8600
+
+Breakdown:
+  Bid: 6, Amount: 8600, Payout: 43000, Status: lost

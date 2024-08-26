@@ -1,0 +1,9 @@
+User ID: UNHFQ-GxHr5_N747ACCE
+User Name: robot
+Ticket ID: UNHFQ-GxHr5_N747ACCE_d8df62b4-1734-46bb-aa18-2e8fa0ba6bad
+Total Bid Amount: 3900
+Total Earnings: 0
+Profit/Loss: -3900
+
+Breakdown:
+  Bid: 3, Amount: 3900, Payout: 19500, Status: lost

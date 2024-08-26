@@ -1,0 +1,9 @@
+User ID: YqA-8CtxKpFqBrYZABlc
+User Name: robot
+Ticket ID: YqA-8CtxKpFqBrYZABlc_ee604dcb-27d6-4726-96f7-531f06808794
+Total Bid Amount: 6900
+Total Earnings: 0
+Profit/Loss: -6900
+
+Breakdown:
+  Bid: 2, Amount: 6900, Payout: 34500, Status: lost

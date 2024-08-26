@@ -1,0 +1,9 @@
+User ID: A8Wgf7u7_TT3K4pSAB1o
+User Name: robot
+Ticket ID: A8Wgf7u7_TT3K4pSAB1o_73cf31f2-8401-4ac4-bb24-a78ee513d5d7
+Total Bid Amount: 800
+Total Earnings: 0
+Profit/Loss: -800
+
+Breakdown:
+  Bid: 2, Amount: 800, Payout: 4000, Status: lost

@@ -1,0 +1,9 @@
+User ID: Hw7N7c-5b_31fIprACPQ
+User Name: robot
+Ticket ID: Hw7N7c-5b_31fIprACPQ_1e6a6f95-bf5b-4786-9146-f30fa1f02de8
+Total Bid Amount: 1300
+Total Earnings: 6500
+Profit/Loss: 5200
+
+Breakdown:
+  Bid: 4, Amount: 1300, Payout: 6500, Status: won

@@ -1,0 +1,9 @@
+User ID: _MjWYt6UApN7D5XRACCW
+User Name: robot
+Ticket ID: _MjWYt6UApN7D5XRACCW_56850f82-82b8-4cfb-888b-f0899476a0dd
+Total Bid Amount: 2800
+Total Earnings: 0
+Profit/Loss: -2800
+
+Breakdown:
+  Bid: 4, Amount: 2800, Payout: 14000, Status: lost

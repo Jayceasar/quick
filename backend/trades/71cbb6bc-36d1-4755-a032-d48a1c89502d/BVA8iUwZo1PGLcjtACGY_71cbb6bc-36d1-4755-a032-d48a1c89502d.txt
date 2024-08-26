@@ -1,0 +1,10 @@
+User ID: BVA8iUwZo1PGLcjtACGY
+User Name: robot
+Ticket ID: BVA8iUwZo1PGLcjtACGY_71cbb6bc-36d1-4755-a032-d48a1c89502d
+Total Bid Amount: 13000
+Total Earnings: 0
+Profit/Loss: -13000
+
+Breakdown:
+  Bid: 1, Amount: 8700, Payout: 43500, Status: lost
+  Bid: 2, Amount: 4300, Payout: 21500, Status: lost

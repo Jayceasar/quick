@@ -1,0 +1,11 @@
+User ID: G-Gn_2JPBr9Dm7UQABdv
+User Name: robot
+Ticket ID: G-Gn_2JPBr9Dm7UQABdv_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 24500
+Total Earnings: 39000
+Profit/Loss: 14500
+
+Breakdown:
+  Bid: 5, Amount: 7000, Payout: 35000, Status: lost
+  Bid: 2, Amount: 9700, Payout: 48500, Status: lost
+  Bid: 3, Amount: 7800, Payout: 39000, Status: won

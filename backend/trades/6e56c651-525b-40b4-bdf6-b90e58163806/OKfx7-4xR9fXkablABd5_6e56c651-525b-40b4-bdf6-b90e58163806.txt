@@ -1,0 +1,11 @@
+User ID: OKfx7-4xR9fXkablABd5
+User Name: robot
+Ticket ID: OKfx7-4xR9fXkablABd5_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 18500
+Total Earnings: 0
+Profit/Loss: -18500
+
+Breakdown:
+  Bid: 4, Amount: 1500, Payout: 7500, Status: lost
+  Bid: 4, Amount: 9100, Payout: 45500, Status: lost
+  Bid: 5, Amount: 7900, Payout: 39500, Status: lost

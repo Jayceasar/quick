@@ -1,0 +1,10 @@
+User ID: GzKqev08SpkZoFMmABYI
+User Name: robot
+Ticket ID: GzKqev08SpkZoFMmABYI_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 12100
+Total Earnings: 0
+Profit/Loss: -12100
+
+Breakdown:
+  Bid: 2, Amount: 7100, Payout: 35500, Status: lost
+  Bid: 4, Amount: 5000, Payout: 25000, Status: lost

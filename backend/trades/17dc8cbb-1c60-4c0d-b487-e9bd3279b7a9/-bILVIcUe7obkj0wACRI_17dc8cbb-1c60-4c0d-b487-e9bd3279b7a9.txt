@@ -1,0 +1,9 @@
+User ID: -bILVIcUe7obkj0wACRI
+User Name: robot
+Ticket ID: -bILVIcUe7obkj0wACRI_17dc8cbb-1c60-4c0d-b487-e9bd3279b7a9
+Total Bid Amount: 100
+Total Earnings: 0
+Profit/Loss: -100
+
+Breakdown:
+  Bid: 1, Amount: 100, Payout: 500, Status: lost

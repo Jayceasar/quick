@@ -1,0 +1,9 @@
+User ID: mREu8FjP8eUNU24ZABY_
+User Name: robot
+Ticket ID: mREu8FjP8eUNU24ZABY__fb86114f-5de4-4582-b36e-777fdfb617a6
+Total Bid Amount: 8800
+Total Earnings: 0
+Profit/Loss: -8800
+
+Breakdown:
+  Bid: 6, Amount: 8800, Payout: 44000, Status: lost

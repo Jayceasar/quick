@@ -1,0 +1,9 @@
+User ID: R7vBxXrNM_ImX6RqACNo
+User Name: robot
+Ticket ID: R7vBxXrNM_ImX6RqACNo_72f9191e-e346-449d-8a09-8eb634b49b76
+Total Bid Amount: 3800
+Total Earnings: 19000
+Profit/Loss: 15200
+
+Breakdown:
+  Bid: 6, Amount: 3800, Payout: 19000, Status: won

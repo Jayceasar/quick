@@ -1,0 +1,9 @@
+User ID: CYu3DKqpSEeqzJ4IAB-e
+User Name: robot
+Ticket ID: CYu3DKqpSEeqzJ4IAB-e_3e3ffb49-a8be-4e48-a533-33eb486e2676
+Total Bid Amount: 6600
+Total Earnings: 0
+Profit/Loss: -6600
+
+Breakdown:
+  Bid: 5, Amount: 6600, Payout: 33000, Status: lost

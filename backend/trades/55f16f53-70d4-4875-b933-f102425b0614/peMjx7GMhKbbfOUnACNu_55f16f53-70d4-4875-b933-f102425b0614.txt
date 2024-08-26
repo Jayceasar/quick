@@ -1,0 +1,9 @@
+User ID: peMjx7GMhKbbfOUnACNu
+User Name: robot
+Ticket ID: peMjx7GMhKbbfOUnACNu_55f16f53-70d4-4875-b933-f102425b0614
+Total Bid Amount: 4500
+Total Earnings: 22500
+Profit/Loss: 18000
+
+Breakdown:
+  Bid: 2, Amount: 4500, Payout: 22500, Status: won

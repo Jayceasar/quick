@@ -1,0 +1,9 @@
+User ID: DEgyoUYUFfVC6TG3ABvX
+User Name: robot
+Ticket ID: DEgyoUYUFfVC6TG3ABvX_7a1cf374-3b0b-47a8-92f4-370088b1d70d
+Total Bid Amount: 6400
+Total Earnings: 0
+Profit/Loss: -6400
+
+Breakdown:
+  Bid: 5, Amount: 6400, Payout: 32000, Status: lost

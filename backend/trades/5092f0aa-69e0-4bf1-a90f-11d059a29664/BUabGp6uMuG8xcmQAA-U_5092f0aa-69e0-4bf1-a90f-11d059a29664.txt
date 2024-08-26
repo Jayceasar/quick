@@ -1,0 +1,9 @@
+User ID: BUabGp6uMuG8xcmQAA-U
+User Name: robot
+Ticket ID: BUabGp6uMuG8xcmQAA-U_5092f0aa-69e0-4bf1-a90f-11d059a29664
+Total Bid Amount: 3400
+Total Earnings: 17000
+Profit/Loss: 13600
+
+Breakdown:
+  Bid: 1, Amount: 3400, Payout: 17000, Status: won

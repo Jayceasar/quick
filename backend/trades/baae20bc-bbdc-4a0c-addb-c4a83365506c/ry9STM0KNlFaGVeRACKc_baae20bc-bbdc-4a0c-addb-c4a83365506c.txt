@@ -1,0 +1,9 @@
+User ID: ry9STM0KNlFaGVeRACKc
+User Name: robot
+Ticket ID: ry9STM0KNlFaGVeRACKc_baae20bc-bbdc-4a0c-addb-c4a83365506c
+Total Bid Amount: 7100
+Total Earnings: 0
+Profit/Loss: -7100
+
+Breakdown:
+  Bid: 4, Amount: 7100, Payout: 35500, Status: lost

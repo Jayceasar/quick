@@ -1,0 +1,9 @@
+User ID: nBf6Ou0Jey65ljnkACJO
+User Name: robot
+Ticket ID: nBf6Ou0Jey65ljnkACJO_719ca7d1-8e62-472d-941a-0e34cd466066
+Total Bid Amount: 4400
+Total Earnings: 0
+Profit/Loss: -4400
+
+Breakdown:
+  Bid: 1, Amount: 4400, Payout: 22000, Status: lost

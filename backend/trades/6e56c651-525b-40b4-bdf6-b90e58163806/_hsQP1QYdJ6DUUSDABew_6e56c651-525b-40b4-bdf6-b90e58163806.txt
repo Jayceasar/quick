@@ -1,0 +1,11 @@
+User ID: _hsQP1QYdJ6DUUSDABew
+User Name: robot
+Ticket ID: _hsQP1QYdJ6DUUSDABew_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 14500
+Total Earnings: 0
+Profit/Loss: -14500
+
+Breakdown:
+  Bid: 4, Amount: 6300, Payout: 31500, Status: lost
+  Bid: 6, Amount: 500, Payout: 2500, Status: lost
+  Bid: 4, Amount: 7700, Payout: 38500, Status: lost

@@ -1,0 +1,9 @@
+User ID: LLwFRXhV0STkZxE_ABnk
+User Name: robot
+Ticket ID: LLwFRXhV0STkZxE_ABnk_ee604dcb-27d6-4726-96f7-531f06808794
+Total Bid Amount: 7900
+Total Earnings: 0
+Profit/Loss: -7900
+
+Breakdown:
+  Bid: 2, Amount: 7900, Payout: 39500, Status: lost

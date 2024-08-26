@@ -1,0 +1,9 @@
+User ID: E7lBz-QYHXB9i0RZABln
+User Name: robot
+Ticket ID: E7lBz-QYHXB9i0RZABln_16544f5b-1f99-42fc-955f-4a4f35434ec1
+Total Bid Amount: 8000
+Total Earnings: 0
+Profit/Loss: -8000
+
+Breakdown:
+  Bid: 2, Amount: 8000, Payout: 40000, Status: lost

@@ -1,0 +1,11 @@
+User ID: r3n_neS6JgvdZo3hABdm
+User Name: robot
+Ticket ID: r3n_neS6JgvdZo3hABdm_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 27100
+Total Earnings: 0
+Profit/Loss: -27100
+
+Breakdown:
+  Bid: 2, Amount: 8900, Payout: 44500, Status: lost
+  Bid: 5, Amount: 9400, Payout: 47000, Status: lost
+  Bid: 6, Amount: 8800, Payout: 44000, Status: lost

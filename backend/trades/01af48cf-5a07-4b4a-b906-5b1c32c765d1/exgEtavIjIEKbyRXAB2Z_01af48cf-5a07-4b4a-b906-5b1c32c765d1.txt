@@ -1,0 +1,9 @@
+User ID: exgEtavIjIEKbyRXAB2Z
+User Name: robot
+Ticket ID: exgEtavIjIEKbyRXAB2Z_01af48cf-5a07-4b4a-b906-5b1c32c765d1
+Total Bid Amount: 9000
+Total Earnings: 0
+Profit/Loss: -9000
+
+Breakdown:
+  Bid: 4, Amount: 9000, Payout: 45000, Status: lost

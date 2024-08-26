@@ -1,0 +1,9 @@
+User ID: xkXnARPyFXQeqFopACI4
+User Name: robot
+Ticket ID: xkXnARPyFXQeqFopACI4_baae20bc-bbdc-4a0c-addb-c4a83365506c
+Total Bid Amount: 5800
+Total Earnings: 0
+Profit/Loss: -5800
+
+Breakdown:
+  Bid: 4, Amount: 5800, Payout: 29000, Status: lost

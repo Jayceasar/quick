@@ -1,0 +1,9 @@
+User ID: BjT7ewGG3aOjX1KEACRv
+User Name: robot
+Ticket ID: BjT7ewGG3aOjX1KEACRv_1b116764-9029-44ae-8a1b-5f22d99e725b
+Total Bid Amount: 9000
+Total Earnings: 0
+Profit/Loss: -9000
+
+Breakdown:
+  Bid: 4, Amount: 9000, Payout: 45000, Status: lost

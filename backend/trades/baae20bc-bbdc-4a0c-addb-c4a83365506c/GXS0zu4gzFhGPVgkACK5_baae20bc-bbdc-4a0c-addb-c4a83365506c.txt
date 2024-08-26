@@ -1,0 +1,9 @@
+User ID: GXS0zu4gzFhGPVgkACK5
+User Name: robot
+Ticket ID: GXS0zu4gzFhGPVgkACK5_baae20bc-bbdc-4a0c-addb-c4a83365506c
+Total Bid Amount: 2500
+Total Earnings: 0
+Profit/Loss: -2500
+
+Breakdown:
+  Bid: 1, Amount: 2500, Payout: 12500, Status: lost

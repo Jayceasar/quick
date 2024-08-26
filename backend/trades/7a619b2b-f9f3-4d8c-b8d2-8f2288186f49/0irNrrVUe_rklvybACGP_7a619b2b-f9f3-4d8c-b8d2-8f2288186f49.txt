@@ -1,0 +1,9 @@
+User ID: 0irNrrVUe_rklvybACGP
+User Name: robot
+Ticket ID: 0irNrrVUe_rklvybACGP_7a619b2b-f9f3-4d8c-b8d2-8f2288186f49
+Total Bid Amount: 7600
+Total Earnings: 38000
+Profit/Loss: 30400
+
+Breakdown:
+  Bid: 5, Amount: 7600, Payout: 38000, Status: won

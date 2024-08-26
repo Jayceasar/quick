@@ -1,0 +1,9 @@
+User ID: wOiL7qtAWe4uhDUTAByd
+User Name: robot
+Ticket ID: wOiL7qtAWe4uhDUTAByd_cb7b5adb-35cb-4abd-a9dd-0532d0ca6333
+Total Bid Amount: 5800
+Total Earnings: 0
+Profit/Loss: -5800
+
+Breakdown:
+  Bid: 5, Amount: 5800, Payout: 29000, Status: lost

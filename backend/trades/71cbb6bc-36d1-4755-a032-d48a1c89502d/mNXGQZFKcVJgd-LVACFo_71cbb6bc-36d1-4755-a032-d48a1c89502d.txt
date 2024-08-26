@@ -1,0 +1,10 @@
+User ID: mNXGQZFKcVJgd-LVACFo
+User Name: robot
+Ticket ID: mNXGQZFKcVJgd-LVACFo_71cbb6bc-36d1-4755-a032-d48a1c89502d
+Total Bid Amount: 10200
+Total Earnings: 0
+Profit/Loss: -10200
+
+Breakdown:
+  Bid: 1, Amount: 5200, Payout: 26000, Status: lost
+  Bid: 1, Amount: 5000, Payout: 25000, Status: lost

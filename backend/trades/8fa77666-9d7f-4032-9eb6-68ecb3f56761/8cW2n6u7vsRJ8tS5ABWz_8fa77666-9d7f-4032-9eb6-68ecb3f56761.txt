@@ -1,0 +1,9 @@
+User ID: 8cW2n6u7vsRJ8tS5ABWz
+User Name: robot
+Ticket ID: 8cW2n6u7vsRJ8tS5ABWz_8fa77666-9d7f-4032-9eb6-68ecb3f56761
+Total Bid Amount: 9100
+Total Earnings: 0
+Profit/Loss: -9100
+
+Breakdown:
+  Bid: 2, Amount: 9100, Payout: 45500, Status: lost

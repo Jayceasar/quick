@@ -1,0 +1,10 @@
+User ID: ybbmnpUoowfAeAabABP9
+User Name: robot
+Ticket ID: ybbmnpUoowfAeAabABP9_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 4000
+Total Earnings: 0
+Profit/Loss: -4000
+
+Breakdown:
+  Bid: 4, Amount: 1300, Payout: 6500, Status: lost
+  Bid: 6, Amount: 2700, Payout: 13500, Status: lost

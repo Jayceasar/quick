@@ -1,0 +1,9 @@
+User ID: OYoi5A4Bmp8whe_2ABXQ
+User Name: robot
+Ticket ID: OYoi5A4Bmp8whe_2ABXQ_fb86114f-5de4-4582-b36e-777fdfb617a6
+Total Bid Amount: 7100
+Total Earnings: 0
+Profit/Loss: -7100
+
+Breakdown:
+  Bid: 4, Amount: 7100, Payout: 35500, Status: lost

@@ -1,0 +1,9 @@
+User ID: _abGhldpwxRohzYXACBU
+User Name: robot
+Ticket ID: _abGhldpwxRohzYXACBU_a6e522d6-4ff1-4343-a340-6a8e44e26daa
+Total Bid Amount: 7600
+Total Earnings: 0
+Profit/Loss: -7600
+
+Breakdown:
+  Bid: 3, Amount: 7600, Payout: 38000, Status: lost

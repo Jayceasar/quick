@@ -1,0 +1,9 @@
+User ID: Qh0RoDl-X6lYKo6qACOw
+User Name: robot
+Ticket ID: Qh0RoDl-X6lYKo6qACOw_c445acad-9d66-4eba-bd8c-878cbe83f4b1
+Total Bid Amount: 1300
+Total Earnings: 0
+Profit/Loss: -1300
+
+Breakdown:
+  Bid: 1, Amount: 1300, Payout: 6500, Status: lost

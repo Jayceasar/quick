@@ -1,0 +1,9 @@
+User ID: 59YU-49Aseja08CTAByj
+User Name: robot
+Ticket ID: 59YU-49Aseja08CTAByj_01af48cf-5a07-4b4a-b906-5b1c32c765d1
+Total Bid Amount: 7800
+Total Earnings: 0
+Profit/Loss: -7800
+
+Breakdown:
+  Bid: 2, Amount: 7800, Payout: 39000, Status: lost

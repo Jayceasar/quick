@@ -1,0 +1,9 @@
+User ID: j8tOMVeytRchLJC0ABP8
+User Name: robot
+Ticket ID: j8tOMVeytRchLJC0ABP8_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 5600
+Total Earnings: 28000
+Profit/Loss: 22400
+
+Breakdown:
+  Bid: 3, Amount: 5600, Payout: 28000, Status: won

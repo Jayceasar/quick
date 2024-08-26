@@ -1,0 +1,9 @@
+User ID: SF34vPNbHPctbd7RABJh
+User Name: robot
+Ticket ID: SF34vPNbHPctbd7RABJh_53f52dfa-658a-410e-aa4f-daee0e5a689c
+Total Bid Amount: 4900
+Total Earnings: 0
+Profit/Loss: -4900
+
+Breakdown:
+  Bid: 2, Amount: 4900, Payout: 24500, Status: lost

@@ -1,0 +1,11 @@
+User ID: guXF_r8y6YVf9OsvABe9
+User Name: robot
+Ticket ID: guXF_r8y6YVf9OsvABe9_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 19500
+Total Earnings: 0
+Profit/Loss: -19500
+
+Breakdown:
+  Bid: 4, Amount: 5800, Payout: 29000, Status: lost
+  Bid: 5, Amount: 4000, Payout: 20000, Status: lost
+  Bid: 1, Amount: 9700, Payout: 48500, Status: lost

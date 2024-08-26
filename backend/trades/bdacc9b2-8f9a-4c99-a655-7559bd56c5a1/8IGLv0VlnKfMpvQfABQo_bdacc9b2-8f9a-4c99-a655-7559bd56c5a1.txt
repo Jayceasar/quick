@@ -1,0 +1,9 @@
+User ID: 8IGLv0VlnKfMpvQfABQo
+User Name: robot
+Ticket ID: 8IGLv0VlnKfMpvQfABQo_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 200
+Total Earnings: 0
+Profit/Loss: -200
+
+Breakdown:
+  Bid: 6, Amount: 200, Payout: 1000, Status: lost

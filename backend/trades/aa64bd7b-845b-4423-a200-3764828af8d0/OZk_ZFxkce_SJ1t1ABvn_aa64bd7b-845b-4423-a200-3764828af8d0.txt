@@ -1,0 +1,10 @@
+User ID: OZk_ZFxkce_SJ1t1ABvn
+User Name: robot
+Ticket ID: OZk_ZFxkce_SJ1t1ABvn_aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 11300
+Total Earnings: 22000
+Profit/Loss: 10700
+
+Breakdown:
+  Bid: 3, Amount: 4400, Payout: 22000, Status: won
+  Bid: 5, Amount: 6900, Payout: 34500, Status: lost

@@ -1,0 +1,9 @@
+User ID: pxPijjTp4VOFWbaMACOi
+User Name: robot
+Ticket ID: pxPijjTp4VOFWbaMACOi_e78b4f4a-2598-4e1a-9515-3df9c694c231
+Total Bid Amount: 9000
+Total Earnings: 0
+Profit/Loss: -9000
+
+Breakdown:
+  Bid: 5, Amount: 9000, Payout: 45000, Status: lost

@@ -1,0 +1,9 @@
+User ID: N7FUFvCrSogR4OJDACKe
+User Name: robot
+Ticket ID: N7FUFvCrSogR4OJDACKe_baae20bc-bbdc-4a0c-addb-c4a83365506c
+Total Bid Amount: 8800
+Total Earnings: 0
+Profit/Loss: -8800
+
+Breakdown:
+  Bid: 5, Amount: 8800, Payout: 44000, Status: lost

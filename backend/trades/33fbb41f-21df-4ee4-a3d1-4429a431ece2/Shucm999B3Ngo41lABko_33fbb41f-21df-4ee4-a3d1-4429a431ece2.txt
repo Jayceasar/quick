@@ -1,0 +1,10 @@
+User ID: Shucm999B3Ngo41lABko
+User Name: robot
+Ticket ID: Shucm999B3Ngo41lABko_33fbb41f-21df-4ee4-a3d1-4429a431ece2
+Total Bid Amount: 7100
+Total Earnings: 23000
+Profit/Loss: 15900
+
+Breakdown:
+  Bid: 1, Amount: 2500, Payout: 12500, Status: lost
+  Bid: 4, Amount: 4600, Payout: 23000, Status: won

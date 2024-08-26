@@ -1,0 +1,10 @@
+User ID: SMNNMXP1L2GPafzzABXL
+User Name: robot
+Ticket ID: SMNNMXP1L2GPafzzABXL_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 14200
+Total Earnings: 0
+Profit/Loss: -14200
+
+Breakdown:
+  Bid: 4, Amount: 5500, Payout: 27500, Status: lost
+  Bid: 6, Amount: 8700, Payout: 43500, Status: lost

@@ -1,0 +1,9 @@
+User ID: OTZ-gjnA3qNPRmA0ACGN
+User Name: robot
+Ticket ID: OTZ-gjnA3qNPRmA0ACGN_2a327de1-2fbe-48c6-b3b3-e81f12d12845
+Total Bid Amount: 1700
+Total Earnings: 0
+Profit/Loss: -1700
+
+Breakdown:
+  Bid: 3, Amount: 1700, Payout: 8500, Status: lost

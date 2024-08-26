@@ -1,0 +1,11 @@
+User ID: NWsOr8NdizUAyqXJABdn
+User Name: robot
+Ticket ID: NWsOr8NdizUAyqXJABdn_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 9300
+Total Earnings: 0
+Profit/Loss: -9300
+
+Breakdown:
+  Bid: 5, Amount: 2000, Payout: 10000, Status: lost
+  Bid: 5, Amount: 5000, Payout: 25000, Status: lost
+  Bid: 2, Amount: 2300, Payout: 11500, Status: lost

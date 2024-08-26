@@ -1,0 +1,9 @@
+User ID: dRfPmc-i9B6YQUJlABZ6
+User Name: robot
+Ticket ID: dRfPmc-i9B6YQUJlABZ6_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 7000
+Total Earnings: 0
+Profit/Loss: -7000
+
+Breakdown:
+  Bid: 1, Amount: 7000, Payout: 35000, Status: lost

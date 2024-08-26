@@ -1,0 +1,9 @@
+User ID: Dt1nS0oDspog4zuuAB1J
+User Name: robot
+Ticket ID: Dt1nS0oDspog4zuuAB1J_44666ccb-6626-428d-95d3-f7a7a00e87a7
+Total Bid Amount: 5900
+Total Earnings: 0
+Profit/Loss: -5900
+
+Breakdown:
+  Bid: 4, Amount: 5900, Payout: 29500, Status: lost

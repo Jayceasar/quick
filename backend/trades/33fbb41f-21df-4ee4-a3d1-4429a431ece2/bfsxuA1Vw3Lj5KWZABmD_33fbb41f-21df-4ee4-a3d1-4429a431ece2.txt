@@ -1,0 +1,10 @@
+User ID: bfsxuA1Vw3Lj5KWZABmD
+User Name: robot
+Ticket ID: bfsxuA1Vw3Lj5KWZABmD_33fbb41f-21df-4ee4-a3d1-4429a431ece2
+Total Bid Amount: 9900
+Total Earnings: 0
+Profit/Loss: -9900
+
+Breakdown:
+  Bid: 2, Amount: 5000, Payout: 25000, Status: lost
+  Bid: 2, Amount: 4900, Payout: 24500, Status: lost

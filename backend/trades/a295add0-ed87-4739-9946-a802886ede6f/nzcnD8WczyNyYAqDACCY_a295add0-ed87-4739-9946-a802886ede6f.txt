@@ -1,0 +1,10 @@
+User ID: nzcnD8WczyNyYAqDACCY
+User Name: robot
+Ticket ID: nzcnD8WczyNyYAqDACCY_a295add0-ed87-4739-9946-a802886ede6f
+Total Bid Amount: 16000
+Total Earnings: 0
+Profit/Loss: -16000
+
+Breakdown:
+  Bid: 2, Amount: 6200, Payout: 31000, Status: lost
+  Bid: 1, Amount: 9800, Payout: 49000, Status: lost

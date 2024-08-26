@@ -1,0 +1,9 @@
+User ID: imGeL11ZeMXh1hnvACPo
+User Name: robot
+Ticket ID: imGeL11ZeMXh1hnvACPo_fa7d9f6f-c80b-46ec-9a5b-617fd6799868
+Total Bid Amount: 5600
+Total Earnings: 0
+Profit/Loss: -5600
+
+Breakdown:
+  Bid: 6, Amount: 5600, Payout: 28000, Status: lost

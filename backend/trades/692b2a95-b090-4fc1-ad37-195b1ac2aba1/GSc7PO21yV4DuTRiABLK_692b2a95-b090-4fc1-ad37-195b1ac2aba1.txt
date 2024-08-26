@@ -1,0 +1,9 @@
+User ID: GSc7PO21yV4DuTRiABLK
+User Name: robot
+Ticket ID: GSc7PO21yV4DuTRiABLK_692b2a95-b090-4fc1-ad37-195b1ac2aba1
+Total Bid Amount: 1500
+Total Earnings: 0
+Profit/Loss: -1500
+
+Breakdown:
+  Bid: 2, Amount: 1500, Payout: 7500, Status: lost

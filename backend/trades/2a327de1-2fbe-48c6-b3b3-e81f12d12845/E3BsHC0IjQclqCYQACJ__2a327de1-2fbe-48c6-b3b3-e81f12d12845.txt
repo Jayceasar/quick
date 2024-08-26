@@ -1,0 +1,9 @@
+User ID: E3BsHC0IjQclqCYQACJ_
+User Name: robot
+Ticket ID: E3BsHC0IjQclqCYQACJ__2a327de1-2fbe-48c6-b3b3-e81f12d12845
+Total Bid Amount: 300
+Total Earnings: 1500
+Profit/Loss: 1200
+
+Breakdown:
+  Bid: 5, Amount: 300, Payout: 1500, Status: won

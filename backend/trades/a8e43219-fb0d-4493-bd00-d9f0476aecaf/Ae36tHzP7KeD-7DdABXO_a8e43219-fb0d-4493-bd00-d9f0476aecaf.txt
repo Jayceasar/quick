@@ -1,0 +1,9 @@
+User ID: Ae36tHzP7KeD-7DdABXO
+User Name: robot
+Ticket ID: Ae36tHzP7KeD-7DdABXO_a8e43219-fb0d-4493-bd00-d9f0476aecaf
+Total Bid Amount: 5100
+Total Earnings: 25500
+Profit/Loss: 20400
+
+Breakdown:
+  Bid: 5, Amount: 5100, Payout: 25500, Status: won

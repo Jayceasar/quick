@@ -1,0 +1,9 @@
+User ID: GjQlUODfTZXzftVSABqK
+User Name: robot
+Ticket ID: GjQlUODfTZXzftVSABqK_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 1600
+Total Earnings: 0
+Profit/Loss: -1600
+
+Breakdown:
+  Bid: 3, Amount: 1600, Payout: 8000, Status: lost

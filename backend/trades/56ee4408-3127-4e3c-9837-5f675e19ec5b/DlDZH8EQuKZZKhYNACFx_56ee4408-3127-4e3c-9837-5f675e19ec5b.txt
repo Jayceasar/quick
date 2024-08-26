@@ -1,0 +1,9 @@
+User ID: DlDZH8EQuKZZKhYNACFx
+User Name: robot
+Ticket ID: DlDZH8EQuKZZKhYNACFx_56ee4408-3127-4e3c-9837-5f675e19ec5b
+Total Bid Amount: 3000
+Total Earnings: 15000
+Profit/Loss: 12000
+
+Breakdown:
+  Bid: 2, Amount: 3000, Payout: 15000, Status: won

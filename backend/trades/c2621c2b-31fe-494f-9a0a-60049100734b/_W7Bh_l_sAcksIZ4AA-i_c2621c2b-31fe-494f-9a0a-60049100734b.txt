@@ -1,0 +1,10 @@
+User ID: _W7Bh_l_sAcksIZ4AA-i
+User Name: robot
+Ticket ID: _W7Bh_l_sAcksIZ4AA-i_c2621c2b-31fe-494f-9a0a-60049100734b
+Total Bid Amount: 9000
+Total Earnings: 0
+Profit/Loss: -9000
+
+Breakdown:
+  Bid: 4, Amount: 3600, Payout: 18000, Status: lost
+  Bid: 4, Amount: 5400, Payout: 27000, Status: lost

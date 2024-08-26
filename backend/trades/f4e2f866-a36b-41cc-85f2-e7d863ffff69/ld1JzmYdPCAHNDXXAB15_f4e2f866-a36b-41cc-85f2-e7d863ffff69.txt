@@ -1,0 +1,9 @@
+User ID: ld1JzmYdPCAHNDXXAB15
+User Name: robot
+Ticket ID: ld1JzmYdPCAHNDXXAB15_f4e2f866-a36b-41cc-85f2-e7d863ffff69
+Total Bid Amount: 4900
+Total Earnings: 0
+Profit/Loss: -4900
+
+Breakdown:
+  Bid: 6, Amount: 4900, Payout: 24500, Status: lost

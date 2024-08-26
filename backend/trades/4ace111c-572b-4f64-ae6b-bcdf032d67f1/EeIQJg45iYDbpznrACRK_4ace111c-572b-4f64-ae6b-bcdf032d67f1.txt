@@ -1,0 +1,10 @@
+User ID: EeIQJg45iYDbpznrACRK
+User Name: robot
+Ticket ID: EeIQJg45iYDbpznrACRK_4ace111c-572b-4f64-ae6b-bcdf032d67f1
+Total Bid Amount: 5100
+Total Earnings: 0
+Profit/Loss: -5100
+
+Breakdown:
+  Bid: 5, Amount: 800, Payout: 4000, Status: lost
+  Bid: 3, Amount: 4300, Payout: 21500, Status: lost

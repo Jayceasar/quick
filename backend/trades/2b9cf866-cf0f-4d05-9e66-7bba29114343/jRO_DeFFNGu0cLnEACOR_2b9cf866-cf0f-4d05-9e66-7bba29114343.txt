@@ -1,0 +1,9 @@
+User ID: jRO_DeFFNGu0cLnEACOR
+User Name: robot
+Ticket ID: jRO_DeFFNGu0cLnEACOR_2b9cf866-cf0f-4d05-9e66-7bba29114343
+Total Bid Amount: 2500
+Total Earnings: 0
+Profit/Loss: -2500
+
+Breakdown:
+  Bid: 2, Amount: 2500, Payout: 12500, Status: lost

@@ -1,0 +1,9 @@
+User ID: Cqv2p6Q5m8CLHijLABx6
+User Name: robot
+Ticket ID: Cqv2p6Q5m8CLHijLABx6_2ca79661-347a-468a-9798-531cec82b083
+Total Bid Amount: 4600
+Total Earnings: 0
+Profit/Loss: -4600
+
+Breakdown:
+  Bid: 2, Amount: 4600, Payout: 23000, Status: lost

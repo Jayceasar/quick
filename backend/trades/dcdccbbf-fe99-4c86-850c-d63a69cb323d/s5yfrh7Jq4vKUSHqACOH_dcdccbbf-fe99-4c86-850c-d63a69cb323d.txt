@@ -1,0 +1,9 @@
+User ID: s5yfrh7Jq4vKUSHqACOH
+User Name: robot
+Ticket ID: s5yfrh7Jq4vKUSHqACOH_dcdccbbf-fe99-4c86-850c-d63a69cb323d
+Total Bid Amount: 2400
+Total Earnings: 0
+Profit/Loss: -2400
+
+Breakdown:
+  Bid: 2, Amount: 2400, Payout: 12000, Status: lost

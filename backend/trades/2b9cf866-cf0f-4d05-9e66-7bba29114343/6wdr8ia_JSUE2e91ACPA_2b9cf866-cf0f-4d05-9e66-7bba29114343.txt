@@ -1,0 +1,9 @@
+User ID: 6wdr8ia_JSUE2e91ACPA
+User Name: robot
+Ticket ID: 6wdr8ia_JSUE2e91ACPA_2b9cf866-cf0f-4d05-9e66-7bba29114343
+Total Bid Amount: 2500
+Total Earnings: 0
+Profit/Loss: -2500
+
+Breakdown:
+  Bid: 2, Amount: 2500, Payout: 12500, Status: lost

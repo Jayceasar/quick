@@ -1,0 +1,9 @@
+User ID: DXhw8-HCZZBHN0VPAA8W
+User Name: robot
+Ticket ID: DXhw8-HCZZBHN0VPAA8W_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 5900
+Total Earnings: 0
+Profit/Loss: -5900
+
+Breakdown:
+  Bid: 3, Amount: 5900, Payout: 29500, Status: lost

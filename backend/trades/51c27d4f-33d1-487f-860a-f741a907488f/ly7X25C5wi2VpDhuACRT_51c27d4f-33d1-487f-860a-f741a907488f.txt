@@ -1,0 +1,9 @@
+User ID: ly7X25C5wi2VpDhuACRT
+User Name: robot
+Ticket ID: ly7X25C5wi2VpDhuACRT_51c27d4f-33d1-487f-860a-f741a907488f
+Total Bid Amount: 2400
+Total Earnings: 0
+Profit/Loss: -2400
+
+Breakdown:
+  Bid: 1, Amount: 2400, Payout: 12000, Status: lost

@@ -1,0 +1,10 @@
+User ID: hBdj-kTLIgGBtXCNABfR
+User Name: robot
+Ticket ID: hBdj-kTLIgGBtXCNABfR_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 9900
+Total Earnings: 0
+Profit/Loss: -9900
+
+Breakdown:
+  Bid: 4, Amount: 9800, Payout: 49000, Status: lost
+  Bid: 1, Amount: 100, Payout: 500, Status: lost

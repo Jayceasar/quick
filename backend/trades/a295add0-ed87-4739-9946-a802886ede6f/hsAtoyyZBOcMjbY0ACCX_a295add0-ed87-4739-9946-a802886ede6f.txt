@@ -1,0 +1,10 @@
+User ID: hsAtoyyZBOcMjbY0ACCX
+User Name: robot
+Ticket ID: hsAtoyyZBOcMjbY0ACCX_a295add0-ed87-4739-9946-a802886ede6f
+Total Bid Amount: 13700
+Total Earnings: 0
+Profit/Loss: -13700
+
+Breakdown:
+  Bid: 6, Amount: 4200, Payout: 21000, Status: lost
+  Bid: 4, Amount: 9500, Payout: 47500, Status: lost

@@ -1,0 +1,9 @@
+User ID: qKKq7PZ_OLFieOIeABJ3
+User Name: robot
+Ticket ID: qKKq7PZ_OLFieOIeABJ3_692b2a95-b090-4fc1-ad37-195b1ac2aba1
+Total Bid Amount: 3800
+Total Earnings: 0
+Profit/Loss: -3800
+
+Breakdown:
+  Bid: 1, Amount: 3800, Payout: 19000, Status: lost

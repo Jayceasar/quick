@@ -1,0 +1,9 @@
+User ID: bESlD2q9JmP2XRxHACQ6
+User Name: robot
+Ticket ID: bESlD2q9JmP2XRxHACQ6_2e6486be-05a5-4ff9-a921-43c0cfee29f1
+Total Bid Amount: 7800
+Total Earnings: 39000
+Profit/Loss: 31200
+
+Breakdown:
+  Bid: 3, Amount: 7800, Payout: 39000, Status: won

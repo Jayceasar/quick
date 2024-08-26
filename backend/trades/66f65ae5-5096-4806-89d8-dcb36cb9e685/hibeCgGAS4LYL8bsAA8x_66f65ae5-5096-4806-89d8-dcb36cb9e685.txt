@@ -1,0 +1,9 @@
+User ID: hibeCgGAS4LYL8bsAA8x
+User Name: robot
+Ticket ID: hibeCgGAS4LYL8bsAA8x_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 700
+Total Earnings: 3500
+Profit/Loss: 2800
+
+Breakdown:
+  Bid: 5, Amount: 700, Payout: 3500, Status: won

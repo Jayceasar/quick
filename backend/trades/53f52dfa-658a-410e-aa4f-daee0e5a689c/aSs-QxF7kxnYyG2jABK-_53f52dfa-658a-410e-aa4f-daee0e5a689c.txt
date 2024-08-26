@@ -1,0 +1,9 @@
+User ID: aSs-QxF7kxnYyG2jABK-
+User Name: robot
+Ticket ID: aSs-QxF7kxnYyG2jABK-_53f52dfa-658a-410e-aa4f-daee0e5a689c
+Total Bid Amount: 2300
+Total Earnings: 11500
+Profit/Loss: 9200
+
+Breakdown:
+  Bid: 6, Amount: 2300, Payout: 11500, Status: won

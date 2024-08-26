@@ -1,0 +1,9 @@
+User ID: R5B9-2dsxpZ2iP60ABLs
+User Name: robot
+Ticket ID: R5B9-2dsxpZ2iP60ABLs_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 8700
+Total Earnings: 0
+Profit/Loss: -8700
+
+Breakdown:
+  Bid: 6, Amount: 8700, Payout: 43500, Status: lost

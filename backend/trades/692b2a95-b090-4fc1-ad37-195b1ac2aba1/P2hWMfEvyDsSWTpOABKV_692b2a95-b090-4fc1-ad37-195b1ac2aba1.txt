@@ -1,0 +1,9 @@
+User ID: P2hWMfEvyDsSWTpOABKV
+User Name: robot
+Ticket ID: P2hWMfEvyDsSWTpOABKV_692b2a95-b090-4fc1-ad37-195b1ac2aba1
+Total Bid Amount: 6900
+Total Earnings: 0
+Profit/Loss: -6900
+
+Breakdown:
+  Bid: 1, Amount: 6900, Payout: 34500, Status: lost

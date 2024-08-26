@@ -1,0 +1,10 @@
+User ID: Yl1RTJ5yAXF_4KxXABSF
+User Name: robot
+Ticket ID: Yl1RTJ5yAXF_4KxXABSF_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 17700
+Total Earnings: 0
+Profit/Loss: -17700
+
+Breakdown:
+  Bid: 6, Amount: 8900, Payout: 44500, Status: lost
+  Bid: 5, Amount: 8800, Payout: 44000, Status: lost

@@ -1,0 +1,9 @@
+User ID: XWfPyi_HJaFiR4yUABXB
+User Name: robot
+Ticket ID: XWfPyi_HJaFiR4yUABXB_8fa77666-9d7f-4032-9eb6-68ecb3f56761
+Total Bid Amount: 9100
+Total Earnings: 45500
+Profit/Loss: 36400
+
+Breakdown:
+  Bid: 5, Amount: 9100, Payout: 45500, Status: won

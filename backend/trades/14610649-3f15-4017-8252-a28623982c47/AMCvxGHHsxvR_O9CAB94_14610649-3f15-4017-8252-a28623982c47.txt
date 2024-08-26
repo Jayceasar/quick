@@ -1,0 +1,9 @@
+User ID: AMCvxGHHsxvR_O9CAB94
+User Name: robot
+Ticket ID: AMCvxGHHsxvR_O9CAB94_14610649-3f15-4017-8252-a28623982c47
+Total Bid Amount: 4500
+Total Earnings: 0
+Profit/Loss: -4500
+
+Breakdown:
+  Bid: 1, Amount: 4500, Payout: 22500, Status: lost

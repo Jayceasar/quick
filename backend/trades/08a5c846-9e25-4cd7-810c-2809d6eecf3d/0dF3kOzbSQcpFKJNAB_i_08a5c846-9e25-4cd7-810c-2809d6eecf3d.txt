@@ -1,0 +1,9 @@
+User ID: 0dF3kOzbSQcpFKJNAB_i
+User Name: robot
+Ticket ID: 0dF3kOzbSQcpFKJNAB_i_08a5c846-9e25-4cd7-810c-2809d6eecf3d
+Total Bid Amount: 1700
+Total Earnings: 8500
+Profit/Loss: 6800
+
+Breakdown:
+  Bid: 1, Amount: 1700, Payout: 8500, Status: won

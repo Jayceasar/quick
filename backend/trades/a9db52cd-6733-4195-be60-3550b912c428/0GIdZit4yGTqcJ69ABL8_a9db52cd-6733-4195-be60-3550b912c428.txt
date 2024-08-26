@@ -1,0 +1,9 @@
+User ID: 0GIdZit4yGTqcJ69ABL8
+User Name: robot
+Ticket ID: 0GIdZit4yGTqcJ69ABL8_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 3000
+Total Earnings: 0
+Profit/Loss: -3000
+
+Breakdown:
+  Bid: 6, Amount: 3000, Payout: 15000, Status: lost

@@ -1,0 +1,9 @@
+User ID: 1DGRuJby_8ksL01eACPg
+User Name: robot
+Ticket ID: 1DGRuJby_8ksL01eACPg_51c27d4f-33d1-487f-860a-f741a907488f
+Total Bid Amount: 4700
+Total Earnings: 0
+Profit/Loss: -4700
+
+Breakdown:
+  Bid: 1, Amount: 4700, Payout: 23500, Status: lost

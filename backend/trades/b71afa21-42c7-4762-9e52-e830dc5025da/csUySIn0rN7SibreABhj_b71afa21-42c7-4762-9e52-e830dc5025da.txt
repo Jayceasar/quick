@@ -1,0 +1,10 @@
+User ID: csUySIn0rN7SibreABhj
+User Name: robot
+Ticket ID: csUySIn0rN7SibreABhj_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 5700
+Total Earnings: 0
+Profit/Loss: -5700
+
+Breakdown:
+  Bid: 5, Amount: 900, Payout: 4500, Status: lost
+  Bid: 5, Amount: 4800, Payout: 24000, Status: lost

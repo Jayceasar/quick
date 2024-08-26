@@ -1,0 +1,9 @@
+User ID: XTL3qcEM68k-b5VBABLQ
+User Name: robot
+Ticket ID: XTL3qcEM68k-b5VBABLQ_692b2a95-b090-4fc1-ad37-195b1ac2aba1
+Total Bid Amount: 3500
+Total Earnings: 17500
+Profit/Loss: 14000
+
+Breakdown:
+  Bid: 5, Amount: 3500, Payout: 17500, Status: won

@@ -1,0 +1,9 @@
+User ID: _MjWYt6UApN7D5XRACCW
+User Name: robot
+Ticket ID: _MjWYt6UApN7D5XRACCW_1b5ca1b1-54c9-4f4e-8033-ab7d1d510120
+Total Bid Amount: 7200
+Total Earnings: 0
+Profit/Loss: -7200
+
+Breakdown:
+  Bid: 4, Amount: 7200, Payout: 36000, Status: lost

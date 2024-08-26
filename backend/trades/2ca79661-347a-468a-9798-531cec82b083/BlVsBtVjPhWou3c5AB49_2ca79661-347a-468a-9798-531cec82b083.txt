@@ -1,0 +1,9 @@
+User ID: BlVsBtVjPhWou3c5AB49
+User Name: robot
+Ticket ID: BlVsBtVjPhWou3c5AB49_2ca79661-347a-468a-9798-531cec82b083
+Total Bid Amount: 3800
+Total Earnings: 0
+Profit/Loss: -3800
+
+Breakdown:
+  Bid: 3, Amount: 3800, Payout: 19000, Status: lost

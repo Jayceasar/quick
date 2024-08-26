@@ -1,0 +1,9 @@
+User ID: EIUw950D48Rs_-mQABx_
+User Name: robot
+Ticket ID: EIUw950D48Rs_-mQABx__44666ccb-6626-428d-95d3-f7a7a00e87a7
+Total Bid Amount: 7200
+Total Earnings: 0
+Profit/Loss: -7200
+
+Breakdown:
+  Bid: 2, Amount: 7200, Payout: 36000, Status: lost

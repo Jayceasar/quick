@@ -1,0 +1,9 @@
+User ID: UfEYV-KgeLt4GF1gAB1l
+User Name: robot
+Ticket ID: UfEYV-KgeLt4GF1gAB1l_cb7b5adb-35cb-4abd-a9dd-0532d0ca6333
+Total Bid Amount: 8800
+Total Earnings: 0
+Profit/Loss: -8800
+
+Breakdown:
+  Bid: 5, Amount: 8800, Payout: 44000, Status: lost

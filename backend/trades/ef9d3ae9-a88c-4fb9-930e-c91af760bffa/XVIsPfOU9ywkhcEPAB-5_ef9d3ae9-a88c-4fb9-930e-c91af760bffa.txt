@@ -1,0 +1,9 @@
+User ID: XVIsPfOU9ywkhcEPAB-5
+User Name: robot
+Ticket ID: XVIsPfOU9ywkhcEPAB-5_ef9d3ae9-a88c-4fb9-930e-c91af760bffa
+Total Bid Amount: 9900
+Total Earnings: 49500
+Profit/Loss: 39600
+
+Breakdown:
+  Bid: 4, Amount: 9900, Payout: 49500, Status: won

@@ -1,0 +1,10 @@
+User ID: KeWTIPzxiMHT24LLABWt
+User Name: robot
+Ticket ID: KeWTIPzxiMHT24LLABWt_3b12a05c-d549-48e1-9b4b-7485d6fac451
+Total Bid Amount: 16700
+Total Earnings: 0
+Profit/Loss: -16700
+
+Breakdown:
+  Bid: 2, Amount: 9100, Payout: 45500, Status: lost
+  Bid: 5, Amount: 7600, Payout: 38000, Status: lost

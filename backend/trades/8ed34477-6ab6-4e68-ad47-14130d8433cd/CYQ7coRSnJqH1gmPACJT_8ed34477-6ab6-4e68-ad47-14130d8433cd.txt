@@ -1,0 +1,9 @@
+User ID: CYQ7coRSnJqH1gmPACJT
+User Name: robot
+Ticket ID: CYQ7coRSnJqH1gmPACJT_8ed34477-6ab6-4e68-ad47-14130d8433cd
+Total Bid Amount: 4500
+Total Earnings: 22500
+Profit/Loss: 18000
+
+Breakdown:
+  Bid: 2, Amount: 4500, Payout: 22500, Status: won

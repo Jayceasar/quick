@@ -1,0 +1,9 @@
+User ID: 9gv51QiQcu5iQUqeABXv
+User Name: robot
+Ticket ID: 9gv51QiQcu5iQUqeABXv_8fa77666-9d7f-4032-9eb6-68ecb3f56761
+Total Bid Amount: 5500
+Total Earnings: 0
+Profit/Loss: -5500
+
+Breakdown:
+  Bid: 2, Amount: 5500, Payout: 27500, Status: lost

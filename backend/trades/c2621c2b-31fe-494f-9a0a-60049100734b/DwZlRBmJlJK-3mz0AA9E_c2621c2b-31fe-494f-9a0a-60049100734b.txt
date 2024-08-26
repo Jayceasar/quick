@@ -1,0 +1,10 @@
+User ID: DwZlRBmJlJK-3mz0AA9E
+User Name: robot
+Ticket ID: DwZlRBmJlJK-3mz0AA9E_c2621c2b-31fe-494f-9a0a-60049100734b
+Total Bid Amount: 12000
+Total Earnings: 0
+Profit/Loss: -12000
+
+Breakdown:
+  Bid: 5, Amount: 3200, Payout: 16000, Status: lost
+  Bid: 4, Amount: 8800, Payout: 44000, Status: lost

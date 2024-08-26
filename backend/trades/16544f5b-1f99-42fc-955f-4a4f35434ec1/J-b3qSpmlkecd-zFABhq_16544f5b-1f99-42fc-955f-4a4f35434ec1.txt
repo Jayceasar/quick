@@ -1,0 +1,9 @@
+User ID: J-b3qSpmlkecd-zFABhq
+User Name: robot
+Ticket ID: J-b3qSpmlkecd-zFABhq_16544f5b-1f99-42fc-955f-4a4f35434ec1
+Total Bid Amount: 2400
+Total Earnings: 0
+Profit/Loss: -2400
+
+Breakdown:
+  Bid: 5, Amount: 2400, Payout: 12000, Status: lost

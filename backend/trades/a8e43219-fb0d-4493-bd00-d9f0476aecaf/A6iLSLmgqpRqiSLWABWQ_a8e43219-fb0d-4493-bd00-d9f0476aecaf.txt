@@ -1,0 +1,9 @@
+User ID: A6iLSLmgqpRqiSLWABWQ
+User Name: robot
+Ticket ID: A6iLSLmgqpRqiSLWABWQ_a8e43219-fb0d-4493-bd00-d9f0476aecaf
+Total Bid Amount: 400
+Total Earnings: 0
+Profit/Loss: -400
+
+Breakdown:
+  Bid: 6, Amount: 400, Payout: 2000, Status: lost

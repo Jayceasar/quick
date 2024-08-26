@@ -1,0 +1,9 @@
+User ID: N0dGJ_sefOaMQHuTABla
+User Name: robot
+Ticket ID: N0dGJ_sefOaMQHuTABla_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
+Total Bid Amount: 1000
+Total Earnings: 0
+Profit/Loss: -1000
+
+Breakdown:
+  Bid: 5, Amount: 1000, Payout: 5000, Status: lost

@@ -1,0 +1,9 @@
+User ID: j4L1U4Fac3HcZTehACNq
+User Name: robot
+Ticket ID: j4L1U4Fac3HcZTehACNq_7a7e54ad-85d9-46d7-ad11-b76833f80845
+Total Bid Amount: 1600
+Total Earnings: 0
+Profit/Loss: -1600
+
+Breakdown:
+  Bid: 1, Amount: 1600, Payout: 8000, Status: lost

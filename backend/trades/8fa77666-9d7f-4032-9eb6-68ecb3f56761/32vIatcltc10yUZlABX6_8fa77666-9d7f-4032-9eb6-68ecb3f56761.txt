@@ -1,0 +1,9 @@
+User ID: 32vIatcltc10yUZlABX6
+User Name: robot
+Ticket ID: 32vIatcltc10yUZlABX6_8fa77666-9d7f-4032-9eb6-68ecb3f56761
+Total Bid Amount: 7300
+Total Earnings: 0
+Profit/Loss: -7300
+
+Breakdown:
+  Bid: 1, Amount: 7300, Payout: 36500, Status: lost

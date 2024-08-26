@@ -1,0 +1,10 @@
+User ID: iuCnKQuAGnBefrkOABmk
+User Name: robot
+Ticket ID: iuCnKQuAGnBefrkOABmk_33fbb41f-21df-4ee4-a3d1-4429a431ece2
+Total Bid Amount: 7000
+Total Earnings: 0
+Profit/Loss: -7000
+
+Breakdown:
+  Bid: 5, Amount: 3500, Payout: 17500, Status: lost
+  Bid: 1, Amount: 3500, Payout: 17500, Status: lost

@@ -1,0 +1,9 @@
+User ID: pitCelNhNHYHE5HYACPL
+User Name: robot
+Ticket ID: pitCelNhNHYHE5HYACPL_cc632ba1-6e9c-4969-b2c7-31cd4c71e26e
+Total Bid Amount: 9200
+Total Earnings: 46000
+Profit/Loss: 36800
+
+Breakdown:
+  Bid: 6, Amount: 9200, Payout: 46000, Status: won

@@ -1,0 +1,9 @@
+User ID: hTFNT2inBL9w2lRCABeB
+User Name: robot
+Ticket ID: hTFNT2inBL9w2lRCABeB_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 9300
+Total Earnings: 0
+Profit/Loss: -9300
+
+Breakdown:
+  Bid: 5, Amount: 9300, Payout: 46500, Status: lost

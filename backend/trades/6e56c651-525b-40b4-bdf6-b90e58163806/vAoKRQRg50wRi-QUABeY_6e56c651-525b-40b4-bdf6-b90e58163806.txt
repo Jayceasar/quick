@@ -1,0 +1,11 @@
+User ID: vAoKRQRg50wRi-QUABeY
+User Name: robot
+Ticket ID: vAoKRQRg50wRi-QUABeY_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 10300
+Total Earnings: 0
+Profit/Loss: -10300
+
+Breakdown:
+  Bid: 1, Amount: 1100, Payout: 5500, Status: lost
+  Bid: 1, Amount: 4800, Payout: 24000, Status: lost
+  Bid: 1, Amount: 4400, Payout: 22000, Status: lost

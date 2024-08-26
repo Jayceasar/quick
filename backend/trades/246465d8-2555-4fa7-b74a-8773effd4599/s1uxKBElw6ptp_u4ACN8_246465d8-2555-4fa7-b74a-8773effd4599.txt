@@ -1,0 +1,9 @@
+User ID: s1uxKBElw6ptp_u4ACN8
+User Name: robot
+Ticket ID: s1uxKBElw6ptp_u4ACN8_246465d8-2555-4fa7-b74a-8773effd4599
+Total Bid Amount: 2900
+Total Earnings: 0
+Profit/Loss: -2900
+
+Breakdown:
+  Bid: 3, Amount: 2900, Payout: 14500, Status: lost

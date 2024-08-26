@@ -1,0 +1,9 @@
+User ID: IjPHcQprUzEEXoS-AB2q
+User Name: robot
+Ticket ID: IjPHcQprUzEEXoS-AB2q_c5622fe9-fa66-4682-a1ea-f8ed721f9645
+Total Bid Amount: 200
+Total Earnings: 0
+Profit/Loss: -200
+
+Breakdown:
+  Bid: 4, Amount: 200, Payout: 1000, Status: lost

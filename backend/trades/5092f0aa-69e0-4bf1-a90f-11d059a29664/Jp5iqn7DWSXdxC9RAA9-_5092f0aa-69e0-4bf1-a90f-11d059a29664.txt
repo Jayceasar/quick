@@ -1,0 +1,9 @@
+User ID: Jp5iqn7DWSXdxC9RAA9-
+User Name: robot
+Ticket ID: Jp5iqn7DWSXdxC9RAA9-_5092f0aa-69e0-4bf1-a90f-11d059a29664
+Total Bid Amount: 1200
+Total Earnings: 0
+Profit/Loss: -1200
+
+Breakdown:
+  Bid: 4, Amount: 1200, Payout: 6000, Status: lost

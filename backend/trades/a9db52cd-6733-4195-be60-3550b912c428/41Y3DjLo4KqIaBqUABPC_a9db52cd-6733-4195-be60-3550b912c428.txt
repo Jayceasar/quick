@@ -1,0 +1,10 @@
+User ID: 41Y3DjLo4KqIaBqUABPC
+User Name: robot
+Ticket ID: 41Y3DjLo4KqIaBqUABPC_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 12800
+Total Earnings: 46500
+Profit/Loss: 33700
+
+Breakdown:
+  Bid: 1, Amount: 9300, Payout: 46500, Status: won
+  Bid: 6, Amount: 3500, Payout: 17500, Status: lost

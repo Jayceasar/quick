@@ -1,0 +1,9 @@
+User ID: CqkIy2kSrr4PSAuDABtM
+User Name: robot
+Ticket ID: CqkIy2kSrr4PSAuDABtM_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 8000
+Total Earnings: 40000
+Profit/Loss: 32000
+
+Breakdown:
+  Bid: 1, Amount: 8000, Payout: 40000, Status: won

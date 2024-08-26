@@ -1,0 +1,9 @@
+User ID: GRyQ0p6b_1Io-mb4ABnB
+User Name: robot
+Ticket ID: GRyQ0p6b_1Io-mb4ABnB_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
+Total Bid Amount: 4400
+Total Earnings: 0
+Profit/Loss: -4400
+
+Breakdown:
+  Bid: 2, Amount: 4400, Payout: 22000, Status: lost

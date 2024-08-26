@@ -1,0 +1,9 @@
+User ID: aFD3XXCEosM6tJ-RACPi
+User Name: robot
+Ticket ID: aFD3XXCEosM6tJ-RACPi_85f93324-8849-413e-94ad-fff36bf576dc
+Total Bid Amount: 7600
+Total Earnings: 38000
+Profit/Loss: 30400
+
+Breakdown:
+  Bid: 3, Amount: 7600, Payout: 38000, Status: won

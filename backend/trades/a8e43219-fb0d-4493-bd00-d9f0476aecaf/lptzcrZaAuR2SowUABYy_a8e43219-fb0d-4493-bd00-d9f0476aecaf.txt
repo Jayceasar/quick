@@ -1,0 +1,9 @@
+User ID: lptzcrZaAuR2SowUABYy
+User Name: robot
+Ticket ID: lptzcrZaAuR2SowUABYy_a8e43219-fb0d-4493-bd00-d9f0476aecaf
+Total Bid Amount: 3300
+Total Earnings: 0
+Profit/Loss: -3300
+
+Breakdown:
+  Bid: 6, Amount: 3300, Payout: 16500, Status: lost

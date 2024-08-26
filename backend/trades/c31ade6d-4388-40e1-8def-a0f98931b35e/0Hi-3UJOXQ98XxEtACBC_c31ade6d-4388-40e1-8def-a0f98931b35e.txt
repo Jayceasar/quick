@@ -1,0 +1,9 @@
+User ID: 0Hi-3UJOXQ98XxEtACBC
+User Name: robot
+Ticket ID: 0Hi-3UJOXQ98XxEtACBC_c31ade6d-4388-40e1-8def-a0f98931b35e
+Total Bid Amount: 9100
+Total Earnings: 0
+Profit/Loss: -9100
+
+Breakdown:
+  Bid: 6, Amount: 9100, Payout: 45500, Status: lost

@@ -1,0 +1,9 @@
+User ID: 0934iJ7G8AGJZve4ACPG
+User Name: robot
+Ticket ID: 0934iJ7G8AGJZve4ACPG_a639ffed-aed7-4966-bd6d-3513f511574d
+Total Bid Amount: 2800
+Total Earnings: 0
+Profit/Loss: -2800
+
+Breakdown:
+  Bid: 2, Amount: 2800, Payout: 14000, Status: lost

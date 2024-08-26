@@ -1,0 +1,9 @@
+User ID: o1dwc0HDlWIMMTglABs8
+User Name: robot
+Ticket ID: o1dwc0HDlWIMMTglABs8_7a1cf374-3b0b-47a8-92f4-370088b1d70d
+Total Bid Amount: 1500
+Total Earnings: 7500
+Profit/Loss: 6000
+
+Breakdown:
+  Bid: 2, Amount: 1500, Payout: 7500, Status: won

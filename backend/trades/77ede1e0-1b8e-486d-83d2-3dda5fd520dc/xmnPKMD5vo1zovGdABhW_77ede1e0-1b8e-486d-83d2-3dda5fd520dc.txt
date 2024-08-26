@@ -1,0 +1,9 @@
+User ID: xmnPKMD5vo1zovGdABhW
+User Name: robot
+Ticket ID: xmnPKMD5vo1zovGdABhW_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
+Total Bid Amount: 7000
+Total Earnings: 0
+Profit/Loss: -7000
+
+Breakdown:
+  Bid: 1, Amount: 7000, Payout: 35000, Status: lost

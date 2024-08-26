@@ -1,0 +1,9 @@
+User ID: 0kWPwkECl8DBW5UOAB20
+User Name: robot
+Ticket ID: 0kWPwkECl8DBW5UOAB20_f4e2f866-a36b-41cc-85f2-e7d863ffff69
+Total Bid Amount: 4600
+Total Earnings: 0
+Profit/Loss: -4600
+
+Breakdown:
+  Bid: 3, Amount: 4600, Payout: 23000, Status: lost

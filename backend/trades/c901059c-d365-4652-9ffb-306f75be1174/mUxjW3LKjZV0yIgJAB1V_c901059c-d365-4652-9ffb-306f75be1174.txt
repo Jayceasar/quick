@@ -1,0 +1,10 @@
+User ID: mUxjW3LKjZV0yIgJAB1V
+User Name: robot
+Ticket ID: mUxjW3LKjZV0yIgJAB1V_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 13200
+Total Earnings: 17000
+Profit/Loss: 3800
+
+Breakdown:
+  Bid: 1, Amount: 3400, Payout: 17000, Status: won
+  Bid: 2, Amount: 9800, Payout: 49000, Status: lost

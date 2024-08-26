@@ -1,0 +1,9 @@
+User ID: Go2z-s6THSGfneYyABSR
+User Name: robot
+Ticket ID: Go2z-s6THSGfneYyABSR_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 7100
+Total Earnings: 0
+Profit/Loss: -7100
+
+Breakdown:
+  Bid: 1, Amount: 7100, Payout: 35500, Status: lost

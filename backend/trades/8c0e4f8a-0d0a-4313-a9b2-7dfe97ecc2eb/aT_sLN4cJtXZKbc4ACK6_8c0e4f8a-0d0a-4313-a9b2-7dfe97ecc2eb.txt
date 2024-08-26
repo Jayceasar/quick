@@ -1,0 +1,9 @@
+User ID: aT_sLN4cJtXZKbc4ACK6
+User Name: robot
+Ticket ID: aT_sLN4cJtXZKbc4ACK6_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
+Total Bid Amount: 6800
+Total Earnings: 0
+Profit/Loss: -6800
+
+Breakdown:
+  Bid: 1, Amount: 6800, Payout: 34000, Status: lost

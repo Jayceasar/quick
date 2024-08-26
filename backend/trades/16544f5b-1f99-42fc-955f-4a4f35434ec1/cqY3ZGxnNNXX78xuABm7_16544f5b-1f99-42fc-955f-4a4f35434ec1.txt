@@ -1,0 +1,9 @@
+User ID: cqY3ZGxnNNXX78xuABm7
+User Name: robot
+Ticket ID: cqY3ZGxnNNXX78xuABm7_16544f5b-1f99-42fc-955f-4a4f35434ec1
+Total Bid Amount: 1600
+Total Earnings: 0
+Profit/Loss: -1600
+
+Breakdown:
+  Bid: 2, Amount: 1600, Payout: 8000, Status: lost

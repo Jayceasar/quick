@@ -1,0 +1,10 @@
+User ID: mKQ66xXcDaGIbW5XABQ_
+User Name: robot
+Ticket ID: mKQ66xXcDaGIbW5XABQ__a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 6200
+Total Earnings: 9000
+Profit/Loss: 2800
+
+Breakdown:
+  Bid: 1, Amount: 1800, Payout: 9000, Status: won
+  Bid: 4, Amount: 4400, Payout: 22000, Status: lost

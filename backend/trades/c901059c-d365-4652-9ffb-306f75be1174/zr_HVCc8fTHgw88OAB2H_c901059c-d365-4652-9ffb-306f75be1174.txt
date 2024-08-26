@@ -1,0 +1,10 @@
+User ID: zr_HVCc8fTHgw88OAB2H
+User Name: robot
+Ticket ID: zr_HVCc8fTHgw88OAB2H_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 5400
+Total Earnings: 0
+Profit/Loss: -5400
+
+Breakdown:
+  Bid: 4, Amount: 1400, Payout: 7000, Status: lost
+  Bid: 2, Amount: 4000, Payout: 20000, Status: lost

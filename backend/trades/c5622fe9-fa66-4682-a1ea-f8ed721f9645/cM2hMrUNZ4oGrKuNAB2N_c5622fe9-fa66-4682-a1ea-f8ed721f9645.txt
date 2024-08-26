@@ -1,0 +1,9 @@
+User ID: cM2hMrUNZ4oGrKuNAB2N
+User Name: robot
+Ticket ID: cM2hMrUNZ4oGrKuNAB2N_c5622fe9-fa66-4682-a1ea-f8ed721f9645
+Total Bid Amount: 6300
+Total Earnings: 0
+Profit/Loss: -6300
+
+Breakdown:
+  Bid: 6, Amount: 6300, Payout: 31500, Status: lost

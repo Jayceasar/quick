@@ -1,0 +1,9 @@
+User ID: pyESE1DuJti_4xqeACIz
+User Name: robot
+Ticket ID: pyESE1DuJti_4xqeACIz_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
+Total Bid Amount: 7600
+Total Earnings: 0
+Profit/Loss: -7600
+
+Breakdown:
+  Bid: 6, Amount: 7600, Payout: 38000, Status: lost

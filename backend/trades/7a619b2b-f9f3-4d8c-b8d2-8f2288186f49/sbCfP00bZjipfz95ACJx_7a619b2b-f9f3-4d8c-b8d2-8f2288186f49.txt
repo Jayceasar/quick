@@ -1,0 +1,9 @@
+User ID: sbCfP00bZjipfz95ACJx
+User Name: robot
+Ticket ID: sbCfP00bZjipfz95ACJx_7a619b2b-f9f3-4d8c-b8d2-8f2288186f49
+Total Bid Amount: 6800
+Total Earnings: 0
+Profit/Loss: -6800
+
+Breakdown:
+  Bid: 4, Amount: 6800, Payout: 34000, Status: lost

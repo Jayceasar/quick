@@ -1,0 +1,9 @@
+User ID: CbsGMUSRakbsedNMABfW
+User Name: robot
+Ticket ID: CbsGMUSRakbsedNMABfW_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 9700
+Total Earnings: 0
+Profit/Loss: -9700
+
+Breakdown:
+  Bid: 1, Amount: 9700, Payout: 48500, Status: lost

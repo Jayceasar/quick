@@ -1,0 +1,9 @@
+User ID: XVseR4zf7smomi2cACPn
+User Name: robot
+Ticket ID: XVseR4zf7smomi2cACPn_834d1eca-0fba-4529-95f6-926cf877b44a
+Total Bid Amount: 8100
+Total Earnings: 0
+Profit/Loss: -8100
+
+Breakdown:
+  Bid: 1, Amount: 8100, Payout: 40500, Status: lost

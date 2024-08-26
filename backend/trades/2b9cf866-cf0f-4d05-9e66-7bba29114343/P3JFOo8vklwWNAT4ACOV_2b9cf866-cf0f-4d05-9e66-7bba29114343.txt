@@ -1,0 +1,9 @@
+User ID: P3JFOo8vklwWNAT4ACOV
+User Name: robot
+Ticket ID: P3JFOo8vklwWNAT4ACOV_2b9cf866-cf0f-4d05-9e66-7bba29114343
+Total Bid Amount: 400
+Total Earnings: 2000
+Profit/Loss: 1600
+
+Breakdown:
+  Bid: 3, Amount: 400, Payout: 2000, Status: won

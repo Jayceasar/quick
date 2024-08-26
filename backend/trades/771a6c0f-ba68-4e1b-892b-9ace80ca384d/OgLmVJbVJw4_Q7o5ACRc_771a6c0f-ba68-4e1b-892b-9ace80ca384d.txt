@@ -1,0 +1,9 @@
+User ID: OgLmVJbVJw4_Q7o5ACRc
+User Name: robot
+Ticket ID: OgLmVJbVJw4_Q7o5ACRc_771a6c0f-ba68-4e1b-892b-9ace80ca384d
+Total Bid Amount: 1900
+Total Earnings: 0
+Profit/Loss: -1900
+
+Breakdown:
+  Bid: 3, Amount: 1900, Payout: 9500, Status: lost

@@ -1,0 +1,9 @@
+User ID: PnMVFYkx7ium-Q2rABJn
+User Name: robot
+Ticket ID: PnMVFYkx7ium-Q2rABJn_53f52dfa-658a-410e-aa4f-daee0e5a689c
+Total Bid Amount: 1900
+Total Earnings: 0
+Profit/Loss: -1900
+
+Breakdown:
+  Bid: 4, Amount: 1900, Payout: 9500, Status: lost

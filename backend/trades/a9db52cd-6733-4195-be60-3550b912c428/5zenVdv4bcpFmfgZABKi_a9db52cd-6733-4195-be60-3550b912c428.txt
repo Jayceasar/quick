@@ -1,0 +1,9 @@
+User ID: 5zenVdv4bcpFmfgZABKi
+User Name: robot
+Ticket ID: 5zenVdv4bcpFmfgZABKi_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 4800
+Total Earnings: 0
+Profit/Loss: -4800
+
+Breakdown:
+  Bid: 3, Amount: 4800, Payout: 24000, Status: lost

@@ -1,0 +1,11 @@
+User ID: MMYxCPP4UsSKjGy9ABfK
+User Name: robot
+Ticket ID: MMYxCPP4UsSKjGy9ABfK_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 20100
+Total Earnings: 0
+Profit/Loss: -20100
+
+Breakdown:
+  Bid: 1, Amount: 8700, Payout: 43500, Status: lost
+  Bid: 1, Amount: 4000, Payout: 20000, Status: lost
+  Bid: 2, Amount: 7400, Payout: 37000, Status: lost

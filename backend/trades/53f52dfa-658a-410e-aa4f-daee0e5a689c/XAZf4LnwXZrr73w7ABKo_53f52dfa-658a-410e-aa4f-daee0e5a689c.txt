@@ -1,0 +1,9 @@
+User ID: XAZf4LnwXZrr73w7ABKo
+User Name: robot
+Ticket ID: XAZf4LnwXZrr73w7ABKo_53f52dfa-658a-410e-aa4f-daee0e5a689c
+Total Bid Amount: 400
+Total Earnings: 0
+Profit/Loss: -400
+
+Breakdown:
+  Bid: 3, Amount: 400, Payout: 2000, Status: lost

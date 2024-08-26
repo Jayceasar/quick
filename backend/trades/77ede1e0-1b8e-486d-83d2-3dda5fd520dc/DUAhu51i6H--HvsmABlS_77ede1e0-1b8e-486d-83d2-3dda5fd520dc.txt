@@ -1,0 +1,9 @@
+User ID: DUAhu51i6H--HvsmABlS
+User Name: robot
+Ticket ID: DUAhu51i6H--HvsmABlS_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
+Total Bid Amount: 5000
+Total Earnings: 0
+Profit/Loss: -5000
+
+Breakdown:
+  Bid: 6, Amount: 5000, Payout: 25000, Status: lost

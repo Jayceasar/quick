@@ -1,0 +1,9 @@
+User ID: hkDxgLPpISw67zClACPV
+User Name: robot
+Ticket ID: hkDxgLPpISw67zClACPV_771a6c0f-ba68-4e1b-892b-9ace80ca384d
+Total Bid Amount: 7700
+Total Earnings: 0
+Profit/Loss: -7700
+
+Breakdown:
+  Bid: 3, Amount: 7700, Payout: 38500, Status: lost

@@ -1,0 +1,9 @@
+User ID: jmUyqb_WzaR1tKp5ACJG
+User Name: robot
+Ticket ID: jmUyqb_WzaR1tKp5ACJG_56ee4408-3127-4e3c-9837-5f675e19ec5b
+Total Bid Amount: 900
+Total Earnings: 0
+Profit/Loss: -900
+
+Breakdown:
+  Bid: 4, Amount: 900, Payout: 4500, Status: lost

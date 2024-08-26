@@ -1,0 +1,9 @@
+User ID: 3VKFytQ_DjfUYQX-AB-g
+User Name: robot
+Ticket ID: 3VKFytQ_DjfUYQX-AB-g_9e24f89c-b94d-406e-8fa1-4dbbf1c9a8db
+Total Bid Amount: 7100
+Total Earnings: 0
+Profit/Loss: -7100
+
+Breakdown:
+  Bid: 2, Amount: 7100, Payout: 35500, Status: lost

@@ -1,0 +1,9 @@
+User ID: QfuAulN3NIAXtOjsABGe
+User Name: robot
+Ticket ID: QfuAulN3NIAXtOjsABGe_53f52dfa-658a-410e-aa4f-daee0e5a689c
+Total Bid Amount: 8100
+Total Earnings: 0
+Profit/Loss: -8100
+
+Breakdown:
+  Bid: 4, Amount: 8100, Payout: 40500, Status: lost

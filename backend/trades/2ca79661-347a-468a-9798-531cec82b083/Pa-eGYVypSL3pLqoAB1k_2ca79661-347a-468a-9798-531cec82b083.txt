@@ -1,0 +1,9 @@
+User ID: Pa-eGYVypSL3pLqoAB1k
+User Name: robot
+Ticket ID: Pa-eGYVypSL3pLqoAB1k_2ca79661-347a-468a-9798-531cec82b083
+Total Bid Amount: 1200
+Total Earnings: 0
+Profit/Loss: -1200
+
+Breakdown:
+  Bid: 4, Amount: 1200, Payout: 6000, Status: lost

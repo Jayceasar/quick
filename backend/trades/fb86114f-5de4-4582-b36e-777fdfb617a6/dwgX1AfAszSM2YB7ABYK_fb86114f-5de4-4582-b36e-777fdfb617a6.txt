@@ -1,0 +1,9 @@
+User ID: dwgX1AfAszSM2YB7ABYK
+User Name: robot
+Ticket ID: dwgX1AfAszSM2YB7ABYK_fb86114f-5de4-4582-b36e-777fdfb617a6
+Total Bid Amount: 1000
+Total Earnings: 0
+Profit/Loss: -1000
+
+Breakdown:
+  Bid: 2, Amount: 1000, Payout: 5000, Status: lost

@@ -1,0 +1,9 @@
+User ID: 4_PESTul_MBOozwUABp3
+User Name: robot
+Ticket ID: 4_PESTul_MBOozwUABp3_7a1cf374-3b0b-47a8-92f4-370088b1d70d
+Total Bid Amount: 3200
+Total Earnings: 0
+Profit/Loss: -3200
+
+Breakdown:
+  Bid: 1, Amount: 3200, Payout: 16000, Status: lost

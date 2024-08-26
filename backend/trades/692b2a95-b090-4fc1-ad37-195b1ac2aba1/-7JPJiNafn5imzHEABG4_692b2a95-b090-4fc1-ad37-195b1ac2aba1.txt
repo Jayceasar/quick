@@ -1,0 +1,9 @@
+User ID: -7JPJiNafn5imzHEABG4
+User Name: robot
+Ticket ID: -7JPJiNafn5imzHEABG4_692b2a95-b090-4fc1-ad37-195b1ac2aba1
+Total Bid Amount: 2800
+Total Earnings: 14000
+Profit/Loss: 11200
+
+Breakdown:
+  Bid: 5, Amount: 2800, Payout: 14000, Status: won

@@ -1,0 +1,9 @@
+User ID: myeMjqUz4vHKrlidACOA
+User Name: robot
+Ticket ID: myeMjqUz4vHKrlidACOA_51ad16e6-fa97-451d-af0e-01721a031f25
+Total Bid Amount: 8300
+Total Earnings: 0
+Profit/Loss: -8300
+
+Breakdown:
+  Bid: 6, Amount: 8300, Payout: 41500, Status: lost

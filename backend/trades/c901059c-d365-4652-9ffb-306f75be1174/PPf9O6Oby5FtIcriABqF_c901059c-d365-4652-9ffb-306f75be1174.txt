@@ -1,0 +1,9 @@
+User ID: PPf9O6Oby5FtIcriABqF
+User Name: robot
+Ticket ID: PPf9O6Oby5FtIcriABqF_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 8300
+Total Earnings: 0
+Profit/Loss: -8300
+
+Breakdown:
+  Bid: 6, Amount: 8300, Payout: 41500, Status: lost

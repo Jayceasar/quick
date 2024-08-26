@@ -1,0 +1,9 @@
+User ID: Wuh3srjZD61aqoHKABGm
+User Name: robot
+Ticket ID: Wuh3srjZD61aqoHKABGm_53f52dfa-658a-410e-aa4f-daee0e5a689c
+Total Bid Amount: 8900
+Total Earnings: 0
+Profit/Loss: -8900
+
+Breakdown:
+  Bid: 4, Amount: 8900, Payout: 44500, Status: lost

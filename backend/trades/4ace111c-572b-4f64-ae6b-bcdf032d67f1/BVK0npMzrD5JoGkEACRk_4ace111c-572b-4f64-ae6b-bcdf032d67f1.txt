@@ -1,0 +1,10 @@
+User ID: BVK0npMzrD5JoGkEACRk
+User Name: robot
+Ticket ID: BVK0npMzrD5JoGkEACRk_4ace111c-572b-4f64-ae6b-bcdf032d67f1
+Total Bid Amount: 6400
+Total Earnings: 0
+Profit/Loss: -6400
+
+Breakdown:
+  Bid: 1, Amount: 1300, Payout: 6500, Status: lost
+  Bid: 5, Amount: 5100, Payout: 25500, Status: lost

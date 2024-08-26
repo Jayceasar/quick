@@ -1,0 +1,9 @@
+User ID: -Hrypho-RSBF0faYABLy
+User Name: robot
+Ticket ID: -Hrypho-RSBF0faYABLy_53f52dfa-658a-410e-aa4f-daee0e5a689c
+Total Bid Amount: 8000
+Total Earnings: 0
+Profit/Loss: -8000
+
+Breakdown:
+  Bid: 5, Amount: 8000, Payout: 40000, Status: lost

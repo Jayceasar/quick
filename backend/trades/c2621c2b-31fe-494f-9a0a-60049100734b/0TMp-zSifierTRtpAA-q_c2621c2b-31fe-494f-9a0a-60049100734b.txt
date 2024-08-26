@@ -1,0 +1,10 @@
+User ID: 0TMp-zSifierTRtpAA-q
+User Name: robot
+Ticket ID: 0TMp-zSifierTRtpAA-q_c2621c2b-31fe-494f-9a0a-60049100734b
+Total Bid Amount: 7800
+Total Earnings: 0
+Profit/Loss: -7800
+
+Breakdown:
+  Bid: 6, Amount: 2000, Payout: 10000, Status: lost
+  Bid: 3, Amount: 5800, Payout: 29000, Status: lost

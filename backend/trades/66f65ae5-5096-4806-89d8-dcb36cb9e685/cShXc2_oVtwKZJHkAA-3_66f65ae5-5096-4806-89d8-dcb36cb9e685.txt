@@ -1,0 +1,9 @@
+User ID: cShXc2_oVtwKZJHkAA-3
+User Name: robot
+Ticket ID: cShXc2_oVtwKZJHkAA-3_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 100
+Total Earnings: 0
+Profit/Loss: -100
+
+Breakdown:
+  Bid: 1, Amount: 100, Payout: 500, Status: lost

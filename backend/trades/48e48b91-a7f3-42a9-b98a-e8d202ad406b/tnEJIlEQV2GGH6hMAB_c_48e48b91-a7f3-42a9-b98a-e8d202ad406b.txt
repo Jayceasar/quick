@@ -1,0 +1,9 @@
+User ID: tnEJIlEQV2GGH6hMAB_c
+User Name: robot
+Ticket ID: tnEJIlEQV2GGH6hMAB_c_48e48b91-a7f3-42a9-b98a-e8d202ad406b
+Total Bid Amount: 6600
+Total Earnings: 0
+Profit/Loss: -6600
+
+Breakdown:
+  Bid: 4, Amount: 6600, Payout: 33000, Status: lost

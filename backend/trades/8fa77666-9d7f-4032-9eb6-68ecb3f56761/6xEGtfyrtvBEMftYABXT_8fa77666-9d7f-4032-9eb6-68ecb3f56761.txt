@@ -1,0 +1,9 @@
+User ID: 6xEGtfyrtvBEMftYABXT
+User Name: robot
+Ticket ID: 6xEGtfyrtvBEMftYABXT_8fa77666-9d7f-4032-9eb6-68ecb3f56761
+Total Bid Amount: 8200
+Total Earnings: 41000
+Profit/Loss: 32800
+
+Breakdown:
+  Bid: 5, Amount: 8200, Payout: 41000, Status: won

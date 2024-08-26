@@ -1,0 +1,9 @@
+User ID: YB0IiDg5obE-dRJVACOX
+User Name: robot
+Ticket ID: YB0IiDg5obE-dRJVACOX_bc0ba1be-ceb5-4511-8bd4-cd5699325b20
+Total Bid Amount: 7600
+Total Earnings: 0
+Profit/Loss: -7600
+
+Breakdown:
+  Bid: 5, Amount: 7600, Payout: 38000, Status: lost

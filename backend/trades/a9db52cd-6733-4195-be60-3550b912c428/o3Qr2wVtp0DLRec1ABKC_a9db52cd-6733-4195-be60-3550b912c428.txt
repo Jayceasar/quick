@@ -1,0 +1,9 @@
+User ID: o3Qr2wVtp0DLRec1ABKC
+User Name: robot
+Ticket ID: o3Qr2wVtp0DLRec1ABKC_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 2400
+Total Earnings: 12000
+Profit/Loss: 9600
+
+Breakdown:
+  Bid: 1, Amount: 2400, Payout: 12000, Status: won

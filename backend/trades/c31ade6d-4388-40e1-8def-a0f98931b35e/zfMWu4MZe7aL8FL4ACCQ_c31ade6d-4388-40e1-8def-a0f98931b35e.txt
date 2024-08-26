@@ -1,0 +1,9 @@
+User ID: zfMWu4MZe7aL8FL4ACCQ
+User Name: robot
+Ticket ID: zfMWu4MZe7aL8FL4ACCQ_c31ade6d-4388-40e1-8def-a0f98931b35e
+Total Bid Amount: 1600
+Total Earnings: 0
+Profit/Loss: -1600
+
+Breakdown:
+  Bid: 2, Amount: 1600, Payout: 8000, Status: lost

@@ -1,0 +1,10 @@
+User ID: wHAQp7P7vw_WQB2nABP7
+User Name: robot
+Ticket ID: wHAQp7P7vw_WQB2nABP7_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 2500
+Total Earnings: 0
+Profit/Loss: -2500
+
+Breakdown:
+  Bid: 5, Amount: 2200, Payout: 11000, Status: lost
+  Bid: 3, Amount: 300, Payout: 1500, Status: lost

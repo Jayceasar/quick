@@ -1,0 +1,9 @@
+User ID: f8-6Ofzc4enL2fr_ACPP
+User Name: robot
+Ticket ID: f8-6Ofzc4enL2fr_ACPP_cc632ba1-6e9c-4969-b2c7-31cd4c71e26e
+Total Bid Amount: 9000
+Total Earnings: 0
+Profit/Loss: -9000
+
+Breakdown:
+  Bid: 1, Amount: 9000, Payout: 45000, Status: lost

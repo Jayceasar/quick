@@ -1,0 +1,10 @@
+User ID: xihKi0x_LK12a1TzABvF
+User Name: robot
+Ticket ID: xihKi0x_LK12a1TzABvF_aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 7200
+Total Earnings: 6500
+Profit/Loss: -700
+
+Breakdown:
+  Bid: 3, Amount: 1300, Payout: 6500, Status: won
+  Bid: 1, Amount: 5900, Payout: 29500, Status: lost

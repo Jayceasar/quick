@@ -1,0 +1,9 @@
+User ID: Ihfz5exRpnWRvHKkABYf
+User Name: robot
+Ticket ID: Ihfz5exRpnWRvHKkABYf_8fa77666-9d7f-4032-9eb6-68ecb3f56761
+Total Bid Amount: 8900
+Total Earnings: 0
+Profit/Loss: -8900
+
+Breakdown:
+  Bid: 3, Amount: 8900, Payout: 44500, Status: lost

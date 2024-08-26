@@ -1,0 +1,9 @@
+User ID: bDYT9R_b7ORzC1P5AB2D
+User Name: robot
+Ticket ID: bDYT9R_b7ORzC1P5AB2D_f4e2f866-a36b-41cc-85f2-e7d863ffff69
+Total Bid Amount: 3600
+Total Earnings: 0
+Profit/Loss: -3600
+
+Breakdown:
+  Bid: 6, Amount: 3600, Payout: 18000, Status: lost

@@ -1,0 +1,10 @@
+User ID: zyiVjIOIFP77OmGKABhv
+User Name: robot
+Ticket ID: zyiVjIOIFP77OmGKABhv_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 14700
+Total Earnings: 0
+Profit/Loss: -14700
+
+Breakdown:
+  Bid: 6, Amount: 7800, Payout: 39000, Status: lost
+  Bid: 1, Amount: 6900, Payout: 34500, Status: lost

@@ -1,0 +1,9 @@
+User ID: slUt0usuA_PJvqn2ACKi
+User Name: robot
+Ticket ID: slUt0usuA_PJvqn2ACKi_7f17eed6-7359-4dae-af38-f93e4d907ad3
+Total Bid Amount: 4700
+Total Earnings: 23500
+Profit/Loss: 18800
+
+Breakdown:
+  Bid: 3, Amount: 4700, Payout: 23500, Status: won

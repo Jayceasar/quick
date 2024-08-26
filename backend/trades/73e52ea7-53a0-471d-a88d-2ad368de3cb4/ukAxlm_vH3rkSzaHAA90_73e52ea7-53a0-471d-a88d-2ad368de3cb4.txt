@@ -1,0 +1,9 @@
+User ID: ukAxlm_vH3rkSzaHAA90
+User Name: robot
+Ticket ID: ukAxlm_vH3rkSzaHAA90_73e52ea7-53a0-471d-a88d-2ad368de3cb4
+Total Bid Amount: 8400
+Total Earnings: 0
+Profit/Loss: -8400
+
+Breakdown:
+  Bid: 6, Amount: 8400, Payout: 42000, Status: lost

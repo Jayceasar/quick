@@ -1,0 +1,11 @@
+User ID: qC1Ae1tcMW_iN07tABey
+User Name: robot
+Ticket ID: qC1Ae1tcMW_iN07tABey_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 10300
+Total Earnings: 0
+Profit/Loss: -10300
+
+Breakdown:
+  Bid: 2, Amount: 2700, Payout: 13500, Status: lost
+  Bid: 5, Amount: 2700, Payout: 13500, Status: lost
+  Bid: 2, Amount: 4900, Payout: 24500, Status: lost

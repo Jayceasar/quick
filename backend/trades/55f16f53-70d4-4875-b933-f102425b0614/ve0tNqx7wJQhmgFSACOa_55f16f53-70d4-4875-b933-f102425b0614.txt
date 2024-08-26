@@ -1,0 +1,9 @@
+User ID: ve0tNqx7wJQhmgFSACOa
+User Name: robot
+Ticket ID: ve0tNqx7wJQhmgFSACOa_55f16f53-70d4-4875-b933-f102425b0614
+Total Bid Amount: 4600
+Total Earnings: 23000
+Profit/Loss: 18400
+
+Breakdown:
+  Bid: 2, Amount: 4600, Payout: 23000, Status: won

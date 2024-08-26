@@ -1,0 +1,9 @@
+User ID: c5Q2rWlAJcEf0vrQACJh
+User Name: robot
+Ticket ID: c5Q2rWlAJcEf0vrQACJh_56ee4408-3127-4e3c-9837-5f675e19ec5b
+Total Bid Amount: 1000
+Total Earnings: 0
+Profit/Loss: -1000
+
+Breakdown:
+  Bid: 3, Amount: 1000, Payout: 5000, Status: lost

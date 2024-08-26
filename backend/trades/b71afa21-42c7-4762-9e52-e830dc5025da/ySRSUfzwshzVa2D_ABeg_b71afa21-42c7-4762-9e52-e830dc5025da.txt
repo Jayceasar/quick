@@ -1,0 +1,9 @@
+User ID: ySRSUfzwshzVa2D_ABeg
+User Name: robot
+Ticket ID: ySRSUfzwshzVa2D_ABeg_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 8000
+Total Earnings: 0
+Profit/Loss: -8000
+
+Breakdown:
+  Bid: 5, Amount: 8000, Payout: 40000, Status: lost

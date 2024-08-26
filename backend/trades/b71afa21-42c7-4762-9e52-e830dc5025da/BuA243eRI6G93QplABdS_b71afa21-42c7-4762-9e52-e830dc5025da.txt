@@ -1,0 +1,9 @@
+User ID: BuA243eRI6G93QplABdS
+User Name: robot
+Ticket ID: BuA243eRI6G93QplABdS_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 1100
+Total Earnings: 5500
+Profit/Loss: 4400
+
+Breakdown:
+  Bid: 2, Amount: 1100, Payout: 5500, Status: won

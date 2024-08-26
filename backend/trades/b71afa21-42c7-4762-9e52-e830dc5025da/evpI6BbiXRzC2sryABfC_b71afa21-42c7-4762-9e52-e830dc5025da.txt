@@ -1,0 +1,9 @@
+User ID: evpI6BbiXRzC2sryABfC
+User Name: robot
+Ticket ID: evpI6BbiXRzC2sryABfC_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 2400
+Total Earnings: 12000
+Profit/Loss: 9600
+
+Breakdown:
+  Bid: 2, Amount: 2400, Payout: 12000, Status: won

@@ -1,0 +1,9 @@
+User ID: -oOW9L8R2I6ZmaSRACRH
+User Name: robot
+Ticket ID: -oOW9L8R2I6ZmaSRACRH_2b9cf866-cf0f-4d05-9e66-7bba29114343
+Total Bid Amount: 2000
+Total Earnings: 0
+Profit/Loss: -2000
+
+Breakdown:
+  Bid: 4, Amount: 2000, Payout: 10000, Status: lost

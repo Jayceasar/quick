@@ -1,0 +1,10 @@
+User ID: LmpXoPGSKnP43hzrABSS
+User Name: robot
+Ticket ID: LmpXoPGSKnP43hzrABSS_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 9500
+Total Earnings: 46000
+Profit/Loss: 36500
+
+Breakdown:
+  Bid: 3, Amount: 300, Payout: 1500, Status: lost
+  Bid: 1, Amount: 9200, Payout: 46000, Status: won

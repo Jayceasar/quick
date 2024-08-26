@@ -1,0 +1,10 @@
+User ID: YYarxMcWQP6uYVBjABWc
+User Name: robot
+Ticket ID: YYarxMcWQP6uYVBjABWc_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 12800
+Total Earnings: 0
+Profit/Loss: -12800
+
+Breakdown:
+  Bid: 4, Amount: 6200, Payout: 31000, Status: lost
+  Bid: 1, Amount: 6600, Payout: 33000, Status: lost

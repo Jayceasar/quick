@@ -1,0 +1,9 @@
+User ID: r3n_neS6JgvdZo3hABdm
+User Name: robot
+Ticket ID: r3n_neS6JgvdZo3hABdm_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 4000
+Total Earnings: 0
+Profit/Loss: -4000
+
+Breakdown:
+  Bid: 3, Amount: 4000, Payout: 20000, Status: lost

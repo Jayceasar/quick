@@ -1,0 +1,9 @@
+User ID: cichJkJ-SK9n5suVABta
+User Name: robot
+Ticket ID: cichJkJ-SK9n5suVABta_7a1cf374-3b0b-47a8-92f4-370088b1d70d
+Total Bid Amount: 2300
+Total Earnings: 11500
+Profit/Loss: 9200
+
+Breakdown:
+  Bid: 2, Amount: 2300, Payout: 11500, Status: won

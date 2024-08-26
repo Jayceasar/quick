@@ -1,0 +1,9 @@
+User ID: Gcn8BdBhAPXLM7i3ACQ-
+User Name: robot
+Ticket ID: Gcn8BdBhAPXLM7i3ACQ-_771a6c0f-ba68-4e1b-892b-9ace80ca384d
+Total Bid Amount: 5700
+Total Earnings: 0
+Profit/Loss: -5700
+
+Breakdown:
+  Bid: 1, Amount: 5700, Payout: 28500, Status: lost

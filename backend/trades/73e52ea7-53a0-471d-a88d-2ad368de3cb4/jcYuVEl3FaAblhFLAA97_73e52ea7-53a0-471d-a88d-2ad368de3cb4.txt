@@ -1,0 +1,9 @@
+User ID: jcYuVEl3FaAblhFLAA97
+User Name: robot
+Ticket ID: jcYuVEl3FaAblhFLAA97_73e52ea7-53a0-471d-a88d-2ad368de3cb4
+Total Bid Amount: 100
+Total Earnings: 0
+Profit/Loss: -100
+
+Breakdown:
+  Bid: 5, Amount: 100, Payout: 500, Status: lost

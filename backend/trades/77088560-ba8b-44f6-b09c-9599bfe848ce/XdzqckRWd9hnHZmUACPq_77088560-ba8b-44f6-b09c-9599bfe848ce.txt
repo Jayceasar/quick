@@ -1,0 +1,9 @@
+User ID: XdzqckRWd9hnHZmUACPq
+User Name: robot
+Ticket ID: XdzqckRWd9hnHZmUACPq_77088560-ba8b-44f6-b09c-9599bfe848ce
+Total Bid Amount: 2100
+Total Earnings: 10500
+Profit/Loss: 8400
+
+Breakdown:
+  Bid: 2, Amount: 2100, Payout: 10500, Status: won

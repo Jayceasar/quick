@@ -1,0 +1,9 @@
+User ID: PnhU1rA_54e2Pd47ABGw
+User Name: robot
+Ticket ID: PnhU1rA_54e2Pd47ABGw_692b2a95-b090-4fc1-ad37-195b1ac2aba1
+Total Bid Amount: 700
+Total Earnings: 0
+Profit/Loss: -700
+
+Breakdown:
+  Bid: 3, Amount: 700, Payout: 3500, Status: lost

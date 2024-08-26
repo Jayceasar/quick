@@ -1,0 +1,9 @@
+User ID: 6VuF-oZ_7GZ2dHCtACOv
+User Name: robot
+Ticket ID: 6VuF-oZ_7GZ2dHCtACOv_407a2b9f-a7b5-4ec8-b1a9-5aae0e7f0f35
+Total Bid Amount: 8900
+Total Earnings: 44500
+Profit/Loss: 35600
+
+Breakdown:
+  Bid: 3, Amount: 8900, Payout: 44500, Status: won

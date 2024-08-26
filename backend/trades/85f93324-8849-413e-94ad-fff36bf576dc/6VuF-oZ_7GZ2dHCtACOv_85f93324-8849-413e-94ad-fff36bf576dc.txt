@@ -1,0 +1,9 @@
+User ID: 6VuF-oZ_7GZ2dHCtACOv
+User Name: robot
+Ticket ID: 6VuF-oZ_7GZ2dHCtACOv_85f93324-8849-413e-94ad-fff36bf576dc
+Total Bid Amount: 3100
+Total Earnings: 0
+Profit/Loss: -3100
+
+Breakdown:
+  Bid: 2, Amount: 3100, Payout: 15500, Status: lost

@@ -1,0 +1,10 @@
+User ID: 9KG7Fb_WK5XwBTLjACBb
+User Name: robot
+Ticket ID: 9KG7Fb_WK5XwBTLjACBb_a295add0-ed87-4739-9946-a802886ede6f
+Total Bid Amount: 10600
+Total Earnings: 0
+Profit/Loss: -10600
+
+Breakdown:
+  Bid: 6, Amount: 8400, Payout: 42000, Status: lost
+  Bid: 5, Amount: 2200, Payout: 11000, Status: lost

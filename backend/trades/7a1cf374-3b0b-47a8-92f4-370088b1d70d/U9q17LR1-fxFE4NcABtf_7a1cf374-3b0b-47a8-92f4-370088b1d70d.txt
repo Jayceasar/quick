@@ -1,0 +1,9 @@
+User ID: U9q17LR1-fxFE4NcABtf
+User Name: robot
+Ticket ID: U9q17LR1-fxFE4NcABtf_7a1cf374-3b0b-47a8-92f4-370088b1d70d
+Total Bid Amount: 1100
+Total Earnings: 5500
+Profit/Loss: 4400
+
+Breakdown:
+  Bid: 2, Amount: 1100, Payout: 5500, Status: won

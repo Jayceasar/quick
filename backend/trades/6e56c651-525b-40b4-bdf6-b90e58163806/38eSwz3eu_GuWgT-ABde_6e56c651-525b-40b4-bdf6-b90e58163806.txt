@@ -1,0 +1,11 @@
+User ID: 38eSwz3eu_GuWgT-ABde
+User Name: robot
+Ticket ID: 38eSwz3eu_GuWgT-ABde_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 25600
+Total Earnings: 0
+Profit/Loss: -25600
+
+Breakdown:
+  Bid: 6, Amount: 8500, Payout: 42500, Status: lost
+  Bid: 6, Amount: 7500, Payout: 37500, Status: lost
+  Bid: 1, Amount: 9600, Payout: 48000, Status: lost

@@ -1,0 +1,9 @@
+User ID: QFHanfviV0YCytEoABMB
+User Name: robot
+Ticket ID: QFHanfviV0YCytEoABMB_53f52dfa-658a-410e-aa4f-daee0e5a689c
+Total Bid Amount: 2700
+Total Earnings: 0
+Profit/Loss: -2700
+
+Breakdown:
+  Bid: 2, Amount: 2700, Payout: 13500, Status: lost

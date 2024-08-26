@@ -1,0 +1,10 @@
+User ID: HRJ7OAmDJ-l-GO-8AA-p
+User Name: robot
+Ticket ID: HRJ7OAmDJ-l-GO-8AA-p_c2621c2b-31fe-494f-9a0a-60049100734b
+Total Bid Amount: 12500
+Total Earnings: 28500
+Profit/Loss: 16000
+
+Breakdown:
+  Bid: 2, Amount: 5700, Payout: 28500, Status: won
+  Bid: 5, Amount: 6800, Payout: 34000, Status: lost

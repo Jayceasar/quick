@@ -1,0 +1,9 @@
+User ID: uoVY-lZ_W75kTae3ACI9
+User Name: robot
+Ticket ID: uoVY-lZ_W75kTae3ACI9_7f17eed6-7359-4dae-af38-f93e4d907ad3
+Total Bid Amount: 8300
+Total Earnings: 0
+Profit/Loss: -8300
+
+Breakdown:
+  Bid: 6, Amount: 8300, Payout: 41500, Status: lost

@@ -1,0 +1,9 @@
+User ID: 3nSpagC8wME6uVhrAB1t
+User Name: robot
+Ticket ID: 3nSpagC8wME6uVhrAB1t_73cf31f2-8401-4ac4-bb24-a78ee513d5d7
+Total Bid Amount: 8200
+Total Earnings: 41000
+Profit/Loss: 32800
+
+Breakdown:
+  Bid: 3, Amount: 8200, Payout: 41000, Status: won

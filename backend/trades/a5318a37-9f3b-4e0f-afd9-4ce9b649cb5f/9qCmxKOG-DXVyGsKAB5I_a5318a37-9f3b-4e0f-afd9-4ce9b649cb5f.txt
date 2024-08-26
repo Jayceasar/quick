@@ -1,0 +1,9 @@
+User ID: 9qCmxKOG-DXVyGsKAB5I
+User Name: robot
+Ticket ID: 9qCmxKOG-DXVyGsKAB5I_a5318a37-9f3b-4e0f-afd9-4ce9b649cb5f
+Total Bid Amount: 3200
+Total Earnings: 0
+Profit/Loss: -3200
+
+Breakdown:
+  Bid: 4, Amount: 3200, Payout: 16000, Status: lost

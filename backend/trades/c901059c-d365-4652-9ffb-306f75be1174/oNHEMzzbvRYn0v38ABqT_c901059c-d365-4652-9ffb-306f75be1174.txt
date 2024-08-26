@@ -1,0 +1,9 @@
+User ID: oNHEMzzbvRYn0v38ABqT
+User Name: robot
+Ticket ID: oNHEMzzbvRYn0v38ABqT_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 7700
+Total Earnings: 0
+Profit/Loss: -7700
+
+Breakdown:
+  Bid: 4, Amount: 7700, Payout: 38500, Status: lost

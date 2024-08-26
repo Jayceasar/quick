@@ -1,0 +1,9 @@
+User ID: cODbwR3dQLPBdQOnAB2r
+User Name: robot
+Ticket ID: cODbwR3dQLPBdQOnAB2r_a295add0-ed87-4739-9946-a802886ede6f
+Total Bid Amount: 6100
+Total Earnings: 0
+Profit/Loss: -6100
+
+Breakdown:
+  Bid: 6, Amount: 6100, Payout: 30500, Status: lost

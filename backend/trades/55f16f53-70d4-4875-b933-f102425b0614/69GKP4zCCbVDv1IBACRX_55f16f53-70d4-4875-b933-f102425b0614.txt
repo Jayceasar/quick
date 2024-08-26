@@ -1,0 +1,9 @@
+User ID: 69GKP4zCCbVDv1IBACRX
+User Name: robot
+Ticket ID: 69GKP4zCCbVDv1IBACRX_55f16f53-70d4-4875-b933-f102425b0614
+Total Bid Amount: 2900
+Total Earnings: 14500
+Profit/Loss: 11600
+
+Breakdown:
+  Bid: 2, Amount: 2900, Payout: 14500, Status: won

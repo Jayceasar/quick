@@ -1,0 +1,10 @@
+User ID: _6oUwqvfdztrmw9WACRr
+User Name: robot
+Ticket ID: _6oUwqvfdztrmw9WACRr_4ace111c-572b-4f64-ae6b-bcdf032d67f1
+Total Bid Amount: 3800
+Total Earnings: 0
+Profit/Loss: -3800
+
+Breakdown:
+  Bid: 1, Amount: 3700, Payout: 18500, Status: lost
+  Bid: 1, Amount: 100, Payout: 500, Status: lost

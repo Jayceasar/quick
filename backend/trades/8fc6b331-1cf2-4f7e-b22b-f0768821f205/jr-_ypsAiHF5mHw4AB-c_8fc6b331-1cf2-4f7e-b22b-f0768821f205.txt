@@ -1,0 +1,9 @@
+User ID: jr-_ypsAiHF5mHw4AB-c
+User Name: robot
+Ticket ID: jr-_ypsAiHF5mHw4AB-c_8fc6b331-1cf2-4f7e-b22b-f0768821f205
+Total Bid Amount: 8200
+Total Earnings: 0
+Profit/Loss: -8200
+
+Breakdown:
+  Bid: 4, Amount: 8200, Payout: 41000, Status: lost

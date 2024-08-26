@@ -1,0 +1,9 @@
+User ID: P2hWMfEvyDsSWTpOABKV
+User Name: robot
+Ticket ID: P2hWMfEvyDsSWTpOABKV_53f52dfa-658a-410e-aa4f-daee0e5a689c
+Total Bid Amount: 3000
+Total Earnings: 15000
+Profit/Loss: 12000
+
+Breakdown:
+  Bid: 6, Amount: 3000, Payout: 15000, Status: won

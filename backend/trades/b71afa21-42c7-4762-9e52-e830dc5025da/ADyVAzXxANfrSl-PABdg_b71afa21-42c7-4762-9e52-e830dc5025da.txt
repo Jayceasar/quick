@@ -1,0 +1,9 @@
+User ID: ADyVAzXxANfrSl-PABdg
+User Name: robot
+Ticket ID: ADyVAzXxANfrSl-PABdg_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 1700
+Total Earnings: 0
+Profit/Loss: -1700
+
+Breakdown:
+  Bid: 1, Amount: 1700, Payout: 8500, Status: lost

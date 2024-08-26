@@ -1,0 +1,9 @@
+User ID: 2TxppLqdd3PUwLsMAB1Q
+User Name: robot
+Ticket ID: 2TxppLqdd3PUwLsMAB1Q_f4e2f866-a36b-41cc-85f2-e7d863ffff69
+Total Bid Amount: 8700
+Total Earnings: 0
+Profit/Loss: -8700
+
+Breakdown:
+  Bid: 6, Amount: 8700, Payout: 43500, Status: lost

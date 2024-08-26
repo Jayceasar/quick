@@ -1,0 +1,9 @@
+User ID: YCyOPSI1ocV5AEGVAB-B
+User Name: robot
+Ticket ID: YCyOPSI1ocV5AEGVAB-B_414b2b96-9ea1-4f03-977a-f2301d814e84
+Total Bid Amount: 5600
+Total Earnings: 0
+Profit/Loss: -5600
+
+Breakdown:
+  Bid: 6, Amount: 5600, Payout: 28000, Status: lost

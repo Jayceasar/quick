@@ -1,0 +1,10 @@
+User ID: tYxtnIH7jR9_IhwOABvL
+User Name: robot
+Ticket ID: tYxtnIH7jR9_IhwOABvL_aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 10200
+Total Earnings: 51000
+Profit/Loss: 40800
+
+Breakdown:
+  Bid: 3, Amount: 200, Payout: 1000, Status: won
+  Bid: 3, Amount: 10000, Payout: 50000, Status: won

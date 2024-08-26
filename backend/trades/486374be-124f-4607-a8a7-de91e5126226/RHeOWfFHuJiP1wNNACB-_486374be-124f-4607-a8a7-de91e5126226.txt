@@ -1,0 +1,9 @@
+User ID: RHeOWfFHuJiP1wNNACB-
+User Name: robot
+Ticket ID: RHeOWfFHuJiP1wNNACB-_486374be-124f-4607-a8a7-de91e5126226
+Total Bid Amount: 6400
+Total Earnings: 0
+Profit/Loss: -6400
+
+Breakdown:
+  Bid: 2, Amount: 6400, Payout: 32000, Status: lost

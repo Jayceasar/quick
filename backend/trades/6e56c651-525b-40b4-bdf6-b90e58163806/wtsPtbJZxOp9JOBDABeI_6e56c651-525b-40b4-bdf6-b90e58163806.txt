@@ -1,0 +1,11 @@
+User ID: wtsPtbJZxOp9JOBDABeI
+User Name: robot
+Ticket ID: wtsPtbJZxOp9JOBDABeI_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 18100
+Total Earnings: 0
+Profit/Loss: -18100
+
+Breakdown:
+  Bid: 4, Amount: 9900, Payout: 49500, Status: lost
+  Bid: 6, Amount: 8000, Payout: 40000, Status: lost
+  Bid: 1, Amount: 200, Payout: 1000, Status: lost

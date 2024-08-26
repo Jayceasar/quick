@@ -1,0 +1,9 @@
+User ID: OkqE7o7vVMdvcOLNABm3
+User Name: robot
+Ticket ID: OkqE7o7vVMdvcOLNABm3_16544f5b-1f99-42fc-955f-4a4f35434ec1
+Total Bid Amount: 5700
+Total Earnings: 0
+Profit/Loss: -5700
+
+Breakdown:
+  Bid: 6, Amount: 5700, Payout: 28500, Status: lost

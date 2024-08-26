@@ -1,0 +1,10 @@
+User ID: lOXqS4DMiJCO5PiaAA-C
+User Name: robot
+Ticket ID: lOXqS4DMiJCO5PiaAA-C_c2621c2b-31fe-494f-9a0a-60049100734b
+Total Bid Amount: 13400
+Total Earnings: 0
+Profit/Loss: -13400
+
+Breakdown:
+  Bid: 5, Amount: 9500, Payout: 47500, Status: lost
+  Bid: 1, Amount: 3900, Payout: 19500, Status: lost

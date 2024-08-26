@@ -1,0 +1,9 @@
+User ID: sdRZpwjCa8OpaD2wABLp
+User Name: robot
+Ticket ID: sdRZpwjCa8OpaD2wABLp_692b2a95-b090-4fc1-ad37-195b1ac2aba1
+Total Bid Amount: 2100
+Total Earnings: 0
+Profit/Loss: -2100
+
+Breakdown:
+  Bid: 1, Amount: 2100, Payout: 10500, Status: lost

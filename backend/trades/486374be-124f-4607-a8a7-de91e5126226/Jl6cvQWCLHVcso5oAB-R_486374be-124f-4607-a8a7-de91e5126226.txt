@@ -1,0 +1,9 @@
+User ID: Jl6cvQWCLHVcso5oAB-R
+User Name: robot
+Ticket ID: Jl6cvQWCLHVcso5oAB-R_486374be-124f-4607-a8a7-de91e5126226
+Total Bid Amount: 4300
+Total Earnings: 0
+Profit/Loss: -4300
+
+Breakdown:
+  Bid: 2, Amount: 4300, Payout: 21500, Status: lost

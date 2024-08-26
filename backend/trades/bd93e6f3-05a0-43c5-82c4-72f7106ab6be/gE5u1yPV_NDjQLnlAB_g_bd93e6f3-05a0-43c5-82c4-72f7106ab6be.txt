@@ -1,0 +1,9 @@
+User ID: gE5u1yPV_NDjQLnlAB_g
+User Name: robot
+Ticket ID: gE5u1yPV_NDjQLnlAB_g_bd93e6f3-05a0-43c5-82c4-72f7106ab6be
+Total Bid Amount: 3000
+Total Earnings: 0
+Profit/Loss: -3000
+
+Breakdown:
+  Bid: 2, Amount: 3000, Payout: 15000, Status: lost

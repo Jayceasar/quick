@@ -1,0 +1,9 @@
+User ID: 348qNEyldlRtMHP9ACKO
+User Name: robot
+Ticket ID: 348qNEyldlRtMHP9ACKO_719ca7d1-8e62-472d-941a-0e34cd466066
+Total Bid Amount: 600
+Total Earnings: 3000
+Profit/Loss: 2400
+
+Breakdown:
+  Bid: 4, Amount: 600, Payout: 3000, Status: won

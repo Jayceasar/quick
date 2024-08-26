@@ -1,0 +1,10 @@
+User ID: aIxahme48zNxraqXABfS
+User Name: robot
+Ticket ID: aIxahme48zNxraqXABfS_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 15300
+Total Earnings: 0
+Profit/Loss: -15300
+
+Breakdown:
+  Bid: 6, Amount: 7800, Payout: 39000, Status: lost
+  Bid: 5, Amount: 7500, Payout: 37500, Status: lost

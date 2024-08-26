@@ -1,0 +1,9 @@
+User ID: SDkxjBp_e9ia8fh6AB-r
+User Name: robot
+Ticket ID: SDkxjBp_e9ia8fh6AB-r_d32ea5b8-0e5c-4e10-afc1-1e45003030ee
+Total Bid Amount: 1000
+Total Earnings: 0
+Profit/Loss: -1000
+
+Breakdown:
+  Bid: 6, Amount: 1000, Payout: 5000, Status: lost

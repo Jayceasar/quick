@@ -1,0 +1,10 @@
+User ID: 5p0hQScknWC5GDoMABQR
+User Name: robot
+Ticket ID: 5p0hQScknWC5GDoMABQR_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 2600
+Total Earnings: 0
+Profit/Loss: -2600
+
+Breakdown:
+  Bid: 5, Amount: 500, Payout: 2500, Status: lost
+  Bid: 2, Amount: 2100, Payout: 10500, Status: lost

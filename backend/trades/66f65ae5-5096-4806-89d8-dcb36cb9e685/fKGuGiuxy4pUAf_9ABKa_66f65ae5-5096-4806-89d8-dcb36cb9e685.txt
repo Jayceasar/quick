@@ -1,0 +1,10 @@
+User ID: fKGuGiuxy4pUAf_9ABKa
+User Name: robot
+Ticket ID: fKGuGiuxy4pUAf_9ABKa_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 8400
+Total Earnings: 0
+Profit/Loss: -8400
+
+Breakdown:
+  Bid: 3, Amount: 8100, Payout: 40500, Status: lost
+  Bid: 1, Amount: 300, Payout: 1500, Status: lost

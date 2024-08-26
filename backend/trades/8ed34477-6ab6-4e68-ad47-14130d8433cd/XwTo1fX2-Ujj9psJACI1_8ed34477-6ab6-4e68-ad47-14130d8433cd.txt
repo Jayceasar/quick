@@ -1,0 +1,9 @@
+User ID: XwTo1fX2-Ujj9psJACI1
+User Name: robot
+Ticket ID: XwTo1fX2-Ujj9psJACI1_8ed34477-6ab6-4e68-ad47-14130d8433cd
+Total Bid Amount: 200
+Total Earnings: 1000
+Profit/Loss: 800
+
+Breakdown:
+  Bid: 2, Amount: 200, Payout: 1000, Status: won

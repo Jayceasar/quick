@@ -1,0 +1,10 @@
+User ID: V3P3Idmib29chftqABQJ
+User Name: robot
+Ticket ID: V3P3Idmib29chftqABQJ_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 6400
+Total Earnings: 0
+Profit/Loss: -6400
+
+Breakdown:
+  Bid: 6, Amount: 4200, Payout: 21000, Status: lost
+  Bid: 5, Amount: 2200, Payout: 11000, Status: lost

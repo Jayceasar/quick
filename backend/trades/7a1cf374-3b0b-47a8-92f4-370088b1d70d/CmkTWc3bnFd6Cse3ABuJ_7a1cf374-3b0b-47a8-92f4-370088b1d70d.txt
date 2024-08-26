@@ -1,0 +1,9 @@
+User ID: CmkTWc3bnFd6Cse3ABuJ
+User Name: robot
+Ticket ID: CmkTWc3bnFd6Cse3ABuJ_7a1cf374-3b0b-47a8-92f4-370088b1d70d
+Total Bid Amount: 3100
+Total Earnings: 0
+Profit/Loss: -3100
+
+Breakdown:
+  Bid: 4, Amount: 3100, Payout: 15500, Status: lost

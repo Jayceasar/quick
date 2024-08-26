@@ -1,0 +1,9 @@
+User ID: PFUmdTSI6kXUe-47ACRZ
+User Name: robot
+Ticket ID: PFUmdTSI6kXUe-47ACRZ_410f81c4-640a-426c-adae-e0f04fe1a0ef
+Total Bid Amount: 2200
+Total Earnings: 11000
+Profit/Loss: 8800
+
+Breakdown:
+  Bid: 2, Amount: 2200, Payout: 11000, Status: won

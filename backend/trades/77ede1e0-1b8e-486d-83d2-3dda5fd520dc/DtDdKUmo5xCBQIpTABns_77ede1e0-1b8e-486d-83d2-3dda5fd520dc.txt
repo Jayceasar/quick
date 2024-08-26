@@ -1,0 +1,11 @@
+User ID: DtDdKUmo5xCBQIpTABns
+User Name: robot
+Ticket ID: DtDdKUmo5xCBQIpTABns_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
+Total Bid Amount: 23500
+Total Earnings: 32000
+Profit/Loss: 8500
+
+Breakdown:
+  Bid: 3, Amount: 6400, Payout: 32000, Status: won
+  Bid: 4, Amount: 7600, Payout: 38000, Status: lost
+  Bid: 5, Amount: 9500, Payout: 47500, Status: lost

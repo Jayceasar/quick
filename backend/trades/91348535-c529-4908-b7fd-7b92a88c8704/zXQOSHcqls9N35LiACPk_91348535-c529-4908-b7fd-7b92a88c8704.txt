@@ -1,0 +1,9 @@
+User ID: zXQOSHcqls9N35LiACPk
+User Name: robot
+Ticket ID: zXQOSHcqls9N35LiACPk_91348535-c529-4908-b7fd-7b92a88c8704
+Total Bid Amount: 9700
+Total Earnings: 0
+Profit/Loss: -9700
+
+Breakdown:
+  Bid: 5, Amount: 9700, Payout: 48500, Status: lost

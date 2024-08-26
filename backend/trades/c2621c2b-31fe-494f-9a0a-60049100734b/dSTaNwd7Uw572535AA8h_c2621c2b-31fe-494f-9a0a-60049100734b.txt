@@ -1,0 +1,10 @@
+User ID: dSTaNwd7Uw572535AA8h
+User Name: robot
+Ticket ID: dSTaNwd7Uw572535AA8h_c2621c2b-31fe-494f-9a0a-60049100734b
+Total Bid Amount: 9800
+Total Earnings: 38000
+Profit/Loss: 28200
+
+Breakdown:
+  Bid: 6, Amount: 2200, Payout: 11000, Status: lost
+  Bid: 2, Amount: 7600, Payout: 38000, Status: won

@@ -1,0 +1,9 @@
+User ID: oEc0oR4G54F684yyACPY
+User Name: robot
+Ticket ID: oEc0oR4G54F684yyACPY_410f81c4-640a-426c-adae-e0f04fe1a0ef
+Total Bid Amount: 7900
+Total Earnings: 0
+Profit/Loss: -7900
+
+Breakdown:
+  Bid: 1, Amount: 7900, Payout: 39500, Status: lost

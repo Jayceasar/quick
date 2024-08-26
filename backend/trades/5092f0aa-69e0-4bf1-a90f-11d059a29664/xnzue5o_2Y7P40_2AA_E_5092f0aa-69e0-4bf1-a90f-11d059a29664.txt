@@ -1,0 +1,9 @@
+User ID: xnzue5o_2Y7P40_2AA_E
+User Name: robot
+Ticket ID: xnzue5o_2Y7P40_2AA_E_5092f0aa-69e0-4bf1-a90f-11d059a29664
+Total Bid Amount: 5700
+Total Earnings: 0
+Profit/Loss: -5700
+
+Breakdown:
+  Bid: 4, Amount: 5700, Payout: 28500, Status: lost

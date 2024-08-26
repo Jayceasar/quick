@@ -1,0 +1,10 @@
+User ID: SFHX4Dr6rIKtCirJABqL
+User Name: robot
+Ticket ID: SFHX4Dr6rIKtCirJABqL_aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 8200
+Total Earnings: 0
+Profit/Loss: -8200
+
+Breakdown:
+  Bid: 2, Amount: 3500, Payout: 17500, Status: lost
+  Bid: 5, Amount: 4700, Payout: 23500, Status: lost

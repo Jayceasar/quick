@@ -1,0 +1,9 @@
+User ID: H8P6x5MUb5QN3KUoAB06
+User Name: robot
+Ticket ID: H8P6x5MUb5QN3KUoAB06_44666ccb-6626-428d-95d3-f7a7a00e87a7
+Total Bid Amount: 6800
+Total Earnings: 0
+Profit/Loss: -6800
+
+Breakdown:
+  Bid: 5, Amount: 6800, Payout: 34000, Status: lost

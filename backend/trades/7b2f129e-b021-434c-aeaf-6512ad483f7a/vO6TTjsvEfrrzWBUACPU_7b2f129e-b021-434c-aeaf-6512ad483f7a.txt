@@ -1,0 +1,9 @@
+User ID: vO6TTjsvEfrrzWBUACPU
+User Name: robot
+Ticket ID: vO6TTjsvEfrrzWBUACPU_7b2f129e-b021-434c-aeaf-6512ad483f7a
+Total Bid Amount: 7900
+Total Earnings: 0
+Profit/Loss: -7900
+
+Breakdown:
+  Bid: 2, Amount: 7900, Payout: 39500, Status: lost

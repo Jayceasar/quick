@@ -1,0 +1,9 @@
+User ID: 29SmzaJny2jJsNBEABxs
+User Name: robot
+Ticket ID: 29SmzaJny2jJsNBEABxs_a5318a37-9f3b-4e0f-afd9-4ce9b649cb5f
+Total Bid Amount: 1700
+Total Earnings: 0
+Profit/Loss: -1700
+
+Breakdown:
+  Bid: 5, Amount: 1700, Payout: 8500, Status: lost

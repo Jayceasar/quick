@@ -1,0 +1,9 @@
+User ID: f72YlLTCLE7PZvZ6AA8r
+User Name: robot
+Ticket ID: f72YlLTCLE7PZvZ6AA8r_73e52ea7-53a0-471d-a88d-2ad368de3cb4
+Total Bid Amount: 9900
+Total Earnings: 0
+Profit/Loss: -9900
+
+Breakdown:
+  Bid: 1, Amount: 9900, Payout: 49500, Status: lost

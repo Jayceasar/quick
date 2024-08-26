@@ -1,0 +1,10 @@
+User ID: zS2RG9-lSPK_DlWRABKY
+User Name: robot
+Ticket ID: zS2RG9-lSPK_DlWRABKY_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 18400
+Total Earnings: 0
+Profit/Loss: -18400
+
+Breakdown:
+  Bid: 2, Amount: 9500, Payout: 47500, Status: lost
+  Bid: 1, Amount: 8900, Payout: 44500, Status: lost

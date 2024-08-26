@@ -1,0 +1,9 @@
+User ID: xWy7JTayyv4jAlcLAByE
+User Name: robot
+Ticket ID: xWy7JTayyv4jAlcLAByE_2ca79661-347a-468a-9798-531cec82b083
+Total Bid Amount: 9300
+Total Earnings: 0
+Profit/Loss: -9300
+
+Breakdown:
+  Bid: 2, Amount: 9300, Payout: 46500, Status: lost

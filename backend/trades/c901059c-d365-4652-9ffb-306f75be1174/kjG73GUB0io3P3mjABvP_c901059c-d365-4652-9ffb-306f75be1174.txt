@@ -1,0 +1,9 @@
+User ID: kjG73GUB0io3P3mjABvP
+User Name: robot
+Ticket ID: kjG73GUB0io3P3mjABvP_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 1700
+Total Earnings: 8500
+Profit/Loss: 6800
+
+Breakdown:
+  Bid: 1, Amount: 1700, Payout: 8500, Status: won

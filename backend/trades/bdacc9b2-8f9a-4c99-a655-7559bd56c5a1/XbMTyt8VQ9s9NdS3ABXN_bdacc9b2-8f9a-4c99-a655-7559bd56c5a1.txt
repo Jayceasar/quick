@@ -1,0 +1,10 @@
+User ID: XbMTyt8VQ9s9NdS3ABXN
+User Name: robot
+Ticket ID: XbMTyt8VQ9s9NdS3ABXN_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 6700
+Total Earnings: 0
+Profit/Loss: -6700
+
+Breakdown:
+  Bid: 1, Amount: 2100, Payout: 10500, Status: lost
+  Bid: 5, Amount: 4600, Payout: 23000, Status: lost

@@ -1,0 +1,9 @@
+User ID: rLwXwFpZybKU1rTWACN1
+User Name: robot
+Ticket ID: rLwXwFpZybKU1rTWACN1_345d4cd4-0238-42dd-b159-99c8537dbed1
+Total Bid Amount: 8600
+Total Earnings: 0
+Profit/Loss: -8600
+
+Breakdown:
+  Bid: 6, Amount: 8600, Payout: 43000, Status: lost

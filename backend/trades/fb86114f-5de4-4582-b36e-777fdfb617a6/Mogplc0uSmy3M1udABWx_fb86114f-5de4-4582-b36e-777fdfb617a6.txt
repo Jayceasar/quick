@@ -1,0 +1,9 @@
+User ID: Mogplc0uSmy3M1udABWx
+User Name: robot
+Ticket ID: Mogplc0uSmy3M1udABWx_fb86114f-5de4-4582-b36e-777fdfb617a6
+Total Bid Amount: 2000
+Total Earnings: 0
+Profit/Loss: -2000
+
+Breakdown:
+  Bid: 2, Amount: 2000, Payout: 10000, Status: lost

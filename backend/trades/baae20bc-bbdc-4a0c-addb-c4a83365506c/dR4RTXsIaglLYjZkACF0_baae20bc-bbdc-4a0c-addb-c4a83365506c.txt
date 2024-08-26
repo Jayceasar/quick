@@ -1,0 +1,9 @@
+User ID: dR4RTXsIaglLYjZkACF0
+User Name: robot
+Ticket ID: dR4RTXsIaglLYjZkACF0_baae20bc-bbdc-4a0c-addb-c4a83365506c
+Total Bid Amount: 6000
+Total Earnings: 0
+Profit/Loss: -6000
+
+Breakdown:
+  Bid: 6, Amount: 6000, Payout: 30000, Status: lost

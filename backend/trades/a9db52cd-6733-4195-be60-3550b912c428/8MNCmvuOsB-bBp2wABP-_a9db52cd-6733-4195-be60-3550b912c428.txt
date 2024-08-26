@@ -1,0 +1,10 @@
+User ID: 8MNCmvuOsB-bBp2wABP-
+User Name: robot
+Ticket ID: 8MNCmvuOsB-bBp2wABP-_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 13100
+Total Earnings: 0
+Profit/Loss: -13100
+
+Breakdown:
+  Bid: 2, Amount: 6000, Payout: 30000, Status: lost
+  Bid: 2, Amount: 7100, Payout: 35500, Status: lost

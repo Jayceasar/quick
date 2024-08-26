@@ -1,0 +1,10 @@
+User ID: NwQEu_U9m2Mm8jZzABJt
+User Name: robot
+Ticket ID: NwQEu_U9m2Mm8jZzABJt_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 10200
+Total Earnings: 33500
+Profit/Loss: 23300
+
+Breakdown:
+  Bid: 5, Amount: 6700, Payout: 33500, Status: won
+  Bid: 2, Amount: 3500, Payout: 17500, Status: lost

@@ -1,0 +1,9 @@
+User ID: Ss_4mxo69MMBxk74AB_U
+User Name: robot
+Ticket ID: Ss_4mxo69MMBxk74AB_U_3e3ffb49-a8be-4e48-a533-33eb486e2676
+Total Bid Amount: 6400
+Total Earnings: 0
+Profit/Loss: -6400
+
+Breakdown:
+  Bid: 4, Amount: 6400, Payout: 32000, Status: lost

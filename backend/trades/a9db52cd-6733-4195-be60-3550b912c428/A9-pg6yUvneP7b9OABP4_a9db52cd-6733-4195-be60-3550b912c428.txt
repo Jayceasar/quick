@@ -1,0 +1,10 @@
+User ID: A9-pg6yUvneP7b9OABP4
+User Name: robot
+Ticket ID: A9-pg6yUvneP7b9OABP4_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 6000
+Total Earnings: 24500
+Profit/Loss: 18500
+
+Breakdown:
+  Bid: 1, Amount: 4900, Payout: 24500, Status: won
+  Bid: 2, Amount: 1100, Payout: 5500, Status: lost

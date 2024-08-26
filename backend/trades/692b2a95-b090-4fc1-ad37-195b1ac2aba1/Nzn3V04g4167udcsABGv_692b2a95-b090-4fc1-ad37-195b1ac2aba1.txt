@@ -1,0 +1,9 @@
+User ID: Nzn3V04g4167udcsABGv
+User Name: robot
+Ticket ID: Nzn3V04g4167udcsABGv_692b2a95-b090-4fc1-ad37-195b1ac2aba1
+Total Bid Amount: 2400
+Total Earnings: 0
+Profit/Loss: -2400
+
+Breakdown:
+  Bid: 1, Amount: 2400, Payout: 12000, Status: lost

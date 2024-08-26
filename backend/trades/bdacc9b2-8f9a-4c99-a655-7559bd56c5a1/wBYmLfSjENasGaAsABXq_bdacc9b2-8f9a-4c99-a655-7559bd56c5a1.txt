@@ -1,0 +1,10 @@
+User ID: wBYmLfSjENasGaAsABXq
+User Name: robot
+Ticket ID: wBYmLfSjENasGaAsABXq_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 12200
+Total Earnings: 61000
+Profit/Loss: 48800
+
+Breakdown:
+  Bid: 3, Amount: 3700, Payout: 18500, Status: won
+  Bid: 3, Amount: 8500, Payout: 42500, Status: won

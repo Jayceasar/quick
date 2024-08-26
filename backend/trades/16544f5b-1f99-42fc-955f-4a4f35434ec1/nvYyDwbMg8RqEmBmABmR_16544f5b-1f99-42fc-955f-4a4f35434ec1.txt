@@ -1,0 +1,9 @@
+User ID: nvYyDwbMg8RqEmBmABmR
+User Name: robot
+Ticket ID: nvYyDwbMg8RqEmBmABmR_16544f5b-1f99-42fc-955f-4a4f35434ec1
+Total Bid Amount: 2800
+Total Earnings: 14000
+Profit/Loss: 11200
+
+Breakdown:
+  Bid: 1, Amount: 2800, Payout: 14000, Status: won

@@ -1,0 +1,9 @@
+User ID: 5-FbSDDpGkxZoc1yABuU
+User Name: robot
+Ticket ID: 5-FbSDDpGkxZoc1yABuU_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 5000
+Total Earnings: 0
+Profit/Loss: -5000
+
+Breakdown:
+  Bid: 2, Amount: 5000, Payout: 25000, Status: lost

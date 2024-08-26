@@ -1,0 +1,9 @@
+User ID: 3N2_Vt8Go9uKtTYUABnf
+User Name: robot
+Ticket ID: 3N2_Vt8Go9uKtTYUABnf_ee604dcb-27d6-4726-96f7-531f06808794
+Total Bid Amount: 4500
+Total Earnings: 0
+Profit/Loss: -4500
+
+Breakdown:
+  Bid: 5, Amount: 4500, Payout: 22500, Status: lost

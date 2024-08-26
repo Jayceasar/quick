@@ -1,0 +1,9 @@
+User ID: _u2kw5-dhLAc627wABtp
+User Name: robot
+Ticket ID: _u2kw5-dhLAc627wABtp_7a1cf374-3b0b-47a8-92f4-370088b1d70d
+Total Bid Amount: 4300
+Total Earnings: 21500
+Profit/Loss: 17200
+
+Breakdown:
+  Bid: 2, Amount: 4300, Payout: 21500, Status: won

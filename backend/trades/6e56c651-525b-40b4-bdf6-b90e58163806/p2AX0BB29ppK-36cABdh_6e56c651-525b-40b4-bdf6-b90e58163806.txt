@@ -1,0 +1,11 @@
+User ID: p2AX0BB29ppK-36cABdh
+User Name: robot
+Ticket ID: p2AX0BB29ppK-36cABdh_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 15700
+Total Earnings: 0
+Profit/Loss: -15700
+
+Breakdown:
+  Bid: 1, Amount: 7100, Payout: 35500, Status: lost
+  Bid: 4, Amount: 8200, Payout: 41000, Status: lost
+  Bid: 1, Amount: 400, Payout: 2000, Status: lost

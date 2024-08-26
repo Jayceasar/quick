@@ -1,0 +1,10 @@
+User ID: gWH4ajAjsxVUP2_-ABhG
+User Name: robot
+Ticket ID: gWH4ajAjsxVUP2_-ABhG_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 15800
+Total Earnings: 79000
+Profit/Loss: 63200
+
+Breakdown:
+  Bid: 2, Amount: 6300, Payout: 31500, Status: won
+  Bid: 2, Amount: 9500, Payout: 47500, Status: won

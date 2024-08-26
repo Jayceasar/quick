@@ -1,0 +1,10 @@
+User ID: V_6qg-WhP1yDqMlLABXz
+User Name: robot
+Ticket ID: V_6qg-WhP1yDqMlLABXz_3b12a05c-d549-48e1-9b4b-7485d6fac451
+Total Bid Amount: 12300
+Total Earnings: 43500
+Profit/Loss: 31200
+
+Breakdown:
+  Bid: 4, Amount: 3600, Payout: 18000, Status: lost
+  Bid: 1, Amount: 8700, Payout: 43500, Status: won

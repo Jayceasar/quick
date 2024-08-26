@@ -1,0 +1,9 @@
+User ID: ojel0UtiqEBxGsR_ACNt
+User Name: robot
+Ticket ID: ojel0UtiqEBxGsR_ACNt_345d4cd4-0238-42dd-b159-99c8537dbed1
+Total Bid Amount: 7900
+Total Earnings: 39500
+Profit/Loss: 31600
+
+Breakdown:
+  Bid: 1, Amount: 7900, Payout: 39500, Status: won

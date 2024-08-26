@@ -1,0 +1,9 @@
+User ID: _RULh2O6t-680U76ACJP
+User Name: robot
+Ticket ID: _RULh2O6t-680U76ACJP_7a619b2b-f9f3-4d8c-b8d2-8f2288186f49
+Total Bid Amount: 9300
+Total Earnings: 46500
+Profit/Loss: 37200
+
+Breakdown:
+  Bid: 5, Amount: 9300, Payout: 46500, Status: won

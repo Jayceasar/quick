@@ -1,0 +1,9 @@
+User ID: PVkXP58W63KwJpLqACQ5
+User Name: robot
+Ticket ID: PVkXP58W63KwJpLqACQ5_d6fe369a-9e2f-42a2-b09f-043f377d512c
+Total Bid Amount: 2500
+Total Earnings: 0
+Profit/Loss: -2500
+
+Breakdown:
+  Bid: 3, Amount: 2500, Payout: 12500, Status: lost

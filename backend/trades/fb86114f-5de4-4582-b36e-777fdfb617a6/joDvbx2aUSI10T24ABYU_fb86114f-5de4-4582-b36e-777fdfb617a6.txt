@@ -1,0 +1,9 @@
+User ID: joDvbx2aUSI10T24ABYU
+User Name: robot
+Ticket ID: joDvbx2aUSI10T24ABYU_fb86114f-5de4-4582-b36e-777fdfb617a6
+Total Bid Amount: 7900
+Total Earnings: 39500
+Profit/Loss: 31600
+
+Breakdown:
+  Bid: 5, Amount: 7900, Payout: 39500, Status: won

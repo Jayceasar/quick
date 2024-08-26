@@ -1,0 +1,10 @@
+User ID: XRSEK1fZchwwaz6qACPR
+User Name: robot
+Ticket ID: XRSEK1fZchwwaz6qACPR_4ace111c-572b-4f64-ae6b-bcdf032d67f1
+Total Bid Amount: 4600
+Total Earnings: 0
+Profit/Loss: -4600
+
+Breakdown:
+  Bid: 1, Amount: 2300, Payout: 11500, Status: lost
+  Bid: 3, Amount: 2300, Payout: 11500, Status: lost

@@ -1,0 +1,9 @@
+User ID: R-c4LRJfm7SsQMvvAA8q
+User Name: robot
+Ticket ID: R-c4LRJfm7SsQMvvAA8q_73e52ea7-53a0-471d-a88d-2ad368de3cb4
+Total Bid Amount: 2900
+Total Earnings: 0
+Profit/Loss: -2900
+
+Breakdown:
+  Bid: 4, Amount: 2900, Payout: 14500, Status: lost

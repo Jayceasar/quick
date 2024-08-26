@@ -1,0 +1,9 @@
+User ID: aNDvLh96dyu9MVo2AB_P
+User Name: robot
+Ticket ID: aNDvLh96dyu9MVo2AB_P_48e48b91-a7f3-42a9-b98a-e8d202ad406b
+Total Bid Amount: 1000
+Total Earnings: 0
+Profit/Loss: -1000
+
+Breakdown:
+  Bid: 3, Amount: 1000, Payout: 5000, Status: lost

@@ -1,0 +1,9 @@
+User ID: 8oJJLxzCCMLe36ChAB_e
+User Name: robot
+Ticket ID: 8oJJLxzCCMLe36ChAB_e_07612224-3336-47cc-8c54-187b9f190cab
+Total Bid Amount: 2600
+Total Earnings: 0
+Profit/Loss: -2600
+
+Breakdown:
+  Bid: 6, Amount: 2600, Payout: 13000, Status: lost

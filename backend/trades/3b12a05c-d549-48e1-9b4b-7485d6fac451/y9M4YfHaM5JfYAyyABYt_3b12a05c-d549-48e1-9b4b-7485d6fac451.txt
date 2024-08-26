@@ -1,0 +1,11 @@
+User ID: y9M4YfHaM5JfYAyyABYt
+User Name: robot
+Ticket ID: y9M4YfHaM5JfYAyyABYt_3b12a05c-d549-48e1-9b4b-7485d6fac451
+Total Bid Amount: 14000
+Total Earnings: 0
+Profit/Loss: -14000
+
+Breakdown:
+  Bid: 4, Amount: 5200, Payout: 26000, Status: lost
+  Bid: 6, Amount: 3400, Payout: 17000, Status: lost
+  Bid: 4, Amount: 5400, Payout: 27000, Status: lost

@@ -1,0 +1,9 @@
+User ID: pLLDhFDVbXl2z3YEABaI
+User Name: robot
+Ticket ID: pLLDhFDVbXl2z3YEABaI_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 1100
+Total Earnings: 5500
+Profit/Loss: 4400
+
+Breakdown:
+  Bid: 3, Amount: 1100, Payout: 5500, Status: won

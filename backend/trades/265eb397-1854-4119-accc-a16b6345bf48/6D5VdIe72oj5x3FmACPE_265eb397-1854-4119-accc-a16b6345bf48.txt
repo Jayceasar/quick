@@ -1,0 +1,9 @@
+User ID: 6D5VdIe72oj5x3FmACPE
+User Name: robot
+Ticket ID: 6D5VdIe72oj5x3FmACPE_265eb397-1854-4119-accc-a16b6345bf48
+Total Bid Amount: 1200
+Total Earnings: 0
+Profit/Loss: -1200
+
+Breakdown:
+  Bid: 6, Amount: 1200, Payout: 6000, Status: lost

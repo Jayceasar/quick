@@ -1,0 +1,9 @@
+User ID: G_pcL7ZFMYNcL4rDAA8f
+User Name: robot
+Ticket ID: G_pcL7ZFMYNcL4rDAA8f_5092f0aa-69e0-4bf1-a90f-11d059a29664
+Total Bid Amount: 200
+Total Earnings: 0
+Profit/Loss: -200
+
+Breakdown:
+  Bid: 2, Amount: 200, Payout: 1000, Status: lost

@@ -1,0 +1,9 @@
+User ID: _Ctis75QMUuHyRyBACRj
+User Name: robot
+Ticket ID: _Ctis75QMUuHyRyBACRj_51c27d4f-33d1-487f-860a-f741a907488f
+Total Bid Amount: 8400
+Total Earnings: 42000
+Profit/Loss: 33600
+
+Breakdown:
+  Bid: 6, Amount: 8400, Payout: 42000, Status: won

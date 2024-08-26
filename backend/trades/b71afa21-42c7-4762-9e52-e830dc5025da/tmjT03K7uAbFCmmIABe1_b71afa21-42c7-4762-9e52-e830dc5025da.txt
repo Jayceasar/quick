@@ -1,0 +1,9 @@
+User ID: tmjT03K7uAbFCmmIABe1
+User Name: robot
+Ticket ID: tmjT03K7uAbFCmmIABe1_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 4700
+Total Earnings: 23500
+Profit/Loss: 18800
+
+Breakdown:
+  Bid: 2, Amount: 4700, Payout: 23500, Status: won

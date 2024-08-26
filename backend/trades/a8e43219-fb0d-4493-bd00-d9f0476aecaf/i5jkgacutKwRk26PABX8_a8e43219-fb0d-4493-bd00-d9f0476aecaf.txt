@@ -1,0 +1,9 @@
+User ID: i5jkgacutKwRk26PABX8
+User Name: robot
+Ticket ID: i5jkgacutKwRk26PABX8_a8e43219-fb0d-4493-bd00-d9f0476aecaf
+Total Bid Amount: 9800
+Total Earnings: 0
+Profit/Loss: -9800
+
+Breakdown:
+  Bid: 3, Amount: 9800, Payout: 49000, Status: lost

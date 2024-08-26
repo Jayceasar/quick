@@ -1,0 +1,9 @@
+User ID: BFfwfkTmWhenG5cRAB_Q
+User Name: robot
+Ticket ID: BFfwfkTmWhenG5cRAB_Q_ce826aab-9a87-417c-932c-403d0e5f1b5b
+Total Bid Amount: 1100
+Total Earnings: 0
+Profit/Loss: -1100
+
+Breakdown:
+  Bid: 1, Amount: 1100, Payout: 5500, Status: lost

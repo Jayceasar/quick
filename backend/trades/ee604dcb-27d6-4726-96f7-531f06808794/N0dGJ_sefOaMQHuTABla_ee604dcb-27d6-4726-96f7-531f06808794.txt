@@ -1,0 +1,9 @@
+User ID: N0dGJ_sefOaMQHuTABla
+User Name: robot
+Ticket ID: N0dGJ_sefOaMQHuTABla_ee604dcb-27d6-4726-96f7-531f06808794
+Total Bid Amount: 7800
+Total Earnings: 0
+Profit/Loss: -7800
+
+Breakdown:
+  Bid: 6, Amount: 7800, Payout: 39000, Status: lost

@@ -1,0 +1,9 @@
+User ID: KM_OCe0KxENXeD8WAB9_
+User Name: robot
+Ticket ID: KM_OCe0KxENXeD8WAB9__a6e522d6-4ff1-4343-a340-6a8e44e26daa
+Total Bid Amount: 6400
+Total Earnings: 0
+Profit/Loss: -6400
+
+Breakdown:
+  Bid: 6, Amount: 6400, Payout: 32000, Status: lost

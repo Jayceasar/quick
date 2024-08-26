@@ -1,0 +1,9 @@
+User ID: sto74lcT38n_GQdxABqM
+User Name: robot
+Ticket ID: sto74lcT38n_GQdxABqM_7a1cf374-3b0b-47a8-92f4-370088b1d70d
+Total Bid Amount: 9400
+Total Earnings: 0
+Profit/Loss: -9400
+
+Breakdown:
+  Bid: 1, Amount: 9400, Payout: 47000, Status: lost

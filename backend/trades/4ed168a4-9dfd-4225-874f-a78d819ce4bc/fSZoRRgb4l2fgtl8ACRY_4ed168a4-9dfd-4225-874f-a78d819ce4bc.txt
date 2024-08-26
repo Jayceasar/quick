@@ -1,0 +1,9 @@
+User ID: fSZoRRgb4l2fgtl8ACRY
+User Name: robot
+Ticket ID: fSZoRRgb4l2fgtl8ACRY_4ed168a4-9dfd-4225-874f-a78d819ce4bc
+Total Bid Amount: 6500
+Total Earnings: 32500
+Profit/Loss: 26000
+
+Breakdown:
+  Bid: 4, Amount: 6500, Payout: 32500, Status: won

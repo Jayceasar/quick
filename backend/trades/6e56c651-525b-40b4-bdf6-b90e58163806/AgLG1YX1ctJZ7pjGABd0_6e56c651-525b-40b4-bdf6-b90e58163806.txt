@@ -1,0 +1,11 @@
+User ID: AgLG1YX1ctJZ7pjGABd0
+User Name: robot
+Ticket ID: AgLG1YX1ctJZ7pjGABd0_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 23600
+Total Earnings: 0
+Profit/Loss: -23600
+
+Breakdown:
+  Bid: 2, Amount: 5500, Payout: 27500, Status: lost
+  Bid: 6, Amount: 8600, Payout: 43000, Status: lost
+  Bid: 6, Amount: 9500, Payout: 47500, Status: lost

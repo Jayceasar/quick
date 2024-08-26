@@ -1,0 +1,9 @@
+User ID: Ex6GZMHInd-KKaRBACPX
+User Name: robot
+Ticket ID: Ex6GZMHInd-KKaRBACPX_b4aa9080-0d9b-4f54-82e1-9c784ee5ed58
+Total Bid Amount: 8000
+Total Earnings: 0
+Profit/Loss: -8000
+
+Breakdown:
+  Bid: 6, Amount: 8000, Payout: 40000, Status: lost

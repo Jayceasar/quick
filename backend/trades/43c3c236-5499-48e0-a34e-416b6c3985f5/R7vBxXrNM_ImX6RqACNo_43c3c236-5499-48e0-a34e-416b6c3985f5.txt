@@ -1,0 +1,9 @@
+User ID: R7vBxXrNM_ImX6RqACNo
+User Name: robot
+Ticket ID: R7vBxXrNM_ImX6RqACNo_43c3c236-5499-48e0-a34e-416b6c3985f5
+Total Bid Amount: 4900
+Total Earnings: 0
+Profit/Loss: -4900
+
+Breakdown:
+  Bid: 5, Amount: 4900, Payout: 24500, Status: lost

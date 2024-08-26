@@ -1,0 +1,9 @@
+User ID: i8mVWYVLiSLBwjkJAB2K
+User Name: robot
+Ticket ID: i8mVWYVLiSLBwjkJAB2K_a5318a37-9f3b-4e0f-afd9-4ce9b649cb5f
+Total Bid Amount: 1200
+Total Earnings: 0
+Profit/Loss: -1200
+
+Breakdown:
+  Bid: 5, Amount: 1200, Payout: 6000, Status: lost

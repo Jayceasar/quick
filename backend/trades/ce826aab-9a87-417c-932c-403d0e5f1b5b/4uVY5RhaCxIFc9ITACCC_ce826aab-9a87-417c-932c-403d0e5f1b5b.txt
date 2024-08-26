@@ -1,0 +1,9 @@
+User ID: 4uVY5RhaCxIFc9ITACCC
+User Name: robot
+Ticket ID: 4uVY5RhaCxIFc9ITACCC_ce826aab-9a87-417c-932c-403d0e5f1b5b
+Total Bid Amount: 8100
+Total Earnings: 40500
+Profit/Loss: 32400
+
+Breakdown:
+  Bid: 5, Amount: 8100, Payout: 40500, Status: won

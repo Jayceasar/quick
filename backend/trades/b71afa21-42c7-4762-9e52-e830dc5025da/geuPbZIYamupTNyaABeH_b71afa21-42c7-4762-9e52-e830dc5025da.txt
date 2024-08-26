@@ -1,0 +1,9 @@
+User ID: geuPbZIYamupTNyaABeH
+User Name: robot
+Ticket ID: geuPbZIYamupTNyaABeH_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 7200
+Total Earnings: 0
+Profit/Loss: -7200
+
+Breakdown:
+  Bid: 3, Amount: 7200, Payout: 36000, Status: lost

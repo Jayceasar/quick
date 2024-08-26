@@ -1,0 +1,9 @@
+User ID: GH5yImdQWmcNPJFNAB2V
+User Name: robot
+Ticket ID: GH5yImdQWmcNPJFNAB2V_2781e5b9-a77d-4c00-9c16-4c60db515876
+Total Bid Amount: 5500
+Total Earnings: 27500
+Profit/Loss: 22000
+
+Breakdown:
+  Bid: 3, Amount: 5500, Payout: 27500, Status: won

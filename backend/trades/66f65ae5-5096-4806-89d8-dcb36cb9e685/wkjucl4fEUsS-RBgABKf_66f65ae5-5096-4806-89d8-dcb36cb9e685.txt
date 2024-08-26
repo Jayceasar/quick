@@ -1,0 +1,10 @@
+User ID: wkjucl4fEUsS-RBgABKf
+User Name: robot
+Ticket ID: wkjucl4fEUsS-RBgABKf_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 8400
+Total Earnings: 0
+Profit/Loss: -8400
+
+Breakdown:
+  Bid: 6, Amount: 1000, Payout: 5000, Status: lost
+  Bid: 3, Amount: 7400, Payout: 37000, Status: lost

@@ -1,0 +1,9 @@
+User ID: cOVeynqPiefA6hS2ABuK
+User Name: robot
+Ticket ID: cOVeynqPiefA6hS2ABuK_7a1cf374-3b0b-47a8-92f4-370088b1d70d
+Total Bid Amount: 3300
+Total Earnings: 16500
+Profit/Loss: 13200
+
+Breakdown:
+  Bid: 2, Amount: 3300, Payout: 16500, Status: won

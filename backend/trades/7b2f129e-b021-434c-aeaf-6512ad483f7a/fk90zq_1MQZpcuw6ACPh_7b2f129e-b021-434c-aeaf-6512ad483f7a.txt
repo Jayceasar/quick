@@ -1,0 +1,9 @@
+User ID: fk90zq_1MQZpcuw6ACPh
+User Name: robot
+Ticket ID: fk90zq_1MQZpcuw6ACPh_7b2f129e-b021-434c-aeaf-6512ad483f7a
+Total Bid Amount: 2000
+Total Earnings: 0
+Profit/Loss: -2000
+
+Breakdown:
+  Bid: 1, Amount: 2000, Payout: 10000, Status: lost

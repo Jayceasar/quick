@@ -1,0 +1,10 @@
+User ID: ZSNBrVT7iop1TGJEABWv
+User Name: robot
+Ticket ID: ZSNBrVT7iop1TGJEABWv_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 2900
+Total Earnings: 0
+Profit/Loss: -2900
+
+Breakdown:
+  Bid: 5, Amount: 1200, Payout: 6000, Status: lost
+  Bid: 4, Amount: 1700, Payout: 8500, Status: lost

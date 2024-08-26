@@ -1,0 +1,10 @@
+User ID: cHzNG0JaurrXks3iABlE
+User Name: robot
+Ticket ID: cHzNG0JaurrXks3iABlE_33fbb41f-21df-4ee4-a3d1-4429a431ece2
+Total Bid Amount: 7500
+Total Earnings: 4500
+Profit/Loss: -3000
+
+Breakdown:
+  Bid: 4, Amount: 900, Payout: 4500, Status: won
+  Bid: 2, Amount: 6600, Payout: 33000, Status: lost

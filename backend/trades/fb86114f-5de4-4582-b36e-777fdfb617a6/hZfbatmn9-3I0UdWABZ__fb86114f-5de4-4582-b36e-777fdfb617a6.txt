@@ -1,0 +1,10 @@
+User ID: hZfbatmn9-3I0UdWABZ_
+User Name: robot
+Ticket ID: hZfbatmn9-3I0UdWABZ__fb86114f-5de4-4582-b36e-777fdfb617a6
+Total Bid Amount: 9300
+Total Earnings: 27000
+Profit/Loss: 17700
+
+Breakdown:
+  Bid: 5, Amount: 5400, Payout: 27000, Status: won
+  Bid: 4, Amount: 3900, Payout: 19500, Status: lost

@@ -1,0 +1,10 @@
+User ID: d0TCJiWLEuOi5IoKAA_H
+User Name: robot
+Ticket ID: d0TCJiWLEuOi5IoKAA_H_c2621c2b-31fe-494f-9a0a-60049100734b
+Total Bid Amount: 10100
+Total Earnings: 44000
+Profit/Loss: 33900
+
+Breakdown:
+  Bid: 4, Amount: 1300, Payout: 6500, Status: lost
+  Bid: 2, Amount: 8800, Payout: 44000, Status: won

@@ -1,0 +1,9 @@
+User ID: YTkw-ILOt7lY1Kt_ACOY
+User Name: robot
+Ticket ID: YTkw-ILOt7lY1Kt_ACOY_7a7e54ad-85d9-46d7-ad11-b76833f80845
+Total Bid Amount: 7600
+Total Earnings: 0
+Profit/Loss: -7600
+
+Breakdown:
+  Bid: 5, Amount: 7600, Payout: 38000, Status: lost

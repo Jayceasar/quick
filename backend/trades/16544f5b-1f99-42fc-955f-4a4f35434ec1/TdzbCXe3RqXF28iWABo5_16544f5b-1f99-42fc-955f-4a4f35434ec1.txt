@@ -1,0 +1,10 @@
+User ID: TdzbCXe3RqXF28iWABo5
+User Name: robot
+Ticket ID: TdzbCXe3RqXF28iWABo5_16544f5b-1f99-42fc-955f-4a4f35434ec1
+Total Bid Amount: 1000
+Total Earnings: 0
+Profit/Loss: -1000
+
+Breakdown:
+  Bid: 2, Amount: 800, Payout: 4000, Status: lost
+  Bid: 6, Amount: 200, Payout: 1000, Status: lost

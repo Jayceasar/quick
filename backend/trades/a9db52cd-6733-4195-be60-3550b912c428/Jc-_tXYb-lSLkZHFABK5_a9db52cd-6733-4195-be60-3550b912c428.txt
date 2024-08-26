@@ -1,0 +1,9 @@
+User ID: Jc-_tXYb-lSLkZHFABK5
+User Name: robot
+Ticket ID: Jc-_tXYb-lSLkZHFABK5_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 7600
+Total Earnings: 0
+Profit/Loss: -7600
+
+Breakdown:
+  Bid: 3, Amount: 7600, Payout: 38000, Status: lost

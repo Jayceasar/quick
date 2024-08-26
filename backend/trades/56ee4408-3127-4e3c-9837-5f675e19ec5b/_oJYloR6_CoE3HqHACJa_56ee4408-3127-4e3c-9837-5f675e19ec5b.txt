@@ -1,0 +1,9 @@
+User ID: _oJYloR6_CoE3HqHACJa
+User Name: robot
+Ticket ID: _oJYloR6_CoE3HqHACJa_56ee4408-3127-4e3c-9837-5f675e19ec5b
+Total Bid Amount: 9100
+Total Earnings: 0
+Profit/Loss: -9100
+
+Breakdown:
+  Bid: 4, Amount: 9100, Payout: 45500, Status: lost

@@ -1,0 +1,10 @@
+User ID: fZf-w1lO9cwDcOCWABP3
+User Name: robot
+Ticket ID: fZf-w1lO9cwDcOCWABP3_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 7600
+Total Earnings: 0
+Profit/Loss: -7600
+
+Breakdown:
+  Bid: 5, Amount: 1800, Payout: 9000, Status: lost
+  Bid: 6, Amount: 5800, Payout: 29000, Status: lost

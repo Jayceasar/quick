@@ -1,0 +1,11 @@
+User ID: bn4pO6L4HSDuOVfPABdJ
+User Name: robot
+Ticket ID: bn4pO6L4HSDuOVfPABdJ_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 20600
+Total Earnings: 48000
+Profit/Loss: 27400
+
+Breakdown:
+  Bid: 2, Amount: 2300, Payout: 11500, Status: lost
+  Bid: 5, Amount: 8700, Payout: 43500, Status: lost
+  Bid: 3, Amount: 9600, Payout: 48000, Status: won

@@ -1,0 +1,9 @@
+User ID: Jl6cvQWCLHVcso5oAB-R
+User Name: robot
+Ticket ID: Jl6cvQWCLHVcso5oAB-R_08a5c846-9e25-4cd7-810c-2809d6eecf3d
+Total Bid Amount: 5700
+Total Earnings: 28500
+Profit/Loss: 22800
+
+Breakdown:
+  Bid: 1, Amount: 5700, Payout: 28500, Status: won

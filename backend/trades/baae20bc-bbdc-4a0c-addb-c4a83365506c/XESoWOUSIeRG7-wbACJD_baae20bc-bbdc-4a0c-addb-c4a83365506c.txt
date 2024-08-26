@@ -1,0 +1,9 @@
+User ID: XESoWOUSIeRG7-wbACJD
+User Name: robot
+Ticket ID: XESoWOUSIeRG7-wbACJD_baae20bc-bbdc-4a0c-addb-c4a83365506c
+Total Bid Amount: 6500
+Total Earnings: 0
+Profit/Loss: -6500
+
+Breakdown:
+  Bid: 1, Amount: 6500, Payout: 32500, Status: lost

@@ -1,0 +1,9 @@
+User ID: qTp84EyhlRQ0daURACO9
+User Name: robot
+Ticket ID: qTp84EyhlRQ0daURACO9_72f9191e-e346-449d-8a09-8eb634b49b76
+Total Bid Amount: 3000
+Total Earnings: 15000
+Profit/Loss: 12000
+
+Breakdown:
+  Bid: 6, Amount: 3000, Payout: 15000, Status: won

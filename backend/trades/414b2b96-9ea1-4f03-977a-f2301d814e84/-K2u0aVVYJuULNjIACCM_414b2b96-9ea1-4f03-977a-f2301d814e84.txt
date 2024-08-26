@@ -1,0 +1,9 @@
+User ID: -K2u0aVVYJuULNjIACCM
+User Name: robot
+Ticket ID: -K2u0aVVYJuULNjIACCM_414b2b96-9ea1-4f03-977a-f2301d814e84
+Total Bid Amount: 9400
+Total Earnings: 0
+Profit/Loss: -9400
+
+Breakdown:
+  Bid: 3, Amount: 9400, Payout: 47000, Status: lost

@@ -1,0 +1,9 @@
+User ID: ij9KQbMDL_z-X9ShABu1
+User Name: robot
+Ticket ID: ij9KQbMDL_z-X9ShABu1_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 6600
+Total Earnings: 0
+Profit/Loss: -6600
+
+Breakdown:
+  Bid: 2, Amount: 6600, Payout: 33000, Status: lost

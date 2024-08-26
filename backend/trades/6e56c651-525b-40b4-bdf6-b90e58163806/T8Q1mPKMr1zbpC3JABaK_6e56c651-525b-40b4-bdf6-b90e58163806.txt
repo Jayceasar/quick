@@ -1,0 +1,9 @@
+User ID: T8Q1mPKMr1zbpC3JABaK
+User Name: robot
+Ticket ID: T8Q1mPKMr1zbpC3JABaK_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 3300
+Total Earnings: 16500
+Profit/Loss: 13200
+
+Breakdown:
+  Bid: 3, Amount: 3300, Payout: 16500, Status: won

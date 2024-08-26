@@ -1,0 +1,9 @@
+User ID: OTkQ7M7fp6C18twwAB1w
+User Name: robot
+Ticket ID: OTkQ7M7fp6C18twwAB1w_cb7b5adb-35cb-4abd-a9dd-0532d0ca6333
+Total Bid Amount: 1000
+Total Earnings: 0
+Profit/Loss: -1000
+
+Breakdown:
+  Bid: 1, Amount: 1000, Payout: 5000, Status: lost

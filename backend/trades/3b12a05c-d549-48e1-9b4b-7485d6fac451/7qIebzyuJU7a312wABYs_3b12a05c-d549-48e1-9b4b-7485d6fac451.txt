@@ -1,0 +1,11 @@
+User ID: 7qIebzyuJU7a312wABYs
+User Name: robot
+Ticket ID: 7qIebzyuJU7a312wABYs_3b12a05c-d549-48e1-9b4b-7485d6fac451
+Total Bid Amount: 12900
+Total Earnings: 30000
+Profit/Loss: 17100
+
+Breakdown:
+  Bid: 3, Amount: 5900, Payout: 29500, Status: lost
+  Bid: 1, Amount: 6000, Payout: 30000, Status: won
+  Bid: 3, Amount: 1000, Payout: 5000, Status: lost

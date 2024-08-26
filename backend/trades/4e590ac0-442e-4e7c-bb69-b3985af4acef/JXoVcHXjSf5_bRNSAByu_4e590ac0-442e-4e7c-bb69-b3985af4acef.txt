@@ -1,0 +1,9 @@
+User ID: JXoVcHXjSf5_bRNSAByu
+User Name: robot
+Ticket ID: JXoVcHXjSf5_bRNSAByu_4e590ac0-442e-4e7c-bb69-b3985af4acef
+Total Bid Amount: 4800
+Total Earnings: 0
+Profit/Loss: -4800
+
+Breakdown:
+  Bid: 5, Amount: 4800, Payout: 24000, Status: lost

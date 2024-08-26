@@ -1,0 +1,9 @@
+User ID: I1HfotGkDI9fiB_GABJw
+User Name: robot
+Ticket ID: I1HfotGkDI9fiB_GABJw_692b2a95-b090-4fc1-ad37-195b1ac2aba1
+Total Bid Amount: 8700
+Total Earnings: 0
+Profit/Loss: -8700
+
+Breakdown:
+  Bid: 4, Amount: 8700, Payout: 43500, Status: lost

@@ -1,0 +1,9 @@
+User ID: GiMqpl6HTcQ_yyjoABSI
+User Name: robot
+Ticket ID: GiMqpl6HTcQ_yyjoABSI_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 4400
+Total Earnings: 0
+Profit/Loss: -4400
+
+Breakdown:
+  Bid: 1, Amount: 4400, Payout: 22000, Status: lost

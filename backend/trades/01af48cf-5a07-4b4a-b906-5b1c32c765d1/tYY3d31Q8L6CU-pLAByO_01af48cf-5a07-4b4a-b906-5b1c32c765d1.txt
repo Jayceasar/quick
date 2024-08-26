@@ -1,0 +1,9 @@
+User ID: tYY3d31Q8L6CU-pLAByO
+User Name: robot
+Ticket ID: tYY3d31Q8L6CU-pLAByO_01af48cf-5a07-4b4a-b906-5b1c32c765d1
+Total Bid Amount: 6800
+Total Earnings: 0
+Profit/Loss: -6800
+
+Breakdown:
+  Bid: 1, Amount: 6800, Payout: 34000, Status: lost

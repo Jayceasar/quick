@@ -1,0 +1,9 @@
+User ID: Fj78LeRLkZAtcLdeAA9D
+User Name: robot
+Ticket ID: Fj78LeRLkZAtcLdeAA9D_5092f0aa-69e0-4bf1-a90f-11d059a29664
+Total Bid Amount: 4100
+Total Earnings: 0
+Profit/Loss: -4100
+
+Breakdown:
+  Bid: 5, Amount: 4100, Payout: 20500, Status: lost

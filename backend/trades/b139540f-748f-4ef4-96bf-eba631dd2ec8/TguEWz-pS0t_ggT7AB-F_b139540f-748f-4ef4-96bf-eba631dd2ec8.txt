@@ -1,0 +1,9 @@
+User ID: TguEWz-pS0t_ggT7AB-F
+User Name: robot
+Ticket ID: TguEWz-pS0t_ggT7AB-F_b139540f-748f-4ef4-96bf-eba631dd2ec8
+Total Bid Amount: 4800
+Total Earnings: 0
+Profit/Loss: -4800
+
+Breakdown:
+  Bid: 3, Amount: 4800, Payout: 24000, Status: lost

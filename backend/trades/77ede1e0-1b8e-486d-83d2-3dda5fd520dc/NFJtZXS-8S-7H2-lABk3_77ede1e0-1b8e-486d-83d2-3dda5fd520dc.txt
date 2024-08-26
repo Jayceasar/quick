@@ -1,0 +1,9 @@
+User ID: NFJtZXS-8S-7H2-lABk3
+User Name: robot
+Ticket ID: NFJtZXS-8S-7H2-lABk3_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
+Total Bid Amount: 8200
+Total Earnings: 0
+Profit/Loss: -8200
+
+Breakdown:
+  Bid: 4, Amount: 8200, Payout: 41000, Status: lost

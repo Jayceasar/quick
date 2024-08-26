@@ -1,0 +1,10 @@
+User ID: yyHEjdhRHurZmhNYABo3
+User Name: robot
+Ticket ID: yyHEjdhRHurZmhNYABo3_16544f5b-1f99-42fc-955f-4a4f35434ec1
+Total Bid Amount: 18100
+Total Earnings: 49000
+Profit/Loss: 30900
+
+Breakdown:
+  Bid: 1, Amount: 9800, Payout: 49000, Status: won
+  Bid: 2, Amount: 8300, Payout: 41500, Status: lost

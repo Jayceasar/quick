@@ -1,0 +1,9 @@
+User ID: 947BGLaBaKYnJkrbABmi
+User Name: robot
+Ticket ID: 947BGLaBaKYnJkrbABmi_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
+Total Bid Amount: 200
+Total Earnings: 0
+Profit/Loss: -200
+
+Breakdown:
+  Bid: 2, Amount: 200, Payout: 1000, Status: lost

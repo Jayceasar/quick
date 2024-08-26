@@ -1,0 +1,10 @@
+User ID: _dsKyLxr9hJC8uYAABux
+User Name: robot
+Ticket ID: _dsKyLxr9hJC8uYAABux_aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 18200
+Total Earnings: 0
+Profit/Loss: -18200
+
+Breakdown:
+  Bid: 4, Amount: 9600, Payout: 48000, Status: lost
+  Bid: 4, Amount: 8600, Payout: 43000, Status: lost

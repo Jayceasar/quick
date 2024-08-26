@@ -1,0 +1,10 @@
+User ID: 38WTe7CC16cIU4vLABtX
+User Name: robot
+Ticket ID: 38WTe7CC16cIU4vLABtX_aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 15600
+Total Earnings: 0
+Profit/Loss: -15600
+
+Breakdown:
+  Bid: 4, Amount: 6100, Payout: 30500, Status: lost
+  Bid: 4, Amount: 9500, Payout: 47500, Status: lost

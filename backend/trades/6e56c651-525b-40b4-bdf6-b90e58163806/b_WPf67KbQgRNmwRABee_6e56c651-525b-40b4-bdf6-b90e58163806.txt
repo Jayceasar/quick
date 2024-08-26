@@ -1,0 +1,11 @@
+User ID: b_WPf67KbQgRNmwRABee
+User Name: robot
+Ticket ID: b_WPf67KbQgRNmwRABee_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 7300
+Total Earnings: 0
+Profit/Loss: -7300
+
+Breakdown:
+  Bid: 5, Amount: 5600, Payout: 28000, Status: lost
+  Bid: 5, Amount: 400, Payout: 2000, Status: lost
+  Bid: 5, Amount: 1300, Payout: 6500, Status: lost

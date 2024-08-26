@@ -1,0 +1,10 @@
+User ID: i5QHcaNZENMPEqqsACGZ
+User Name: robot
+Ticket ID: i5QHcaNZENMPEqqsACGZ_71cbb6bc-36d1-4755-a032-d48a1c89502d
+Total Bid Amount: 15500
+Total Earnings: 0
+Profit/Loss: -15500
+
+Breakdown:
+  Bid: 1, Amount: 9000, Payout: 45000, Status: lost
+  Bid: 2, Amount: 6500, Payout: 32500, Status: lost

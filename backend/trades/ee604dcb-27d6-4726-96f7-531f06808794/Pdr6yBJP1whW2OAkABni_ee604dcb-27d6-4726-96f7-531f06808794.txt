@@ -1,0 +1,9 @@
+User ID: Pdr6yBJP1whW2OAkABni
+User Name: robot
+Ticket ID: Pdr6yBJP1whW2OAkABni_ee604dcb-27d6-4726-96f7-531f06808794
+Total Bid Amount: 2300
+Total Earnings: 0
+Profit/Loss: -2300
+
+Breakdown:
+  Bid: 1, Amount: 2300, Payout: 11500, Status: lost

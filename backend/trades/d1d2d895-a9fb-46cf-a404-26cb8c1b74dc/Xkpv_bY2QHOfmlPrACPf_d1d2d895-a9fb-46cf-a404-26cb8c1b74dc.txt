@@ -1,0 +1,9 @@
+User ID: Xkpv_bY2QHOfmlPrACPf
+User Name: robot
+Ticket ID: Xkpv_bY2QHOfmlPrACPf_d1d2d895-a9fb-46cf-a404-26cb8c1b74dc
+Total Bid Amount: 9000
+Total Earnings: 0
+Profit/Loss: -9000
+
+Breakdown:
+  Bid: 6, Amount: 9000, Payout: 45000, Status: lost

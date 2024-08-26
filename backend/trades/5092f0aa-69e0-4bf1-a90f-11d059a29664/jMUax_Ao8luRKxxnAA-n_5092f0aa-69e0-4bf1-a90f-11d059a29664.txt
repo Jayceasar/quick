@@ -1,0 +1,9 @@
+User ID: jMUax_Ao8luRKxxnAA-n
+User Name: robot
+Ticket ID: jMUax_Ao8luRKxxnAA-n_5092f0aa-69e0-4bf1-a90f-11d059a29664
+Total Bid Amount: 4400
+Total Earnings: 0
+Profit/Loss: -4400
+
+Breakdown:
+  Bid: 2, Amount: 4400, Payout: 22000, Status: lost

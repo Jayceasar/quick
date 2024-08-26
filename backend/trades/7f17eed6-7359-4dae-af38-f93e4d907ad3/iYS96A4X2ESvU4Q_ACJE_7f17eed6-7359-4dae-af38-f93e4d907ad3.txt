@@ -1,0 +1,9 @@
+User ID: iYS96A4X2ESvU4Q_ACJE
+User Name: robot
+Ticket ID: iYS96A4X2ESvU4Q_ACJE_7f17eed6-7359-4dae-af38-f93e4d907ad3
+Total Bid Amount: 7400
+Total Earnings: 37000
+Profit/Loss: 29600
+
+Breakdown:
+  Bid: 3, Amount: 7400, Payout: 37000, Status: won

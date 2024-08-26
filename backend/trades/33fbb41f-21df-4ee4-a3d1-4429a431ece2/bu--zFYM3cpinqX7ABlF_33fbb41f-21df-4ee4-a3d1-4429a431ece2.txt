@@ -1,0 +1,10 @@
+User ID: bu--zFYM3cpinqX7ABlF
+User Name: robot
+Ticket ID: bu--zFYM3cpinqX7ABlF_33fbb41f-21df-4ee4-a3d1-4429a431ece2
+Total Bid Amount: 17700
+Total Earnings: 0
+Profit/Loss: -17700
+
+Breakdown:
+  Bid: 1, Amount: 8600, Payout: 43000, Status: lost
+  Bid: 2, Amount: 9100, Payout: 45500, Status: lost

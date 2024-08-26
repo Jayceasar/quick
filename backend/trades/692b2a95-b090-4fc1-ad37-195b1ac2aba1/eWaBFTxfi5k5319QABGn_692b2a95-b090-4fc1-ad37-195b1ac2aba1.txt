@@ -1,0 +1,9 @@
+User ID: eWaBFTxfi5k5319QABGn
+User Name: robot
+Ticket ID: eWaBFTxfi5k5319QABGn_692b2a95-b090-4fc1-ad37-195b1ac2aba1
+Total Bid Amount: 4100
+Total Earnings: 0
+Profit/Loss: -4100
+
+Breakdown:
+  Bid: 6, Amount: 4100, Payout: 20500, Status: lost

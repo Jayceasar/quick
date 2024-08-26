@@ -1,0 +1,10 @@
+User ID: aMIpREP7Rl0mXx9aABPz
+User Name: robot
+Ticket ID: aMIpREP7Rl0mXx9aABPz_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 5400
+Total Earnings: 8500
+Profit/Loss: 3100
+
+Breakdown:
+  Bid: 2, Amount: 3700, Payout: 18500, Status: lost
+  Bid: 1, Amount: 1700, Payout: 8500, Status: won

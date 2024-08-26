@@ -1,0 +1,10 @@
+User ID: gcq_ss3bLUtz5x6LABmK
+User Name: robot
+Ticket ID: gcq_ss3bLUtz5x6LABmK_33fbb41f-21df-4ee4-a3d1-4429a431ece2
+Total Bid Amount: 13600
+Total Earnings: 0
+Profit/Loss: -13600
+
+Breakdown:
+  Bid: 5, Amount: 5100, Payout: 25500, Status: lost
+  Bid: 6, Amount: 8500, Payout: 42500, Status: lost

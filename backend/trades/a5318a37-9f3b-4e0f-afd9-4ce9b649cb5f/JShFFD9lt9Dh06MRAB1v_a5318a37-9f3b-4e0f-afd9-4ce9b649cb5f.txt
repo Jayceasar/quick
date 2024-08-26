@@ -1,0 +1,9 @@
+User ID: JShFFD9lt9Dh06MRAB1v
+User Name: robot
+Ticket ID: JShFFD9lt9Dh06MRAB1v_a5318a37-9f3b-4e0f-afd9-4ce9b649cb5f
+Total Bid Amount: 1700
+Total Earnings: 0
+Profit/Loss: -1700
+
+Breakdown:
+  Bid: 6, Amount: 1700, Payout: 8500, Status: lost

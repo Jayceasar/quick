@@ -1,0 +1,9 @@
+User ID: u2nXZt-W5S0whHlHABng
+User Name: robot
+Ticket ID: u2nXZt-W5S0whHlHABng_ee604dcb-27d6-4726-96f7-531f06808794
+Total Bid Amount: 1000
+Total Earnings: 0
+Profit/Loss: -1000
+
+Breakdown:
+  Bid: 5, Amount: 1000, Payout: 5000, Status: lost

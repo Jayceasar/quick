@@ -1,0 +1,9 @@
+User ID: Fs3C8xkz4pUL2B2-AB1u
+User Name: robot
+Ticket ID: Fs3C8xkz4pUL2B2-AB1u_a5318a37-9f3b-4e0f-afd9-4ce9b649cb5f
+Total Bid Amount: 2200
+Total Earnings: 0
+Profit/Loss: -2200
+
+Breakdown:
+  Bid: 5, Amount: 2200, Payout: 11000, Status: lost

@@ -1,0 +1,9 @@
+User ID: AvTu15p5llpRdtM5ABK1
+User Name: robot
+Ticket ID: AvTu15p5llpRdtM5ABK1_53f52dfa-658a-410e-aa4f-daee0e5a689c
+Total Bid Amount: 5100
+Total Earnings: 0
+Profit/Loss: -5100
+
+Breakdown:
+  Bid: 1, Amount: 5100, Payout: 25500, Status: lost

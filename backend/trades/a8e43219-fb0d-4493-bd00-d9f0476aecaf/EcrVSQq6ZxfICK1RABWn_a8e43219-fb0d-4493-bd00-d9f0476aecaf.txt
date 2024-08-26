@@ -1,0 +1,9 @@
+User ID: EcrVSQq6ZxfICK1RABWn
+User Name: robot
+Ticket ID: EcrVSQq6ZxfICK1RABWn_a8e43219-fb0d-4493-bd00-d9f0476aecaf
+Total Bid Amount: 3400
+Total Earnings: 0
+Profit/Loss: -3400
+
+Breakdown:
+  Bid: 1, Amount: 3400, Payout: 17000, Status: lost

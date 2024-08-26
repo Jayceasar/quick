@@ -1,0 +1,10 @@
+User ID: s6mrDBIjOZdrEnQ4ACCJ
+User Name: robot
+Ticket ID: s6mrDBIjOZdrEnQ4ACCJ_a295add0-ed87-4739-9946-a802886ede6f
+Total Bid Amount: 5300
+Total Earnings: 0
+Profit/Loss: -5300
+
+Breakdown:
+  Bid: 4, Amount: 1500, Payout: 7500, Status: lost
+  Bid: 1, Amount: 3800, Payout: 19000, Status: lost

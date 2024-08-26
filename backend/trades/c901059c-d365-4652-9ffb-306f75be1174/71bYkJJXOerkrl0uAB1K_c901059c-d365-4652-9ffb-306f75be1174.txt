@@ -1,0 +1,10 @@
+User ID: 71bYkJJXOerkrl0uAB1K
+User Name: robot
+Ticket ID: 71bYkJJXOerkrl0uAB1K_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 18600
+Total Earnings: 0
+Profit/Loss: -18600
+
+Breakdown:
+  Bid: 4, Amount: 9100, Payout: 45500, Status: lost
+  Bid: 2, Amount: 9500, Payout: 47500, Status: lost

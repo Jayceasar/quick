@@ -1,0 +1,9 @@
+User ID: 97lTW5lRL2xu3dF5AB2J
+User Name: robot
+Ticket ID: 97lTW5lRL2xu3dF5AB2J_c5622fe9-fa66-4682-a1ea-f8ed721f9645
+Total Bid Amount: 4100
+Total Earnings: 0
+Profit/Loss: -4100
+
+Breakdown:
+  Bid: 4, Amount: 4100, Payout: 20500, Status: lost

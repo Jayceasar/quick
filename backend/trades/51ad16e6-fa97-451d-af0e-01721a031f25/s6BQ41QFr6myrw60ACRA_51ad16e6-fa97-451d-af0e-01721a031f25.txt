@@ -1,0 +1,9 @@
+User ID: s6BQ41QFr6myrw60ACRA
+User Name: robot
+Ticket ID: s6BQ41QFr6myrw60ACRA_51ad16e6-fa97-451d-af0e-01721a031f25
+Total Bid Amount: 8200
+Total Earnings: 41000
+Profit/Loss: 32800
+
+Breakdown:
+  Bid: 2, Amount: 8200, Payout: 41000, Status: won

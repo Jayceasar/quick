@@ -1,0 +1,9 @@
+User ID: 4hb2z7jywt0uMBKMACRg
+User Name: robot
+Ticket ID: 4hb2z7jywt0uMBKMACRg_353d9a8d-b467-459c-a021-41a8695a27a3
+Total Bid Amount: 1500
+Total Earnings: 7500
+Profit/Loss: 6000
+
+Breakdown:
+  Bid: 1, Amount: 1500, Payout: 7500, Status: won

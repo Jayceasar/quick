@@ -1,0 +1,9 @@
+User ID: YQ_4U8wn6D11tNi3ABs9
+User Name: robot
+Ticket ID: YQ_4U8wn6D11tNi3ABs9_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 1500
+Total Earnings: 0
+Profit/Loss: -1500
+
+Breakdown:
+  Bid: 5, Amount: 1500, Payout: 7500, Status: lost

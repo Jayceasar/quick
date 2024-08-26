@@ -1,0 +1,10 @@
+User ID: pnWmghGg4MldDm3NAA9_
+User Name: robot
+Ticket ID: pnWmghGg4MldDm3NAA9__c2621c2b-31fe-494f-9a0a-60049100734b
+Total Bid Amount: 2800
+Total Earnings: 1000
+Profit/Loss: -1800
+
+Breakdown:
+  Bid: 5, Amount: 2600, Payout: 13000, Status: lost
+  Bid: 2, Amount: 200, Payout: 1000, Status: won

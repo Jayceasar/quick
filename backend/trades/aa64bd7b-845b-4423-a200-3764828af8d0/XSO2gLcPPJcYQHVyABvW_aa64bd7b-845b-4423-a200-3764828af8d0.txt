@@ -1,0 +1,10 @@
+User ID: XSO2gLcPPJcYQHVyABvW
+User Name: robot
+Ticket ID: XSO2gLcPPJcYQHVyABvW_aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 2500
+Total Earnings: 5000
+Profit/Loss: 2500
+
+Breakdown:
+  Bid: 3, Amount: 1000, Payout: 5000, Status: won
+  Bid: 6, Amount: 1500, Payout: 7500, Status: lost

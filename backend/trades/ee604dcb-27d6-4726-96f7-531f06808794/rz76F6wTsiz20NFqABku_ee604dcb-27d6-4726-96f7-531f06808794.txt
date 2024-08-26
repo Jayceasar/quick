@@ -1,0 +1,9 @@
+User ID: rz76F6wTsiz20NFqABku
+User Name: robot
+Ticket ID: rz76F6wTsiz20NFqABku_ee604dcb-27d6-4726-96f7-531f06808794
+Total Bid Amount: 1300
+Total Earnings: 0
+Profit/Loss: -1300
+
+Breakdown:
+  Bid: 3, Amount: 1300, Payout: 6500, Status: lost

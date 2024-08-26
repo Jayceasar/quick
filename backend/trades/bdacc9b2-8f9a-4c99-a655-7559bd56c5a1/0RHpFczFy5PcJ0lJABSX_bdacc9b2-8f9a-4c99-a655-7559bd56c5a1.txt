@@ -1,0 +1,9 @@
+User ID: 0RHpFczFy5PcJ0lJABSX
+User Name: robot
+Ticket ID: 0RHpFczFy5PcJ0lJABSX_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 3900
+Total Earnings: 19500
+Profit/Loss: 15600
+
+Breakdown:
+  Bid: 3, Amount: 3900, Payout: 19500, Status: won

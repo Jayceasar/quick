@@ -1,0 +1,9 @@
+User ID: 5F5ANSPAV0Su_ehMACPp
+User Name: robot
+Ticket ID: 5F5ANSPAV0Su_ehMACPp_dcdccbbf-fe99-4c86-850c-d63a69cb323d
+Total Bid Amount: 2600
+Total Earnings: 13000
+Profit/Loss: 10400
+
+Breakdown:
+  Bid: 1, Amount: 2600, Payout: 13000, Status: won

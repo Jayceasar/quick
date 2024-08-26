@@ -1,0 +1,9 @@
+User ID: mUsqt9284lwvfMU2ABqA
+User Name: robot
+Ticket ID: mUsqt9284lwvfMU2ABqA_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 200
+Total Earnings: 0
+Profit/Loss: -200
+
+Breakdown:
+  Bid: 5, Amount: 200, Payout: 1000, Status: lost

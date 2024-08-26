@@ -1,0 +1,9 @@
+User ID: JtGQTcjNjgem2W1AAB2p
+User Name: robot
+Ticket ID: JtGQTcjNjgem2W1AAB2p_2ca79661-347a-468a-9798-531cec82b083
+Total Bid Amount: 1900
+Total Earnings: 0
+Profit/Loss: -1900
+
+Breakdown:
+  Bid: 6, Amount: 1900, Payout: 9500, Status: lost

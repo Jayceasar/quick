@@ -1,0 +1,9 @@
+User ID: TgGpm23mkb7TIgJxACRS
+User Name: robot
+Ticket ID: TgGpm23mkb7TIgJxACRS_91348535-c529-4908-b7fd-7b92a88c8704
+Total Bid Amount: 5500
+Total Earnings: 0
+Profit/Loss: -5500
+
+Breakdown:
+  Bid: 3, Amount: 5500, Payout: 27500, Status: lost

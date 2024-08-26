@@ -1,0 +1,11 @@
+User ID: geuPbZIYamupTNyaABeH
+User Name: robot
+Ticket ID: geuPbZIYamupTNyaABeH_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 16700
+Total Earnings: 17000
+Profit/Loss: 300
+
+Breakdown:
+  Bid: 2, Amount: 5100, Payout: 25500, Status: lost
+  Bid: 4, Amount: 8200, Payout: 41000, Status: lost
+  Bid: 3, Amount: 3400, Payout: 17000, Status: won

@@ -1,0 +1,9 @@
+User ID: T8h-_1dA3FaFslfZACCS
+User Name: robot
+Ticket ID: T8h-_1dA3FaFslfZACCS_07612224-3336-47cc-8c54-187b9f190cab
+Total Bid Amount: 3500
+Total Earnings: 0
+Profit/Loss: -3500
+
+Breakdown:
+  Bid: 6, Amount: 3500, Payout: 17500, Status: lost

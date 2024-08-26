@@ -1,0 +1,10 @@
+User ID: s3QLKrdTmWN7XR_WAA9n
+User Name: robot
+Ticket ID: s3QLKrdTmWN7XR_WAA9n_c2621c2b-31fe-494f-9a0a-60049100734b
+Total Bid Amount: 19500
+Total Earnings: 49500
+Profit/Loss: 30000
+
+Breakdown:
+  Bid: 3, Amount: 9600, Payout: 48000, Status: lost
+  Bid: 2, Amount: 9900, Payout: 49500, Status: won

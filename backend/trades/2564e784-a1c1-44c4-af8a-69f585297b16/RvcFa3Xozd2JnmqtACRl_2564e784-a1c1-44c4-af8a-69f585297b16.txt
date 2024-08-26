@@ -1,0 +1,9 @@
+User ID: RvcFa3Xozd2JnmqtACRl
+User Name: robot
+Ticket ID: RvcFa3Xozd2JnmqtACRl_2564e784-a1c1-44c4-af8a-69f585297b16
+Total Bid Amount: 8600
+Total Earnings: 43000
+Profit/Loss: 34400
+
+Breakdown:
+  Bid: 4, Amount: 8600, Payout: 43000, Status: won

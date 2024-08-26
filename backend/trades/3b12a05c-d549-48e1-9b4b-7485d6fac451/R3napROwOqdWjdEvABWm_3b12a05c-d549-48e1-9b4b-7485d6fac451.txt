@@ -1,0 +1,10 @@
+User ID: R3napROwOqdWjdEvABWm
+User Name: robot
+Ticket ID: R3napROwOqdWjdEvABWm_3b12a05c-d549-48e1-9b4b-7485d6fac451
+Total Bid Amount: 12500
+Total Earnings: 0
+Profit/Loss: -12500
+
+Breakdown:
+  Bid: 3, Amount: 5800, Payout: 29000, Status: lost
+  Bid: 4, Amount: 6700, Payout: 33500, Status: lost

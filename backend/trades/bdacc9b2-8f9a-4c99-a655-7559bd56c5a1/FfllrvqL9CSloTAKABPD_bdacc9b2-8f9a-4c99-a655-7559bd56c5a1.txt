@@ -1,0 +1,9 @@
+User ID: FfllrvqL9CSloTAKABPD
+User Name: robot
+Ticket ID: FfllrvqL9CSloTAKABPD_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 8800
+Total Earnings: 0
+Profit/Loss: -8800
+
+Breakdown:
+  Bid: 6, Amount: 8800, Payout: 44000, Status: lost

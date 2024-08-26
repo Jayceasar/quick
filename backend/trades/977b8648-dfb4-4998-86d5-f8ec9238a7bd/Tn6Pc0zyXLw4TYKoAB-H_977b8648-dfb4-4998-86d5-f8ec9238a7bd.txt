@@ -1,0 +1,9 @@
+User ID: Tn6Pc0zyXLw4TYKoAB-H
+User Name: robot
+Ticket ID: Tn6Pc0zyXLw4TYKoAB-H_977b8648-dfb4-4998-86d5-f8ec9238a7bd
+Total Bid Amount: 9800
+Total Earnings: 0
+Profit/Loss: -9800
+
+Breakdown:
+  Bid: 5, Amount: 9800, Payout: 49000, Status: lost

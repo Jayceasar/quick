@@ -1,0 +1,9 @@
+User ID: oJ2She2CaXP6XjtkABej
+User Name: robot
+Ticket ID: oJ2She2CaXP6XjtkABej_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 200
+Total Earnings: 0
+Profit/Loss: -200
+
+Breakdown:
+  Bid: 6, Amount: 200, Payout: 1000, Status: lost

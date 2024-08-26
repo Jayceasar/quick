@@ -1,0 +1,9 @@
+User ID: fjpxqcuCD9OIQv9IACJq
+User Name: robot
+Ticket ID: fjpxqcuCD9OIQv9IACJq_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
+Total Bid Amount: 5600
+Total Earnings: 28000
+Profit/Loss: 22400
+
+Breakdown:
+  Bid: 5, Amount: 5600, Payout: 28000, Status: won

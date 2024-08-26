@@ -1,0 +1,9 @@
+User ID: cN6QEtLYk7v_tcnnABfp
+User Name: robot
+Ticket ID: cN6QEtLYk7v_tcnnABfp_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 7700
+Total Earnings: 0
+Profit/Loss: -7700
+
+Breakdown:
+  Bid: 1, Amount: 7700, Payout: 38500, Status: lost

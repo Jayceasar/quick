@@ -1,0 +1,9 @@
+User ID: DMx5zlRXSiAFBPBtACJ0
+User Name: robot
+Ticket ID: DMx5zlRXSiAFBPBtACJ0_56ee4408-3127-4e3c-9837-5f675e19ec5b
+Total Bid Amount: 2400
+Total Earnings: 0
+Profit/Loss: -2400
+
+Breakdown:
+  Bid: 1, Amount: 2400, Payout: 12000, Status: lost

@@ -1,0 +1,10 @@
+User ID: xC4a9XtlH8aRVJ9uABqP
+User Name: robot
+Ticket ID: xC4a9XtlH8aRVJ9uABqP_aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 5400
+Total Earnings: 0
+Profit/Loss: -5400
+
+Breakdown:
+  Bid: 5, Amount: 1000, Payout: 5000, Status: lost
+  Bid: 2, Amount: 4400, Payout: 22000, Status: lost

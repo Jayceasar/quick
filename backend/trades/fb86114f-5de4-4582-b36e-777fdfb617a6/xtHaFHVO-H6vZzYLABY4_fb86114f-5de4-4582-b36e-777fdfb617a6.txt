@@ -1,0 +1,9 @@
+User ID: xtHaFHVO-H6vZzYLABY4
+User Name: robot
+Ticket ID: xtHaFHVO-H6vZzYLABY4_fb86114f-5de4-4582-b36e-777fdfb617a6
+Total Bid Amount: 9300
+Total Earnings: 0
+Profit/Loss: -9300
+
+Breakdown:
+  Bid: 6, Amount: 9300, Payout: 46500, Status: lost

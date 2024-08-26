@@ -1,0 +1,9 @@
+User ID: 5TwKcN-IXVV_baWGACBd
+User Name: robot
+Ticket ID: 5TwKcN-IXVV_baWGACBd_a6e522d6-4ff1-4343-a340-6a8e44e26daa
+Total Bid Amount: 2300
+Total Earnings: 0
+Profit/Loss: -2300
+
+Breakdown:
+  Bid: 2, Amount: 2300, Payout: 11500, Status: lost

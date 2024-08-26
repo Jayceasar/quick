@@ -1,0 +1,9 @@
+User ID: nJq32VLk97PV5bW4AA-l
+User Name: robot
+Ticket ID: nJq32VLk97PV5bW4AA-l_5092f0aa-69e0-4bf1-a90f-11d059a29664
+Total Bid Amount: 6400
+Total Earnings: 0
+Profit/Loss: -6400
+
+Breakdown:
+  Bid: 6, Amount: 6400, Payout: 32000, Status: lost

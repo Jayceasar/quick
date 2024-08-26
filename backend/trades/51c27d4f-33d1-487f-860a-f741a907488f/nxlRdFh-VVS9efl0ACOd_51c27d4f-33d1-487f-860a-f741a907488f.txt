@@ -1,0 +1,9 @@
+User ID: nxlRdFh-VVS9efl0ACOd
+User Name: robot
+Ticket ID: nxlRdFh-VVS9efl0ACOd_51c27d4f-33d1-487f-860a-f741a907488f
+Total Bid Amount: 7400
+Total Earnings: 0
+Profit/Loss: -7400
+
+Breakdown:
+  Bid: 4, Amount: 7400, Payout: 37000, Status: lost

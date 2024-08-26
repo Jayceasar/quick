@@ -1,0 +1,10 @@
+User ID: T1_Awb6hr8ms0A1oABmI
+User Name: robot
+Ticket ID: T1_Awb6hr8ms0A1oABmI_33fbb41f-21df-4ee4-a3d1-4429a431ece2
+Total Bid Amount: 8100
+Total Earnings: 0
+Profit/Loss: -8100
+
+Breakdown:
+  Bid: 3, Amount: 2300, Payout: 11500, Status: lost
+  Bid: 1, Amount: 5800, Payout: 29000, Status: lost

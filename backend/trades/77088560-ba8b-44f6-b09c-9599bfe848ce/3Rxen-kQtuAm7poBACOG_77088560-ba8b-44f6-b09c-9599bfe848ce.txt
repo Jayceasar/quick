@@ -1,0 +1,9 @@
+User ID: 3Rxen-kQtuAm7poBACOG
+User Name: robot
+Ticket ID: 3Rxen-kQtuAm7poBACOG_77088560-ba8b-44f6-b09c-9599bfe848ce
+Total Bid Amount: 5400
+Total Earnings: 27000
+Profit/Loss: 21600
+
+Breakdown:
+  Bid: 2, Amount: 5400, Payout: 27000, Status: won

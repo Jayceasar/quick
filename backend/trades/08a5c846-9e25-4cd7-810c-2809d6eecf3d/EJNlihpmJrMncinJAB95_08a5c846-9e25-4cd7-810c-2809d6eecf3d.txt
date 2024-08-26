@@ -1,0 +1,9 @@
+User ID: EJNlihpmJrMncinJAB95
+User Name: robot
+Ticket ID: EJNlihpmJrMncinJAB95_08a5c846-9e25-4cd7-810c-2809d6eecf3d
+Total Bid Amount: 8800
+Total Earnings: 0
+Profit/Loss: -8800
+
+Breakdown:
+  Bid: 5, Amount: 8800, Payout: 44000, Status: lost

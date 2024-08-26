@@ -1,0 +1,9 @@
+User ID: XTj6vAW9-Ks32DMtACPl
+User Name: robot
+Ticket ID: XTj6vAW9-Ks32DMtACPl_b4aa9080-0d9b-4f54-82e1-9c784ee5ed58
+Total Bid Amount: 5400
+Total Earnings: 27000
+Profit/Loss: 21600
+
+Breakdown:
+  Bid: 1, Amount: 5400, Payout: 27000, Status: won

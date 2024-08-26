@@ -1,0 +1,10 @@
+User ID: 5tstFSm7bumlWW7AABQn
+User Name: robot
+Ticket ID: 5tstFSm7bumlWW7AABQn_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 13600
+Total Earnings: 0
+Profit/Loss: -13600
+
+Breakdown:
+  Bid: 5, Amount: 4500, Payout: 22500, Status: lost
+  Bid: 2, Amount: 9100, Payout: 45500, Status: lost

@@ -1,0 +1,10 @@
+User ID: Wp126Lvuxo1nmV3_ABJ-
+User Name: robot
+Ticket ID: Wp126Lvuxo1nmV3_ABJ-_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 4100
+Total Earnings: 13000
+Profit/Loss: 8900
+
+Breakdown:
+  Bid: 5, Amount: 2600, Payout: 13000, Status: won
+  Bid: 4, Amount: 1500, Payout: 7500, Status: lost

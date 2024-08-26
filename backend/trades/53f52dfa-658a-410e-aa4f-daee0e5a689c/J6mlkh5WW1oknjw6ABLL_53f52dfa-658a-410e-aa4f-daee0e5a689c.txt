@@ -1,0 +1,9 @@
+User ID: J6mlkh5WW1oknjw6ABLL
+User Name: robot
+Ticket ID: J6mlkh5WW1oknjw6ABLL_53f52dfa-658a-410e-aa4f-daee0e5a689c
+Total Bid Amount: 7400
+Total Earnings: 37000
+Profit/Loss: 29600
+
+Breakdown:
+  Bid: 6, Amount: 7400, Payout: 37000, Status: won

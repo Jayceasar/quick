@@ -1,0 +1,9 @@
+User ID: 69RpQq33d60OFLTUABmO
+User Name: robot
+Ticket ID: 69RpQq33d60OFLTUABmO_ee604dcb-27d6-4726-96f7-531f06808794
+Total Bid Amount: 1300
+Total Earnings: 6500
+Profit/Loss: 5200
+
+Breakdown:
+  Bid: 4, Amount: 1300, Payout: 6500, Status: won

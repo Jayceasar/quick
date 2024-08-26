@@ -1,0 +1,9 @@
+User ID: AfKJR6mX6ZNkHsHDAA-9
+User Name: robot
+Ticket ID: AfKJR6mX6ZNkHsHDAA-9_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 8800
+Total Earnings: 0
+Profit/Loss: -8800
+
+Breakdown:
+  Bid: 2, Amount: 8800, Payout: 44000, Status: lost

@@ -1,0 +1,9 @@
+User ID: vPi6I9S6sDWjjtvoACRf
+User Name: robot
+Ticket ID: vPi6I9S6sDWjjtvoACRf_dcdccbbf-fe99-4c86-850c-d63a69cb323d
+Total Bid Amount: 4400
+Total Earnings: 0
+Profit/Loss: -4400
+
+Breakdown:
+  Bid: 3, Amount: 4400, Payout: 22000, Status: lost

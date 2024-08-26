@@ -1,0 +1,9 @@
+User ID: xEyoYzt5wqWG_EyTABSn
+User Name: robot
+Ticket ID: xEyoYzt5wqWG_EyTABSn_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 9900
+Total Earnings: 49500
+Profit/Loss: 39600
+
+Breakdown:
+  Bid: 3, Amount: 9900, Payout: 49500, Status: won

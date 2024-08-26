@@ -1,0 +1,10 @@
+User ID: libab21ZJKQtu6WlABGh
+User Name: robot
+Ticket ID: libab21ZJKQtu6WlABGh_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 1800
+Total Earnings: 0
+Profit/Loss: -1800
+
+Breakdown:
+  Bid: 2, Amount: 300, Payout: 1500, Status: lost
+  Bid: 1, Amount: 1500, Payout: 7500, Status: lost

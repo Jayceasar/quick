@@ -1,0 +1,10 @@
+User ID: Buzwu9pOelE6sXWDABCp
+User Name: robot
+Ticket ID: Buzwu9pOelE6sXWDABCp_c2621c2b-31fe-494f-9a0a-60049100734b
+Total Bid Amount: 16800
+Total Earnings: 38000
+Profit/Loss: 21200
+
+Breakdown:
+  Bid: 2, Amount: 7600, Payout: 38000, Status: won
+  Bid: 3, Amount: 9200, Payout: 46000, Status: lost

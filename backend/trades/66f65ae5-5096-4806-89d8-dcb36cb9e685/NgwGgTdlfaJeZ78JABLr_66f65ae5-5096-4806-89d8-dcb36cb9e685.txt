@@ -1,0 +1,10 @@
+User ID: NgwGgTdlfaJeZ78JABLr
+User Name: robot
+Ticket ID: NgwGgTdlfaJeZ78JABLr_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 17400
+Total Earnings: 0
+Profit/Loss: -17400
+
+Breakdown:
+  Bid: 4, Amount: 8000, Payout: 40000, Status: lost
+  Bid: 6, Amount: 9400, Payout: 47000, Status: lost

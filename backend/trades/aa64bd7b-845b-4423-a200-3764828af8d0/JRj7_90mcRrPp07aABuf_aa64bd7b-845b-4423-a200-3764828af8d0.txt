@@ -1,0 +1,10 @@
+User ID: JRj7_90mcRrPp07aABuf
+User Name: robot
+Ticket ID: JRj7_90mcRrPp07aABuf_aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 10500
+Total Earnings: 0
+Profit/Loss: -10500
+
+Breakdown:
+  Bid: 6, Amount: 7100, Payout: 35500, Status: lost
+  Bid: 2, Amount: 3400, Payout: 17000, Status: lost

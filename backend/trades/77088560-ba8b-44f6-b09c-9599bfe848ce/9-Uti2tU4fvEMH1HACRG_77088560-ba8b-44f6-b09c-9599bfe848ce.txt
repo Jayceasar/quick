@@ -1,0 +1,9 @@
+User ID: 9-Uti2tU4fvEMH1HACRG
+User Name: robot
+Ticket ID: 9-Uti2tU4fvEMH1HACRG_77088560-ba8b-44f6-b09c-9599bfe848ce
+Total Bid Amount: 500
+Total Earnings: 0
+Profit/Loss: -500
+
+Breakdown:
+  Bid: 6, Amount: 500, Payout: 2500, Status: lost

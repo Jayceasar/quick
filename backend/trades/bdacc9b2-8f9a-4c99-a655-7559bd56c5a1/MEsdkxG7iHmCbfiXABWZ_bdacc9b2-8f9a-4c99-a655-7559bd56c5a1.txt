@@ -1,0 +1,9 @@
+User ID: MEsdkxG7iHmCbfiXABWZ
+User Name: robot
+Ticket ID: MEsdkxG7iHmCbfiXABWZ_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 9100
+Total Earnings: 0
+Profit/Loss: -9100
+
+Breakdown:
+  Bid: 1, Amount: 9100, Payout: 45500, Status: lost

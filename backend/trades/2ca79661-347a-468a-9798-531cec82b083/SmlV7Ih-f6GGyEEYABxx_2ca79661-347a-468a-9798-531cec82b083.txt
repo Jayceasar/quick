@@ -1,0 +1,9 @@
+User ID: SmlV7Ih-f6GGyEEYABxx
+User Name: robot
+Ticket ID: SmlV7Ih-f6GGyEEYABxx_2ca79661-347a-468a-9798-531cec82b083
+Total Bid Amount: 3500
+Total Earnings: 0
+Profit/Loss: -3500
+
+Breakdown:
+  Bid: 5, Amount: 3500, Payout: 17500, Status: lost

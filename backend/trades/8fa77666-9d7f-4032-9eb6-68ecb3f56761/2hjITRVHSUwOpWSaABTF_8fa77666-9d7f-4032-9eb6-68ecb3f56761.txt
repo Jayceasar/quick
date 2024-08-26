@@ -1,0 +1,9 @@
+User ID: 2hjITRVHSUwOpWSaABTF
+User Name: robot
+Ticket ID: 2hjITRVHSUwOpWSaABTF_8fa77666-9d7f-4032-9eb6-68ecb3f56761
+Total Bid Amount: 1500
+Total Earnings: 0
+Profit/Loss: -1500
+
+Breakdown:
+  Bid: 2, Amount: 1500, Payout: 7500, Status: lost

@@ -1,0 +1,9 @@
+User ID: FPAvhwjkq5PsYRmhAB_M
+User Name: robot
+Ticket ID: FPAvhwjkq5PsYRmhAB_M_1b5ca1b1-54c9-4f4e-8033-ab7d1d510120
+Total Bid Amount: 3000
+Total Earnings: 0
+Profit/Loss: -3000
+
+Breakdown:
+  Bid: 2, Amount: 3000, Payout: 15000, Status: lost

@@ -1,0 +1,9 @@
+User ID: HKjFRjhvCJHfurVLAB-X
+User Name: robot
+Ticket ID: HKjFRjhvCJHfurVLAB-X_951f95fb-0e56-4d9e-9a99-f203119b7312
+Total Bid Amount: 1000
+Total Earnings: 0
+Profit/Loss: -1000
+
+Breakdown:
+  Bid: 1, Amount: 1000, Payout: 5000, Status: lost

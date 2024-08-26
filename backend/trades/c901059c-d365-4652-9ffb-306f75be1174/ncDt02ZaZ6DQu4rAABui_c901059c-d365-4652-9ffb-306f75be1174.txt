@@ -1,0 +1,9 @@
+User ID: ncDt02ZaZ6DQu4rAABui
+User Name: robot
+Ticket ID: ncDt02ZaZ6DQu4rAABui_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 300
+Total Earnings: 0
+Profit/Loss: -300
+
+Breakdown:
+  Bid: 6, Amount: 300, Payout: 1500, Status: lost

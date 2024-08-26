@@ -1,0 +1,9 @@
+User ID: 0yrhlALe0YpEvevoABKp
+User Name: robot
+Ticket ID: 0yrhlALe0YpEvevoABKp_53f52dfa-658a-410e-aa4f-daee0e5a689c
+Total Bid Amount: 7300
+Total Earnings: 0
+Profit/Loss: -7300
+
+Breakdown:
+  Bid: 5, Amount: 7300, Payout: 36500, Status: lost

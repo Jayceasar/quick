@@ -1,0 +1,11 @@
+User ID: 1Q3rrl3C0UeswZTjABel
+User Name: robot
+Ticket ID: 1Q3rrl3C0UeswZTjABel_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 8600
+Total Earnings: 0
+Profit/Loss: -8600
+
+Breakdown:
+  Bid: 4, Amount: 7000, Payout: 35000, Status: lost
+  Bid: 4, Amount: 700, Payout: 3500, Status: lost
+  Bid: 2, Amount: 900, Payout: 4500, Status: lost

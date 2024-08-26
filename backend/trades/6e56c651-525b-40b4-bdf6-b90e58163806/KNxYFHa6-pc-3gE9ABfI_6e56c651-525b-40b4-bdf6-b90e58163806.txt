@@ -1,0 +1,11 @@
+User ID: KNxYFHa6-pc-3gE9ABfI
+User Name: robot
+Ticket ID: KNxYFHa6-pc-3gE9ABfI_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 15900
+Total Earnings: 0
+Profit/Loss: -15900
+
+Breakdown:
+  Bid: 4, Amount: 4600, Payout: 23000, Status: lost
+  Bid: 5, Amount: 8100, Payout: 40500, Status: lost
+  Bid: 4, Amount: 3200, Payout: 16000, Status: lost

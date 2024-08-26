@@ -1,0 +1,11 @@
+User ID: dBnV-pYVi9rqTtOYABYz
+User Name: robot
+Ticket ID: dBnV-pYVi9rqTtOYABYz_3b12a05c-d549-48e1-9b4b-7485d6fac451
+Total Bid Amount: 18000
+Total Earnings: 0
+Profit/Loss: -18000
+
+Breakdown:
+  Bid: 4, Amount: 8500, Payout: 42500, Status: lost
+  Bid: 3, Amount: 1900, Payout: 9500, Status: lost
+  Bid: 6, Amount: 7600, Payout: 38000, Status: lost

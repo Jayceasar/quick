@@ -1,0 +1,9 @@
+User ID: 6o5SlGIC3YweenJCACPI
+User Name: robot
+Ticket ID: 6o5SlGIC3YweenJCACPI_b5b8e808-519f-4db5-9dd9-c0784bb48199
+Total Bid Amount: 4500
+Total Earnings: 0
+Profit/Loss: -4500
+
+Breakdown:
+  Bid: 3, Amount: 4500, Payout: 22500, Status: lost

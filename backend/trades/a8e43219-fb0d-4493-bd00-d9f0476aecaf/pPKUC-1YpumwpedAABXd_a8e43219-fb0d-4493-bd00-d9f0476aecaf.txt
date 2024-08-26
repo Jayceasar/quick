@@ -1,0 +1,9 @@
+User ID: pPKUC-1YpumwpedAABXd
+User Name: robot
+Ticket ID: pPKUC-1YpumwpedAABXd_a8e43219-fb0d-4493-bd00-d9f0476aecaf
+Total Bid Amount: 700
+Total Earnings: 0
+Profit/Loss: -700
+
+Breakdown:
+  Bid: 1, Amount: 700, Payout: 3500, Status: lost

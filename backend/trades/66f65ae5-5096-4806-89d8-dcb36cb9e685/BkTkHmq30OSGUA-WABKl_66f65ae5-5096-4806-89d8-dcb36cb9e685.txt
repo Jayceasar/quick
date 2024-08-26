@@ -1,0 +1,10 @@
+User ID: BkTkHmq30OSGUA-WABKl
+User Name: robot
+Ticket ID: BkTkHmq30OSGUA-WABKl_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 10500
+Total Earnings: 0
+Profit/Loss: -10500
+
+Breakdown:
+  Bid: 6, Amount: 1100, Payout: 5500, Status: lost
+  Bid: 6, Amount: 9400, Payout: 47000, Status: lost

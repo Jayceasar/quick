@@ -1,0 +1,9 @@
+User ID: 5fFVt7uzqOOmCoWaAB-s
+User Name: robot
+Ticket ID: 5fFVt7uzqOOmCoWaAB-s_ef9d3ae9-a88c-4fb9-930e-c91af760bffa
+Total Bid Amount: 9700
+Total Earnings: 0
+Profit/Loss: -9700
+
+Breakdown:
+  Bid: 6, Amount: 9700, Payout: 48500, Status: lost

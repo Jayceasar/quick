@@ -1,0 +1,9 @@
+User ID: iC2NoCjB3Eic1PW1AByr
+User Name: robot
+Ticket ID: iC2NoCjB3Eic1PW1AByr_4e590ac0-442e-4e7c-bb69-b3985af4acef
+Total Bid Amount: 3700
+Total Earnings: 0
+Profit/Loss: -3700
+
+Breakdown:
+  Bid: 3, Amount: 3700, Payout: 18500, Status: lost

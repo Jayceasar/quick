@@ -1,0 +1,9 @@
+User ID: MvpxP13xRtrW2Z_oAB11
+User Name: robot
+Ticket ID: MvpxP13xRtrW2Z_oAB11_44666ccb-6626-428d-95d3-f7a7a00e87a7
+Total Bid Amount: 6200
+Total Earnings: 0
+Profit/Loss: -6200
+
+Breakdown:
+  Bid: 4, Amount: 6200, Payout: 31000, Status: lost

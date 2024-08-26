@@ -1,0 +1,9 @@
+User ID: 5Gc9pFZVfE4mAzHVABkr
+User Name: robot
+Ticket ID: 5Gc9pFZVfE4mAzHVABkr_ee604dcb-27d6-4726-96f7-531f06808794
+Total Bid Amount: 700
+Total Earnings: 0
+Profit/Loss: -700
+
+Breakdown:
+  Bid: 3, Amount: 700, Payout: 3500, Status: lost

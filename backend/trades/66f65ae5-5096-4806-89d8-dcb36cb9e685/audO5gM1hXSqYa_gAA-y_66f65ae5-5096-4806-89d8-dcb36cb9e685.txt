@@ -1,0 +1,9 @@
+User ID: audO5gM1hXSqYa_gAA-y
+User Name: robot
+Ticket ID: audO5gM1hXSqYa_gAA-y_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 1100
+Total Earnings: 0
+Profit/Loss: -1100
+
+Breakdown:
+  Bid: 6, Amount: 1100, Payout: 5500, Status: lost

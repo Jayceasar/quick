@@ -1,0 +1,9 @@
+User ID: SwupcvZ-ElEH5HjCAB1I
+User Name: robot
+Ticket ID: SwupcvZ-ElEH5HjCAB1I_a295add0-ed87-4739-9946-a802886ede6f
+Total Bid Amount: 3700
+Total Earnings: 0
+Profit/Loss: -3700
+
+Breakdown:
+  Bid: 6, Amount: 3700, Payout: 18500, Status: lost

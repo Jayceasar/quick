@@ -1,0 +1,9 @@
+User ID: uqS775JIKmU0N5OLABKc
+User Name: robot
+Ticket ID: uqS775JIKmU0N5OLABKc_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 8900
+Total Earnings: 44500
+Profit/Loss: 35600
+
+Breakdown:
+  Bid: 1, Amount: 8900, Payout: 44500, Status: won

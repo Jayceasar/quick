@@ -1,0 +1,9 @@
+User ID: PD5GkAOiPI1NDGzyABu9
+User Name: robot
+Ticket ID: PD5GkAOiPI1NDGzyABu9_7a1cf374-3b0b-47a8-92f4-370088b1d70d
+Total Bid Amount: 2200
+Total Earnings: 11000
+Profit/Loss: 8800
+
+Breakdown:
+  Bid: 2, Amount: 2200, Payout: 11000, Status: won

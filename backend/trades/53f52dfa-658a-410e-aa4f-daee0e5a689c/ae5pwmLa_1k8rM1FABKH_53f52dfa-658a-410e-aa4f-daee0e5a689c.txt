@@ -1,0 +1,9 @@
+User ID: ae5pwmLa_1k8rM1FABKH
+User Name: robot
+Ticket ID: ae5pwmLa_1k8rM1FABKH_53f52dfa-658a-410e-aa4f-daee0e5a689c
+Total Bid Amount: 6200
+Total Earnings: 0
+Profit/Loss: -6200
+
+Breakdown:
+  Bid: 3, Amount: 6200, Payout: 31000, Status: lost

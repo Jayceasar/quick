@@ -1,0 +1,10 @@
+User ID: r1HGpCOn-izvNlTTABYQ
+User Name: robot
+Ticket ID: r1HGpCOn-izvNlTTABYQ_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 11100
+Total Earnings: 22500
+Profit/Loss: 11400
+
+Breakdown:
+  Bid: 4, Amount: 6600, Payout: 33000, Status: lost
+  Bid: 3, Amount: 4500, Payout: 22500, Status: won

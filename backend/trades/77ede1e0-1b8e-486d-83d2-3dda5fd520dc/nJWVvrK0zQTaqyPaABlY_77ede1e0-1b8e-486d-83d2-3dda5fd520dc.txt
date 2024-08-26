@@ -1,0 +1,9 @@
+User ID: nJWVvrK0zQTaqyPaABlY
+User Name: robot
+Ticket ID: nJWVvrK0zQTaqyPaABlY_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
+Total Bid Amount: 2200
+Total Earnings: 0
+Profit/Loss: -2200
+
+Breakdown:
+  Bid: 5, Amount: 2200, Payout: 11000, Status: lost

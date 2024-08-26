@@ -1,0 +1,10 @@
+User ID: RbmlpOE50S43mtXuAB1f
+User Name: robot
+Ticket ID: RbmlpOE50S43mtXuAB1f_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 11500
+Total Earnings: 0
+Profit/Loss: -11500
+
+Breakdown:
+  Bid: 5, Amount: 7800, Payout: 39000, Status: lost
+  Bid: 3, Amount: 3700, Payout: 18500, Status: lost

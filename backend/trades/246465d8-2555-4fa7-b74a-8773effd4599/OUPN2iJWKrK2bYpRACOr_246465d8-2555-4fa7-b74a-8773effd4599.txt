@@ -1,0 +1,9 @@
+User ID: OUPN2iJWKrK2bYpRACOr
+User Name: robot
+Ticket ID: OUPN2iJWKrK2bYpRACOr_246465d8-2555-4fa7-b74a-8773effd4599
+Total Bid Amount: 7800
+Total Earnings: 0
+Profit/Loss: -7800
+
+Breakdown:
+  Bid: 5, Amount: 7800, Payout: 39000, Status: lost

@@ -1,0 +1,9 @@
+User ID: vpn2rxCKX7e8PKxHABdU
+User Name: robot
+Ticket ID: vpn2rxCKX7e8PKxHABdU_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 5100
+Total Earnings: 0
+Profit/Loss: -5100
+
+Breakdown:
+  Bid: 3, Amount: 5100, Payout: 25500, Status: lost

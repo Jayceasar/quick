@@ -1,0 +1,10 @@
+User ID: Q0M-tH8-zZYUxlqHABLq
+User Name: robot
+Ticket ID: Q0M-tH8-zZYUxlqHABLq_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 11100
+Total Earnings: 0
+Profit/Loss: -11100
+
+Breakdown:
+  Bid: 4, Amount: 9400, Payout: 47000, Status: lost
+  Bid: 2, Amount: 1700, Payout: 8500, Status: lost

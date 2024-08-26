@@ -1,0 +1,10 @@
+User ID: wc38QY-0c8jc_nm7ABtV
+User Name: robot
+Ticket ID: wc38QY-0c8jc_nm7ABtV_aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 11700
+Total Earnings: 0
+Profit/Loss: -11700
+
+Breakdown:
+  Bid: 5, Amount: 4700, Payout: 23500, Status: lost
+  Bid: 2, Amount: 7000, Payout: 35000, Status: lost

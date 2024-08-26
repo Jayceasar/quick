@@ -1,0 +1,9 @@
+User ID: cBqnEi_lbdC9EQ-KABYo
+User Name: robot
+Ticket ID: cBqnEi_lbdC9EQ-KABYo_8fa77666-9d7f-4032-9eb6-68ecb3f56761
+Total Bid Amount: 9700
+Total Earnings: 0
+Profit/Loss: -9700
+
+Breakdown:
+  Bid: 4, Amount: 9700, Payout: 48500, Status: lost

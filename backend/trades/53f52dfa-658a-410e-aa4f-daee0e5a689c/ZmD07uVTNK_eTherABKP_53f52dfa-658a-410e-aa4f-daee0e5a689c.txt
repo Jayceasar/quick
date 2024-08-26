@@ -1,0 +1,9 @@
+User ID: ZmD07uVTNK_eTherABKP
+User Name: robot
+Ticket ID: ZmD07uVTNK_eTherABKP_53f52dfa-658a-410e-aa4f-daee0e5a689c
+Total Bid Amount: 3200
+Total Earnings: 0
+Profit/Loss: -3200
+
+Breakdown:
+  Bid: 1, Amount: 3200, Payout: 16000, Status: lost

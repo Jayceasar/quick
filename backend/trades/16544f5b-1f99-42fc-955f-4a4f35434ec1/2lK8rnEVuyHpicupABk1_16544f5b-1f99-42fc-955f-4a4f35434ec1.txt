@@ -1,0 +1,9 @@
+User ID: 2lK8rnEVuyHpicupABk1
+User Name: robot
+Ticket ID: 2lK8rnEVuyHpicupABk1_16544f5b-1f99-42fc-955f-4a4f35434ec1
+Total Bid Amount: 8200
+Total Earnings: 0
+Profit/Loss: -8200
+
+Breakdown:
+  Bid: 5, Amount: 8200, Payout: 41000, Status: lost

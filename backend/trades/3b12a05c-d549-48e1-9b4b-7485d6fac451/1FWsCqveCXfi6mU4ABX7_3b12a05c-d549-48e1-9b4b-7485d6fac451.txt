@@ -1,0 +1,9 @@
+User ID: 1FWsCqveCXfi6mU4ABX7
+User Name: robot
+Ticket ID: 1FWsCqveCXfi6mU4ABX7_3b12a05c-d549-48e1-9b4b-7485d6fac451
+Total Bid Amount: 800
+Total Earnings: 4000
+Profit/Loss: 3200
+
+Breakdown:
+  Bid: 1, Amount: 800, Payout: 4000, Status: won

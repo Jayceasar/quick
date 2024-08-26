@@ -1,0 +1,9 @@
+User ID: qEqiZP2X5pLc3oemAA_R
+User Name: robot
+Ticket ID: qEqiZP2X5pLc3oemAA_R_73e52ea7-53a0-471d-a88d-2ad368de3cb4
+Total Bid Amount: 8000
+Total Earnings: 0
+Profit/Loss: -8000
+
+Breakdown:
+  Bid: 5, Amount: 8000, Payout: 40000, Status: lost

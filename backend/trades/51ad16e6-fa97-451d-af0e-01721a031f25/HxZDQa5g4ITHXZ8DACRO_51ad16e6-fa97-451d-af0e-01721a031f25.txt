@@ -1,0 +1,9 @@
+User ID: HxZDQa5g4ITHXZ8DACRO
+User Name: robot
+Ticket ID: HxZDQa5g4ITHXZ8DACRO_51ad16e6-fa97-451d-af0e-01721a031f25
+Total Bid Amount: 2000
+Total Earnings: 0
+Profit/Loss: -2000
+
+Breakdown:
+  Bid: 6, Amount: 2000, Payout: 10000, Status: lost

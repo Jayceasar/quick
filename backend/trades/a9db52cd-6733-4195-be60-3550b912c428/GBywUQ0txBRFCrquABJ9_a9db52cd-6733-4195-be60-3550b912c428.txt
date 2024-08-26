@@ -1,0 +1,9 @@
+User ID: GBywUQ0txBRFCrquABJ9
+User Name: robot
+Ticket ID: GBywUQ0txBRFCrquABJ9_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 2900
+Total Earnings: 0
+Profit/Loss: -2900
+
+Breakdown:
+  Bid: 6, Amount: 2900, Payout: 14500, Status: lost

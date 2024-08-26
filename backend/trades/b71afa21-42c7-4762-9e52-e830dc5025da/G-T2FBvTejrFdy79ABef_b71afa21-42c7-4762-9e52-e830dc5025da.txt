@@ -1,0 +1,9 @@
+User ID: G-T2FBvTejrFdy79ABef
+User Name: robot
+Ticket ID: G-T2FBvTejrFdy79ABef_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 7400
+Total Earnings: 37000
+Profit/Loss: 29600
+
+Breakdown:
+  Bid: 2, Amount: 7400, Payout: 37000, Status: won

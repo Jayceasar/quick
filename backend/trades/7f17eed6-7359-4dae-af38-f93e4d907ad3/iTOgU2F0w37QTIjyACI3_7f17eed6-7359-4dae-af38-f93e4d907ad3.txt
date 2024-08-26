@@ -1,0 +1,9 @@
+User ID: iTOgU2F0w37QTIjyACI3
+User Name: robot
+Ticket ID: iTOgU2F0w37QTIjyACI3_7f17eed6-7359-4dae-af38-f93e4d907ad3
+Total Bid Amount: 500
+Total Earnings: 2500
+Profit/Loss: 2000
+
+Breakdown:
+  Bid: 3, Amount: 500, Payout: 2500, Status: won

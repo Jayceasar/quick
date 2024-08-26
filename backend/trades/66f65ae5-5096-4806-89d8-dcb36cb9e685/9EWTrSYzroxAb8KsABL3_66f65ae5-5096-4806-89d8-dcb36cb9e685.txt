@@ -1,0 +1,10 @@
+User ID: 9EWTrSYzroxAb8KsABL3
+User Name: robot
+Ticket ID: 9EWTrSYzroxAb8KsABL3_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 7900
+Total Earnings: 11500
+Profit/Loss: 3600
+
+Breakdown:
+  Bid: 2, Amount: 5600, Payout: 28000, Status: lost
+  Bid: 5, Amount: 2300, Payout: 11500, Status: won

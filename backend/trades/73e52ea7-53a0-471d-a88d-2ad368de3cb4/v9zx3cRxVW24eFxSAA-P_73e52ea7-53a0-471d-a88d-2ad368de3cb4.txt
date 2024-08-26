@@ -1,0 +1,9 @@
+User ID: v9zx3cRxVW24eFxSAA-P
+User Name: robot
+Ticket ID: v9zx3cRxVW24eFxSAA-P_73e52ea7-53a0-471d-a88d-2ad368de3cb4
+Total Bid Amount: 1100
+Total Earnings: 0
+Profit/Loss: -1100
+
+Breakdown:
+  Bid: 4, Amount: 1100, Payout: 5500, Status: lost

@@ -1,0 +1,9 @@
+User ID: wAEM3Jr07t3SXhcbABWo
+User Name: robot
+Ticket ID: wAEM3Jr07t3SXhcbABWo_fb86114f-5de4-4582-b36e-777fdfb617a6
+Total Bid Amount: 1500
+Total Earnings: 7500
+Profit/Loss: 6000
+
+Breakdown:
+  Bid: 5, Amount: 1500, Payout: 7500, Status: won

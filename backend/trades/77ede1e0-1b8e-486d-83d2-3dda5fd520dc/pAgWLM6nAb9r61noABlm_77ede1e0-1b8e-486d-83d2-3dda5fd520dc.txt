@@ -1,0 +1,9 @@
+User ID: pAgWLM6nAb9r61noABlm
+User Name: robot
+Ticket ID: pAgWLM6nAb9r61noABlm_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
+Total Bid Amount: 6700
+Total Earnings: 33500
+Profit/Loss: 26800
+
+Breakdown:
+  Bid: 3, Amount: 6700, Payout: 33500, Status: won

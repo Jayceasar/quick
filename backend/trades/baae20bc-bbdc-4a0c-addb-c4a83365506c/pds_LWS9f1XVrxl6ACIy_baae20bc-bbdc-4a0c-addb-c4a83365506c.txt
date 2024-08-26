@@ -1,0 +1,9 @@
+User ID: pds_LWS9f1XVrxl6ACIy
+User Name: robot
+Ticket ID: pds_LWS9f1XVrxl6ACIy_baae20bc-bbdc-4a0c-addb-c4a83365506c
+Total Bid Amount: 100
+Total Earnings: 500
+Profit/Loss: 400
+
+Breakdown:
+  Bid: 2, Amount: 100, Payout: 500, Status: won

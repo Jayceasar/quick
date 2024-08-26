@@ -1,0 +1,11 @@
+User ID: T4v-Ew4pE_xypwBMABYr
+User Name: robot
+Ticket ID: T4v-Ew4pE_xypwBMABYr_3b12a05c-d549-48e1-9b4b-7485d6fac451
+Total Bid Amount: 17700
+Total Earnings: 0
+Profit/Loss: -17700
+
+Breakdown:
+  Bid: 5, Amount: 500, Payout: 2500, Status: lost
+  Bid: 3, Amount: 8100, Payout: 40500, Status: lost
+  Bid: 5, Amount: 9100, Payout: 45500, Status: lost

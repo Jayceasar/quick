@@ -1,0 +1,11 @@
+User ID: JgwAjB0XS8QzhWqvABd6
+User Name: robot
+Ticket ID: JgwAjB0XS8QzhWqvABd6_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 5300
+Total Earnings: 25000
+Profit/Loss: 19700
+
+Breakdown:
+  Bid: 3, Amount: 2300, Payout: 11500, Status: won
+  Bid: 3, Amount: 2700, Payout: 13500, Status: won
+  Bid: 6, Amount: 300, Payout: 1500, Status: lost

@@ -1,0 +1,9 @@
+User ID: u5KYNa5gYsdvlnMBABs7
+User Name: robot
+Ticket ID: u5KYNa5gYsdvlnMBABs7_7a1cf374-3b0b-47a8-92f4-370088b1d70d
+Total Bid Amount: 100
+Total Earnings: 0
+Profit/Loss: -100
+
+Breakdown:
+  Bid: 3, Amount: 100, Payout: 500, Status: lost

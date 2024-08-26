@@ -1,0 +1,9 @@
+User ID: JhEyHoUfteFKKNuTACB9
+User Name: robot
+Ticket ID: JhEyHoUfteFKKNuTACB9_08a5c846-9e25-4cd7-810c-2809d6eecf3d
+Total Bid Amount: 7200
+Total Earnings: 0
+Profit/Loss: -7200
+
+Breakdown:
+  Bid: 6, Amount: 7200, Payout: 36000, Status: lost

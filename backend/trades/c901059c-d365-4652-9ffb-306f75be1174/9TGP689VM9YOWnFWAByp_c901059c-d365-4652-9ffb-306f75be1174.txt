@@ -1,0 +1,10 @@
+User ID: 9TGP689VM9YOWnFWAByp
+User Name: robot
+Ticket ID: 9TGP689VM9YOWnFWAByp_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 7400
+Total Earnings: 0
+Profit/Loss: -7400
+
+Breakdown:
+  Bid: 6, Amount: 2400, Payout: 12000, Status: lost
+  Bid: 2, Amount: 5000, Payout: 25000, Status: lost

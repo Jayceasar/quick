@@ -1,0 +1,10 @@
+User ID: RjxopiLk0A27zF0MABuW
+User Name: robot
+Ticket ID: RjxopiLk0A27zF0MABuW_aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 9800
+Total Earnings: 0
+Profit/Loss: -9800
+
+Breakdown:
+  Bid: 4, Amount: 4000, Payout: 20000, Status: lost
+  Bid: 1, Amount: 5800, Payout: 29000, Status: lost

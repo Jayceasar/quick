@@ -1,0 +1,9 @@
+User ID: h-17bj9sikidaXtpACKq
+User Name: robot
+Ticket ID: h-17bj9sikidaXtpACKq_8ed34477-6ab6-4e68-ad47-14130d8433cd
+Total Bid Amount: 6900
+Total Earnings: 0
+Profit/Loss: -6900
+
+Breakdown:
+  Bid: 5, Amount: 6900, Payout: 34500, Status: lost

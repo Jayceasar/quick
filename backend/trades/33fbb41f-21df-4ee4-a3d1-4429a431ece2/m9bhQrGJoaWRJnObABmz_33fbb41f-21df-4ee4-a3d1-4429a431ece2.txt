@@ -1,0 +1,10 @@
+User ID: m9bhQrGJoaWRJnObABmz
+User Name: robot
+Ticket ID: m9bhQrGJoaWRJnObABmz_33fbb41f-21df-4ee4-a3d1-4429a431ece2
+Total Bid Amount: 12900
+Total Earnings: 18000
+Profit/Loss: 5100
+
+Breakdown:
+  Bid: 5, Amount: 9300, Payout: 46500, Status: lost
+  Bid: 4, Amount: 3600, Payout: 18000, Status: won

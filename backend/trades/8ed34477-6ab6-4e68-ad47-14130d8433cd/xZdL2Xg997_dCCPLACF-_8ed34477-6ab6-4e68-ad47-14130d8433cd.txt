@@ -1,0 +1,9 @@
+User ID: xZdL2Xg997_dCCPLACF-
+User Name: robot
+Ticket ID: xZdL2Xg997_dCCPLACF-_8ed34477-6ab6-4e68-ad47-14130d8433cd
+Total Bid Amount: 9800
+Total Earnings: 49000
+Profit/Loss: 39200
+
+Breakdown:
+  Bid: 2, Amount: 9800, Payout: 49000, Status: won

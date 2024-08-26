@@ -1,0 +1,10 @@
+User ID: MO7dYEEcMKpGAnx8AA9m
+User Name: robot
+Ticket ID: MO7dYEEcMKpGAnx8AA9m_c2621c2b-31fe-494f-9a0a-60049100734b
+Total Bid Amount: 13800
+Total Earnings: 22000
+Profit/Loss: 8200
+
+Breakdown:
+  Bid: 6, Amount: 9400, Payout: 47000, Status: lost
+  Bid: 2, Amount: 4400, Payout: 22000, Status: won

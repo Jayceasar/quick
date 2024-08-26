@@ -1,0 +1,9 @@
+User ID: T0MCwBgsyAMPoRHSABJr
+User Name: robot
+Ticket ID: T0MCwBgsyAMPoRHSABJr_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 5700
+Total Earnings: 0
+Profit/Loss: -5700
+
+Breakdown:
+  Bid: 4, Amount: 5700, Payout: 28500, Status: lost

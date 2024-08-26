@@ -1,0 +1,10 @@
+User ID: uwDkJORMZx0FtFmRABuN
+User Name: robot
+Ticket ID: uwDkJORMZx0FtFmRABuN_aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 18500
+Total Earnings: 92500
+Profit/Loss: 74000
+
+Breakdown:
+  Bid: 3, Amount: 9400, Payout: 47000, Status: won
+  Bid: 3, Amount: 9100, Payout: 45500, Status: won

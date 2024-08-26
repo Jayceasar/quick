@@ -1,0 +1,9 @@
+User ID: JuZYHzwSMmOZyIeZACO5
+User Name: robot
+Ticket ID: JuZYHzwSMmOZyIeZACO5_e96345b4-ee73-4026-8f7f-706ae000bad6
+Total Bid Amount: 1900
+Total Earnings: 0
+Profit/Loss: -1900
+
+Breakdown:
+  Bid: 6, Amount: 1900, Payout: 9500, Status: lost

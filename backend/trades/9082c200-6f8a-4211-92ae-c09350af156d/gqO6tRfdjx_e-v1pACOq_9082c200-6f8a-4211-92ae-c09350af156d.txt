@@ -1,0 +1,9 @@
+User ID: gqO6tRfdjx_e-v1pACOq
+User Name: robot
+Ticket ID: gqO6tRfdjx_e-v1pACOq_9082c200-6f8a-4211-92ae-c09350af156d
+Total Bid Amount: 2500
+Total Earnings: 0
+Profit/Loss: -2500
+
+Breakdown:
+  Bid: 5, Amount: 2500, Payout: 12500, Status: lost

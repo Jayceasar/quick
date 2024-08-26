@@ -1,0 +1,9 @@
+User ID: Fjfu7i7FkKk8rZQZACBp
+User Name: robot
+Ticket ID: Fjfu7i7FkKk8rZQZACBp_c43dc4fe-1b01-4cc9-acfe-1139580a0b0f
+Total Bid Amount: 6000
+Total Earnings: 0
+Profit/Loss: -6000
+
+Breakdown:
+  Bid: 2, Amount: 6000, Payout: 30000, Status: lost

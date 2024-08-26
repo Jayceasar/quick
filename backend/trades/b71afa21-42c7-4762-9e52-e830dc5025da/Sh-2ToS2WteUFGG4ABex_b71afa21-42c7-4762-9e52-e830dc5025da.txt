@@ -1,0 +1,9 @@
+User ID: Sh-2ToS2WteUFGG4ABex
+User Name: robot
+Ticket ID: Sh-2ToS2WteUFGG4ABex_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 9600
+Total Earnings: 0
+Profit/Loss: -9600
+
+Breakdown:
+  Bid: 5, Amount: 9600, Payout: 48000, Status: lost

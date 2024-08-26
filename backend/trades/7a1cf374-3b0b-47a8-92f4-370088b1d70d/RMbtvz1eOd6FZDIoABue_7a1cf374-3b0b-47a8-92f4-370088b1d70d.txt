@@ -1,0 +1,9 @@
+User ID: RMbtvz1eOd6FZDIoABue
+User Name: robot
+Ticket ID: RMbtvz1eOd6FZDIoABue_7a1cf374-3b0b-47a8-92f4-370088b1d70d
+Total Bid Amount: 8900
+Total Earnings: 44500
+Profit/Loss: 35600
+
+Breakdown:
+  Bid: 2, Amount: 8900, Payout: 44500, Status: won

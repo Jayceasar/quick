@@ -1,0 +1,9 @@
+User ID: 4PfkRclo-wLurNNkACF1
+User Name: robot
+Ticket ID: 4PfkRclo-wLurNNkACF1_baae20bc-bbdc-4a0c-addb-c4a83365506c
+Total Bid Amount: 7500
+Total Earnings: 0
+Profit/Loss: -7500
+
+Breakdown:
+  Bid: 1, Amount: 7500, Payout: 37500, Status: lost

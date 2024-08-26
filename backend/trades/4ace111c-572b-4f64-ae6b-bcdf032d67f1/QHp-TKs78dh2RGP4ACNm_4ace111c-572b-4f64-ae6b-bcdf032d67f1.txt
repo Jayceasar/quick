@@ -1,0 +1,10 @@
+User ID: QHp-TKs78dh2RGP4ACNm
+User Name: robot
+Ticket ID: QHp-TKs78dh2RGP4ACNm_4ace111c-572b-4f64-ae6b-bcdf032d67f1
+Total Bid Amount: 4600
+Total Earnings: 10500
+Profit/Loss: 5900
+
+Breakdown:
+  Bid: 2, Amount: 2500, Payout: 12500, Status: lost
+  Bid: 4, Amount: 2100, Payout: 10500, Status: won

@@ -1,0 +1,9 @@
+User ID: lI32tv25CWTnttAcABuF
+User Name: robot
+Ticket ID: lI32tv25CWTnttAcABuF_7a1cf374-3b0b-47a8-92f4-370088b1d70d
+Total Bid Amount: 5300
+Total Earnings: 0
+Profit/Loss: -5300
+
+Breakdown:
+  Bid: 5, Amount: 5300, Payout: 26500, Status: lost

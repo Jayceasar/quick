@@ -1,0 +1,9 @@
+User ID: LuJJ-75yU5cDZimOABmv
+User Name: robot
+Ticket ID: LuJJ-75yU5cDZimOABmv_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
+Total Bid Amount: 8400
+Total Earnings: 0
+Profit/Loss: -8400
+
+Breakdown:
+  Bid: 4, Amount: 8400, Payout: 42000, Status: lost

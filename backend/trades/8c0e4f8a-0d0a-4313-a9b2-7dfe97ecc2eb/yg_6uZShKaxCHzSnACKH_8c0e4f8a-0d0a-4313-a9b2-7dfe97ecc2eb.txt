@@ -1,0 +1,9 @@
+User ID: yg_6uZShKaxCHzSnACKH
+User Name: robot
+Ticket ID: yg_6uZShKaxCHzSnACKH_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
+Total Bid Amount: 1200
+Total Earnings: 6000
+Profit/Loss: 4800
+
+Breakdown:
+  Bid: 5, Amount: 1200, Payout: 6000, Status: won

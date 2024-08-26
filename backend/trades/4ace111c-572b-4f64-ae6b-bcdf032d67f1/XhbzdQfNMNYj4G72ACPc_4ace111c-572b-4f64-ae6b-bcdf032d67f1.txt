@@ -1,0 +1,10 @@
+User ID: XhbzdQfNMNYj4G72ACPc
+User Name: robot
+Ticket ID: XhbzdQfNMNYj4G72ACPc_4ace111c-572b-4f64-ae6b-bcdf032d67f1
+Total Bid Amount: 11000
+Total Earnings: 0
+Profit/Loss: -11000
+
+Breakdown:
+  Bid: 3, Amount: 6900, Payout: 34500, Status: lost
+  Bid: 5, Amount: 4100, Payout: 20500, Status: lost

@@ -1,0 +1,9 @@
+User ID: eODMPd75XnDJa--NABKn
+User Name: robot
+Ticket ID: eODMPd75XnDJa--NABKn_53f52dfa-658a-410e-aa4f-daee0e5a689c
+Total Bid Amount: 3400
+Total Earnings: 17000
+Profit/Loss: 13600
+
+Breakdown:
+  Bid: 6, Amount: 3400, Payout: 17000, Status: won

@@ -1,0 +1,10 @@
+User ID: BJKqxTWfS3NxBf_fACOn
+User Name: robot
+Ticket ID: BJKqxTWfS3NxBf_fACOn_4ace111c-572b-4f64-ae6b-bcdf032d67f1
+Total Bid Amount: 16000
+Total Earnings: 0
+Profit/Loss: -16000
+
+Breakdown:
+  Bid: 5, Amount: 6500, Payout: 32500, Status: lost
+  Bid: 2, Amount: 9500, Payout: 47500, Status: lost

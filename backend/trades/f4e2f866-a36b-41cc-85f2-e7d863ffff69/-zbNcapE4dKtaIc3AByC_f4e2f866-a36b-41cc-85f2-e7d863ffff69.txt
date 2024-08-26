@@ -1,0 +1,9 @@
+User ID: -zbNcapE4dKtaIc3AByC
+User Name: robot
+Ticket ID: -zbNcapE4dKtaIc3AByC_f4e2f866-a36b-41cc-85f2-e7d863ffff69
+Total Bid Amount: 5600
+Total Earnings: 28000
+Profit/Loss: 22400
+
+Breakdown:
+  Bid: 4, Amount: 5600, Payout: 28000, Status: won

@@ -1,0 +1,9 @@
+User ID: FDZueZ54NnE8gd-9AA9O
+User Name: robot
+Ticket ID: FDZueZ54NnE8gd-9AA9O_5092f0aa-69e0-4bf1-a90f-11d059a29664
+Total Bid Amount: 5700
+Total Earnings: 0
+Profit/Loss: -5700
+
+Breakdown:
+  Bid: 4, Amount: 5700, Payout: 28500, Status: lost

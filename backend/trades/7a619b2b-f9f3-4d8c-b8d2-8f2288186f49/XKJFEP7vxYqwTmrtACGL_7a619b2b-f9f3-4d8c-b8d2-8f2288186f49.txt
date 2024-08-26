@@ -1,0 +1,9 @@
+User ID: XKJFEP7vxYqwTmrtACGL
+User Name: robot
+Ticket ID: XKJFEP7vxYqwTmrtACGL_7a619b2b-f9f3-4d8c-b8d2-8f2288186f49
+Total Bid Amount: 2500
+Total Earnings: 0
+Profit/Loss: -2500
+
+Breakdown:
+  Bid: 1, Amount: 2500, Payout: 12500, Status: lost

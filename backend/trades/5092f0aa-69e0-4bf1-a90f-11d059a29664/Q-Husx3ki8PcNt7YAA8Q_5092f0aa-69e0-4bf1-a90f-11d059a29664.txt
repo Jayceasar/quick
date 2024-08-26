@@ -1,0 +1,9 @@
+User ID: Q-Husx3ki8PcNt7YAA8Q
+User Name: robot
+Ticket ID: Q-Husx3ki8PcNt7YAA8Q_5092f0aa-69e0-4bf1-a90f-11d059a29664
+Total Bid Amount: 7600
+Total Earnings: 0
+Profit/Loss: -7600
+
+Breakdown:
+  Bid: 4, Amount: 7600, Payout: 38000, Status: lost

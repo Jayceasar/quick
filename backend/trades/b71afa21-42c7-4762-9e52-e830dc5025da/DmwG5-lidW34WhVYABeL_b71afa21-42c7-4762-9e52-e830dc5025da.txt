@@ -1,0 +1,9 @@
+User ID: DmwG5-lidW34WhVYABeL
+User Name: robot
+Ticket ID: DmwG5-lidW34WhVYABeL_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 6100
+Total Earnings: 30500
+Profit/Loss: 24400
+
+Breakdown:
+  Bid: 2, Amount: 6100, Payout: 30500, Status: won

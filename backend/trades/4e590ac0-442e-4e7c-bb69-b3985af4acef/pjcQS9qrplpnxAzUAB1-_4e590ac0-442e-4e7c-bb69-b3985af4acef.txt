@@ -1,0 +1,9 @@
+User ID: pjcQS9qrplpnxAzUAB1-
+User Name: robot
+Ticket ID: pjcQS9qrplpnxAzUAB1-_4e590ac0-442e-4e7c-bb69-b3985af4acef
+Total Bid Amount: 2400
+Total Earnings: 0
+Profit/Loss: -2400
+
+Breakdown:
+  Bid: 1, Amount: 2400, Payout: 12000, Status: lost

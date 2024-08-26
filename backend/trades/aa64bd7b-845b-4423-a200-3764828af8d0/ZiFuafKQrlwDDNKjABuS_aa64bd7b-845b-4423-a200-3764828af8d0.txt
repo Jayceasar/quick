@@ -1,0 +1,10 @@
+User ID: ZiFuafKQrlwDDNKjABuS
+User Name: robot
+Ticket ID: ZiFuafKQrlwDDNKjABuS_aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 3700
+Total Earnings: 0
+Profit/Loss: -3700
+
+Breakdown:
+  Bid: 6, Amount: 3400, Payout: 17000, Status: lost
+  Bid: 5, Amount: 300, Payout: 1500, Status: lost

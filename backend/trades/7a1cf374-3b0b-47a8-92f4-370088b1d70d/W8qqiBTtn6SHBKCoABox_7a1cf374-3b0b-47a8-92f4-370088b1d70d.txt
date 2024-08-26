@@ -1,0 +1,9 @@
+User ID: W8qqiBTtn6SHBKCoABox
+User Name: robot
+Ticket ID: W8qqiBTtn6SHBKCoABox_7a1cf374-3b0b-47a8-92f4-370088b1d70d
+Total Bid Amount: 5800
+Total Earnings: 0
+Profit/Loss: -5800
+
+Breakdown:
+  Bid: 5, Amount: 5800, Payout: 29000, Status: lost

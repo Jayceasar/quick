@@ -1,0 +1,9 @@
+User ID: ajnGjNzNsxl1DttFAA8-
+User Name: robot
+Ticket ID: ajnGjNzNsxl1DttFAA8-_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 3600
+Total Earnings: 0
+Profit/Loss: -3600
+
+Breakdown:
+  Bid: 6, Amount: 3600, Payout: 18000, Status: lost

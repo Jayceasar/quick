@@ -1,0 +1,9 @@
+User ID: -LQ3EmCvWTQEGAiDACQ7
+User Name: robot
+Ticket ID: -LQ3EmCvWTQEGAiDACQ7_46a0787e-8f14-47c7-bfea-9daf007f1aaf
+Total Bid Amount: 8600
+Total Earnings: 43000
+Profit/Loss: 34400
+
+Breakdown:
+  Bid: 1, Amount: 8600, Payout: 43000, Status: won

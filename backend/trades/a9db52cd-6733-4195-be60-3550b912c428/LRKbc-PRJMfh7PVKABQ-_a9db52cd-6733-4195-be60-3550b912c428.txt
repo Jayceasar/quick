@@ -1,0 +1,10 @@
+User ID: LRKbc-PRJMfh7PVKABQ-
+User Name: robot
+Ticket ID: LRKbc-PRJMfh7PVKABQ-_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 9400
+Total Earnings: 42500
+Profit/Loss: 33100
+
+Breakdown:
+  Bid: 4, Amount: 900, Payout: 4500, Status: lost
+  Bid: 1, Amount: 8500, Payout: 42500, Status: won

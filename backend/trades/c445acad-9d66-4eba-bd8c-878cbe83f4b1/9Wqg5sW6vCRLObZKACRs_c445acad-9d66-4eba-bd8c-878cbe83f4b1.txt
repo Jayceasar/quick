@@ -1,0 +1,9 @@
+User ID: 9Wqg5sW6vCRLObZKACRs
+User Name: robot
+Ticket ID: 9Wqg5sW6vCRLObZKACRs_c445acad-9d66-4eba-bd8c-878cbe83f4b1
+Total Bid Amount: 6000
+Total Earnings: 0
+Profit/Loss: -6000
+
+Breakdown:
+  Bid: 5, Amount: 6000, Payout: 30000, Status: lost

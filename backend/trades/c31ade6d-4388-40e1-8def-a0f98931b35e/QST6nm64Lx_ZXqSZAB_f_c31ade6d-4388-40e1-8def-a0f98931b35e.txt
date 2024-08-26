@@ -1,0 +1,9 @@
+User ID: QST6nm64Lx_ZXqSZAB_f
+User Name: robot
+Ticket ID: QST6nm64Lx_ZXqSZAB_f_c31ade6d-4388-40e1-8def-a0f98931b35e
+Total Bid Amount: 200
+Total Earnings: 1000
+Profit/Loss: 800
+
+Breakdown:
+  Bid: 3, Amount: 200, Payout: 1000, Status: won

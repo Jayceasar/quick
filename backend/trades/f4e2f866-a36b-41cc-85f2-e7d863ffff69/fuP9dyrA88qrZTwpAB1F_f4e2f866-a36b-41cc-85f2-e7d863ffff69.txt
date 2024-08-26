@@ -1,0 +1,9 @@
+User ID: fuP9dyrA88qrZTwpAB1F
+User Name: robot
+Ticket ID: fuP9dyrA88qrZTwpAB1F_f4e2f866-a36b-41cc-85f2-e7d863ffff69
+Total Bid Amount: 5700
+Total Earnings: 28500
+Profit/Loss: 22800
+
+Breakdown:
+  Bid: 4, Amount: 5700, Payout: 28500, Status: won

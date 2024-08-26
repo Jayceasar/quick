@@ -1,0 +1,9 @@
+User ID: jRO_DeFFNGu0cLnEACOR
+User Name: robot
+Ticket ID: jRO_DeFFNGu0cLnEACOR_c89bd7a7-3d82-439f-82b8-3ea935e1594c
+Total Bid Amount: 600
+Total Earnings: 3000
+Profit/Loss: 2400
+
+Breakdown:
+  Bid: 5, Amount: 600, Payout: 3000, Status: won

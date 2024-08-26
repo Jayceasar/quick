@@ -1,0 +1,9 @@
+User ID: UtEoOZ1SLb6JBOryABYX
+User Name: robot
+Ticket ID: UtEoOZ1SLb6JBOryABYX_a8e43219-fb0d-4493-bd00-d9f0476aecaf
+Total Bid Amount: 2300
+Total Earnings: 0
+Profit/Loss: -2300
+
+Breakdown:
+  Bid: 2, Amount: 2300, Payout: 11500, Status: lost

@@ -1,0 +1,9 @@
+User ID: L7xbr7MezXL9CkjjABX1
+User Name: robot
+Ticket ID: L7xbr7MezXL9CkjjABX1_3b12a05c-d549-48e1-9b4b-7485d6fac451
+Total Bid Amount: 2800
+Total Earnings: 14000
+Profit/Loss: 11200
+
+Breakdown:
+  Bid: 1, Amount: 2800, Payout: 14000, Status: won

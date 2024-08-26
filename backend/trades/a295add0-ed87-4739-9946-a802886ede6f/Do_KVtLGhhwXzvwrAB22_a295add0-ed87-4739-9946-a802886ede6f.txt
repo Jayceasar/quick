@@ -1,0 +1,9 @@
+User ID: Do_KVtLGhhwXzvwrAB22
+User Name: robot
+Ticket ID: Do_KVtLGhhwXzvwrAB22_a295add0-ed87-4739-9946-a802886ede6f
+Total Bid Amount: 5300
+Total Earnings: 0
+Profit/Loss: -5300
+
+Breakdown:
+  Bid: 6, Amount: 5300, Payout: 26500, Status: lost

@@ -1,0 +1,11 @@
+User ID: piYbYCrnkeDiYTEGABd8
+User Name: robot
+Ticket ID: piYbYCrnkeDiYTEGABd8_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 18500
+Total Earnings: 30500
+Profit/Loss: 12000
+
+Breakdown:
+  Bid: 2, Amount: 7800, Payout: 39000, Status: lost
+  Bid: 3, Amount: 6100, Payout: 30500, Status: won
+  Bid: 1, Amount: 4600, Payout: 23000, Status: lost

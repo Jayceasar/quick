@@ -1,0 +1,10 @@
+User ID: OYzw1ardouavTpFxABSo
+User Name: robot
+Ticket ID: OYzw1ardouavTpFxABSo_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 6700
+Total Earnings: 0
+Profit/Loss: -6700
+
+Breakdown:
+  Bid: 5, Amount: 4800, Payout: 24000, Status: lost
+  Bid: 3, Amount: 1900, Payout: 9500, Status: lost

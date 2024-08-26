@@ -1,0 +1,10 @@
+User ID: MOiCY1iE46j8BwoUABu2
+User Name: robot
+Ticket ID: MOiCY1iE46j8BwoUABu2_aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 6800
+Total Earnings: 0
+Profit/Loss: -6800
+
+Breakdown:
+  Bid: 6, Amount: 3900, Payout: 19500, Status: lost
+  Bid: 2, Amount: 2900, Payout: 14500, Status: lost

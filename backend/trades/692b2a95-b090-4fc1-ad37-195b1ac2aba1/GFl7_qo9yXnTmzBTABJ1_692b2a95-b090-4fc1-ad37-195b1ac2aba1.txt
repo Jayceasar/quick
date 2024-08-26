@@ -1,0 +1,9 @@
+User ID: GFl7_qo9yXnTmzBTABJ1
+User Name: robot
+Ticket ID: GFl7_qo9yXnTmzBTABJ1_692b2a95-b090-4fc1-ad37-195b1ac2aba1
+Total Bid Amount: 1900
+Total Earnings: 0
+Profit/Loss: -1900
+
+Breakdown:
+  Bid: 4, Amount: 1900, Payout: 9500, Status: lost

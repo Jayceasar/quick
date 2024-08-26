@@ -1,0 +1,9 @@
+User ID: Jydp7QkvZsUPI7LxACJF
+User Name: robot
+Ticket ID: Jydp7QkvZsUPI7LxACJF_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
+Total Bid Amount: 6900
+Total Earnings: 0
+Profit/Loss: -6900
+
+Breakdown:
+  Bid: 2, Amount: 6900, Payout: 34500, Status: lost

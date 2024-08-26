@@ -1,0 +1,10 @@
+User ID: DJb2s5hHgSAq-carABGd
+User Name: robot
+Ticket ID: DJb2s5hHgSAq-carABGd_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 7600
+Total Earnings: 0
+Profit/Loss: -7600
+
+Breakdown:
+  Bid: 6, Amount: 6700, Payout: 33500, Status: lost
+  Bid: 6, Amount: 900, Payout: 4500, Status: lost

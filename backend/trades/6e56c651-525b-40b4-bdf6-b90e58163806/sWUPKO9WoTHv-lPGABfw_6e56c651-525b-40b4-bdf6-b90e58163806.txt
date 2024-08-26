@@ -1,0 +1,10 @@
+User ID: sWUPKO9WoTHv-lPGABfw
+User Name: robot
+Ticket ID: sWUPKO9WoTHv-lPGABfw_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 11700
+Total Earnings: 0
+Profit/Loss: -11700
+
+Breakdown:
+  Bid: 4, Amount: 3200, Payout: 16000, Status: lost
+  Bid: 4, Amount: 8500, Payout: 42500, Status: lost

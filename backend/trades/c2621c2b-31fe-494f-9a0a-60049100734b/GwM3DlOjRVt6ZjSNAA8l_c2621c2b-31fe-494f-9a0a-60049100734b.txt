@@ -1,0 +1,10 @@
+User ID: GwM3DlOjRVt6ZjSNAA8l
+User Name: robot
+Ticket ID: GwM3DlOjRVt6ZjSNAA8l_c2621c2b-31fe-494f-9a0a-60049100734b
+Total Bid Amount: 9900
+Total Earnings: 0
+Profit/Loss: -9900
+
+Breakdown:
+  Bid: 6, Amount: 8700, Payout: 43500, Status: lost
+  Bid: 6, Amount: 1200, Payout: 6000, Status: lost

@@ -1,0 +1,11 @@
+User ID: -4A7HMP5CSKv0Ur6ABeh
+User Name: robot
+Ticket ID: -4A7HMP5CSKv0Ur6ABeh_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 18300
+Total Earnings: 0
+Profit/Loss: -18300
+
+Breakdown:
+  Bid: 1, Amount: 8000, Payout: 40000, Status: lost
+  Bid: 4, Amount: 4200, Payout: 21000, Status: lost
+  Bid: 4, Amount: 6100, Payout: 30500, Status: lost

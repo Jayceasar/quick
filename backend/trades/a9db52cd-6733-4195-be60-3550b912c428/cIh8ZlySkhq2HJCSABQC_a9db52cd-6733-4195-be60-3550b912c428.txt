@@ -1,0 +1,10 @@
+User ID: cIh8ZlySkhq2HJCSABQC
+User Name: robot
+Ticket ID: cIh8ZlySkhq2HJCSABQC_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 15100
+Total Earnings: 75500
+Profit/Loss: 60400
+
+Breakdown:
+  Bid: 1, Amount: 5200, Payout: 26000, Status: won
+  Bid: 1, Amount: 9900, Payout: 49500, Status: won

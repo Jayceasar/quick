@@ -1,0 +1,10 @@
+User ID: dKgthJczPmPlCbsCABQi
+User Name: robot
+Ticket ID: dKgthJczPmPlCbsCABQi_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 11700
+Total Earnings: 12500
+Profit/Loss: 800
+
+Breakdown:
+  Bid: 1, Amount: 2500, Payout: 12500, Status: won
+  Bid: 3, Amount: 9200, Payout: 46000, Status: lost

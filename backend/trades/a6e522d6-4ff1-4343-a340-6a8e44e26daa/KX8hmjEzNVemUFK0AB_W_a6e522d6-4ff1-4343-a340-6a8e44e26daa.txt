@@ -1,0 +1,9 @@
+User ID: KX8hmjEzNVemUFK0AB_W
+User Name: robot
+Ticket ID: KX8hmjEzNVemUFK0AB_W_a6e522d6-4ff1-4343-a340-6a8e44e26daa
+Total Bid Amount: 300
+Total Earnings: 0
+Profit/Loss: -300
+
+Breakdown:
+  Bid: 6, Amount: 300, Payout: 1500, Status: lost

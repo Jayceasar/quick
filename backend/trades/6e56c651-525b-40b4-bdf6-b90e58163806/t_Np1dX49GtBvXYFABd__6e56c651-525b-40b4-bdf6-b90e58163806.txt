@@ -1,0 +1,11 @@
+User ID: t_Np1dX49GtBvXYFABd_
+User Name: robot
+Ticket ID: t_Np1dX49GtBvXYFABd__6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 3600
+Total Earnings: 3000
+Profit/Loss: -600
+
+Breakdown:
+  Bid: 5, Amount: 1900, Payout: 9500, Status: lost
+  Bid: 5, Amount: 1100, Payout: 5500, Status: lost
+  Bid: 3, Amount: 600, Payout: 3000, Status: won

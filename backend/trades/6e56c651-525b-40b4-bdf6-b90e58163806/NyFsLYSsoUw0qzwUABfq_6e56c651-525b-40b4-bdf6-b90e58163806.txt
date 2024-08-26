@@ -1,0 +1,10 @@
+User ID: NyFsLYSsoUw0qzwUABfq
+User Name: robot
+Ticket ID: NyFsLYSsoUw0qzwUABfq_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 5900
+Total Earnings: 0
+Profit/Loss: -5900
+
+Breakdown:
+  Bid: 4, Amount: 5200, Payout: 26000, Status: lost
+  Bid: 1, Amount: 700, Payout: 3500, Status: lost

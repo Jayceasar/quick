@@ -1,0 +1,10 @@
+User ID: ZHmE81CB3QCYGWHRABR5
+User Name: robot
+Ticket ID: ZHmE81CB3QCYGWHRABR5_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 13000
+Total Earnings: 49000
+Profit/Loss: 36000
+
+Breakdown:
+  Bid: 1, Amount: 9800, Payout: 49000, Status: won
+  Bid: 6, Amount: 3200, Payout: 16000, Status: lost

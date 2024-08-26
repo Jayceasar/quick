@@ -1,0 +1,9 @@
+User ID: 1f7qh-SbHHMM21VtABK2
+User Name: robot
+Ticket ID: 1f7qh-SbHHMM21VtABK2_53f52dfa-658a-410e-aa4f-daee0e5a689c
+Total Bid Amount: 5600
+Total Earnings: 28000
+Profit/Loss: 22400
+
+Breakdown:
+  Bid: 6, Amount: 5600, Payout: 28000, Status: won

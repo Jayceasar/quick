@@ -1,0 +1,9 @@
+User ID: ZyXzWxhVp8I4wjBnACGQ
+User Name: robot
+Ticket ID: ZyXzWxhVp8I4wjBnACGQ_7f17eed6-7359-4dae-af38-f93e4d907ad3
+Total Bid Amount: 4300
+Total Earnings: 0
+Profit/Loss: -4300
+
+Breakdown:
+  Bid: 5, Amount: 4300, Payout: 21500, Status: lost

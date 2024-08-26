@@ -1,0 +1,9 @@
+User ID: 8uqTXFDujEyYl_NBACPm
+User Name: robot
+Ticket ID: 8uqTXFDujEyYl_NBACPm_0b5aba4a-f891-44e8-b754-33f21b58ad9e
+Total Bid Amount: 1500
+Total Earnings: 0
+Profit/Loss: -1500
+
+Breakdown:
+  Bid: 6, Amount: 1500, Payout: 7500, Status: lost

@@ -1,0 +1,9 @@
+User ID: k_vuGlDosrAOLBgeABJ0
+User Name: robot
+Ticket ID: k_vuGlDosrAOLBgeABJ0_53f52dfa-658a-410e-aa4f-daee0e5a689c
+Total Bid Amount: 3400
+Total Earnings: 0
+Profit/Loss: -3400
+
+Breakdown:
+  Bid: 4, Amount: 3400, Payout: 17000, Status: lost

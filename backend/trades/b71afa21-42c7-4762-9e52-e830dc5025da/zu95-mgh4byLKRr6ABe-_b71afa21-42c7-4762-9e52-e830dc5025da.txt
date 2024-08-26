@@ -1,0 +1,9 @@
+User ID: zu95-mgh4byLKRr6ABe-
+User Name: robot
+Ticket ID: zu95-mgh4byLKRr6ABe-_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 7300
+Total Earnings: 0
+Profit/Loss: -7300
+
+Breakdown:
+  Bid: 4, Amount: 7300, Payout: 36500, Status: lost

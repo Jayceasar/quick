@@ -1,0 +1,10 @@
+User ID: pfN1KJH4a4Cu8KEFABYB
+User Name: robot
+Ticket ID: pfN1KJH4a4Cu8KEFABYB_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 6600
+Total Earnings: 0
+Profit/Loss: -6600
+
+Breakdown:
+  Bid: 1, Amount: 4600, Payout: 23000, Status: lost
+  Bid: 5, Amount: 2000, Payout: 10000, Status: lost

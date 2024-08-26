@@ -1,0 +1,9 @@
+User ID: SaoBDOJIrws4MLmJAA9d
+User Name: robot
+Ticket ID: SaoBDOJIrws4MLmJAA9d_73e52ea7-53a0-471d-a88d-2ad368de3cb4
+Total Bid Amount: 5600
+Total Earnings: 0
+Profit/Loss: -5600
+
+Breakdown:
+  Bid: 5, Amount: 5600, Payout: 28000, Status: lost

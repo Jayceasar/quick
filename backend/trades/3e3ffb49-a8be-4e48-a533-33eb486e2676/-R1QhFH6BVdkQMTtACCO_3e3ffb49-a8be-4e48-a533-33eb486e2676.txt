@@ -1,0 +1,9 @@
+User ID: -R1QhFH6BVdkQMTtACCO
+User Name: robot
+Ticket ID: -R1QhFH6BVdkQMTtACCO_3e3ffb49-a8be-4e48-a533-33eb486e2676
+Total Bid Amount: 7800
+Total Earnings: 0
+Profit/Loss: -7800
+
+Breakdown:
+  Bid: 3, Amount: 7800, Payout: 39000, Status: lost

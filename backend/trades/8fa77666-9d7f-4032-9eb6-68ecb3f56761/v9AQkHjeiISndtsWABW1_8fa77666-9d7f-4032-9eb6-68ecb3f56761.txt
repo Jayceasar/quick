@@ -1,0 +1,9 @@
+User ID: v9AQkHjeiISndtsWABW1
+User Name: robot
+Ticket ID: v9AQkHjeiISndtsWABW1_8fa77666-9d7f-4032-9eb6-68ecb3f56761
+Total Bid Amount: 3000
+Total Earnings: 0
+Profit/Loss: -3000
+
+Breakdown:
+  Bid: 2, Amount: 3000, Payout: 15000, Status: lost

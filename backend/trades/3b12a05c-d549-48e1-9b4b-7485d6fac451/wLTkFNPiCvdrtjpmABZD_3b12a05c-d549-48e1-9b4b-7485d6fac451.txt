@@ -1,0 +1,11 @@
+User ID: wLTkFNPiCvdrtjpmABZD
+User Name: robot
+Ticket ID: wLTkFNPiCvdrtjpmABZD_3b12a05c-d549-48e1-9b4b-7485d6fac451
+Total Bid Amount: 22100
+Total Earnings: 0
+Profit/Loss: -22100
+
+Breakdown:
+  Bid: 3, Amount: 3800, Payout: 19000, Status: lost
+  Bid: 3, Amount: 9000, Payout: 45000, Status: lost
+  Bid: 4, Amount: 9300, Payout: 46500, Status: lost

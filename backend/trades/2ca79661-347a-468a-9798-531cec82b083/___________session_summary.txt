@@ -1,0 +1,10 @@
+Session ID: 2ca79661-347a-468a-9798-531cec82b083
+Total Bids: 200
+Total Amount: 1067100
+Profit: 77100
+Payout: 990000
+Winning Numbers: 1
+Total Winning Users: 38
+Total Losing Users: 162
+Total Winning Tickets: 38
+Total Losing Tickets: 162

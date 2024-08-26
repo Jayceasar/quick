@@ -1,0 +1,10 @@
+User ID: gsqHb-mXkdDe0uqNABuz
+User Name: robot
+Ticket ID: gsqHb-mXkdDe0uqNABuz_aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 4000
+Total Earnings: 6500
+Profit/Loss: 2500
+
+Breakdown:
+  Bid: 2, Amount: 2700, Payout: 13500, Status: lost
+  Bid: 3, Amount: 1300, Payout: 6500, Status: won

@@ -1,0 +1,9 @@
+User ID: wVcjLu5ANtf_fGPSABKI
+User Name: robot
+Ticket ID: wVcjLu5ANtf_fGPSABKI_692b2a95-b090-4fc1-ad37-195b1ac2aba1
+Total Bid Amount: 3600
+Total Earnings: 18000
+Profit/Loss: 14400
+
+Breakdown:
+  Bid: 5, Amount: 3600, Payout: 18000, Status: won

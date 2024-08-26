@@ -1,0 +1,9 @@
+User ID: ictwwQ_sQz2ZXdi9ACRD
+User Name: robot
+Ticket ID: ictwwQ_sQz2ZXdi9ACRD_4508540c-24b1-4b4f-8d4c-f0d990720795
+Total Bid Amount: 3300
+Total Earnings: 0
+Profit/Loss: -3300
+
+Breakdown:
+  Bid: 5, Amount: 3300, Payout: 16500, Status: lost

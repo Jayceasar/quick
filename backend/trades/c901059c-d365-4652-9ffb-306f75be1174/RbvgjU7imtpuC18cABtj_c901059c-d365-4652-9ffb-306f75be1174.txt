@@ -1,0 +1,9 @@
+User ID: RbvgjU7imtpuC18cABtj
+User Name: robot
+Ticket ID: RbvgjU7imtpuC18cABtj_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 1800
+Total Earnings: 9000
+Profit/Loss: 7200
+
+Breakdown:
+  Bid: 1, Amount: 1800, Payout: 9000, Status: won

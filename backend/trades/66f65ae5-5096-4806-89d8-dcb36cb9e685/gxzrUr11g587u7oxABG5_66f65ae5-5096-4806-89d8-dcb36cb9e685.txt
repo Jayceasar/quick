@@ -1,0 +1,10 @@
+User ID: gxzrUr11g587u7oxABG5
+User Name: robot
+Ticket ID: gxzrUr11g587u7oxABG5_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 14800
+Total Earnings: 0
+Profit/Loss: -14800
+
+Breakdown:
+  Bid: 2, Amount: 6000, Payout: 30000, Status: lost
+  Bid: 2, Amount: 8800, Payout: 44000, Status: lost

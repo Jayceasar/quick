@@ -1,0 +1,9 @@
+User ID: QrlEah5XqClmT9ldACCF
+User Name: robot
+Ticket ID: QrlEah5XqClmT9ldACCF_8fc6b331-1cf2-4f7e-b22b-f0768821f205
+Total Bid Amount: 5800
+Total Earnings: 29000
+Profit/Loss: 23200
+
+Breakdown:
+  Bid: 6, Amount: 5800, Payout: 29000, Status: won

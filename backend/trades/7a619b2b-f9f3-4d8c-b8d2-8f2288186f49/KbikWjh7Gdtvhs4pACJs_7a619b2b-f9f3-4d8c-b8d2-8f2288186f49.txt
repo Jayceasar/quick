@@ -1,0 +1,9 @@
+User ID: KbikWjh7Gdtvhs4pACJs
+User Name: robot
+Ticket ID: KbikWjh7Gdtvhs4pACJs_7a619b2b-f9f3-4d8c-b8d2-8f2288186f49
+Total Bid Amount: 1300
+Total Earnings: 0
+Profit/Loss: -1300
+
+Breakdown:
+  Bid: 1, Amount: 1300, Payout: 6500, Status: lost

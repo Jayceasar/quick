@@ -1,0 +1,10 @@
+User ID: 1fSlhOdVeYImCOGPABmH
+User Name: robot
+Ticket ID: 1fSlhOdVeYImCOGPABmH_33fbb41f-21df-4ee4-a3d1-4429a431ece2
+Total Bid Amount: 10700
+Total Earnings: 0
+Profit/Loss: -10700
+
+Breakdown:
+  Bid: 2, Amount: 7700, Payout: 38500, Status: lost
+  Bid: 5, Amount: 3000, Payout: 15000, Status: lost

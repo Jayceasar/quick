@@ -1,0 +1,10 @@
+User ID: opMXW7hbuR4QpP7gABtb
+User Name: robot
+Ticket ID: opMXW7hbuR4QpP7gABtb_aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 14900
+Total Earnings: 0
+Profit/Loss: -14900
+
+Breakdown:
+  Bid: 4, Amount: 5200, Payout: 26000, Status: lost
+  Bid: 1, Amount: 9700, Payout: 48500, Status: lost

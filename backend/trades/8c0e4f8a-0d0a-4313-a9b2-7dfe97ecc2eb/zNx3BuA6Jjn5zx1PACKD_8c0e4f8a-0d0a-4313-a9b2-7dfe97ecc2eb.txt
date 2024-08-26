@@ -1,0 +1,9 @@
+User ID: zNx3BuA6Jjn5zx1PACKD
+User Name: robot
+Ticket ID: zNx3BuA6Jjn5zx1PACKD_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
+Total Bid Amount: 8600
+Total Earnings: 43000
+Profit/Loss: 34400
+
+Breakdown:
+  Bid: 5, Amount: 8600, Payout: 43000, Status: won

@@ -1,0 +1,9 @@
+User ID: SfDIS2FdOUmqb6Y7ABX5
+User Name: robot
+Ticket ID: SfDIS2FdOUmqb6Y7ABX5_a8e43219-fb0d-4493-bd00-d9f0476aecaf
+Total Bid Amount: 7500
+Total Earnings: 37500
+Profit/Loss: 30000
+
+Breakdown:
+  Bid: 5, Amount: 7500, Payout: 37500, Status: won

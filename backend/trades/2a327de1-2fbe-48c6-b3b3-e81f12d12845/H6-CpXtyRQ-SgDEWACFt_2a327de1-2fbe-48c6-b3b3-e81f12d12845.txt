@@ -1,0 +1,9 @@
+User ID: H6-CpXtyRQ-SgDEWACFt
+User Name: robot
+Ticket ID: H6-CpXtyRQ-SgDEWACFt_2a327de1-2fbe-48c6-b3b3-e81f12d12845
+Total Bid Amount: 2900
+Total Earnings: 14500
+Profit/Loss: 11600
+
+Breakdown:
+  Bid: 5, Amount: 2900, Payout: 14500, Status: won

@@ -1,0 +1,9 @@
+User ID: nCn0Bkjam8r_1QHbACIx
+User Name: robot
+Ticket ID: nCn0Bkjam8r_1QHbACIx_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
+Total Bid Amount: 6900
+Total Earnings: 0
+Profit/Loss: -6900
+
+Breakdown:
+  Bid: 1, Amount: 6900, Payout: 34500, Status: lost

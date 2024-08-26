@@ -1,0 +1,9 @@
+User ID: pQuJuZmt2h7SAo1GACBV
+User Name: robot
+Ticket ID: pQuJuZmt2h7SAo1GACBV_977b8648-dfb4-4998-86d5-f8ec9238a7bd
+Total Bid Amount: 2300
+Total Earnings: 11500
+Profit/Loss: 9200
+
+Breakdown:
+  Bid: 4, Amount: 2300, Payout: 11500, Status: won

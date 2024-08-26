@@ -1,0 +1,9 @@
+User ID: 2XXsstcVqxJEyr8vACFw
+User Name: robot
+Ticket ID: 2XXsstcVqxJEyr8vACFw_2a327de1-2fbe-48c6-b3b3-e81f12d12845
+Total Bid Amount: 6600
+Total Earnings: 0
+Profit/Loss: -6600
+
+Breakdown:
+  Bid: 4, Amount: 6600, Payout: 33000, Status: lost

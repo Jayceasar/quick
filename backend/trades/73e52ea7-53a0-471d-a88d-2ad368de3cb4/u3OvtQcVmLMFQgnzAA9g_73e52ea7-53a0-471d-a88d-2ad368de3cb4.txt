@@ -1,0 +1,9 @@
+User ID: u3OvtQcVmLMFQgnzAA9g
+User Name: robot
+Ticket ID: u3OvtQcVmLMFQgnzAA9g_73e52ea7-53a0-471d-a88d-2ad368de3cb4
+Total Bid Amount: 5000
+Total Earnings: 0
+Profit/Loss: -5000
+
+Breakdown:
+  Bid: 4, Amount: 5000, Payout: 25000, Status: lost

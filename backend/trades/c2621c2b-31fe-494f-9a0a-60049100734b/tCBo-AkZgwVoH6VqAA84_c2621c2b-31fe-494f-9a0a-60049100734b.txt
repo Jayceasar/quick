@@ -1,0 +1,10 @@
+User ID: tCBo-AkZgwVoH6VqAA84
+User Name: robot
+Ticket ID: tCBo-AkZgwVoH6VqAA84_c2621c2b-31fe-494f-9a0a-60049100734b
+Total Bid Amount: 12200
+Total Earnings: 0
+Profit/Loss: -12200
+
+Breakdown:
+  Bid: 6, Amount: 6900, Payout: 34500, Status: lost
+  Bid: 6, Amount: 5300, Payout: 26500, Status: lost

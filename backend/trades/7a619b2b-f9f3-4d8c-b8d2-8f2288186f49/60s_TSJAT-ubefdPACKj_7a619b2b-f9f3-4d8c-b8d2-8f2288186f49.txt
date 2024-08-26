@@ -1,0 +1,9 @@
+User ID: 60s_TSJAT-ubefdPACKj
+User Name: robot
+Ticket ID: 60s_TSJAT-ubefdPACKj_7a619b2b-f9f3-4d8c-b8d2-8f2288186f49
+Total Bid Amount: 2300
+Total Earnings: 0
+Profit/Loss: -2300
+
+Breakdown:
+  Bid: 2, Amount: 2300, Payout: 11500, Status: lost

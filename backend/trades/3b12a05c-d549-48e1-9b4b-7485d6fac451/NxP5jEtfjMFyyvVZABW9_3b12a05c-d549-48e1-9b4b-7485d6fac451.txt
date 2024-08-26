@@ -1,0 +1,9 @@
+User ID: NxP5jEtfjMFyyvVZABW9
+User Name: robot
+Ticket ID: NxP5jEtfjMFyyvVZABW9_3b12a05c-d549-48e1-9b4b-7485d6fac451
+Total Bid Amount: 7400
+Total Earnings: 0
+Profit/Loss: -7400
+
+Breakdown:
+  Bid: 5, Amount: 7400, Payout: 37000, Status: lost

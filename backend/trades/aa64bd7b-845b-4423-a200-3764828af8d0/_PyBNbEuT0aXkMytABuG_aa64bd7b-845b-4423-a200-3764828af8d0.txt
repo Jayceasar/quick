@@ -1,0 +1,10 @@
+User ID: _PyBNbEuT0aXkMytABuG
+User Name: robot
+Ticket ID: _PyBNbEuT0aXkMytABuG_aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 14800
+Total Earnings: 27500
+Profit/Loss: 12700
+
+Breakdown:
+  Bid: 5, Amount: 9300, Payout: 46500, Status: lost
+  Bid: 3, Amount: 5500, Payout: 27500, Status: won

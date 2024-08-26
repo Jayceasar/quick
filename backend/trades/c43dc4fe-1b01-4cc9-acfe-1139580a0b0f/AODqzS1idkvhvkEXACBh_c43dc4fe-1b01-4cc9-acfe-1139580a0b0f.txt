@@ -1,0 +1,9 @@
+User ID: AODqzS1idkvhvkEXACBh
+User Name: robot
+Ticket ID: AODqzS1idkvhvkEXACBh_c43dc4fe-1b01-4cc9-acfe-1139580a0b0f
+Total Bid Amount: 6500
+Total Earnings: 0
+Profit/Loss: -6500
+
+Breakdown:
+  Bid: 5, Amount: 6500, Payout: 32500, Status: lost

@@ -1,0 +1,9 @@
+User ID: LFBN-sN_HfSvnkNEAB-v
+User Name: robot
+Ticket ID: LFBN-sN_HfSvnkNEAB-v_56850f82-82b8-4cfb-888b-f0899476a0dd
+Total Bid Amount: 6100
+Total Earnings: 0
+Profit/Loss: -6100
+
+Breakdown:
+  Bid: 5, Amount: 6100, Payout: 30500, Status: lost

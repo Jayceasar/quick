@@ -1,0 +1,11 @@
+User ID: 02s7WrjYFmxOfYmkABeS
+User Name: robot
+Ticket ID: 02s7WrjYFmxOfYmkABeS_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 19800
+Total Earnings: 0
+Profit/Loss: -19800
+
+Breakdown:
+  Bid: 6, Amount: 8700, Payout: 43500, Status: lost
+  Bid: 2, Amount: 7900, Payout: 39500, Status: lost
+  Bid: 6, Amount: 3200, Payout: 16000, Status: lost

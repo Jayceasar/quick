@@ -1,0 +1,10 @@
+User ID: Nm27WsGmMYnEkzt8ABPy
+User Name: robot
+Ticket ID: Nm27WsGmMYnEkzt8ABPy_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 8300
+Total Earnings: 0
+Profit/Loss: -8300
+
+Breakdown:
+  Bid: 6, Amount: 8200, Payout: 41000, Status: lost
+  Bid: 4, Amount: 100, Payout: 500, Status: lost

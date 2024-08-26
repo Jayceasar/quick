@@ -1,0 +1,10 @@
+User ID: ZR0vPKkNAHcnUp7aABtv
+User Name: robot
+Ticket ID: ZR0vPKkNAHcnUp7aABtv_aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 11100
+Total Earnings: 0
+Profit/Loss: -11100
+
+Breakdown:
+  Bid: 2, Amount: 4800, Payout: 24000, Status: lost
+  Bid: 2, Amount: 6300, Payout: 31500, Status: lost

@@ -1,0 +1,9 @@
+User ID: 8lKHv30Y68xSbhaNABua
+User Name: robot
+Ticket ID: 8lKHv30Y68xSbhaNABua_7a1cf374-3b0b-47a8-92f4-370088b1d70d
+Total Bid Amount: 8900
+Total Earnings: 0
+Profit/Loss: -8900
+
+Breakdown:
+  Bid: 4, Amount: 8900, Payout: 44500, Status: lost

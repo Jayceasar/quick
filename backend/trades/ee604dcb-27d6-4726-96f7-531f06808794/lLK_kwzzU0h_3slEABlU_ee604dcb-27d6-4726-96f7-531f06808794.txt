@@ -1,0 +1,9 @@
+User ID: lLK_kwzzU0h_3slEABlU
+User Name: robot
+Ticket ID: lLK_kwzzU0h_3slEABlU_ee604dcb-27d6-4726-96f7-531f06808794
+Total Bid Amount: 5800
+Total Earnings: 29000
+Profit/Loss: 23200
+
+Breakdown:
+  Bid: 4, Amount: 5800, Payout: 29000, Status: won

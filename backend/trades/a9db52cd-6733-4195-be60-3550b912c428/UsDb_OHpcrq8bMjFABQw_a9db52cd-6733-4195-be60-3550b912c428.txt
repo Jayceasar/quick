@@ -1,0 +1,10 @@
+User ID: UsDb_OHpcrq8bMjFABQw
+User Name: robot
+Ticket ID: UsDb_OHpcrq8bMjFABQw_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 14000
+Total Earnings: 0
+Profit/Loss: -14000
+
+Breakdown:
+  Bid: 4, Amount: 5600, Payout: 28000, Status: lost
+  Bid: 6, Amount: 8400, Payout: 42000, Status: lost

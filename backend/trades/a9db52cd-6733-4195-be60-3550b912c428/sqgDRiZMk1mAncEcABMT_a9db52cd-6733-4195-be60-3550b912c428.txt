@@ -1,0 +1,9 @@
+User ID: sqgDRiZMk1mAncEcABMT
+User Name: robot
+Ticket ID: sqgDRiZMk1mAncEcABMT_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 9700
+Total Earnings: 0
+Profit/Loss: -9700
+
+Breakdown:
+  Bid: 2, Amount: 9700, Payout: 48500, Status: lost

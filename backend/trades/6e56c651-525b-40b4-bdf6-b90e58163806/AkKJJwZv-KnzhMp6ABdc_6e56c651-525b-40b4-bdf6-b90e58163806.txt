@@ -1,0 +1,11 @@
+User ID: AkKJJwZv-KnzhMp6ABdc
+User Name: robot
+Ticket ID: AkKJJwZv-KnzhMp6ABdc_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 12300
+Total Earnings: 5000
+Profit/Loss: -7300
+
+Breakdown:
+  Bid: 3, Amount: 1000, Payout: 5000, Status: won
+  Bid: 5, Amount: 3200, Payout: 16000, Status: lost
+  Bid: 5, Amount: 8100, Payout: 40500, Status: lost

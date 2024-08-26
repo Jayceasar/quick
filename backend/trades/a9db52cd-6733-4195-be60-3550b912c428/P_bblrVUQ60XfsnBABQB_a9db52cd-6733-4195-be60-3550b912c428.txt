@@ -1,0 +1,10 @@
+User ID: P_bblrVUQ60XfsnBABQB
+User Name: robot
+Ticket ID: P_bblrVUQ60XfsnBABQB_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 11800
+Total Earnings: 0
+Profit/Loss: -11800
+
+Breakdown:
+  Bid: 3, Amount: 7200, Payout: 36000, Status: lost
+  Bid: 4, Amount: 4600, Payout: 23000, Status: lost

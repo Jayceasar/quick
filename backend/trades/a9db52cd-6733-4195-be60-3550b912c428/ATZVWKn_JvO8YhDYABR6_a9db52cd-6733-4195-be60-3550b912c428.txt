@@ -1,0 +1,10 @@
+User ID: ATZVWKn_JvO8YhDYABR6
+User Name: robot
+Ticket ID: ATZVWKn_JvO8YhDYABR6_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 10500
+Total Earnings: 29000
+Profit/Loss: 18500
+
+Breakdown:
+  Bid: 1, Amount: 5800, Payout: 29000, Status: won
+  Bid: 3, Amount: 4700, Payout: 23500, Status: lost

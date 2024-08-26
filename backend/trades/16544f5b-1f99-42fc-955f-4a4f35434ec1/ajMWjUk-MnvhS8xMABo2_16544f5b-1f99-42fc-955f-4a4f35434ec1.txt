@@ -1,0 +1,10 @@
+User ID: ajMWjUk-MnvhS8xMABo2
+User Name: robot
+Ticket ID: ajMWjUk-MnvhS8xMABo2_16544f5b-1f99-42fc-955f-4a4f35434ec1
+Total Bid Amount: 14300
+Total Earnings: 0
+Profit/Loss: -14300
+
+Breakdown:
+  Bid: 5, Amount: 7200, Payout: 36000, Status: lost
+  Bid: 2, Amount: 7100, Payout: 35500, Status: lost

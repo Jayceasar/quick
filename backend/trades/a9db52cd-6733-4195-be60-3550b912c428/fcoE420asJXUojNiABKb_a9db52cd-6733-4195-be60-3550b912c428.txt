@@ -1,0 +1,9 @@
+User ID: fcoE420asJXUojNiABKb
+User Name: robot
+Ticket ID: fcoE420asJXUojNiABKb_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 4400
+Total Earnings: 0
+Profit/Loss: -4400
+
+Breakdown:
+  Bid: 5, Amount: 4400, Payout: 22000, Status: lost

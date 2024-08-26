@@ -1,0 +1,9 @@
+User ID: LyCc86lBNDjhrUqUAB2i
+User Name: robot
+Ticket ID: LyCc86lBNDjhrUqUAB2i_2ca79661-347a-468a-9798-531cec82b083
+Total Bid Amount: 1300
+Total Earnings: 6500
+Profit/Loss: 5200
+
+Breakdown:
+  Bid: 1, Amount: 1300, Payout: 6500, Status: won

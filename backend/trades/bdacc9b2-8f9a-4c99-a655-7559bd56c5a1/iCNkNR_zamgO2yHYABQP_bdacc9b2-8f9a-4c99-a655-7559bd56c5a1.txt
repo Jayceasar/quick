@@ -1,0 +1,9 @@
+User ID: iCNkNR_zamgO2yHYABQP
+User Name: robot
+Ticket ID: iCNkNR_zamgO2yHYABQP_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 8300
+Total Earnings: 0
+Profit/Loss: -8300
+
+Breakdown:
+  Bid: 6, Amount: 8300, Payout: 41500, Status: lost

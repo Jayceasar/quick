@@ -1,0 +1,10 @@
+User ID: hROk7IG5h1_3VEOwABmU
+User Name: robot
+Ticket ID: hROk7IG5h1_3VEOwABmU_33fbb41f-21df-4ee4-a3d1-4429a431ece2
+Total Bid Amount: 16200
+Total Earnings: 0
+Profit/Loss: -16200
+
+Breakdown:
+  Bid: 5, Amount: 9000, Payout: 45000, Status: lost
+  Bid: 6, Amount: 7200, Payout: 36000, Status: lost

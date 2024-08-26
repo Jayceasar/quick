@@ -1,0 +1,10 @@
+User ID: vvHliJ9Fhy2WjbatABp6
+User Name: robot
+Ticket ID: vvHliJ9Fhy2WjbatABp6_aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 15600
+Total Earnings: 35000
+Profit/Loss: 19400
+
+Breakdown:
+  Bid: 2, Amount: 8600, Payout: 43000, Status: lost
+  Bid: 3, Amount: 7000, Payout: 35000, Status: won

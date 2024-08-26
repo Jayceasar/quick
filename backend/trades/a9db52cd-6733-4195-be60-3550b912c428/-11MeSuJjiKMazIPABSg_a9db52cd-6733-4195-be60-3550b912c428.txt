@@ -1,0 +1,10 @@
+User ID: -11MeSuJjiKMazIPABSg
+User Name: robot
+Ticket ID: -11MeSuJjiKMazIPABSg_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 15100
+Total Earnings: 0
+Profit/Loss: -15100
+
+Breakdown:
+  Bid: 4, Amount: 9700, Payout: 48500, Status: lost
+  Bid: 3, Amount: 5400, Payout: 27000, Status: lost

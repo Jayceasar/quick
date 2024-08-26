@@ -1,0 +1,9 @@
+User ID: SYQ7jLuLj5R_T8U6ABJl
+User Name: robot
+Ticket ID: SYQ7jLuLj5R_T8U6ABJl_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 600
+Total Earnings: 3000
+Profit/Loss: 2400
+
+Breakdown:
+  Bid: 1, Amount: 600, Payout: 3000, Status: won

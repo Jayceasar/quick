@@ -1,0 +1,9 @@
+User ID: Lfcdqxo8KuBsGllUABXf
+User Name: robot
+Ticket ID: Lfcdqxo8KuBsGllUABXf_8fa77666-9d7f-4032-9eb6-68ecb3f56761
+Total Bid Amount: 10000
+Total Earnings: 0
+Profit/Loss: -10000
+
+Breakdown:
+  Bid: 4, Amount: 10000, Payout: 50000, Status: lost

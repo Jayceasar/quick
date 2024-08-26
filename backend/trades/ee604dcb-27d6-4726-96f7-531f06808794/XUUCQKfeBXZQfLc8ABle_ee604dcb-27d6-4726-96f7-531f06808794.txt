@@ -1,0 +1,9 @@
+User ID: XUUCQKfeBXZQfLc8ABle
+User Name: robot
+Ticket ID: XUUCQKfeBXZQfLc8ABle_ee604dcb-27d6-4726-96f7-531f06808794
+Total Bid Amount: 8800
+Total Earnings: 44000
+Profit/Loss: 35200
+
+Breakdown:
+  Bid: 4, Amount: 8800, Payout: 44000, Status: won

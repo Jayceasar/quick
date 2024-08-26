@@ -1,0 +1,9 @@
+User ID: rY1gFNfUIvYSEJGXABG1
+User Name: robot
+Ticket ID: rY1gFNfUIvYSEJGXABG1_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 7800
+Total Earnings: 0
+Profit/Loss: -7800
+
+Breakdown:
+  Bid: 4, Amount: 7800, Payout: 39000, Status: lost

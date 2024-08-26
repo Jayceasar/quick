@@ -1,0 +1,10 @@
+User ID: -aeMs5TS9p1lCmXlABSC
+User Name: robot
+Ticket ID: -aeMs5TS9p1lCmXlABSC_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 18400
+Total Earnings: 0
+Profit/Loss: -18400
+
+Breakdown:
+  Bid: 2, Amount: 9900, Payout: 49500, Status: lost
+  Bid: 4, Amount: 8500, Payout: 42500, Status: lost

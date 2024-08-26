@@ -1,0 +1,9 @@
+User ID: xT4T2XFDJEG_nssnAA8y
+User Name: robot
+Ticket ID: xT4T2XFDJEG_nssnAA8y_73e52ea7-53a0-471d-a88d-2ad368de3cb4
+Total Bid Amount: 7500
+Total Earnings: 0
+Profit/Loss: -7500
+
+Breakdown:
+  Bid: 1, Amount: 7500, Payout: 37500, Status: lost

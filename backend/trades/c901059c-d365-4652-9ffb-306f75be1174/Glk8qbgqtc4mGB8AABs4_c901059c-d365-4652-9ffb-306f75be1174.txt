@@ -1,0 +1,9 @@
+User ID: Glk8qbgqtc4mGB8AABs4
+User Name: robot
+Ticket ID: Glk8qbgqtc4mGB8AABs4_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 7200
+Total Earnings: 0
+Profit/Loss: -7200
+
+Breakdown:
+  Bid: 2, Amount: 7200, Payout: 36000, Status: lost

@@ -1,0 +1,9 @@
+User ID: PA89xK0D-9mT0wBeAB1q
+User Name: robot
+Ticket ID: PA89xK0D-9mT0wBeAB1q_cb7b5adb-35cb-4abd-a9dd-0532d0ca6333
+Total Bid Amount: 2300
+Total Earnings: 0
+Profit/Loss: -2300
+
+Breakdown:
+  Bid: 1, Amount: 2300, Payout: 11500, Status: lost

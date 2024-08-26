@@ -1,0 +1,9 @@
+User ID: lHNJFFcbAhO1jrjrABYk
+User Name: robot
+Ticket ID: lHNJFFcbAhO1jrjrABYk_fb86114f-5de4-4582-b36e-777fdfb617a6
+Total Bid Amount: 8200
+Total Earnings: 0
+Profit/Loss: -8200
+
+Breakdown:
+  Bid: 1, Amount: 8200, Payout: 41000, Status: lost

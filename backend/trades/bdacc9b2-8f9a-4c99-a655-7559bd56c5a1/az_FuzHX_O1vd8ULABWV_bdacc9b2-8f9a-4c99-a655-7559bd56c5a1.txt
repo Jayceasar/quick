@@ -1,0 +1,10 @@
+User ID: az_FuzHX_O1vd8ULABWV
+User Name: robot
+Ticket ID: az_FuzHX_O1vd8ULABWV_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 11600
+Total Earnings: 46500
+Profit/Loss: 34900
+
+Breakdown:
+  Bid: 3, Amount: 9300, Payout: 46500, Status: won
+  Bid: 6, Amount: 2300, Payout: 11500, Status: lost

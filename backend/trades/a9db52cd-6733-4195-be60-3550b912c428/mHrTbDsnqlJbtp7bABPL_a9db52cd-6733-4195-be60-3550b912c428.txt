@@ -1,0 +1,10 @@
+User ID: mHrTbDsnqlJbtp7bABPL
+User Name: robot
+Ticket ID: mHrTbDsnqlJbtp7bABPL_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 14300
+Total Earnings: 0
+Profit/Loss: -14300
+
+Breakdown:
+  Bid: 5, Amount: 8300, Payout: 41500, Status: lost
+  Bid: 2, Amount: 6000, Payout: 30000, Status: lost

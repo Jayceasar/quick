@@ -1,0 +1,10 @@
+User ID: 1grZS04aYfQt6aGfABt3
+User Name: robot
+Ticket ID: 1grZS04aYfQt6aGfABt3_aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 4700
+Total Earnings: 21000
+Profit/Loss: 16300
+
+Breakdown:
+  Bid: 2, Amount: 500, Payout: 2500, Status: lost
+  Bid: 3, Amount: 4200, Payout: 21000, Status: won

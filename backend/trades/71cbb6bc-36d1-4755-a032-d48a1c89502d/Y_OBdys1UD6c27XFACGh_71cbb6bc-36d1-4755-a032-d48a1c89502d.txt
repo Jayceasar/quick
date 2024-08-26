@@ -1,0 +1,10 @@
+User ID: Y_OBdys1UD6c27XFACGh
+User Name: robot
+Ticket ID: Y_OBdys1UD6c27XFACGh_71cbb6bc-36d1-4755-a032-d48a1c89502d
+Total Bid Amount: 6100
+Total Earnings: 0
+Profit/Loss: -6100
+
+Breakdown:
+  Bid: 1, Amount: 1600, Payout: 8000, Status: lost
+  Bid: 2, Amount: 4500, Payout: 22500, Status: lost

@@ -1,0 +1,9 @@
+User ID: aD13jZuj2621GkFUABLJ
+User Name: robot
+Ticket ID: aD13jZuj2621GkFUABLJ_692b2a95-b090-4fc1-ad37-195b1ac2aba1
+Total Bid Amount: 9800
+Total Earnings: 0
+Profit/Loss: -9800
+
+Breakdown:
+  Bid: 4, Amount: 9800, Payout: 49000, Status: lost

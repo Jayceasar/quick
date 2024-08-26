@@ -1,0 +1,9 @@
+User ID: lcLGxn6vkEfb_-hnAB1j
+User Name: robot
+Ticket ID: lcLGxn6vkEfb_-hnAB1j_2781e5b9-a77d-4c00-9c16-4c60db515876
+Total Bid Amount: 2700
+Total Earnings: 13500
+Profit/Loss: 10800
+
+Breakdown:
+  Bid: 3, Amount: 2700, Payout: 13500, Status: won

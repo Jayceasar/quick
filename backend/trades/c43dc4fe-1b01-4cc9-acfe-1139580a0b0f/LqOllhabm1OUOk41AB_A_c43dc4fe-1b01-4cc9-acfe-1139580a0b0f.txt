@@ -1,0 +1,9 @@
+User ID: LqOllhabm1OUOk41AB_A
+User Name: robot
+Ticket ID: LqOllhabm1OUOk41AB_A_c43dc4fe-1b01-4cc9-acfe-1139580a0b0f
+Total Bid Amount: 5200
+Total Earnings: 26000
+Profit/Loss: 20800
+
+Breakdown:
+  Bid: 3, Amount: 5200, Payout: 26000, Status: won

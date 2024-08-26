@@ -1,0 +1,10 @@
+User ID: fYvtMpEUaKLLuKfgABfQ
+User Name: robot
+Ticket ID: fYvtMpEUaKLLuKfgABfQ_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 2500
+Total Earnings: 0
+Profit/Loss: -2500
+
+Breakdown:
+  Bid: 4, Amount: 1200, Payout: 6000, Status: lost
+  Bid: 6, Amount: 1300, Payout: 6500, Status: lost

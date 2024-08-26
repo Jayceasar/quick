@@ -1,0 +1,9 @@
+User ID: DDs-dBMbPs2w3aNmABYT
+User Name: robot
+Ticket ID: DDs-dBMbPs2w3aNmABYT_8fa77666-9d7f-4032-9eb6-68ecb3f56761
+Total Bid Amount: 9900
+Total Earnings: 0
+Profit/Loss: -9900
+
+Breakdown:
+  Bid: 1, Amount: 9900, Payout: 49500, Status: lost

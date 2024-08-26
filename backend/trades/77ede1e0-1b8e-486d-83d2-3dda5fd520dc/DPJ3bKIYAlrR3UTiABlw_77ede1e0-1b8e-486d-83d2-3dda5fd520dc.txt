@@ -1,0 +1,9 @@
+User ID: DPJ3bKIYAlrR3UTiABlw
+User Name: robot
+Ticket ID: DPJ3bKIYAlrR3UTiABlw_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
+Total Bid Amount: 5800
+Total Earnings: 0
+Profit/Loss: -5800
+
+Breakdown:
+  Bid: 5, Amount: 5800, Payout: 29000, Status: lost

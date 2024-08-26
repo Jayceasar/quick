@@ -1,0 +1,9 @@
+User ID: xYYFEPkMYQvwSECLAB-A
+User Name: robot
+Ticket ID: xYYFEPkMYQvwSECLAB-A_ce826aab-9a87-417c-932c-403d0e5f1b5b
+Total Bid Amount: 4300
+Total Earnings: 21500
+Profit/Loss: 17200
+
+Breakdown:
+  Bid: 5, Amount: 4300, Payout: 21500, Status: won

@@ -1,0 +1,9 @@
+User ID: tQGzdTdoiuuvUNhNABeP
+User Name: robot
+Ticket ID: tQGzdTdoiuuvUNhNABeP_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 1100
+Total Earnings: 0
+Profit/Loss: -1100
+
+Breakdown:
+  Bid: 6, Amount: 1100, Payout: 5500, Status: lost

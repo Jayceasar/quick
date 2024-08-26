@@ -1,0 +1,9 @@
+User ID: bDYT9R_b7ORzC1P5AB2D
+User Name: robot
+Ticket ID: bDYT9R_b7ORzC1P5AB2D_2781e5b9-a77d-4c00-9c16-4c60db515876
+Total Bid Amount: 4500
+Total Earnings: 22500
+Profit/Loss: 18000
+
+Breakdown:
+  Bid: 3, Amount: 4500, Payout: 22500, Status: won

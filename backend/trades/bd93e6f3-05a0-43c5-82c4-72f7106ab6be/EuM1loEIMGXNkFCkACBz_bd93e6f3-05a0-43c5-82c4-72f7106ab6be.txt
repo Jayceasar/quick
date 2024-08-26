@@ -1,0 +1,9 @@
+User ID: EuM1loEIMGXNkFCkACBz
+User Name: robot
+Ticket ID: EuM1loEIMGXNkFCkACBz_bd93e6f3-05a0-43c5-82c4-72f7106ab6be
+Total Bid Amount: 1900
+Total Earnings: 0
+Profit/Loss: -1900
+
+Breakdown:
+  Bid: 1, Amount: 1900, Payout: 9500, Status: lost

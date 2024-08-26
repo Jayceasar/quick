@@ -1,0 +1,9 @@
+User ID: uXm-fAgXGjWcjDlkABdC
+User Name: robot
+Ticket ID: uXm-fAgXGjWcjDlkABdC_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 1100
+Total Earnings: 0
+Profit/Loss: -1100
+
+Breakdown:
+  Bid: 6, Amount: 1100, Payout: 5500, Status: lost

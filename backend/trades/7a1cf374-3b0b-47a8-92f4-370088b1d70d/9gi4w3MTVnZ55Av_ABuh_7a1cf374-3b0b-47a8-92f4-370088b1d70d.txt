@@ -1,0 +1,9 @@
+User ID: 9gi4w3MTVnZ55Av_ABuh
+User Name: robot
+Ticket ID: 9gi4w3MTVnZ55Av_ABuh_7a1cf374-3b0b-47a8-92f4-370088b1d70d
+Total Bid Amount: 3000
+Total Earnings: 0
+Profit/Loss: -3000
+
+Breakdown:
+  Bid: 3, Amount: 3000, Payout: 15000, Status: lost

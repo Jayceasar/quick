@@ -1,0 +1,9 @@
+User ID: 2YOlkO5fVR_8fRI6ABXt
+User Name: robot
+Ticket ID: 2YOlkO5fVR_8fRI6ABXt_3b12a05c-d549-48e1-9b4b-7485d6fac451
+Total Bid Amount: 2000
+Total Earnings: 0
+Profit/Loss: -2000
+
+Breakdown:
+  Bid: 2, Amount: 2000, Payout: 10000, Status: lost

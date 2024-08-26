@@ -1,0 +1,9 @@
+User ID: m-VR1UCv1PnnpUJUABys
+User Name: robot
+Ticket ID: m-VR1UCv1PnnpUJUABys_a295add0-ed87-4739-9946-a802886ede6f
+Total Bid Amount: 6300
+Total Earnings: 31500
+Profit/Loss: 25200
+
+Breakdown:
+  Bid: 3, Amount: 6300, Payout: 31500, Status: won

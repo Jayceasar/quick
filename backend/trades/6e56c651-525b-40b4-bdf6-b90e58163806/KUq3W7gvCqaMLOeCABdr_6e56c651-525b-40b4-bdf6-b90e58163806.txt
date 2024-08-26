@@ -1,0 +1,11 @@
+User ID: KUq3W7gvCqaMLOeCABdr
+User Name: robot
+Ticket ID: KUq3W7gvCqaMLOeCABdr_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 20000
+Total Earnings: 27500
+Profit/Loss: 7500
+
+Breakdown:
+  Bid: 1, Amount: 10000, Payout: 50000, Status: lost
+  Bid: 5, Amount: 4500, Payout: 22500, Status: lost
+  Bid: 3, Amount: 5500, Payout: 27500, Status: won

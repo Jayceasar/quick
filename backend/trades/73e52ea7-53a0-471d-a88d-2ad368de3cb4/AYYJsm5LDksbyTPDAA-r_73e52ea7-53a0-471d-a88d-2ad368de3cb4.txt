@@ -1,0 +1,9 @@
+User ID: AYYJsm5LDksbyTPDAA-r
+User Name: robot
+Ticket ID: AYYJsm5LDksbyTPDAA-r_73e52ea7-53a0-471d-a88d-2ad368de3cb4
+Total Bid Amount: 5800
+Total Earnings: 0
+Profit/Loss: -5800
+
+Breakdown:
+  Bid: 4, Amount: 5800, Payout: 29000, Status: lost

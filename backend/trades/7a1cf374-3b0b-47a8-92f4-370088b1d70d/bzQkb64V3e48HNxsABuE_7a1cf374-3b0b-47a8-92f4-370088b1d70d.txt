@@ -1,0 +1,9 @@
+User ID: bzQkb64V3e48HNxsABuE
+User Name: robot
+Ticket ID: bzQkb64V3e48HNxsABuE_7a1cf374-3b0b-47a8-92f4-370088b1d70d
+Total Bid Amount: 800
+Total Earnings: 4000
+Profit/Loss: 3200
+
+Breakdown:
+  Bid: 2, Amount: 800, Payout: 4000, Status: won

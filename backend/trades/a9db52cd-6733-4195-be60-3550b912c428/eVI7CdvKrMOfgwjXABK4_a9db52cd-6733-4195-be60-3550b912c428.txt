@@ -1,0 +1,9 @@
+User ID: eVI7CdvKrMOfgwjXABK4
+User Name: robot
+Ticket ID: eVI7CdvKrMOfgwjXABK4_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 5800
+Total Earnings: 0
+Profit/Loss: -5800
+
+Breakdown:
+  Bid: 5, Amount: 5800, Payout: 29000, Status: lost

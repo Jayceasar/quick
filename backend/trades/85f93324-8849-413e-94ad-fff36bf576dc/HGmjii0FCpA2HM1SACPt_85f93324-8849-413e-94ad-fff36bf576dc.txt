@@ -1,0 +1,9 @@
+User ID: HGmjii0FCpA2HM1SACPt
+User Name: robot
+Ticket ID: HGmjii0FCpA2HM1SACPt_85f93324-8849-413e-94ad-fff36bf576dc
+Total Bid Amount: 5000
+Total Earnings: 0
+Profit/Loss: -5000
+
+Breakdown:
+  Bid: 4, Amount: 5000, Payout: 25000, Status: lost

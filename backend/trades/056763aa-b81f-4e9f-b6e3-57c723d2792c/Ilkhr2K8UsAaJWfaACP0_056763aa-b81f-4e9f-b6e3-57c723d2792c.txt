@@ -1,0 +1,9 @@
+User ID: Ilkhr2K8UsAaJWfaACP0
+User Name: robot
+Ticket ID: Ilkhr2K8UsAaJWfaACP0_056763aa-b81f-4e9f-b6e3-57c723d2792c
+Total Bid Amount: 6900
+Total Earnings: 0
+Profit/Loss: -6900
+
+Breakdown:
+  Bid: 1, Amount: 6900, Payout: 34500, Status: lost

@@ -1,0 +1,10 @@
+User ID: MGySk17pWWGHWC-JABO7
+User Name: robot
+Ticket ID: MGySk17pWWGHWC-JABO7_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 10500
+Total Earnings: 0
+Profit/Loss: -10500
+
+Breakdown:
+  Bid: 6, Amount: 4200, Payout: 21000, Status: lost
+  Bid: 3, Amount: 6300, Payout: 31500, Status: lost

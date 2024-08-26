@@ -1,0 +1,10 @@
+User ID: 0VmCtVnOG1eftCOzABSO
+User Name: robot
+Ticket ID: 0VmCtVnOG1eftCOzABSO_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 16100
+Total Earnings: 0
+Profit/Loss: -16100
+
+Breakdown:
+  Bid: 2, Amount: 9900, Payout: 49500, Status: lost
+  Bid: 2, Amount: 6200, Payout: 31000, Status: lost

@@ -1,0 +1,11 @@
+User ID: v75h9Q9UgKY6jEC9ABei
+User Name: robot
+Ticket ID: v75h9Q9UgKY6jEC9ABei_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 9900
+Total Earnings: 0
+Profit/Loss: -9900
+
+Breakdown:
+  Bid: 2, Amount: 3000, Payout: 15000, Status: lost
+  Bid: 4, Amount: 5200, Payout: 26000, Status: lost
+  Bid: 4, Amount: 1700, Payout: 8500, Status: lost

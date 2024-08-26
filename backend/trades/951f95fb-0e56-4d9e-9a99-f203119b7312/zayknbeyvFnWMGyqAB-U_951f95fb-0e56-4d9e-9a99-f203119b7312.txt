@@ -1,0 +1,9 @@
+User ID: zayknbeyvFnWMGyqAB-U
+User Name: robot
+Ticket ID: zayknbeyvFnWMGyqAB-U_951f95fb-0e56-4d9e-9a99-f203119b7312
+Total Bid Amount: 2500
+Total Earnings: 0
+Profit/Loss: -2500
+
+Breakdown:
+  Bid: 4, Amount: 2500, Payout: 12500, Status: lost

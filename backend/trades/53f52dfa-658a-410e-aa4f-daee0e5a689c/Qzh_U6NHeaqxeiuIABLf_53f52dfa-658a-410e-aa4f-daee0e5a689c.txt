@@ -1,0 +1,9 @@
+User ID: Qzh_U6NHeaqxeiuIABLf
+User Name: robot
+Ticket ID: Qzh_U6NHeaqxeiuIABLf_53f52dfa-658a-410e-aa4f-daee0e5a689c
+Total Bid Amount: 7600
+Total Earnings: 0
+Profit/Loss: -7600
+
+Breakdown:
+  Bid: 3, Amount: 7600, Payout: 38000, Status: lost

@@ -1,0 +1,9 @@
+User ID: 5rp1-OnOjfQOyKbtAB-0
+User Name: robot
+Ticket ID: 5rp1-OnOjfQOyKbtAB-0_b139540f-748f-4ef4-96bf-eba631dd2ec8
+Total Bid Amount: 3300
+Total Earnings: 0
+Profit/Loss: -3300
+
+Breakdown:
+  Bid: 5, Amount: 3300, Payout: 16500, Status: lost

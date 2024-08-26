@@ -1,0 +1,9 @@
+User ID: LgwjqU0gM3kTSfuUACK3
+User Name: robot
+Ticket ID: LgwjqU0gM3kTSfuUACK3_baae20bc-bbdc-4a0c-addb-c4a83365506c
+Total Bid Amount: 3000
+Total Earnings: 0
+Profit/Loss: -3000
+
+Breakdown:
+  Bid: 1, Amount: 3000, Payout: 15000, Status: lost

@@ -1,0 +1,9 @@
+User ID: YQX6ASUvfUr-mPUbABlA
+User Name: robot
+Ticket ID: YQX6ASUvfUr-mPUbABlA_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
+Total Bid Amount: 5200
+Total Earnings: 0
+Profit/Loss: -5200
+
+Breakdown:
+  Bid: 2, Amount: 5200, Payout: 26000, Status: lost

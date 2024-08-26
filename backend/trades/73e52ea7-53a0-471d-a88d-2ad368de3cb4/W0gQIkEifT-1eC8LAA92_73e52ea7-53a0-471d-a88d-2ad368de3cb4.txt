@@ -1,0 +1,9 @@
+User ID: W0gQIkEifT-1eC8LAA92
+User Name: robot
+Ticket ID: W0gQIkEifT-1eC8LAA92_73e52ea7-53a0-471d-a88d-2ad368de3cb4
+Total Bid Amount: 1200
+Total Earnings: 0
+Profit/Loss: -1200
+
+Breakdown:
+  Bid: 6, Amount: 1200, Payout: 6000, Status: lost

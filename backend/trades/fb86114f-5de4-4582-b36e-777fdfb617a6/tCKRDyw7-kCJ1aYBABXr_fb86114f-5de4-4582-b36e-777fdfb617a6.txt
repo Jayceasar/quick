@@ -1,0 +1,9 @@
+User ID: tCKRDyw7-kCJ1aYBABXr
+User Name: robot
+Ticket ID: tCKRDyw7-kCJ1aYBABXr_fb86114f-5de4-4582-b36e-777fdfb617a6
+Total Bid Amount: 8500
+Total Earnings: 0
+Profit/Loss: -8500
+
+Breakdown:
+  Bid: 4, Amount: 8500, Payout: 42500, Status: lost

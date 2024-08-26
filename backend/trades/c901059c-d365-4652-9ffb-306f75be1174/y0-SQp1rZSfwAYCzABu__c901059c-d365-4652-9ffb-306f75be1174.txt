@@ -1,0 +1,9 @@
+User ID: y0-SQp1rZSfwAYCzABu_
+User Name: robot
+Ticket ID: y0-SQp1rZSfwAYCzABu__c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 2300
+Total Earnings: 0
+Profit/Loss: -2300
+
+Breakdown:
+  Bid: 2, Amount: 2300, Payout: 11500, Status: lost

@@ -1,0 +1,9 @@
+User ID: FVwXSJtVLsj0pRGCACBB
+User Name: robot
+Ticket ID: FVwXSJtVLsj0pRGCACBB_d32ea5b8-0e5c-4e10-afc1-1e45003030ee
+Total Bid Amount: 1100
+Total Earnings: 0
+Profit/Loss: -1100
+
+Breakdown:
+  Bid: 2, Amount: 1100, Payout: 5500, Status: lost

@@ -1,0 +1,9 @@
+User ID: S6Gbi2z-iI7CZcRhAA8k
+User Name: robot
+Ticket ID: S6Gbi2z-iI7CZcRhAA8k_73e52ea7-53a0-471d-a88d-2ad368de3cb4
+Total Bid Amount: 7000
+Total Earnings: 0
+Profit/Loss: -7000
+
+Breakdown:
+  Bid: 5, Amount: 7000, Payout: 35000, Status: lost

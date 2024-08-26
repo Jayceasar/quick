@@ -1,0 +1,9 @@
+User ID: uJzICL1ULi4wcTKKABaA
+User Name: robot
+Ticket ID: uJzICL1ULi4wcTKKABaA_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 6600
+Total Earnings: 0
+Profit/Loss: -6600
+
+Breakdown:
+  Bid: 2, Amount: 6600, Payout: 33000, Status: lost

@@ -1,0 +1,9 @@
+User ID: UjebjpqHVBnDAK5nACJw
+User Name: robot
+Ticket ID: UjebjpqHVBnDAK5nACJw_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
+Total Bid Amount: 7600
+Total Earnings: 0
+Profit/Loss: -7600
+
+Breakdown:
+  Bid: 4, Amount: 7600, Payout: 38000, Status: lost

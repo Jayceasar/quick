@@ -1,0 +1,9 @@
+User ID: HjofBP9HYJ9sB4jwABYZ
+User Name: robot
+Ticket ID: HjofBP9HYJ9sB4jwABYZ_3b12a05c-d549-48e1-9b4b-7485d6fac451
+Total Bid Amount: 8500
+Total Earnings: 0
+Profit/Loss: -8500
+
+Breakdown:
+  Bid: 4, Amount: 8500, Payout: 42500, Status: lost

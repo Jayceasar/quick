@@ -1,0 +1,9 @@
+User ID: 3vwa9wv3KdlzlFlJABl_
+User Name: robot
+Ticket ID: 3vwa9wv3KdlzlFlJABl__16544f5b-1f99-42fc-955f-4a4f35434ec1
+Total Bid Amount: 7600
+Total Earnings: 0
+Profit/Loss: -7600
+
+Breakdown:
+  Bid: 2, Amount: 7600, Payout: 38000, Status: lost

@@ -1,0 +1,10 @@
+User ID: 8ZB03IljvZcb_WykAB1U
+User Name: robot
+Ticket ID: 8ZB03IljvZcb_WykAB1U_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 2800
+Total Earnings: 0
+Profit/Loss: -2800
+
+Breakdown:
+  Bid: 4, Amount: 2400, Payout: 12000, Status: lost
+  Bid: 6, Amount: 400, Payout: 2000, Status: lost

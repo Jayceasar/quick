@@ -1,0 +1,9 @@
+User ID: ICrMZCM-kzbeGwQ5ABW8
+User Name: robot
+Ticket ID: ICrMZCM-kzbeGwQ5ABW8_fb86114f-5de4-4582-b36e-777fdfb617a6
+Total Bid Amount: 900
+Total Earnings: 4500
+Profit/Loss: 3600
+
+Breakdown:
+  Bid: 5, Amount: 900, Payout: 4500, Status: won

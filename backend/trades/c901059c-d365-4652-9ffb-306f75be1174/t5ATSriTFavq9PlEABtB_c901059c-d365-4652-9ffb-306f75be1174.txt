@@ -1,0 +1,9 @@
+User ID: t5ATSriTFavq9PlEABtB
+User Name: robot
+Ticket ID: t5ATSriTFavq9PlEABtB_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 1100
+Total Earnings: 0
+Profit/Loss: -1100
+
+Breakdown:
+  Bid: 6, Amount: 1100, Payout: 5500, Status: lost

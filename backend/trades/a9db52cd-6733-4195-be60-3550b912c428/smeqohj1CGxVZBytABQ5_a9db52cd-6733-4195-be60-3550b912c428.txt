@@ -1,0 +1,10 @@
+User ID: smeqohj1CGxVZBytABQ5
+User Name: robot
+Ticket ID: smeqohj1CGxVZBytABQ5_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 11700
+Total Earnings: 37000
+Profit/Loss: 25300
+
+Breakdown:
+  Bid: 1, Amount: 7400, Payout: 37000, Status: won
+  Bid: 4, Amount: 4300, Payout: 21500, Status: lost

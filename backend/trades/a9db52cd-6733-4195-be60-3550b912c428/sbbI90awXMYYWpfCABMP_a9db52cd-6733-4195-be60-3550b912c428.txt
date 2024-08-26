@@ -1,0 +1,9 @@
+User ID: sbbI90awXMYYWpfCABMP
+User Name: robot
+Ticket ID: sbbI90awXMYYWpfCABMP_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 8100
+Total Earnings: 0
+Profit/Loss: -8100
+
+Breakdown:
+  Bid: 3, Amount: 8100, Payout: 40500, Status: lost

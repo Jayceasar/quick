@@ -1,0 +1,9 @@
+User ID: zOCqQMeGl3OO7N0HABGg
+User Name: robot
+Ticket ID: zOCqQMeGl3OO7N0HABGg_692b2a95-b090-4fc1-ad37-195b1ac2aba1
+Total Bid Amount: 6500
+Total Earnings: 0
+Profit/Loss: -6500
+
+Breakdown:
+  Bid: 6, Amount: 6500, Payout: 32500, Status: lost

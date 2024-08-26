@@ -1,0 +1,9 @@
+User ID: PAkZzDr15QxONx5EAA_J
+User Name: robot
+Ticket ID: PAkZzDr15QxONx5EAA_J_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 9000
+Total Earnings: 45000
+Profit/Loss: 36000
+
+Breakdown:
+  Bid: 5, Amount: 9000, Payout: 45000, Status: won

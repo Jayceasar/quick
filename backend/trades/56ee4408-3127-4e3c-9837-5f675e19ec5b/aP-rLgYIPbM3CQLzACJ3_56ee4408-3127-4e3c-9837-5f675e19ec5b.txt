@@ -1,0 +1,9 @@
+User ID: aP-rLgYIPbM3CQLzACJ3
+User Name: robot
+Ticket ID: aP-rLgYIPbM3CQLzACJ3_56ee4408-3127-4e3c-9837-5f675e19ec5b
+Total Bid Amount: 5500
+Total Earnings: 0
+Profit/Loss: -5500
+
+Breakdown:
+  Bid: 1, Amount: 5500, Payout: 27500, Status: lost

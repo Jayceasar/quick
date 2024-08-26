@@ -1,0 +1,11 @@
+User ID: YTn9qAfuwN68L9lQABnr
+User Name: robot
+Ticket ID: YTn9qAfuwN68L9lQABnr_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
+Total Bid Amount: 8600
+Total Earnings: 36000
+Profit/Loss: 27400
+
+Breakdown:
+  Bid: 4, Amount: 400, Payout: 2000, Status: lost
+  Bid: 3, Amount: 7200, Payout: 36000, Status: won
+  Bid: 2, Amount: 1000, Payout: 5000, Status: lost

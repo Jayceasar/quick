@@ -1,0 +1,9 @@
+User ID: ZPoAdNdNQPVdB-iKACOD
+User Name: robot
+Ticket ID: ZPoAdNdNQPVdB-iKACOD_246465d8-2555-4fa7-b74a-8773effd4599
+Total Bid Amount: 700
+Total Earnings: 3500
+Profit/Loss: 2800
+
+Breakdown:
+  Bid: 1, Amount: 700, Payout: 3500, Status: won

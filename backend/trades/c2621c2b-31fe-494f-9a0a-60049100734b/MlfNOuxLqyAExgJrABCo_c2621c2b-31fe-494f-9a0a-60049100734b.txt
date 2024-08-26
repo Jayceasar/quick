@@ -1,0 +1,10 @@
+User ID: MlfNOuxLqyAExgJrABCo
+User Name: robot
+Ticket ID: MlfNOuxLqyAExgJrABCo_c2621c2b-31fe-494f-9a0a-60049100734b
+Total Bid Amount: 12500
+Total Earnings: 0
+Profit/Loss: -12500
+
+Breakdown:
+  Bid: 1, Amount: 9700, Payout: 48500, Status: lost
+  Bid: 4, Amount: 2800, Payout: 14000, Status: lost

@@ -1,0 +1,10 @@
+User ID: cc9aWfIQNifQGUS_ABKq
+User Name: robot
+Ticket ID: cc9aWfIQNifQGUS_ABKq_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 9900
+Total Earnings: 41500
+Profit/Loss: 31600
+
+Breakdown:
+  Bid: 1, Amount: 1600, Payout: 8000, Status: lost
+  Bid: 5, Amount: 8300, Payout: 41500, Status: won

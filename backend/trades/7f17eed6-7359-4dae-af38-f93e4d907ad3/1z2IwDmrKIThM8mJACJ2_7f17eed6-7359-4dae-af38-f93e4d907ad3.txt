@@ -1,0 +1,9 @@
+User ID: 1z2IwDmrKIThM8mJACJ2
+User Name: robot
+Ticket ID: 1z2IwDmrKIThM8mJACJ2_7f17eed6-7359-4dae-af38-f93e4d907ad3
+Total Bid Amount: 7700
+Total Earnings: 38500
+Profit/Loss: 30800
+
+Breakdown:
+  Bid: 3, Amount: 7700, Payout: 38500, Status: won

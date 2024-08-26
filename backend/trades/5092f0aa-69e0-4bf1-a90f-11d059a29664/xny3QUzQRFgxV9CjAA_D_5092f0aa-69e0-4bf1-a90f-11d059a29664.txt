@@ -1,0 +1,9 @@
+User ID: xny3QUzQRFgxV9CjAA_D
+User Name: robot
+Ticket ID: xny3QUzQRFgxV9CjAA_D_5092f0aa-69e0-4bf1-a90f-11d059a29664
+Total Bid Amount: 4800
+Total Earnings: 0
+Profit/Loss: -4800
+
+Breakdown:
+  Bid: 6, Amount: 4800, Payout: 24000, Status: lost

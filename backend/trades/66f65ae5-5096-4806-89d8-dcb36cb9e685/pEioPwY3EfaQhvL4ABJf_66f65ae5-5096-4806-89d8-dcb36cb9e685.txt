@@ -1,0 +1,10 @@
+User ID: pEioPwY3EfaQhvL4ABJf
+User Name: robot
+Ticket ID: pEioPwY3EfaQhvL4ABJf_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 8400
+Total Earnings: 7500
+Profit/Loss: -900
+
+Breakdown:
+  Bid: 5, Amount: 1500, Payout: 7500, Status: won
+  Bid: 2, Amount: 6900, Payout: 34500, Status: lost

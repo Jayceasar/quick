@@ -1,0 +1,9 @@
+User ID: FiEAppjGPNnixWEbACOe
+User Name: robot
+Ticket ID: FiEAppjGPNnixWEbACOe_410f81c4-640a-426c-adae-e0f04fe1a0ef
+Total Bid Amount: 6700
+Total Earnings: 0
+Profit/Loss: -6700
+
+Breakdown:
+  Bid: 4, Amount: 6700, Payout: 33500, Status: lost

@@ -1,0 +1,9 @@
+User ID: IHMKpZgqscTerNFzABXe
+User Name: robot
+Ticket ID: IHMKpZgqscTerNFzABXe_8fa77666-9d7f-4032-9eb6-68ecb3f56761
+Total Bid Amount: 900
+Total Earnings: 0
+Profit/Loss: -900
+
+Breakdown:
+  Bid: 2, Amount: 900, Payout: 4500, Status: lost

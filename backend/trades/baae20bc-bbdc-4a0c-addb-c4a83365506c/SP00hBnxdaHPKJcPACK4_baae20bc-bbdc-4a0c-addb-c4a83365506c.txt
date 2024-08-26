@@ -1,0 +1,9 @@
+User ID: SP00hBnxdaHPKJcPACK4
+User Name: robot
+Ticket ID: SP00hBnxdaHPKJcPACK4_baae20bc-bbdc-4a0c-addb-c4a83365506c
+Total Bid Amount: 4200
+Total Earnings: 21000
+Profit/Loss: 16800
+
+Breakdown:
+  Bid: 2, Amount: 4200, Payout: 21000, Status: won

@@ -1,0 +1,9 @@
+User ID: IjdsCUGv3StjDvHWABnp
+User Name: robot
+Ticket ID: IjdsCUGv3StjDvHWABnp_ee604dcb-27d6-4726-96f7-531f06808794
+Total Bid Amount: 9000
+Total Earnings: 0
+Profit/Loss: -9000
+
+Breakdown:
+  Bid: 5, Amount: 9000, Payout: 45000, Status: lost

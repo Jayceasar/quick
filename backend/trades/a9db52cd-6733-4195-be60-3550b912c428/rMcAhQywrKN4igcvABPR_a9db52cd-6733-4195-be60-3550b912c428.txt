@@ -1,0 +1,10 @@
+User ID: rMcAhQywrKN4igcvABPR
+User Name: robot
+Ticket ID: rMcAhQywrKN4igcvABPR_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 13100
+Total Earnings: 0
+Profit/Loss: -13100
+
+Breakdown:
+  Bid: 2, Amount: 9400, Payout: 47000, Status: lost
+  Bid: 5, Amount: 3700, Payout: 18500, Status: lost

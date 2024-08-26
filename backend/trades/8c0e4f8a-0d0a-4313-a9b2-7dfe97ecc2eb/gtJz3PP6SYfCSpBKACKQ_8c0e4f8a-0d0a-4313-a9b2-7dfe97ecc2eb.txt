@@ -1,0 +1,9 @@
+User ID: gtJz3PP6SYfCSpBKACKQ
+User Name: robot
+Ticket ID: gtJz3PP6SYfCSpBKACKQ_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
+Total Bid Amount: 7500
+Total Earnings: 0
+Profit/Loss: -7500
+
+Breakdown:
+  Bid: 4, Amount: 7500, Payout: 37500, Status: lost

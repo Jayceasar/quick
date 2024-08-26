@@ -1,0 +1,9 @@
+User ID: lJ-m5xDp7so8ggweABW4
+User Name: robot
+Ticket ID: lJ-m5xDp7so8ggweABW4_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 10000
+Total Earnings: 0
+Profit/Loss: -10000
+
+Breakdown:
+  Bid: 5, Amount: 10000, Payout: 50000, Status: lost

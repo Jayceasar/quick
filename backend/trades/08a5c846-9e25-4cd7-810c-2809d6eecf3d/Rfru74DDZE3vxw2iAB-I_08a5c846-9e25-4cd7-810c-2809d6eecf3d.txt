@@ -1,0 +1,9 @@
+User ID: Rfru74DDZE3vxw2iAB-I
+User Name: robot
+Ticket ID: Rfru74DDZE3vxw2iAB-I_08a5c846-9e25-4cd7-810c-2809d6eecf3d
+Total Bid Amount: 2400
+Total Earnings: 0
+Profit/Loss: -2400
+
+Breakdown:
+  Bid: 2, Amount: 2400, Payout: 12000, Status: lost

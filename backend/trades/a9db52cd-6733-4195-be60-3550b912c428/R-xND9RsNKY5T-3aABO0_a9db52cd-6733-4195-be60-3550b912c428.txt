@@ -1,0 +1,10 @@
+User ID: R-xND9RsNKY5T-3aABO0
+User Name: robot
+Ticket ID: R-xND9RsNKY5T-3aABO0_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 6800
+Total Earnings: 0
+Profit/Loss: -6800
+
+Breakdown:
+  Bid: 5, Amount: 3800, Payout: 19000, Status: lost
+  Bid: 4, Amount: 3000, Payout: 15000, Status: lost

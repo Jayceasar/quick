@@ -1,0 +1,9 @@
+User ID: iIEf2sgHmW_79vU2AB2b
+User Name: robot
+Ticket ID: iIEf2sgHmW_79vU2AB2b_73cf31f2-8401-4ac4-bb24-a78ee513d5d7
+Total Bid Amount: 6400
+Total Earnings: 0
+Profit/Loss: -6400
+
+Breakdown:
+  Bid: 5, Amount: 6400, Payout: 32000, Status: lost

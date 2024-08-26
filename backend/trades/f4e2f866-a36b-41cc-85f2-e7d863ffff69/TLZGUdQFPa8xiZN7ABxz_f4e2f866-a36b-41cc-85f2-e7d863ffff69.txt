@@ -1,0 +1,9 @@
+User ID: TLZGUdQFPa8xiZN7ABxz
+User Name: robot
+Ticket ID: TLZGUdQFPa8xiZN7ABxz_f4e2f866-a36b-41cc-85f2-e7d863ffff69
+Total Bid Amount: 5800
+Total Earnings: 0
+Profit/Loss: -5800
+
+Breakdown:
+  Bid: 2, Amount: 5800, Payout: 29000, Status: lost

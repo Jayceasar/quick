@@ -1,0 +1,9 @@
+User ID: 94Pp0lIp-4SMlQi1ABXp
+User Name: robot
+Ticket ID: 94Pp0lIp-4SMlQi1ABXp_fb86114f-5de4-4582-b36e-777fdfb617a6
+Total Bid Amount: 5300
+Total Earnings: 0
+Profit/Loss: -5300
+
+Breakdown:
+  Bid: 2, Amount: 5300, Payout: 26500, Status: lost

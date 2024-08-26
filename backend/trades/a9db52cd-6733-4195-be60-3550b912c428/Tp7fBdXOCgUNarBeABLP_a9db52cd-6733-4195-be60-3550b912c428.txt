@@ -1,0 +1,9 @@
+User ID: Tp7fBdXOCgUNarBeABLP
+User Name: robot
+Ticket ID: Tp7fBdXOCgUNarBeABLP_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 4700
+Total Earnings: 0
+Profit/Loss: -4700
+
+Breakdown:
+  Bid: 5, Amount: 4700, Payout: 23500, Status: lost

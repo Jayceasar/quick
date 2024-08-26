@@ -1,0 +1,9 @@
+User ID: zDEjfhwkZb6476iCABlW
+User Name: robot
+Ticket ID: zDEjfhwkZb6476iCABlW_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
+Total Bid Amount: 4500
+Total Earnings: 0
+Profit/Loss: -4500
+
+Breakdown:
+  Bid: 6, Amount: 4500, Payout: 22500, Status: lost

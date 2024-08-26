@@ -1,0 +1,9 @@
+User ID: Q1xVWSavJ9njnY5RABSK
+User Name: robot
+Ticket ID: Q1xVWSavJ9njnY5RABSK_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 7500
+Total Earnings: 0
+Profit/Loss: -7500
+
+Breakdown:
+  Bid: 6, Amount: 7500, Payout: 37500, Status: lost

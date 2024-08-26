@@ -1,0 +1,9 @@
+User ID: IWx_Ta0bZSz7bTHIAB9-
+User Name: robot
+Ticket ID: IWx_Ta0bZSz7bTHIAB9-_c43dc4fe-1b01-4cc9-acfe-1139580a0b0f
+Total Bid Amount: 9300
+Total Earnings: 0
+Profit/Loss: -9300
+
+Breakdown:
+  Bid: 1, Amount: 9300, Payout: 46500, Status: lost

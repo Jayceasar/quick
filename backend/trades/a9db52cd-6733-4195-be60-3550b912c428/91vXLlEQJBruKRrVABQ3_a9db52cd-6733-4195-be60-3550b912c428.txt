@@ -1,0 +1,10 @@
+User ID: 91vXLlEQJBruKRrVABQ3
+User Name: robot
+Ticket ID: 91vXLlEQJBruKRrVABQ3_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 16800
+Total Earnings: 0
+Profit/Loss: -16800
+
+Breakdown:
+  Bid: 3, Amount: 9300, Payout: 46500, Status: lost
+  Bid: 6, Amount: 7500, Payout: 37500, Status: lost

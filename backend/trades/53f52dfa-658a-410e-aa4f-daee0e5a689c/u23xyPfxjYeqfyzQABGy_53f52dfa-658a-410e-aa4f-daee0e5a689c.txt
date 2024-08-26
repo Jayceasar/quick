@@ -1,0 +1,9 @@
+User ID: u23xyPfxjYeqfyzQABGy
+User Name: robot
+Ticket ID: u23xyPfxjYeqfyzQABGy_53f52dfa-658a-410e-aa4f-daee0e5a689c
+Total Bid Amount: 9800
+Total Earnings: 49000
+Profit/Loss: 39200
+
+Breakdown:
+  Bid: 6, Amount: 9800, Payout: 49000, Status: won

@@ -1,0 +1,10 @@
+User ID: Lfcdqxo8KuBsGllUABXf
+User Name: robot
+Ticket ID: Lfcdqxo8KuBsGllUABXf_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 4800
+Total Earnings: 8500
+Profit/Loss: 3700
+
+Breakdown:
+  Bid: 6, Amount: 3100, Payout: 15500, Status: lost
+  Bid: 3, Amount: 1700, Payout: 8500, Status: won

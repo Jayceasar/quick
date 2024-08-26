@@ -1,0 +1,10 @@
+User ID: VGnm2DtyNerFZnOPAByS
+User Name: robot
+Ticket ID: VGnm2DtyNerFZnOPAByS_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 15500
+Total Earnings: 0
+Profit/Loss: -15500
+
+Breakdown:
+  Bid: 5, Amount: 5600, Payout: 28000, Status: lost
+  Bid: 2, Amount: 9900, Payout: 49500, Status: lost

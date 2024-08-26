@@ -1,0 +1,9 @@
+User ID: d9Ter5Dbz2Rq36osABeR
+User Name: robot
+Ticket ID: d9Ter5Dbz2Rq36osABeR_33fbb41f-21df-4ee4-a3d1-4429a431ece2
+Total Bid Amount: 400
+Total Earnings: 0
+Profit/Loss: -400
+
+Breakdown:
+  Bid: 2, Amount: 400, Payout: 2000, Status: lost

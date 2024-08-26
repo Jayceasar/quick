@@ -1,0 +1,10 @@
+User ID: ogetVvZiy3uCsY21ABR_
+User Name: robot
+Ticket ID: ogetVvZiy3uCsY21ABR__a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 4700
+Total Earnings: 0
+Profit/Loss: -4700
+
+Breakdown:
+  Bid: 2, Amount: 1500, Payout: 7500, Status: lost
+  Bid: 3, Amount: 3200, Payout: 16000, Status: lost

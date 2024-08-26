@@ -1,0 +1,9 @@
+User ID: _IOpDTSnRiXjPXsdAB93
+User Name: robot
+Ticket ID: _IOpDTSnRiXjPXsdAB93_07612224-3336-47cc-8c54-187b9f190cab
+Total Bid Amount: 2500
+Total Earnings: 12500
+Profit/Loss: 10000
+
+Breakdown:
+  Bid: 3, Amount: 2500, Payout: 12500, Status: won

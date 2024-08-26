@@ -1,0 +1,9 @@
+User ID: PAkZzDr15QxONx5EAA_J
+User Name: robot
+Ticket ID: PAkZzDr15QxONx5EAA_J_5092f0aa-69e0-4bf1-a90f-11d059a29664
+Total Bid Amount: 2600
+Total Earnings: 0
+Profit/Loss: -2600
+
+Breakdown:
+  Bid: 2, Amount: 2600, Payout: 13000, Status: lost

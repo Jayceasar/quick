@@ -1,0 +1,10 @@
+User ID: M1YgazD9vSHbbP2EAB1E
+User Name: robot
+Ticket ID: M1YgazD9vSHbbP2EAB1E_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 11400
+Total Earnings: 0
+Profit/Loss: -11400
+
+Breakdown:
+  Bid: 5, Amount: 7600, Payout: 38000, Status: lost
+  Bid: 2, Amount: 3800, Payout: 19000, Status: lost

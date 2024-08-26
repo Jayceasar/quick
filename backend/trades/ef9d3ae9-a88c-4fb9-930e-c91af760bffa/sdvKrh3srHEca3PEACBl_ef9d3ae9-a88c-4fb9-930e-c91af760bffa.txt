@@ -1,0 +1,9 @@
+User ID: sdvKrh3srHEca3PEACBl
+User Name: robot
+Ticket ID: sdvKrh3srHEca3PEACBl_ef9d3ae9-a88c-4fb9-930e-c91af760bffa
+Total Bid Amount: 9700
+Total Earnings: 0
+Profit/Loss: -9700
+
+Breakdown:
+  Bid: 2, Amount: 9700, Payout: 48500, Status: lost

@@ -1,0 +1,10 @@
+User ID: rrDr3SKkSbMnPXSMABX0
+User Name: robot
+Ticket ID: rrDr3SKkSbMnPXSMABX0_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 15500
+Total Earnings: 47000
+Profit/Loss: 31500
+
+Breakdown:
+  Bid: 3, Amount: 9400, Payout: 47000, Status: won
+  Bid: 6, Amount: 6100, Payout: 30500, Status: lost

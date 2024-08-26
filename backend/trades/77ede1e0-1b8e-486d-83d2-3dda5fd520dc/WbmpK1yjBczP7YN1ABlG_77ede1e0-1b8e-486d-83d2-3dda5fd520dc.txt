@@ -1,0 +1,9 @@
+User ID: WbmpK1yjBczP7YN1ABlG
+User Name: robot
+Ticket ID: WbmpK1yjBczP7YN1ABlG_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
+Total Bid Amount: 2500
+Total Earnings: 0
+Profit/Loss: -2500
+
+Breakdown:
+  Bid: 4, Amount: 2500, Payout: 12500, Status: lost

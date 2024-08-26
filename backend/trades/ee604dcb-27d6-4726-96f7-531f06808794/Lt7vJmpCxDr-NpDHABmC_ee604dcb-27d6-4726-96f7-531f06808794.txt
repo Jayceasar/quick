@@ -1,0 +1,9 @@
+User ID: Lt7vJmpCxDr-NpDHABmC
+User Name: robot
+Ticket ID: Lt7vJmpCxDr-NpDHABmC_ee604dcb-27d6-4726-96f7-531f06808794
+Total Bid Amount: 6300
+Total Earnings: 0
+Profit/Loss: -6300
+
+Breakdown:
+  Bid: 5, Amount: 6300, Payout: 31500, Status: lost

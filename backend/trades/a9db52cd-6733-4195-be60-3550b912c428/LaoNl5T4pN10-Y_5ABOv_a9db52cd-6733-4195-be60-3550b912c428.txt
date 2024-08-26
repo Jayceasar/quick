@@ -1,0 +1,10 @@
+User ID: LaoNl5T4pN10-Y_5ABOv
+User Name: robot
+Ticket ID: LaoNl5T4pN10-Y_5ABOv_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 9300
+Total Earnings: 40500
+Profit/Loss: 31200
+
+Breakdown:
+  Bid: 1, Amount: 8100, Payout: 40500, Status: won
+  Bid: 6, Amount: 1200, Payout: 6000, Status: lost

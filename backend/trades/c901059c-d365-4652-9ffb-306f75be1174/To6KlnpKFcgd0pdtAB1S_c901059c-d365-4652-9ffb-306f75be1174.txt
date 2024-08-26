@@ -1,0 +1,10 @@
+User ID: To6KlnpKFcgd0pdtAB1S
+User Name: robot
+Ticket ID: To6KlnpKFcgd0pdtAB1S_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 9000
+Total Earnings: 0
+Profit/Loss: -9000
+
+Breakdown:
+  Bid: 2, Amount: 3300, Payout: 16500, Status: lost
+  Bid: 4, Amount: 5700, Payout: 28500, Status: lost

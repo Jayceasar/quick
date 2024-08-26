@@ -1,0 +1,9 @@
+User ID: wTZpOwy97eEPi2qZAB1e
+User Name: robot
+Ticket ID: wTZpOwy97eEPi2qZAB1e_f4e2f866-a36b-41cc-85f2-e7d863ffff69
+Total Bid Amount: 5900
+Total Earnings: 0
+Profit/Loss: -5900
+
+Breakdown:
+  Bid: 3, Amount: 5900, Payout: 29500, Status: lost

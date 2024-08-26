@@ -1,0 +1,9 @@
+User ID: q108t4B2PcMY0XrdAA9R
+User Name: robot
+Ticket ID: q108t4B2PcMY0XrdAA9R_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 9800
+Total Earnings: 0
+Profit/Loss: -9800
+
+Breakdown:
+  Bid: 4, Amount: 9800, Payout: 49000, Status: lost

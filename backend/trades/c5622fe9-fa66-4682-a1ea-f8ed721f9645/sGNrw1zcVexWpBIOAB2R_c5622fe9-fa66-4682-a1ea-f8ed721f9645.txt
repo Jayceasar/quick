@@ -1,0 +1,9 @@
+User ID: sGNrw1zcVexWpBIOAB2R
+User Name: robot
+Ticket ID: sGNrw1zcVexWpBIOAB2R_c5622fe9-fa66-4682-a1ea-f8ed721f9645
+Total Bid Amount: 3000
+Total Earnings: 0
+Profit/Loss: -3000
+
+Breakdown:
+  Bid: 6, Amount: 3000, Payout: 15000, Status: lost

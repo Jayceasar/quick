@@ -1,0 +1,10 @@
+User ID: A05ntSMaQI6tz3oZAA-M
+User Name: robot
+Ticket ID: A05ntSMaQI6tz3oZAA-M_c2621c2b-31fe-494f-9a0a-60049100734b
+Total Bid Amount: 14000
+Total Earnings: 0
+Profit/Loss: -14000
+
+Breakdown:
+  Bid: 1, Amount: 8700, Payout: 43500, Status: lost
+  Bid: 6, Amount: 5300, Payout: 26500, Status: lost

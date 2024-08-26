@@ -1,0 +1,9 @@
+User ID: au7Nm9Qmb_ixC7QNABLN
+User Name: robot
+Ticket ID: au7Nm9Qmb_ixC7QNABLN_53f52dfa-658a-410e-aa4f-daee0e5a689c
+Total Bid Amount: 6600
+Total Earnings: 0
+Profit/Loss: -6600
+
+Breakdown:
+  Bid: 3, Amount: 6600, Payout: 33000, Status: lost

@@ -1,0 +1,10 @@
+User ID: 27k_EQg3X1MOecVHABGt
+User Name: robot
+Ticket ID: 27k_EQg3X1MOecVHABGt_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 13700
+Total Earnings: 34500
+Profit/Loss: 20800
+
+Breakdown:
+  Bid: 5, Amount: 6900, Payout: 34500, Status: won
+  Bid: 6, Amount: 6800, Payout: 34000, Status: lost

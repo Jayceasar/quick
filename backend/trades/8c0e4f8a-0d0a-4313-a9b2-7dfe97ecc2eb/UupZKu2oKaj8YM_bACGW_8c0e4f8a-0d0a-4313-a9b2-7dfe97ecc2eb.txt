@@ -1,0 +1,9 @@
+User ID: UupZKu2oKaj8YM_bACGW
+User Name: robot
+Ticket ID: UupZKu2oKaj8YM_bACGW_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
+Total Bid Amount: 5800
+Total Earnings: 0
+Profit/Loss: -5800
+
+Breakdown:
+  Bid: 3, Amount: 5800, Payout: 29000, Status: lost

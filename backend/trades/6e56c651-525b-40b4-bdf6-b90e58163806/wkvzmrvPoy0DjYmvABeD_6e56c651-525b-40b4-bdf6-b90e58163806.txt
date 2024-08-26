@@ -1,0 +1,11 @@
+User ID: wkvzmrvPoy0DjYmvABeD
+User Name: robot
+Ticket ID: wkvzmrvPoy0DjYmvABeD_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 20700
+Total Earnings: 0
+Profit/Loss: -20700
+
+Breakdown:
+  Bid: 4, Amount: 8000, Payout: 40000, Status: lost
+  Bid: 1, Amount: 6500, Payout: 32500, Status: lost
+  Bid: 4, Amount: 6200, Payout: 31000, Status: lost

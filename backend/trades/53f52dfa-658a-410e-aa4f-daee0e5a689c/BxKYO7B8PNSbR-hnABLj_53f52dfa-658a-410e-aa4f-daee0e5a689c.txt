@@ -1,0 +1,9 @@
+User ID: BxKYO7B8PNSbR-hnABLj
+User Name: robot
+Ticket ID: BxKYO7B8PNSbR-hnABLj_53f52dfa-658a-410e-aa4f-daee0e5a689c
+Total Bid Amount: 5800
+Total Earnings: 0
+Profit/Loss: -5800
+
+Breakdown:
+  Bid: 2, Amount: 5800, Payout: 29000, Status: lost

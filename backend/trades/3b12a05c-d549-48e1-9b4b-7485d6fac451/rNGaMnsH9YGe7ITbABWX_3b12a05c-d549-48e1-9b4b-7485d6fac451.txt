@@ -1,0 +1,9 @@
+User ID: rNGaMnsH9YGe7ITbABWX
+User Name: robot
+Ticket ID: rNGaMnsH9YGe7ITbABWX_3b12a05c-d549-48e1-9b4b-7485d6fac451
+Total Bid Amount: 200
+Total Earnings: 0
+Profit/Loss: -200
+
+Breakdown:
+  Bid: 5, Amount: 200, Payout: 1000, Status: lost

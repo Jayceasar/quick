@@ -1,0 +1,9 @@
+User ID: kAeejKdWqeELhb7jACRq
+User Name: robot
+Ticket ID: kAeejKdWqeELhb7jACRq_345d4cd4-0238-42dd-b159-99c8537dbed1
+Total Bid Amount: 8700
+Total Earnings: 0
+Profit/Loss: -8700
+
+Breakdown:
+  Bid: 5, Amount: 8700, Payout: 43500, Status: lost

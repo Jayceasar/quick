@@ -1,0 +1,10 @@
+User ID: 44Es6tCINJtjL8-vABhM
+User Name: robot
+Ticket ID: 44Es6tCINJtjL8-vABhM_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 13600
+Total Earnings: 0
+Profit/Loss: -13600
+
+Breakdown:
+  Bid: 5, Amount: 9700, Payout: 48500, Status: lost
+  Bid: 4, Amount: 3900, Payout: 19500, Status: lost

@@ -1,0 +1,9 @@
+User ID: WMN0-AzwX8Pn0eoqABx7
+User Name: robot
+Ticket ID: WMN0-AzwX8Pn0eoqABx7_44666ccb-6626-428d-95d3-f7a7a00e87a7
+Total Bid Amount: 6600
+Total Earnings: 0
+Profit/Loss: -6600
+
+Breakdown:
+  Bid: 1, Amount: 6600, Payout: 33000, Status: lost

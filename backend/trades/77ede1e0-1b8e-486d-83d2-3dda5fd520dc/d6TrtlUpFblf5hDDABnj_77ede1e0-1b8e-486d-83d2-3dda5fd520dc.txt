@@ -1,0 +1,11 @@
+User ID: d6TrtlUpFblf5hDDABnj
+User Name: robot
+Ticket ID: d6TrtlUpFblf5hDDABnj_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
+Total Bid Amount: 10200
+Total Earnings: 24500
+Profit/Loss: 14300
+
+Breakdown:
+  Bid: 4, Amount: 3000, Payout: 15000, Status: lost
+  Bid: 3, Amount: 4900, Payout: 24500, Status: won
+  Bid: 5, Amount: 2300, Payout: 11500, Status: lost

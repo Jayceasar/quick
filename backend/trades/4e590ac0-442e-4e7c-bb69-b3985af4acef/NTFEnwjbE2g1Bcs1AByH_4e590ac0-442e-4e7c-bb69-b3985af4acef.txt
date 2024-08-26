@@ -1,0 +1,9 @@
+User ID: NTFEnwjbE2g1Bcs1AByH
+User Name: robot
+Ticket ID: NTFEnwjbE2g1Bcs1AByH_4e590ac0-442e-4e7c-bb69-b3985af4acef
+Total Bid Amount: 3100
+Total Earnings: 0
+Profit/Loss: -3100
+
+Breakdown:
+  Bid: 5, Amount: 3100, Payout: 15500, Status: lost

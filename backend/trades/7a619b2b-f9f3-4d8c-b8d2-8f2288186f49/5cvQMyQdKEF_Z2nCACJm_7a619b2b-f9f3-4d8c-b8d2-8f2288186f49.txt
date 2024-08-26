@@ -1,0 +1,9 @@
+User ID: 5cvQMyQdKEF_Z2nCACJm
+User Name: robot
+Ticket ID: 5cvQMyQdKEF_Z2nCACJm_7a619b2b-f9f3-4d8c-b8d2-8f2288186f49
+Total Bid Amount: 5000
+Total Earnings: 0
+Profit/Loss: -5000
+
+Breakdown:
+  Bid: 6, Amount: 5000, Payout: 25000, Status: lost

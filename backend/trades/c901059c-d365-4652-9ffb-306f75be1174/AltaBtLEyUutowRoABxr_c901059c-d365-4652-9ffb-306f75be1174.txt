@@ -1,0 +1,10 @@
+User ID: AltaBtLEyUutowRoABxr
+User Name: robot
+Ticket ID: AltaBtLEyUutowRoABxr_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 4000
+Total Earnings: 0
+Profit/Loss: -4000
+
+Breakdown:
+  Bid: 5, Amount: 1900, Payout: 9500, Status: lost
+  Bid: 4, Amount: 2100, Payout: 10500, Status: lost

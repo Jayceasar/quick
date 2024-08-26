@@ -1,0 +1,11 @@
+User ID: LyBoojYxwkTn4ytYABen
+User Name: robot
+Ticket ID: LyBoojYxwkTn4ytYABen_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 23600
+Total Earnings: 47000
+Profit/Loss: 23400
+
+Breakdown:
+  Bid: 4, Amount: 7300, Payout: 36500, Status: lost
+  Bid: 3, Amount: 9400, Payout: 47000, Status: won
+  Bid: 5, Amount: 6900, Payout: 34500, Status: lost

@@ -1,0 +1,9 @@
+User ID: 5ZkNYCmoY8CCmQkRACBR
+User Name: robot
+Ticket ID: 5ZkNYCmoY8CCmQkRACBR_d32ea5b8-0e5c-4e10-afc1-1e45003030ee
+Total Bid Amount: 3700
+Total Earnings: 0
+Profit/Loss: -3700
+
+Breakdown:
+  Bid: 1, Amount: 3700, Payout: 18500, Status: lost

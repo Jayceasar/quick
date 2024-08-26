@@ -1,0 +1,9 @@
+User ID: 9Ejv0qMdF6lYA1eVABJ_
+User Name: robot
+Ticket ID: 9Ejv0qMdF6lYA1eVABJ__692b2a95-b090-4fc1-ad37-195b1ac2aba1
+Total Bid Amount: 2000
+Total Earnings: 0
+Profit/Loss: -2000
+
+Breakdown:
+  Bid: 6, Amount: 2000, Payout: 10000, Status: lost

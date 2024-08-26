@@ -1,0 +1,9 @@
+User ID: TGmOF16XBbZBVtKZAA9P
+User Name: robot
+Ticket ID: TGmOF16XBbZBVtKZAA9P_73e52ea7-53a0-471d-a88d-2ad368de3cb4
+Total Bid Amount: 3400
+Total Earnings: 0
+Profit/Loss: -3400
+
+Breakdown:
+  Bid: 5, Amount: 3400, Payout: 17000, Status: lost

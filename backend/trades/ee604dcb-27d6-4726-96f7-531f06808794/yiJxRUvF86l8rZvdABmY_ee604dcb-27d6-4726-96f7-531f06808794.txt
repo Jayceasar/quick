@@ -1,0 +1,9 @@
+User ID: yiJxRUvF86l8rZvdABmY
+User Name: robot
+Ticket ID: yiJxRUvF86l8rZvdABmY_ee604dcb-27d6-4726-96f7-531f06808794
+Total Bid Amount: 6100
+Total Earnings: 0
+Profit/Loss: -6100
+
+Breakdown:
+  Bid: 1, Amount: 6100, Payout: 30500, Status: lost

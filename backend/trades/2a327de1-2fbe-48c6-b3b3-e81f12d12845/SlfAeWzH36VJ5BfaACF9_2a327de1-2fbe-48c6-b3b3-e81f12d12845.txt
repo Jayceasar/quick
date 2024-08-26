@@ -1,0 +1,9 @@
+User ID: SlfAeWzH36VJ5BfaACF9
+User Name: robot
+Ticket ID: SlfAeWzH36VJ5BfaACF9_2a327de1-2fbe-48c6-b3b3-e81f12d12845
+Total Bid Amount: 7900
+Total Earnings: 0
+Profit/Loss: -7900
+
+Breakdown:
+  Bid: 4, Amount: 7900, Payout: 39500, Status: lost

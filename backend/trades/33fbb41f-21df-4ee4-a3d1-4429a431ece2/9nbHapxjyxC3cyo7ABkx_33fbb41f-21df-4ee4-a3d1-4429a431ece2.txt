@@ -1,0 +1,10 @@
+User ID: 9nbHapxjyxC3cyo7ABkx
+User Name: robot
+Ticket ID: 9nbHapxjyxC3cyo7ABkx_33fbb41f-21df-4ee4-a3d1-4429a431ece2
+Total Bid Amount: 8800
+Total Earnings: 12500
+Profit/Loss: 3700
+
+Breakdown:
+  Bid: 4, Amount: 2500, Payout: 12500, Status: won
+  Bid: 2, Amount: 6300, Payout: 31500, Status: lost

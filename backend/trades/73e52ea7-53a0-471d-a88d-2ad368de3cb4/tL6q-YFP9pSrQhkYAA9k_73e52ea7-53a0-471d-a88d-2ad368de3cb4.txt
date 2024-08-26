@@ -1,0 +1,9 @@
+User ID: tL6q-YFP9pSrQhkYAA9k
+User Name: robot
+Ticket ID: tL6q-YFP9pSrQhkYAA9k_73e52ea7-53a0-471d-a88d-2ad368de3cb4
+Total Bid Amount: 4700
+Total Earnings: 0
+Profit/Loss: -4700
+
+Breakdown:
+  Bid: 1, Amount: 4700, Payout: 23500, Status: lost

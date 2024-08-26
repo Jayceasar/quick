@@ -1,0 +1,9 @@
+User ID: 10KJ1VgBRto2-5FPABLU
+User Name: robot
+Ticket ID: 10KJ1VgBRto2-5FPABLU_53f52dfa-658a-410e-aa4f-daee0e5a689c
+Total Bid Amount: 8200
+Total Earnings: 41000
+Profit/Loss: 32800
+
+Breakdown:
+  Bid: 6, Amount: 8200, Payout: 41000, Status: won

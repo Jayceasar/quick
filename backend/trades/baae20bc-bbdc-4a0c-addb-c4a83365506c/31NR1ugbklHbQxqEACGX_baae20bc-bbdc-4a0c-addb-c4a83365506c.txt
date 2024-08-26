@@ -1,0 +1,9 @@
+User ID: 31NR1ugbklHbQxqEACGX
+User Name: robot
+Ticket ID: 31NR1ugbklHbQxqEACGX_baae20bc-bbdc-4a0c-addb-c4a83365506c
+Total Bid Amount: 8600
+Total Earnings: 0
+Profit/Loss: -8600
+
+Breakdown:
+  Bid: 3, Amount: 8600, Payout: 43000, Status: lost

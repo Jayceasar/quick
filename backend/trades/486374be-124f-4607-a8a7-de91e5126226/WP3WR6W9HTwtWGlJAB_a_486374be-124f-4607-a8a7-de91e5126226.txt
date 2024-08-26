@@ -1,0 +1,9 @@
+User ID: WP3WR6W9HTwtWGlJAB_a
+User Name: robot
+Ticket ID: WP3WR6W9HTwtWGlJAB_a_486374be-124f-4607-a8a7-de91e5126226
+Total Bid Amount: 5200
+Total Earnings: 26000
+Profit/Loss: 20800
+
+Breakdown:
+  Bid: 6, Amount: 5200, Payout: 26000, Status: won

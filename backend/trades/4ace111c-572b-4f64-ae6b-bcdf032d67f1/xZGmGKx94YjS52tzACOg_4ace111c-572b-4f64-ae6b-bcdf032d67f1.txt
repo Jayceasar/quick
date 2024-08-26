@@ -1,0 +1,10 @@
+User ID: xZGmGKx94YjS52tzACOg
+User Name: robot
+Ticket ID: xZGmGKx94YjS52tzACOg_4ace111c-572b-4f64-ae6b-bcdf032d67f1
+Total Bid Amount: 3000
+Total Earnings: 0
+Profit/Loss: -3000
+
+Breakdown:
+  Bid: 2, Amount: 500, Payout: 2500, Status: lost
+  Bid: 5, Amount: 2500, Payout: 12500, Status: lost

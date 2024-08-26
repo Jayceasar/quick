@@ -1,0 +1,9 @@
+User ID: k1PSGCXpIrir5pU0AB1C
+User Name: robot
+Ticket ID: k1PSGCXpIrir5pU0AB1C_c5622fe9-fa66-4682-a1ea-f8ed721f9645
+Total Bid Amount: 8000
+Total Earnings: 0
+Profit/Loss: -8000
+
+Breakdown:
+  Bid: 2, Amount: 8000, Payout: 40000, Status: lost

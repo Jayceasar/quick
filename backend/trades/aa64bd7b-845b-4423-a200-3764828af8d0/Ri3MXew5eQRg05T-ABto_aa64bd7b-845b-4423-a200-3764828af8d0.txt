@@ -1,0 +1,10 @@
+User ID: Ri3MXew5eQRg05T-ABto
+User Name: robot
+Ticket ID: Ri3MXew5eQRg05T-ABto_aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 8700
+Total Earnings: 0
+Profit/Loss: -8700
+
+Breakdown:
+  Bid: 5, Amount: 4600, Payout: 23000, Status: lost
+  Bid: 5, Amount: 4100, Payout: 20500, Status: lost

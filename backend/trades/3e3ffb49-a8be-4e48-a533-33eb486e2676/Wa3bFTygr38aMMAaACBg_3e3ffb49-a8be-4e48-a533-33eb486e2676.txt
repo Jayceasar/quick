@@ -1,0 +1,9 @@
+User ID: Wa3bFTygr38aMMAaACBg
+User Name: robot
+Ticket ID: Wa3bFTygr38aMMAaACBg_3e3ffb49-a8be-4e48-a533-33eb486e2676
+Total Bid Amount: 100
+Total Earnings: 500
+Profit/Loss: 400
+
+Breakdown:
+  Bid: 1, Amount: 100, Payout: 500, Status: won

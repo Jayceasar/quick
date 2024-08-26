@@ -1,0 +1,9 @@
+User ID: E631haxdiphw-evPABYa
+User Name: robot
+Ticket ID: E631haxdiphw-evPABYa_fb86114f-5de4-4582-b36e-777fdfb617a6
+Total Bid Amount: 8400
+Total Earnings: 0
+Profit/Loss: -8400
+
+Breakdown:
+  Bid: 1, Amount: 8400, Payout: 42000, Status: lost

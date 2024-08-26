@@ -1,0 +1,9 @@
+User ID: Agziq381KbTCYNQ0ACBA
+User Name: robot
+Ticket ID: Agziq381KbTCYNQ0ACBA_c43dc4fe-1b01-4cc9-acfe-1139580a0b0f
+Total Bid Amount: 8100
+Total Earnings: 0
+Profit/Loss: -8100
+
+Breakdown:
+  Bid: 4, Amount: 8100, Payout: 40500, Status: lost

@@ -1,0 +1,9 @@
+User ID: EKMmldeW34juZ7DVABYC
+User Name: robot
+Ticket ID: EKMmldeW34juZ7DVABYC_a8e43219-fb0d-4493-bd00-d9f0476aecaf
+Total Bid Amount: 7100
+Total Earnings: 0
+Profit/Loss: -7100
+
+Breakdown:
+  Bid: 4, Amount: 7100, Payout: 35500, Status: lost

@@ -1,0 +1,9 @@
+User ID: UZ8lGFofJVGrEBQEAB99
+User Name: robot
+Ticket ID: UZ8lGFofJVGrEBQEAB99_08a5c846-9e25-4cd7-810c-2809d6eecf3d
+Total Bid Amount: 1500
+Total Earnings: 7500
+Profit/Loss: 6000
+
+Breakdown:
+  Bid: 1, Amount: 1500, Payout: 7500, Status: won

@@ -1,0 +1,9 @@
+User ID: NEQtu7YXtLWrRdn4AA8g
+User Name: robot
+Ticket ID: NEQtu7YXtLWrRdn4AA8g_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 500
+Total Earnings: 2500
+Profit/Loss: 2000
+
+Breakdown:
+  Bid: 5, Amount: 500, Payout: 2500, Status: won

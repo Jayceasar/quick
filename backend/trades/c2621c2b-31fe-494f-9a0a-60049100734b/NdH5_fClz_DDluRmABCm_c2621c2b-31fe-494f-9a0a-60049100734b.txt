@@ -1,0 +1,10 @@
+User ID: NdH5_fClz_DDluRmABCm
+User Name: robot
+Ticket ID: NdH5_fClz_DDluRmABCm_c2621c2b-31fe-494f-9a0a-60049100734b
+Total Bid Amount: 13000
+Total Earnings: 0
+Profit/Loss: -13000
+
+Breakdown:
+  Bid: 1, Amount: 7700, Payout: 38500, Status: lost
+  Bid: 1, Amount: 5300, Payout: 26500, Status: lost

@@ -1,0 +1,9 @@
+User ID: 9JQzoFjb1b-rc1cBAA-h
+User Name: robot
+Ticket ID: 9JQzoFjb1b-rc1cBAA-h_73e52ea7-53a0-471d-a88d-2ad368de3cb4
+Total Bid Amount: 200
+Total Earnings: 0
+Profit/Loss: -200
+
+Breakdown:
+  Bid: 1, Amount: 200, Payout: 1000, Status: lost

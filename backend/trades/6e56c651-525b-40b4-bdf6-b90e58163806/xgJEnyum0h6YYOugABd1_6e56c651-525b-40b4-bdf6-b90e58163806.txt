@@ -1,0 +1,11 @@
+User ID: xgJEnyum0h6YYOugABd1
+User Name: robot
+Ticket ID: xgJEnyum0h6YYOugABd1_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 10500
+Total Earnings: 7500
+Profit/Loss: -3000
+
+Breakdown:
+  Bid: 6, Amount: 8600, Payout: 43000, Status: lost
+  Bid: 3, Amount: 1500, Payout: 7500, Status: won
+  Bid: 6, Amount: 400, Payout: 2000, Status: lost

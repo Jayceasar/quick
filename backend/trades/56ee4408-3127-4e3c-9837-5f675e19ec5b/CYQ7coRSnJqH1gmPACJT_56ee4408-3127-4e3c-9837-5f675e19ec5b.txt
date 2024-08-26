@@ -1,0 +1,9 @@
+User ID: CYQ7coRSnJqH1gmPACJT
+User Name: robot
+Ticket ID: CYQ7coRSnJqH1gmPACJT_56ee4408-3127-4e3c-9837-5f675e19ec5b
+Total Bid Amount: 3500
+Total Earnings: 0
+Profit/Loss: -3500
+
+Breakdown:
+  Bid: 5, Amount: 3500, Payout: 17500, Status: lost

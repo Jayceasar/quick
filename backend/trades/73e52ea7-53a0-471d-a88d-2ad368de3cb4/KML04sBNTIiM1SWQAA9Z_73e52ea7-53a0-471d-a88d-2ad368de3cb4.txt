@@ -1,0 +1,9 @@
+User ID: KML04sBNTIiM1SWQAA9Z
+User Name: robot
+Ticket ID: KML04sBNTIiM1SWQAA9Z_73e52ea7-53a0-471d-a88d-2ad368de3cb4
+Total Bid Amount: 7600
+Total Earnings: 0
+Profit/Loss: -7600
+
+Breakdown:
+  Bid: 6, Amount: 7600, Payout: 38000, Status: lost

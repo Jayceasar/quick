@@ -1,0 +1,9 @@
+User ID: 7UZ2-LcGbeI7HTSrACCD
+User Name: robot
+Ticket ID: 7UZ2-LcGbeI7HTSrACCD_3e3ffb49-a8be-4e48-a533-33eb486e2676
+Total Bid Amount: 7100
+Total Earnings: 0
+Profit/Loss: -7100
+
+Breakdown:
+  Bid: 3, Amount: 7100, Payout: 35500, Status: lost

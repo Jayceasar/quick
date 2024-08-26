@@ -1,0 +1,9 @@
+User ID: NLOhE6Jd7QEcem33ABvO
+User Name: robot
+Ticket ID: NLOhE6Jd7QEcem33ABvO_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 7500
+Total Earnings: 0
+Profit/Loss: -7500
+
+Breakdown:
+  Bid: 5, Amount: 7500, Payout: 37500, Status: lost

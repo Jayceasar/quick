@@ -1,0 +1,9 @@
+User ID: sLol5iBC918onsYYABmm
+User Name: robot
+Ticket ID: sLol5iBC918onsYYABmm_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
+Total Bid Amount: 6200
+Total Earnings: 0
+Profit/Loss: -6200
+
+Breakdown:
+  Bid: 6, Amount: 6200, Payout: 31000, Status: lost

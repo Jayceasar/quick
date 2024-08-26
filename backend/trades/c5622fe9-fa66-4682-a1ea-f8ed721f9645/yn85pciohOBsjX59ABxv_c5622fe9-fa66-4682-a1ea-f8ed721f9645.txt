@@ -1,0 +1,9 @@
+User ID: yn85pciohOBsjX59ABxv
+User Name: robot
+Ticket ID: yn85pciohOBsjX59ABxv_c5622fe9-fa66-4682-a1ea-f8ed721f9645
+Total Bid Amount: 3600
+Total Earnings: 0
+Profit/Loss: -3600
+
+Breakdown:
+  Bid: 1, Amount: 3600, Payout: 18000, Status: lost

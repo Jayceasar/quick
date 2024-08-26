@@ -1,0 +1,9 @@
+User ID: rRrWeRmMeB1EfOHDAB2g
+User Name: robot
+Ticket ID: rRrWeRmMeB1EfOHDAB2g_73cf31f2-8401-4ac4-bb24-a78ee513d5d7
+Total Bid Amount: 4000
+Total Earnings: 0
+Profit/Loss: -4000
+
+Breakdown:
+  Bid: 5, Amount: 4000, Payout: 20000, Status: lost

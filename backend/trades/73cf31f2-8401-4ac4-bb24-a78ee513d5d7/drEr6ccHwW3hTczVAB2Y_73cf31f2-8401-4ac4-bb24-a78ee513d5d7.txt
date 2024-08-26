@@ -1,0 +1,9 @@
+User ID: drEr6ccHwW3hTczVAB2Y
+User Name: robot
+Ticket ID: drEr6ccHwW3hTczVAB2Y_73cf31f2-8401-4ac4-bb24-a78ee513d5d7
+Total Bid Amount: 10000
+Total Earnings: 0
+Profit/Loss: -10000
+
+Breakdown:
+  Bid: 6, Amount: 10000, Payout: 50000, Status: lost

@@ -1,0 +1,10 @@
+User ID: oXiCygSsyN_VjbS6ABkw
+User Name: robot
+Ticket ID: oXiCygSsyN_VjbS6ABkw_33fbb41f-21df-4ee4-a3d1-4429a431ece2
+Total Bid Amount: 13200
+Total Earnings: 66000
+Profit/Loss: 52800
+
+Breakdown:
+  Bid: 4, Amount: 6100, Payout: 30500, Status: won
+  Bid: 4, Amount: 7100, Payout: 35500, Status: won

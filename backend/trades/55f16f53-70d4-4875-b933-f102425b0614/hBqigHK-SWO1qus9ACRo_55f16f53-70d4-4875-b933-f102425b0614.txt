@@ -1,0 +1,9 @@
+User ID: hBqigHK-SWO1qus9ACRo
+User Name: robot
+Ticket ID: hBqigHK-SWO1qus9ACRo_55f16f53-70d4-4875-b933-f102425b0614
+Total Bid Amount: 3100
+Total Earnings: 0
+Profit/Loss: -3100
+
+Breakdown:
+  Bid: 4, Amount: 3100, Payout: 15500, Status: lost

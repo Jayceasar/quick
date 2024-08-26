@@ -1,0 +1,10 @@
+User ID: 4wTW-_8bUWzfUzF_AA_X
+User Name: robot
+Ticket ID: 4wTW-_8bUWzfUzF_AA_X_c2621c2b-31fe-494f-9a0a-60049100734b
+Total Bid Amount: 10800
+Total Earnings: 21000
+Profit/Loss: 10200
+
+Breakdown:
+  Bid: 5, Amount: 6600, Payout: 33000, Status: lost
+  Bid: 2, Amount: 4200, Payout: 21000, Status: won

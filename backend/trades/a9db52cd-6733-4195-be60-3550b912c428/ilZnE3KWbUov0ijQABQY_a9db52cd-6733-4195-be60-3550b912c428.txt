@@ -1,0 +1,10 @@
+User ID: ilZnE3KWbUov0ijQABQY
+User Name: robot
+Ticket ID: ilZnE3KWbUov0ijQABQY_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 8600
+Total Earnings: 0
+Profit/Loss: -8600
+
+Breakdown:
+  Bid: 6, Amount: 1200, Payout: 6000, Status: lost
+  Bid: 3, Amount: 7400, Payout: 37000, Status: lost

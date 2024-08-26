@@ -1,0 +1,10 @@
+User ID: zemoHo0_5zz-U3nqACGV
+User Name: robot
+Ticket ID: zemoHo0_5zz-U3nqACGV_71cbb6bc-36d1-4755-a032-d48a1c89502d
+Total Bid Amount: 12100
+Total Earnings: 0
+Profit/Loss: -12100
+
+Breakdown:
+  Bid: 1, Amount: 9900, Payout: 49500, Status: lost
+  Bid: 2, Amount: 2200, Payout: 11000, Status: lost

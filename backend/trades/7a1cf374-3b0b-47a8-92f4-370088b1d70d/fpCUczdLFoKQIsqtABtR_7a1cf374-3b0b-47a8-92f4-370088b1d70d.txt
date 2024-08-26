@@ -1,0 +1,9 @@
+User ID: fpCUczdLFoKQIsqtABtR
+User Name: robot
+Ticket ID: fpCUczdLFoKQIsqtABtR_7a1cf374-3b0b-47a8-92f4-370088b1d70d
+Total Bid Amount: 4100
+Total Earnings: 0
+Profit/Loss: -4100
+
+Breakdown:
+  Bid: 6, Amount: 4100, Payout: 20500, Status: lost

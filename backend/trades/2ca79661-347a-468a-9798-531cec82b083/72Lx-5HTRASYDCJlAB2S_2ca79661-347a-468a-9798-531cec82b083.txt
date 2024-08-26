@@ -1,0 +1,9 @@
+User ID: 72Lx-5HTRASYDCJlAB2S
+User Name: robot
+Ticket ID: 72Lx-5HTRASYDCJlAB2S_2ca79661-347a-468a-9798-531cec82b083
+Total Bid Amount: 3300
+Total Earnings: 16500
+Profit/Loss: 13200
+
+Breakdown:
+  Bid: 1, Amount: 3300, Payout: 16500, Status: won

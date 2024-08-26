@@ -1,0 +1,9 @@
+User ID: eS0zpYdHb8KGdhNWAB2z
+User Name: robot
+Ticket ID: eS0zpYdHb8KGdhNWAB2z_01af48cf-5a07-4b4a-b906-5b1c32c765d1
+Total Bid Amount: 1900
+Total Earnings: 9500
+Profit/Loss: 7600
+
+Breakdown:
+  Bid: 6, Amount: 1900, Payout: 9500, Status: won

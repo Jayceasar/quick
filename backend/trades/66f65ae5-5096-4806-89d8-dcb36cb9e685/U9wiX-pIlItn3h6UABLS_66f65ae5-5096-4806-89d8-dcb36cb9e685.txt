@@ -1,0 +1,10 @@
+User ID: U9wiX-pIlItn3h6UABLS
+User Name: robot
+Ticket ID: U9wiX-pIlItn3h6UABLS_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 6200
+Total Earnings: 0
+Profit/Loss: -6200
+
+Breakdown:
+  Bid: 3, Amount: 4400, Payout: 22000, Status: lost
+  Bid: 6, Amount: 1800, Payout: 9000, Status: lost

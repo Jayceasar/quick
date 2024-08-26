@@ -1,0 +1,10 @@
+User ID: zpTflAGXU7S-mnnCABPa
+User Name: robot
+Ticket ID: zpTflAGXU7S-mnnCABPa_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 2400
+Total Earnings: 4000
+Profit/Loss: 1600
+
+Breakdown:
+  Bid: 1, Amount: 800, Payout: 4000, Status: won
+  Bid: 2, Amount: 1600, Payout: 8000, Status: lost

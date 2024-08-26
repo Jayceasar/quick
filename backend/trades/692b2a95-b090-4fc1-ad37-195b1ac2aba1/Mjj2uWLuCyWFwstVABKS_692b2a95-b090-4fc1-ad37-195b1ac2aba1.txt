@@ -1,0 +1,9 @@
+User ID: Mjj2uWLuCyWFwstVABKS
+User Name: robot
+Ticket ID: Mjj2uWLuCyWFwstVABKS_692b2a95-b090-4fc1-ad37-195b1ac2aba1
+Total Bid Amount: 1700
+Total Earnings: 0
+Profit/Loss: -1700
+
+Breakdown:
+  Bid: 4, Amount: 1700, Payout: 8500, Status: lost

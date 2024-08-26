@@ -1,0 +1,9 @@
+User ID: uT9UVsB0kgboTXZ5ABY9
+User Name: robot
+Ticket ID: uT9UVsB0kgboTXZ5ABY9_8fa77666-9d7f-4032-9eb6-68ecb3f56761
+Total Bid Amount: 1900
+Total Earnings: 0
+Profit/Loss: -1900
+
+Breakdown:
+  Bid: 1, Amount: 1900, Payout: 9500, Status: lost

@@ -1,0 +1,10 @@
+User ID: dYGL8MVVz5UC_4uUABR4
+User Name: robot
+Ticket ID: dYGL8MVVz5UC_4uUABR4_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 6400
+Total Earnings: 0
+Profit/Loss: -6400
+
+Breakdown:
+  Bid: 5, Amount: 4700, Payout: 23500, Status: lost
+  Bid: 6, Amount: 1700, Payout: 8500, Status: lost

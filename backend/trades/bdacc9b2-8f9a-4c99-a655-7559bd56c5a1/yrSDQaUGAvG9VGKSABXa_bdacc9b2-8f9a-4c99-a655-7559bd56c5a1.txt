@@ -1,0 +1,10 @@
+User ID: yrSDQaUGAvG9VGKSABXa
+User Name: robot
+Ticket ID: yrSDQaUGAvG9VGKSABXa_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 12500
+Total Earnings: 0
+Profit/Loss: -12500
+
+Breakdown:
+  Bid: 6, Amount: 8000, Payout: 40000, Status: lost
+  Bid: 1, Amount: 4500, Payout: 22500, Status: lost

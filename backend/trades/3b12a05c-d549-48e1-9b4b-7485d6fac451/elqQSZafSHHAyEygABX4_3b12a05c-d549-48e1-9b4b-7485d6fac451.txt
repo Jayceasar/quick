@@ -1,0 +1,9 @@
+User ID: elqQSZafSHHAyEygABX4
+User Name: robot
+Ticket ID: elqQSZafSHHAyEygABX4_3b12a05c-d549-48e1-9b4b-7485d6fac451
+Total Bid Amount: 8300
+Total Earnings: 0
+Profit/Loss: -8300
+
+Breakdown:
+  Bid: 4, Amount: 8300, Payout: 41500, Status: lost

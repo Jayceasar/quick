@@ -1,0 +1,10 @@
+User ID: D11l5IDmeqV7BbIFABtt
+User Name: robot
+Ticket ID: D11l5IDmeqV7BbIFABtt_aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 8500
+Total Earnings: 0
+Profit/Loss: -8500
+
+Breakdown:
+  Bid: 4, Amount: 2800, Payout: 14000, Status: lost
+  Bid: 4, Amount: 5700, Payout: 28500, Status: lost

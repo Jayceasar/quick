@@ -1,0 +1,9 @@
+User ID: MN_o7uXWiGlmXFWLAB00
+User Name: robot
+Ticket ID: MN_o7uXWiGlmXFWLAB00_f4e2f866-a36b-41cc-85f2-e7d863ffff69
+Total Bid Amount: 5000
+Total Earnings: 0
+Profit/Loss: -5000
+
+Breakdown:
+  Bid: 5, Amount: 5000, Payout: 25000, Status: lost

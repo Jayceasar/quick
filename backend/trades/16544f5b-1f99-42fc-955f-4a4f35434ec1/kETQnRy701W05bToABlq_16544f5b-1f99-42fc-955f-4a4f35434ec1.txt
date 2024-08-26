@@ -1,0 +1,9 @@
+User ID: kETQnRy701W05bToABlq
+User Name: robot
+Ticket ID: kETQnRy701W05bToABlq_16544f5b-1f99-42fc-955f-4a4f35434ec1
+Total Bid Amount: 3000
+Total Earnings: 0
+Profit/Loss: -3000
+
+Breakdown:
+  Bid: 4, Amount: 3000, Payout: 15000, Status: lost

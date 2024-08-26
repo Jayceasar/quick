@@ -1,0 +1,10 @@
+User ID: upDE0i9DZgRY2b69ABlk
+User Name: robot
+Ticket ID: upDE0i9DZgRY2b69ABlk_33fbb41f-21df-4ee4-a3d1-4429a431ece2
+Total Bid Amount: 8000
+Total Earnings: 0
+Profit/Loss: -8000
+
+Breakdown:
+  Bid: 6, Amount: 1200, Payout: 6000, Status: lost
+  Bid: 5, Amount: 6800, Payout: 34000, Status: lost

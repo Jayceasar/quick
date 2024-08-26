@@ -1,0 +1,9 @@
+User ID: eOqVJEVYVm2CfgKOAB2e
+User Name: robot
+Ticket ID: eOqVJEVYVm2CfgKOAB2e_f4e2f866-a36b-41cc-85f2-e7d863ffff69
+Total Bid Amount: 5800
+Total Earnings: 29000
+Profit/Loss: 23200
+
+Breakdown:
+  Bid: 4, Amount: 5800, Payout: 29000, Status: won

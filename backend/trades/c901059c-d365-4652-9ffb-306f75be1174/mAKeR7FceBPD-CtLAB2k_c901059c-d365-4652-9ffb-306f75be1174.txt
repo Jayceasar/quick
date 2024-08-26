@@ -1,0 +1,10 @@
+User ID: mAKeR7FceBPD-CtLAB2k
+User Name: robot
+Ticket ID: mAKeR7FceBPD-CtLAB2k_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 11000
+Total Earnings: 0
+Profit/Loss: -11000
+
+Breakdown:
+  Bid: 4, Amount: 4600, Payout: 23000, Status: lost
+  Bid: 2, Amount: 6400, Payout: 32000, Status: lost

@@ -1,0 +1,9 @@
+User ID: RMotoFWZIuLC8T-VABvo
+User Name: robot
+Ticket ID: RMotoFWZIuLC8T-VABvo_7a1cf374-3b0b-47a8-92f4-370088b1d70d
+Total Bid Amount: 400
+Total Earnings: 0
+Profit/Loss: -400
+
+Breakdown:
+  Bid: 1, Amount: 400, Payout: 2000, Status: lost

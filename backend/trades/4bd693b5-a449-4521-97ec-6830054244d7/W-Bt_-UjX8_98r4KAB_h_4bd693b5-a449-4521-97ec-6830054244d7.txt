@@ -1,0 +1,9 @@
+User ID: W-Bt_-UjX8_98r4KAB_h
+User Name: robot
+Ticket ID: W-Bt_-UjX8_98r4KAB_h_4bd693b5-a449-4521-97ec-6830054244d7
+Total Bid Amount: 1200
+Total Earnings: 0
+Profit/Loss: -1200
+
+Breakdown:
+  Bid: 4, Amount: 1200, Payout: 6000, Status: lost

@@ -1,0 +1,9 @@
+User ID: bxffP6N4AY6Mw_-bAB1A
+User Name: robot
+Ticket ID: bxffP6N4AY6Mw_-bAB1A_2ca79661-347a-468a-9798-531cec82b083
+Total Bid Amount: 1900
+Total Earnings: 9500
+Profit/Loss: 7600
+
+Breakdown:
+  Bid: 1, Amount: 1900, Payout: 9500, Status: won

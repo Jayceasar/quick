@@ -1,0 +1,9 @@
+User ID: JAHRgXI2IIC_jAkIAB2h
+User Name: robot
+Ticket ID: JAHRgXI2IIC_jAkIAB2h_01af48cf-5a07-4b4a-b906-5b1c32c765d1
+Total Bid Amount: 5400
+Total Earnings: 0
+Profit/Loss: -5400
+
+Breakdown:
+  Bid: 1, Amount: 5400, Payout: 27000, Status: lost

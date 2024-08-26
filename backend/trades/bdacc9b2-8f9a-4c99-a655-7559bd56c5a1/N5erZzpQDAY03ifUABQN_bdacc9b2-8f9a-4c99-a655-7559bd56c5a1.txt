@@ -1,0 +1,9 @@
+User ID: N5erZzpQDAY03ifUABQN
+User Name: robot
+Ticket ID: N5erZzpQDAY03ifUABQN_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 6000
+Total Earnings: 30000
+Profit/Loss: 24000
+
+Breakdown:
+  Bid: 3, Amount: 6000, Payout: 30000, Status: won

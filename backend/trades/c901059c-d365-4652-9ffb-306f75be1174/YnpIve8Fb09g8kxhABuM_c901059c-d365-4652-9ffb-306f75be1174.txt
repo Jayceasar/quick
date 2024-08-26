@@ -1,0 +1,9 @@
+User ID: YnpIve8Fb09g8kxhABuM
+User Name: robot
+Ticket ID: YnpIve8Fb09g8kxhABuM_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 2300
+Total Earnings: 0
+Profit/Loss: -2300
+
+Breakdown:
+  Bid: 5, Amount: 2300, Payout: 11500, Status: lost

@@ -1,0 +1,9 @@
+User ID: Cru-cVl8mfHVPy-KACFk
+User Name: robot
+Ticket ID: Cru-cVl8mfHVPy-KACFk_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
+Total Bid Amount: 4100
+Total Earnings: 0
+Profit/Loss: -4100
+
+Breakdown:
+  Bid: 2, Amount: 4100, Payout: 20500, Status: lost

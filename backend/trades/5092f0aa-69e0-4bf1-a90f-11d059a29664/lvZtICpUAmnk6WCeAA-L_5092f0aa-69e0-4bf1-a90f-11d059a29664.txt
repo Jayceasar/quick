@@ -1,0 +1,9 @@
+User ID: lvZtICpUAmnk6WCeAA-L
+User Name: robot
+Ticket ID: lvZtICpUAmnk6WCeAA-L_5092f0aa-69e0-4bf1-a90f-11d059a29664
+Total Bid Amount: 9600
+Total Earnings: 0
+Profit/Loss: -9600
+
+Breakdown:
+  Bid: 3, Amount: 9600, Payout: 48000, Status: lost

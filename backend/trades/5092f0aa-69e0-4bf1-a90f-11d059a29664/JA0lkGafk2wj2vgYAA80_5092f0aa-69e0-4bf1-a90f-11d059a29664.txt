@@ -1,0 +1,9 @@
+User ID: JA0lkGafk2wj2vgYAA80
+User Name: robot
+Ticket ID: JA0lkGafk2wj2vgYAA80_5092f0aa-69e0-4bf1-a90f-11d059a29664
+Total Bid Amount: 8500
+Total Earnings: 0
+Profit/Loss: -8500
+
+Breakdown:
+  Bid: 5, Amount: 8500, Payout: 42500, Status: lost

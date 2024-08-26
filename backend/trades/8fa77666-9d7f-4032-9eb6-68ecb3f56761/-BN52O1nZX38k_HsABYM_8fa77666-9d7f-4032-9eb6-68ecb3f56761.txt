@@ -1,0 +1,9 @@
+User ID: -BN52O1nZX38k_HsABYM
+User Name: robot
+Ticket ID: -BN52O1nZX38k_HsABYM_8fa77666-9d7f-4032-9eb6-68ecb3f56761
+Total Bid Amount: 6000
+Total Earnings: 0
+Profit/Loss: -6000
+
+Breakdown:
+  Bid: 3, Amount: 6000, Payout: 30000, Status: lost

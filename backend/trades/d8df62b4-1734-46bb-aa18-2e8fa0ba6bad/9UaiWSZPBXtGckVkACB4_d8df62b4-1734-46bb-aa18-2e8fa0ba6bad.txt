@@ -1,0 +1,9 @@
+User ID: 9UaiWSZPBXtGckVkACB4
+User Name: robot
+Ticket ID: 9UaiWSZPBXtGckVkACB4_d8df62b4-1734-46bb-aa18-2e8fa0ba6bad
+Total Bid Amount: 3100
+Total Earnings: 0
+Profit/Loss: -3100
+
+Breakdown:
+  Bid: 1, Amount: 3100, Payout: 15500, Status: lost

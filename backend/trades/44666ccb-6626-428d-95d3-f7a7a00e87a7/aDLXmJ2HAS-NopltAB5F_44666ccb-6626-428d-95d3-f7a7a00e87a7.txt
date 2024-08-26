@@ -1,0 +1,10 @@
+User ID: aDLXmJ2HAS-NopltAB5F
+User Name: robot
+Ticket ID: aDLXmJ2HAS-NopltAB5F_44666ccb-6626-428d-95d3-f7a7a00e87a7
+Total Bid Amount: 3700
+Total Earnings: 17000
+Profit/Loss: 13300
+
+Breakdown:
+  Bid: 2, Amount: 300, Payout: 1500, Status: lost
+  Bid: 6, Amount: 3400, Payout: 17000, Status: won

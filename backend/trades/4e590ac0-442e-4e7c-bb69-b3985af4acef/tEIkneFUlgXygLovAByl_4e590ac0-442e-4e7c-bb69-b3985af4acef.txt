@@ -1,0 +1,9 @@
+User ID: tEIkneFUlgXygLovAByl
+User Name: robot
+Ticket ID: tEIkneFUlgXygLovAByl_4e590ac0-442e-4e7c-bb69-b3985af4acef
+Total Bid Amount: 2500
+Total Earnings: 12500
+Profit/Loss: 10000
+
+Breakdown:
+  Bid: 2, Amount: 2500, Payout: 12500, Status: won

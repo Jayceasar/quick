@@ -1,0 +1,9 @@
+User ID: Ou9Dg8g4A78T991VACJr
+User Name: robot
+Ticket ID: Ou9Dg8g4A78T991VACJr_baae20bc-bbdc-4a0c-addb-c4a83365506c
+Total Bid Amount: 3700
+Total Earnings: 0
+Profit/Loss: -3700
+
+Breakdown:
+  Bid: 1, Amount: 3700, Payout: 18500, Status: lost

@@ -1,0 +1,10 @@
+User ID: xONw1lJZyfn7PSPWABaC
+User Name: robot
+Ticket ID: xONw1lJZyfn7PSPWABaC_fb86114f-5de4-4582-b36e-777fdfb617a6
+Total Bid Amount: 10000
+Total Earnings: 0
+Profit/Loss: -10000
+
+Breakdown:
+  Bid: 6, Amount: 8800, Payout: 44000, Status: lost
+  Bid: 4, Amount: 1200, Payout: 6000, Status: lost

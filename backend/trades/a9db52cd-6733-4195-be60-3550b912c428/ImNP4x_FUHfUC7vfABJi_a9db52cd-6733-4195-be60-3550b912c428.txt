@@ -1,0 +1,9 @@
+User ID: ImNP4x_FUHfUC7vfABJi
+User Name: robot
+Ticket ID: ImNP4x_FUHfUC7vfABJi_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 6200
+Total Earnings: 0
+Profit/Loss: -6200
+
+Breakdown:
+  Bid: 2, Amount: 6200, Payout: 31000, Status: lost

@@ -1,0 +1,9 @@
+User ID: dopc_Q1Xl8KLX3SnACGH
+User Name: robot
+Ticket ID: dopc_Q1Xl8KLX3SnACGH_8ed34477-6ab6-4e68-ad47-14130d8433cd
+Total Bid Amount: 400
+Total Earnings: 0
+Profit/Loss: -400
+
+Breakdown:
+  Bid: 4, Amount: 400, Payout: 2000, Status: lost

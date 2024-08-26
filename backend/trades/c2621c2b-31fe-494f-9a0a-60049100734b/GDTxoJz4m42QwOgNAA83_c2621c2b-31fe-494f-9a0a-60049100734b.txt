@@ -1,0 +1,10 @@
+User ID: GDTxoJz4m42QwOgNAA83
+User Name: robot
+Ticket ID: GDTxoJz4m42QwOgNAA83_c2621c2b-31fe-494f-9a0a-60049100734b
+Total Bid Amount: 16600
+Total Earnings: 39500
+Profit/Loss: 22900
+
+Breakdown:
+  Bid: 2, Amount: 7900, Payout: 39500, Status: won
+  Bid: 5, Amount: 8700, Payout: 43500, Status: lost

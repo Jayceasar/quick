@@ -1,0 +1,10 @@
+User ID: kVhTCnNYgjT_fz6XABna
+User Name: robot
+Ticket ID: kVhTCnNYgjT_fz6XABna_33fbb41f-21df-4ee4-a3d1-4429a431ece2
+Total Bid Amount: 10500
+Total Earnings: 38500
+Profit/Loss: 28000
+
+Breakdown:
+  Bid: 4, Amount: 7700, Payout: 38500, Status: won
+  Bid: 5, Amount: 2800, Payout: 14000, Status: lost

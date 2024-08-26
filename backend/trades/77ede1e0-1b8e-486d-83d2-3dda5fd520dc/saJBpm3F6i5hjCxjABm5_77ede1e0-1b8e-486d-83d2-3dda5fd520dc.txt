@@ -1,0 +1,9 @@
+User ID: saJBpm3F6i5hjCxjABm5
+User Name: robot
+Ticket ID: saJBpm3F6i5hjCxjABm5_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
+Total Bid Amount: 1400
+Total Earnings: 0
+Profit/Loss: -1400
+
+Breakdown:
+  Bid: 1, Amount: 1400, Payout: 7000, Status: lost

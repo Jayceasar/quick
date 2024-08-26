@@ -1,0 +1,9 @@
+User ID: tejMZ4H61dbWxCz9ABmw
+User Name: robot
+Ticket ID: tejMZ4H61dbWxCz9ABmw_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
+Total Bid Amount: 9200
+Total Earnings: 0
+Profit/Loss: -9200
+
+Breakdown:
+  Bid: 4, Amount: 9200, Payout: 46000, Status: lost

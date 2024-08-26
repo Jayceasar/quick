@@ -1,0 +1,10 @@
+User ID: A-HbS3FKJmfAXwWcAA_T
+User Name: robot
+Ticket ID: A-HbS3FKJmfAXwWcAA_T_c2621c2b-31fe-494f-9a0a-60049100734b
+Total Bid Amount: 10400
+Total Earnings: 0
+Profit/Loss: -10400
+
+Breakdown:
+  Bid: 3, Amount: 3600, Payout: 18000, Status: lost
+  Bid: 1, Amount: 6800, Payout: 34000, Status: lost

@@ -1,0 +1,10 @@
+User ID: 45OR0ZdjJUMvpMiJABfT
+User Name: robot
+Ticket ID: 45OR0ZdjJUMvpMiJABfT_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 15400
+Total Earnings: 50000
+Profit/Loss: 34600
+
+Breakdown:
+  Bid: 3, Amount: 10000, Payout: 50000, Status: won
+  Bid: 6, Amount: 5400, Payout: 27000, Status: lost

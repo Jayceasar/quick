@@ -1,0 +1,9 @@
+User ID: _vgezyUNTFRkYpJzACCG
+User Name: robot
+Ticket ID: _vgezyUNTFRkYpJzACCG_1b5ca1b1-54c9-4f4e-8033-ab7d1d510120
+Total Bid Amount: 5900
+Total Earnings: 29500
+Profit/Loss: 23600
+
+Breakdown:
+  Bid: 6, Amount: 5900, Payout: 29500, Status: won

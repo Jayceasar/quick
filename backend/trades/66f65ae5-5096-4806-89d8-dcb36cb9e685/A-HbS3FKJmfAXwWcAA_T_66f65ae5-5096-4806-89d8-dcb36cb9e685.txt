@@ -1,0 +1,9 @@
+User ID: A-HbS3FKJmfAXwWcAA_T
+User Name: robot
+Ticket ID: A-HbS3FKJmfAXwWcAA_T_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 7500
+Total Earnings: 0
+Profit/Loss: -7500
+
+Breakdown:
+  Bid: 6, Amount: 7500, Payout: 37500, Status: lost

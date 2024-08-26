@@ -1,0 +1,9 @@
+User ID: MKo1QJEwx25AIdUaACCP
+User Name: robot
+Ticket ID: MKo1QJEwx25AIdUaACCP_3e3ffb49-a8be-4e48-a533-33eb486e2676
+Total Bid Amount: 5700
+Total Earnings: 0
+Profit/Loss: -5700
+
+Breakdown:
+  Bid: 2, Amount: 5700, Payout: 28500, Status: lost

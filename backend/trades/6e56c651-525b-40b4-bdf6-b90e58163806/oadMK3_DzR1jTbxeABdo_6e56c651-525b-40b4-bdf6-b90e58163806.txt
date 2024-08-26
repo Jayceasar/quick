@@ -1,0 +1,11 @@
+User ID: oadMK3_DzR1jTbxeABdo
+User Name: robot
+Ticket ID: oadMK3_DzR1jTbxeABdo_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 20200
+Total Earnings: 30500
+Profit/Loss: 10300
+
+Breakdown:
+  Bid: 1, Amount: 6400, Payout: 32000, Status: lost
+  Bid: 3, Amount: 6100, Payout: 30500, Status: won
+  Bid: 1, Amount: 7700, Payout: 38500, Status: lost

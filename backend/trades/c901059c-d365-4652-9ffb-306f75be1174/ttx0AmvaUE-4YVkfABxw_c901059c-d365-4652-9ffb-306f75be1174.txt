@@ -1,0 +1,10 @@
+User ID: ttx0AmvaUE-4YVkfABxw
+User Name: robot
+Ticket ID: ttx0AmvaUE-4YVkfABxw_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 7800
+Total Earnings: 25000
+Profit/Loss: 17200
+
+Breakdown:
+  Bid: 5, Amount: 2800, Payout: 14000, Status: lost
+  Bid: 1, Amount: 5000, Payout: 25000, Status: won

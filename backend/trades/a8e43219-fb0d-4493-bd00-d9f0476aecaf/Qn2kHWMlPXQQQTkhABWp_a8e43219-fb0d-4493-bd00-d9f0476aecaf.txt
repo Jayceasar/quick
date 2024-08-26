@@ -1,0 +1,9 @@
+User ID: Qn2kHWMlPXQQQTkhABWp
+User Name: robot
+Ticket ID: Qn2kHWMlPXQQQTkhABWp_a8e43219-fb0d-4493-bd00-d9f0476aecaf
+Total Bid Amount: 2500
+Total Earnings: 12500
+Profit/Loss: 10000
+
+Breakdown:
+  Bid: 5, Amount: 2500, Payout: 12500, Status: won

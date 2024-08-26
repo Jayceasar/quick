@@ -1,0 +1,9 @@
+User ID: -0tqK15cjKY-nyPkACGK
+User Name: robot
+Ticket ID: -0tqK15cjKY-nyPkACGK_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
+Total Bid Amount: 900
+Total Earnings: 0
+Profit/Loss: -900
+
+Breakdown:
+  Bid: 1, Amount: 900, Payout: 4500, Status: lost

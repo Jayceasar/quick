@@ -1,0 +1,9 @@
+User ID: pz-wSOeaBqNqsZVSABW2
+User Name: robot
+Ticket ID: pz-wSOeaBqNqsZVSABW2_a8e43219-fb0d-4493-bd00-d9f0476aecaf
+Total Bid Amount: 2200
+Total Earnings: 11000
+Profit/Loss: 8800
+
+Breakdown:
+  Bid: 5, Amount: 2200, Payout: 11000, Status: won

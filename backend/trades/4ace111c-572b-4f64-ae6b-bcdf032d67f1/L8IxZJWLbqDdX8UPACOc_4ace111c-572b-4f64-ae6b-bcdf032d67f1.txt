@@ -1,0 +1,10 @@
+User ID: L8IxZJWLbqDdX8UPACOc
+User Name: robot
+Ticket ID: L8IxZJWLbqDdX8UPACOc_4ace111c-572b-4f64-ae6b-bcdf032d67f1
+Total Bid Amount: 9600
+Total Earnings: 16500
+Profit/Loss: 6900
+
+Breakdown:
+  Bid: 5, Amount: 6300, Payout: 31500, Status: lost
+  Bid: 4, Amount: 3300, Payout: 16500, Status: won

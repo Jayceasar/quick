@@ -1,0 +1,9 @@
+User ID: Vgox_4kjFwZOTNyRAByv
+User Name: robot
+Ticket ID: Vgox_4kjFwZOTNyRAByv_f4e2f866-a36b-41cc-85f2-e7d863ffff69
+Total Bid Amount: 4100
+Total Earnings: 0
+Profit/Loss: -4100
+
+Breakdown:
+  Bid: 5, Amount: 4100, Payout: 20500, Status: lost

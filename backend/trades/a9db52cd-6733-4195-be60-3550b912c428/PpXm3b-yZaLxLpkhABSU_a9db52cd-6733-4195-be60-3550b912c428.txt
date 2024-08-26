@@ -1,0 +1,10 @@
+User ID: PpXm3b-yZaLxLpkhABSU
+User Name: robot
+Ticket ID: PpXm3b-yZaLxLpkhABSU_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 7100
+Total Earnings: 0
+Profit/Loss: -7100
+
+Breakdown:
+  Bid: 6, Amount: 6500, Payout: 32500, Status: lost
+  Bid: 6, Amount: 600, Payout: 3000, Status: lost

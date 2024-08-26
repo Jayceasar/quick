@@ -1,0 +1,9 @@
+User ID: KVugQpxWpXyN3RgdABym
+User Name: robot
+Ticket ID: KVugQpxWpXyN3RgdABym_a5318a37-9f3b-4e0f-afd9-4ce9b649cb5f
+Total Bid Amount: 8900
+Total Earnings: 44500
+Profit/Loss: 35600
+
+Breakdown:
+  Bid: 2, Amount: 8900, Payout: 44500, Status: won

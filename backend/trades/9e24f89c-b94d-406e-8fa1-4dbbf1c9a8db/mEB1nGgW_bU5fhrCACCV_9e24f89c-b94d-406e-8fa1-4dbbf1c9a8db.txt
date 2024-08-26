@@ -1,0 +1,9 @@
+User ID: mEB1nGgW_bU5fhrCACCV
+User Name: robot
+Ticket ID: mEB1nGgW_bU5fhrCACCV_9e24f89c-b94d-406e-8fa1-4dbbf1c9a8db
+Total Bid Amount: 1200
+Total Earnings: 0
+Profit/Loss: -1200
+
+Breakdown:
+  Bid: 2, Amount: 1200, Payout: 6000, Status: lost

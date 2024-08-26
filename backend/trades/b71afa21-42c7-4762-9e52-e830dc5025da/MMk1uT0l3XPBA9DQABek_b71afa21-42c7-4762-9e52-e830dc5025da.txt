@@ -1,0 +1,9 @@
+User ID: MMk1uT0l3XPBA9DQABek
+User Name: robot
+Ticket ID: MMk1uT0l3XPBA9DQABek_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 8400
+Total Earnings: 42000
+Profit/Loss: 33600
+
+Breakdown:
+  Bid: 2, Amount: 8400, Payout: 42000, Status: won

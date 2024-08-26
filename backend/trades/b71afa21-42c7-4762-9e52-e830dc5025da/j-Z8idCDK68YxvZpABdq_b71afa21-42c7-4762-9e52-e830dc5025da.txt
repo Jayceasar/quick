@@ -1,0 +1,9 @@
+User ID: j-Z8idCDK68YxvZpABdq
+User Name: robot
+Ticket ID: j-Z8idCDK68YxvZpABdq_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 9800
+Total Earnings: 0
+Profit/Loss: -9800
+
+Breakdown:
+  Bid: 5, Amount: 9800, Payout: 49000, Status: lost

@@ -1,0 +1,9 @@
+User ID: _F_xip-ya7faJVbgAB-h
+User Name: robot
+Ticket ID: _F_xip-ya7faJVbgAB-h_1b5ca1b1-54c9-4f4e-8033-ab7d1d510120
+Total Bid Amount: 5200
+Total Earnings: 26000
+Profit/Loss: 20800
+
+Breakdown:
+  Bid: 6, Amount: 5200, Payout: 26000, Status: won

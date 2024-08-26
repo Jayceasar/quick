@@ -1,0 +1,9 @@
+User ID: jkRaLQsvNI1hhhW1AA9u
+User Name: robot
+Ticket ID: jkRaLQsvNI1hhhW1AA9u_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 6000
+Total Earnings: 0
+Profit/Loss: -6000
+
+Breakdown:
+  Bid: 4, Amount: 6000, Payout: 30000, Status: lost

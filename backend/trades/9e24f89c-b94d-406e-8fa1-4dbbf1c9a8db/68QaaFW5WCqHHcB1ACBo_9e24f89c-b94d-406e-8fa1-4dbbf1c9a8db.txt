@@ -1,0 +1,9 @@
+User ID: 68QaaFW5WCqHHcB1ACBo
+User Name: robot
+Ticket ID: 68QaaFW5WCqHHcB1ACBo_9e24f89c-b94d-406e-8fa1-4dbbf1c9a8db
+Total Bid Amount: 8900
+Total Earnings: 0
+Profit/Loss: -8900
+
+Breakdown:
+  Bid: 4, Amount: 8900, Payout: 44500, Status: lost

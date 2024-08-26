@@ -1,0 +1,9 @@
+User ID: d-Ycg9jIQmLA2o0mACBq
+User Name: robot
+Ticket ID: d-Ycg9jIQmLA2o0mACBq_d32ea5b8-0e5c-4e10-afc1-1e45003030ee
+Total Bid Amount: 1800
+Total Earnings: 9000
+Profit/Loss: 7200
+
+Breakdown:
+  Bid: 5, Amount: 1800, Payout: 9000, Status: won

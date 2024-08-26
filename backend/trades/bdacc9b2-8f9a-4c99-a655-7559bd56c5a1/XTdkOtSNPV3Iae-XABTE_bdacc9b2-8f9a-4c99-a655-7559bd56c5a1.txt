@@ -1,0 +1,10 @@
+User ID: XTdkOtSNPV3Iae-XABTE
+User Name: robot
+Ticket ID: XTdkOtSNPV3Iae-XABTE_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 7400
+Total Earnings: 0
+Profit/Loss: -7400
+
+Breakdown:
+  Bid: 1, Amount: 2900, Payout: 14500, Status: lost
+  Bid: 4, Amount: 4500, Payout: 22500, Status: lost

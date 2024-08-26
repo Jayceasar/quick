@@ -1,0 +1,9 @@
+User ID: 6lIxZgGZ4ToaUYSKABm4
+User Name: robot
+Ticket ID: 6lIxZgGZ4ToaUYSKABm4_ee604dcb-27d6-4726-96f7-531f06808794
+Total Bid Amount: 1700
+Total Earnings: 8500
+Profit/Loss: 6800
+
+Breakdown:
+  Bid: 4, Amount: 1700, Payout: 8500, Status: won

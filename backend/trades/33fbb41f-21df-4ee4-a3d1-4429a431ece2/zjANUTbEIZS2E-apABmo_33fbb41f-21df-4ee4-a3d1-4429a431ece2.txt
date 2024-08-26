@@ -1,0 +1,10 @@
+User ID: zjANUTbEIZS2E-apABmo
+User Name: robot
+Ticket ID: zjANUTbEIZS2E-apABmo_33fbb41f-21df-4ee4-a3d1-4429a431ece2
+Total Bid Amount: 17200
+Total Earnings: 37500
+Profit/Loss: 20300
+
+Breakdown:
+  Bid: 4, Amount: 7500, Payout: 37500, Status: won
+  Bid: 1, Amount: 9700, Payout: 48500, Status: lost

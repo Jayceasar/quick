@@ -1,0 +1,9 @@
+User ID: NT3TAOUU3qwOGmTfABe6
+User Name: robot
+Ticket ID: NT3TAOUU3qwOGmTfABe6_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 600
+Total Earnings: 3000
+Profit/Loss: 2400
+
+Breakdown:
+  Bid: 2, Amount: 600, Payout: 3000, Status: won

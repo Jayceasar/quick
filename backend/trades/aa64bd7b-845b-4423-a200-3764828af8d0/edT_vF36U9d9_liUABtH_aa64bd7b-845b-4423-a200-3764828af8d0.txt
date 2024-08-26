@@ -1,0 +1,10 @@
+User ID: edT_vF36U9d9_liUABtH
+User Name: robot
+Ticket ID: edT_vF36U9d9_liUABtH_aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 15300
+Total Earnings: 0
+Profit/Loss: -15300
+
+Breakdown:
+  Bid: 4, Amount: 5500, Payout: 27500, Status: lost
+  Bid: 2, Amount: 9800, Payout: 49000, Status: lost

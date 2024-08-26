@@ -1,0 +1,9 @@
+User ID: kSYrdpP2Act2mx61AB_C
+User Name: robot
+Ticket ID: kSYrdpP2Act2mx61AB_C_3e3ffb49-a8be-4e48-a533-33eb486e2676
+Total Bid Amount: 7500
+Total Earnings: 0
+Profit/Loss: -7500
+
+Breakdown:
+  Bid: 3, Amount: 7500, Payout: 37500, Status: lost

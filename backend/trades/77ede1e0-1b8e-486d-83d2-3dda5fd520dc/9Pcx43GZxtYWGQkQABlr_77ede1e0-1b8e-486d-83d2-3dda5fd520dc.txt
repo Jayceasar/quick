@@ -1,0 +1,9 @@
+User ID: 9Pcx43GZxtYWGQkQABlr
+User Name: robot
+Ticket ID: 9Pcx43GZxtYWGQkQABlr_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
+Total Bid Amount: 4500
+Total Earnings: 0
+Profit/Loss: -4500
+
+Breakdown:
+  Bid: 1, Amount: 4500, Payout: 22500, Status: lost

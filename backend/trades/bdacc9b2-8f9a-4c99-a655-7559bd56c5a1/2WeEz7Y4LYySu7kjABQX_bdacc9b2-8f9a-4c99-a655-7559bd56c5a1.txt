@@ -1,0 +1,9 @@
+User ID: 2WeEz7Y4LYySu7kjABQX
+User Name: robot
+Ticket ID: 2WeEz7Y4LYySu7kjABQX_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 3200
+Total Earnings: 16000
+Profit/Loss: 12800
+
+Breakdown:
+  Bid: 3, Amount: 3200, Payout: 16000, Status: won

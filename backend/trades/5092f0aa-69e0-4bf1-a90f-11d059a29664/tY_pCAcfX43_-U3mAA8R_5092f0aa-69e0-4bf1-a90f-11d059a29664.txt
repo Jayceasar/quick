@@ -1,0 +1,9 @@
+User ID: tY_pCAcfX43_-U3mAA8R
+User Name: robot
+Ticket ID: tY_pCAcfX43_-U3mAA8R_5092f0aa-69e0-4bf1-a90f-11d059a29664
+Total Bid Amount: 6200
+Total Earnings: 0
+Profit/Loss: -6200
+
+Breakdown:
+  Bid: 2, Amount: 6200, Payout: 31000, Status: lost

@@ -1,0 +1,9 @@
+User ID: 4mEzKlSDc9QPuAEmACKf
+User Name: robot
+Ticket ID: 4mEzKlSDc9QPuAEmACKf_7f17eed6-7359-4dae-af38-f93e4d907ad3
+Total Bid Amount: 1200
+Total Earnings: 0
+Profit/Loss: -1200
+
+Breakdown:
+  Bid: 4, Amount: 1200, Payout: 6000, Status: lost

@@ -1,0 +1,10 @@
+User ID: FDqwcAHFHj7RKxtvABtJ
+User Name: robot
+Ticket ID: FDqwcAHFHj7RKxtvABtJ_aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 13900
+Total Earnings: 0
+Profit/Loss: -13900
+
+Breakdown:
+  Bid: 2, Amount: 8800, Payout: 44000, Status: lost
+  Bid: 4, Amount: 5100, Payout: 25500, Status: lost

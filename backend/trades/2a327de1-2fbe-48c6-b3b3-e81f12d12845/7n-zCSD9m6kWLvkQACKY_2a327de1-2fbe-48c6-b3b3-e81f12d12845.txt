@@ -1,0 +1,9 @@
+User ID: 7n-zCSD9m6kWLvkQACKY
+User Name: robot
+Ticket ID: 7n-zCSD9m6kWLvkQACKY_2a327de1-2fbe-48c6-b3b3-e81f12d12845
+Total Bid Amount: 3900
+Total Earnings: 0
+Profit/Loss: -3900
+
+Breakdown:
+  Bid: 2, Amount: 3900, Payout: 19500, Status: lost

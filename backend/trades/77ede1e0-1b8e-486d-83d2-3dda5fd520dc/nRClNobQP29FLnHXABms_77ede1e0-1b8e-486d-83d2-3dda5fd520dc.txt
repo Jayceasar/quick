@@ -1,0 +1,9 @@
+User ID: nRClNobQP29FLnHXABms
+User Name: robot
+Ticket ID: nRClNobQP29FLnHXABms_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
+Total Bid Amount: 8100
+Total Earnings: 0
+Profit/Loss: -8100
+
+Breakdown:
+  Bid: 2, Amount: 8100, Payout: 40500, Status: lost

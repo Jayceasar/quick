@@ -1,0 +1,9 @@
+User ID: NL9pni33k2pob0kHACF6
+User Name: robot
+Ticket ID: NL9pni33k2pob0kHACF6_8ed34477-6ab6-4e68-ad47-14130d8433cd
+Total Bid Amount: 500
+Total Earnings: 0
+Profit/Loss: -500
+
+Breakdown:
+  Bid: 3, Amount: 500, Payout: 2500, Status: lost

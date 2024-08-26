@@ -1,0 +1,10 @@
+User ID: tSpUoGjC7zxCWS8QABkq
+User Name: robot
+Ticket ID: tSpUoGjC7zxCWS8QABkq_33fbb41f-21df-4ee4-a3d1-4429a431ece2
+Total Bid Amount: 10500
+Total Earnings: 0
+Profit/Loss: -10500
+
+Breakdown:
+  Bid: 2, Amount: 8200, Payout: 41000, Status: lost
+  Bid: 3, Amount: 2300, Payout: 11500, Status: lost

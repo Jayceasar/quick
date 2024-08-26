@@ -1,0 +1,9 @@
+User ID: fVkEc2S5sQoUAmKGACJX
+User Name: robot
+Ticket ID: fVkEc2S5sQoUAmKGACJX_7a619b2b-f9f3-4d8c-b8d2-8f2288186f49
+Total Bid Amount: 8000
+Total Earnings: 40000
+Profit/Loss: 32000
+
+Breakdown:
+  Bid: 5, Amount: 8000, Payout: 40000, Status: won

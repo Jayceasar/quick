@@ -1,0 +1,10 @@
+User ID: bl0LcdP5Qn1cFdCMABfr
+User Name: robot
+Ticket ID: bl0LcdP5Qn1cFdCMABfr_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 16400
+Total Earnings: 82000
+Profit/Loss: 65600
+
+Breakdown:
+  Bid: 3, Amount: 7900, Payout: 39500, Status: won
+  Bid: 3, Amount: 8500, Payout: 42500, Status: won

@@ -1,0 +1,9 @@
+User ID: X7vUH6kTJYd6NI3WAA_G
+User Name: robot
+Ticket ID: X7vUH6kTJYd6NI3WAA_G_5092f0aa-69e0-4bf1-a90f-11d059a29664
+Total Bid Amount: 3800
+Total Earnings: 0
+Profit/Loss: -3800
+
+Breakdown:
+  Bid: 4, Amount: 3800, Payout: 19000, Status: lost

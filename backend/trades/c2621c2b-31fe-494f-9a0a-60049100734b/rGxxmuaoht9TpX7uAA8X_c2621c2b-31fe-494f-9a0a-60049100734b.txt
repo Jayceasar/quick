@@ -1,0 +1,10 @@
+User ID: rGxxmuaoht9TpX7uAA8X
+User Name: robot
+Ticket ID: rGxxmuaoht9TpX7uAA8X_c2621c2b-31fe-494f-9a0a-60049100734b
+Total Bid Amount: 9900
+Total Earnings: 29000
+Profit/Loss: 19100
+
+Breakdown:
+  Bid: 2, Amount: 5800, Payout: 29000, Status: won
+  Bid: 1, Amount: 4100, Payout: 20500, Status: lost

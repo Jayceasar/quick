@@ -1,0 +1,9 @@
+User ID: DKRhCP6e6m3q5_NJABvj
+User Name: robot
+Ticket ID: DKRhCP6e6m3q5_NJABvj_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 3800
+Total Earnings: 19000
+Profit/Loss: 15200
+
+Breakdown:
+  Bid: 1, Amount: 3800, Payout: 19000, Status: won

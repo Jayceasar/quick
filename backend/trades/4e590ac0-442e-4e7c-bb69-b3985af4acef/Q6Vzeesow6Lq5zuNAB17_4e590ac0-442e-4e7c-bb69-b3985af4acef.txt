@@ -1,0 +1,9 @@
+User ID: Q6Vzeesow6Lq5zuNAB17
+User Name: robot
+Ticket ID: Q6Vzeesow6Lq5zuNAB17_4e590ac0-442e-4e7c-bb69-b3985af4acef
+Total Bid Amount: 6500
+Total Earnings: 32500
+Profit/Loss: 26000
+
+Breakdown:
+  Bid: 2, Amount: 6500, Payout: 32500, Status: won

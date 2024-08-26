@@ -1,0 +1,10 @@
+User ID: rD6auWTF2RlO91UzABOz
+User Name: robot
+Ticket ID: rD6auWTF2RlO91UzABOz_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 12500
+Total Earnings: 0
+Profit/Loss: -12500
+
+Breakdown:
+  Bid: 3, Amount: 9800, Payout: 49000, Status: lost
+  Bid: 4, Amount: 2700, Payout: 13500, Status: lost

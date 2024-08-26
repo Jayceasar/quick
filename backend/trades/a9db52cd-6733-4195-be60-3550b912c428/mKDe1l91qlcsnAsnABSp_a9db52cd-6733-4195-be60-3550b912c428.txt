@@ -1,0 +1,10 @@
+User ID: mKDe1l91qlcsnAsnABSp
+User Name: robot
+Ticket ID: mKDe1l91qlcsnAsnABSp_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 15800
+Total Earnings: 0
+Profit/Loss: -15800
+
+Breakdown:
+  Bid: 6, Amount: 9000, Payout: 45000, Status: lost
+  Bid: 2, Amount: 6800, Payout: 34000, Status: lost

@@ -1,0 +1,9 @@
+User ID: YBJG1LYZszG8FqoeAB2G
+User Name: robot
+Ticket ID: YBJG1LYZszG8FqoeAB2G_44666ccb-6626-428d-95d3-f7a7a00e87a7
+Total Bid Amount: 10000
+Total Earnings: 0
+Profit/Loss: -10000
+
+Breakdown:
+  Bid: 2, Amount: 10000, Payout: 50000, Status: lost

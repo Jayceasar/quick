@@ -1,0 +1,10 @@
+User ID: qwUg1WFRBW1rKT_jABSc
+User Name: robot
+Ticket ID: qwUg1WFRBW1rKT_jABSc_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 1900
+Total Earnings: 0
+Profit/Loss: -1900
+
+Breakdown:
+  Bid: 4, Amount: 400, Payout: 2000, Status: lost
+  Bid: 2, Amount: 1500, Payout: 7500, Status: lost

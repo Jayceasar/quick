@@ -1,0 +1,9 @@
+User ID: YDe8ErN70SDmSDNXABub
+User Name: robot
+Ticket ID: YDe8ErN70SDmSDNXABub_7a1cf374-3b0b-47a8-92f4-370088b1d70d
+Total Bid Amount: 6200
+Total Earnings: 0
+Profit/Loss: -6200
+
+Breakdown:
+  Bid: 6, Amount: 6200, Payout: 31000, Status: lost

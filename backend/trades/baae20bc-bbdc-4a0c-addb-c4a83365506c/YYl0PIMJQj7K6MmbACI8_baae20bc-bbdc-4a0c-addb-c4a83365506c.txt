@@ -1,0 +1,9 @@
+User ID: YYl0PIMJQj7K6MmbACI8
+User Name: robot
+Ticket ID: YYl0PIMJQj7K6MmbACI8_baae20bc-bbdc-4a0c-addb-c4a83365506c
+Total Bid Amount: 7600
+Total Earnings: 0
+Profit/Loss: -7600
+
+Breakdown:
+  Bid: 6, Amount: 7600, Payout: 38000, Status: lost

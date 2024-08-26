@@ -1,0 +1,10 @@
+User ID: CTDjFaiOm84NM0bXABO5
+User Name: robot
+Ticket ID: CTDjFaiOm84NM0bXABO5_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 11200
+Total Earnings: 12500
+Profit/Loss: 1300
+
+Breakdown:
+  Bid: 1, Amount: 2500, Payout: 12500, Status: won
+  Bid: 3, Amount: 8700, Payout: 43500, Status: lost

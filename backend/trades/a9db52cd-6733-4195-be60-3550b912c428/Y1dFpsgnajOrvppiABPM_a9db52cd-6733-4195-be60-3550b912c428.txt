@@ -1,0 +1,10 @@
+User ID: Y1dFpsgnajOrvppiABPM
+User Name: robot
+Ticket ID: Y1dFpsgnajOrvppiABPM_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 8900
+Total Earnings: 30000
+Profit/Loss: 21100
+
+Breakdown:
+  Bid: 5, Amount: 2900, Payout: 14500, Status: lost
+  Bid: 1, Amount: 6000, Payout: 30000, Status: won

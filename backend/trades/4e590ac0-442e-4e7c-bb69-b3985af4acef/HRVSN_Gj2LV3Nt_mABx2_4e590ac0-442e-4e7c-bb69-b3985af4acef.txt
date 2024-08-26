@@ -1,0 +1,9 @@
+User ID: HRVSN_Gj2LV3Nt_mABx2
+User Name: robot
+Ticket ID: HRVSN_Gj2LV3Nt_mABx2_4e590ac0-442e-4e7c-bb69-b3985af4acef
+Total Bid Amount: 6000
+Total Earnings: 30000
+Profit/Loss: 24000
+
+Breakdown:
+  Bid: 2, Amount: 6000, Payout: 30000, Status: won

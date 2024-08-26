@@ -1,0 +1,9 @@
+User ID: 1_lXj2npkPCOrPXiABme
+User Name: robot
+Ticket ID: 1_lXj2npkPCOrPXiABme_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
+Total Bid Amount: 8800
+Total Earnings: 0
+Profit/Loss: -8800
+
+Breakdown:
+  Bid: 4, Amount: 8800, Payout: 44000, Status: lost

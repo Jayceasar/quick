@@ -1,0 +1,9 @@
+User ID: jtnO3KxobFDpaVv4AB1Z
+User Name: robot
+Ticket ID: jtnO3KxobFDpaVv4AB1Z_c5622fe9-fa66-4682-a1ea-f8ed721f9645
+Total Bid Amount: 3400
+Total Earnings: 0
+Profit/Loss: -3400
+
+Breakdown:
+  Bid: 5, Amount: 3400, Payout: 17000, Status: lost

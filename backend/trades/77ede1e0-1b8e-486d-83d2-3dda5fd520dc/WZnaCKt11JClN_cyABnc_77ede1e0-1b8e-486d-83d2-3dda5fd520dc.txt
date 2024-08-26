@@ -1,0 +1,10 @@
+User ID: WZnaCKt11JClN_cyABnc
+User Name: robot
+Ticket ID: WZnaCKt11JClN_cyABnc_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
+Total Bid Amount: 14500
+Total Earnings: 0
+Profit/Loss: -14500
+
+Breakdown:
+  Bid: 4, Amount: 6800, Payout: 34000, Status: lost
+  Bid: 6, Amount: 7700, Payout: 38500, Status: lost

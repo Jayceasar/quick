@@ -1,0 +1,9 @@
+User ID: APxLjSC4jBnH7Qy_ABPw
+User Name: robot
+Ticket ID: APxLjSC4jBnH7Qy_ABPw_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 3100
+Total Earnings: 0
+Profit/Loss: -3100
+
+Breakdown:
+  Bid: 6, Amount: 3100, Payout: 15500, Status: lost

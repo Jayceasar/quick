@@ -1,0 +1,11 @@
+User ID: x0eUBZiAQodyjw_5ABeE
+User Name: robot
+Ticket ID: x0eUBZiAQodyjw_5ABeE_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 12800
+Total Earnings: 0
+Profit/Loss: -12800
+
+Breakdown:
+  Bid: 1, Amount: 6300, Payout: 31500, Status: lost
+  Bid: 6, Amount: 2400, Payout: 12000, Status: lost
+  Bid: 1, Amount: 4100, Payout: 20500, Status: lost

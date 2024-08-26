@@ -1,0 +1,9 @@
+User ID: t5ATSriTFavq9PlEABtB
+User Name: robot
+Ticket ID: t5ATSriTFavq9PlEABtB_7a1cf374-3b0b-47a8-92f4-370088b1d70d
+Total Bid Amount: 9700
+Total Earnings: 48500
+Profit/Loss: 38800
+
+Breakdown:
+  Bid: 2, Amount: 9700, Payout: 48500, Status: won

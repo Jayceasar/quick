@@ -1,0 +1,9 @@
+User ID: Nc3tE2eCbx04bO5vAB--
+User Name: robot
+Ticket ID: Nc3tE2eCbx04bO5vAB--_07612224-3336-47cc-8c54-187b9f190cab
+Total Bid Amount: 4900
+Total Earnings: 0
+Profit/Loss: -4900
+
+Breakdown:
+  Bid: 2, Amount: 4900, Payout: 24500, Status: lost

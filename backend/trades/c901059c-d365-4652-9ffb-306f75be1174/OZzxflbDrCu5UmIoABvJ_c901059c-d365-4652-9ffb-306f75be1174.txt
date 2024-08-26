@@ -1,0 +1,9 @@
+User ID: OZzxflbDrCu5UmIoABvJ
+User Name: robot
+Ticket ID: OZzxflbDrCu5UmIoABvJ_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 9900
+Total Earnings: 49500
+Profit/Loss: 39600
+
+Breakdown:
+  Bid: 1, Amount: 9900, Payout: 49500, Status: won

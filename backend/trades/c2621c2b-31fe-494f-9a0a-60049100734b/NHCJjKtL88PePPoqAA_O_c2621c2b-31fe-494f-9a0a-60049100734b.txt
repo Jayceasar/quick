@@ -1,0 +1,10 @@
+User ID: NHCJjKtL88PePPoqAA_O
+User Name: robot
+Ticket ID: NHCJjKtL88PePPoqAA_O_c2621c2b-31fe-494f-9a0a-60049100734b
+Total Bid Amount: 13700
+Total Earnings: 41500
+Profit/Loss: 27800
+
+Breakdown:
+  Bid: 2, Amount: 8300, Payout: 41500, Status: won
+  Bid: 5, Amount: 5400, Payout: 27000, Status: lost

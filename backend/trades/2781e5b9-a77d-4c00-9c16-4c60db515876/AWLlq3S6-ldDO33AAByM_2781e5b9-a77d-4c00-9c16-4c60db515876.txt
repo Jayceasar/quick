@@ -1,0 +1,9 @@
+User ID: AWLlq3S6-ldDO33AAByM
+User Name: robot
+Ticket ID: AWLlq3S6-ldDO33AAByM_2781e5b9-a77d-4c00-9c16-4c60db515876
+Total Bid Amount: 2100
+Total Earnings: 0
+Profit/Loss: -2100
+
+Breakdown:
+  Bid: 2, Amount: 2100, Payout: 10500, Status: lost

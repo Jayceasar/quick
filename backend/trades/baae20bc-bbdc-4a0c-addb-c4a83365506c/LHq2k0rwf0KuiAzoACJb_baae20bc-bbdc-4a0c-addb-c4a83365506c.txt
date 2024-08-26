@@ -1,0 +1,9 @@
+User ID: LHq2k0rwf0KuiAzoACJb
+User Name: robot
+Ticket ID: LHq2k0rwf0KuiAzoACJb_baae20bc-bbdc-4a0c-addb-c4a83365506c
+Total Bid Amount: 6000
+Total Earnings: 30000
+Profit/Loss: 24000
+
+Breakdown:
+  Bid: 2, Amount: 6000, Payout: 30000, Status: won

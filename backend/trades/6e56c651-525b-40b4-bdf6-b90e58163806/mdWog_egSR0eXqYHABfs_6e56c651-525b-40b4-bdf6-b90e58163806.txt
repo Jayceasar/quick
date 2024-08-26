@@ -1,0 +1,10 @@
+User ID: mdWog_egSR0eXqYHABfs
+User Name: robot
+Ticket ID: mdWog_egSR0eXqYHABfs_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 13600
+Total Earnings: 0
+Profit/Loss: -13600
+
+Breakdown:
+  Bid: 2, Amount: 9100, Payout: 45500, Status: lost
+  Bid: 4, Amount: 4500, Payout: 22500, Status: lost

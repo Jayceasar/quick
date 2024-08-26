@@ -1,0 +1,9 @@
+User ID: dlTQivHFRndmvTBpABW5
+User Name: robot
+Ticket ID: dlTQivHFRndmvTBpABW5_fb86114f-5de4-4582-b36e-777fdfb617a6
+Total Bid Amount: 7700
+Total Earnings: 0
+Profit/Loss: -7700
+
+Breakdown:
+  Bid: 4, Amount: 7700, Payout: 38500, Status: lost

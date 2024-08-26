@@ -1,0 +1,9 @@
+User ID: 2YOlkO5fVR_8fRI6ABXt
+User Name: robot
+Ticket ID: 2YOlkO5fVR_8fRI6ABXt_8fa77666-9d7f-4032-9eb6-68ecb3f56761
+Total Bid Amount: 7600
+Total Earnings: 38000
+Profit/Loss: 30400
+
+Breakdown:
+  Bid: 5, Amount: 7600, Payout: 38000, Status: won

@@ -1,0 +1,9 @@
+User ID: m4lsS6oNq3YvA3cTAB2u
+User Name: robot
+Ticket ID: m4lsS6oNq3YvA3cTAB2u_44666ccb-6626-428d-95d3-f7a7a00e87a7
+Total Bid Amount: 4500
+Total Earnings: 0
+Profit/Loss: -4500
+
+Breakdown:
+  Bid: 4, Amount: 4500, Payout: 22500, Status: lost

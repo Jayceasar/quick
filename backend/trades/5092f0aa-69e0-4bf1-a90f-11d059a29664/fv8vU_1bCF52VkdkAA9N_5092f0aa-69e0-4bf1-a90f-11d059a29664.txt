@@ -1,0 +1,9 @@
+User ID: fv8vU_1bCF52VkdkAA9N
+User Name: robot
+Ticket ID: fv8vU_1bCF52VkdkAA9N_5092f0aa-69e0-4bf1-a90f-11d059a29664
+Total Bid Amount: 7500
+Total Earnings: 37500
+Profit/Loss: 30000
+
+Breakdown:
+  Bid: 1, Amount: 7500, Payout: 37500, Status: won

@@ -1,0 +1,9 @@
+User ID: HzYCWbNKDC11sJNpAA8b
+User Name: robot
+Ticket ID: HzYCWbNKDC11sJNpAA8b_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 3200
+Total Earnings: 0
+Profit/Loss: -3200
+
+Breakdown:
+  Bid: 4, Amount: 3200, Payout: 16000, Status: lost

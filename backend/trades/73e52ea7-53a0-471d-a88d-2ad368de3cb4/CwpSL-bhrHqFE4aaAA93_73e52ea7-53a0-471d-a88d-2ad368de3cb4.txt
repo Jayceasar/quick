@@ -1,0 +1,9 @@
+User ID: CwpSL-bhrHqFE4aaAA93
+User Name: robot
+Ticket ID: CwpSL-bhrHqFE4aaAA93_73e52ea7-53a0-471d-a88d-2ad368de3cb4
+Total Bid Amount: 8200
+Total Earnings: 0
+Profit/Loss: -8200
+
+Breakdown:
+  Bid: 1, Amount: 8200, Payout: 41000, Status: lost

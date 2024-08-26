@@ -1,0 +1,10 @@
+User ID: zUPFZPd1MHvGdNmcABR3
+User Name: robot
+Ticket ID: zUPFZPd1MHvGdNmcABR3_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 8900
+Total Earnings: 5000
+Profit/Loss: -3900
+
+Breakdown:
+  Bid: 3, Amount: 7900, Payout: 39500, Status: lost
+  Bid: 1, Amount: 1000, Payout: 5000, Status: won

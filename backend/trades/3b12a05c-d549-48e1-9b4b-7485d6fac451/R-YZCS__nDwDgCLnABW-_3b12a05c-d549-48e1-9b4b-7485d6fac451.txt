@@ -1,0 +1,9 @@
+User ID: R-YZCS__nDwDgCLnABW-
+User Name: robot
+Ticket ID: R-YZCS__nDwDgCLnABW-_3b12a05c-d549-48e1-9b4b-7485d6fac451
+Total Bid Amount: 9000
+Total Earnings: 0
+Profit/Loss: -9000
+
+Breakdown:
+  Bid: 3, Amount: 9000, Payout: 45000, Status: lost

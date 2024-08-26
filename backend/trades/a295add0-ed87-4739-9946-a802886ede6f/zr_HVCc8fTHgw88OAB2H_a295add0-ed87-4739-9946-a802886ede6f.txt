@@ -1,0 +1,9 @@
+User ID: zr_HVCc8fTHgw88OAB2H
+User Name: robot
+Ticket ID: zr_HVCc8fTHgw88OAB2H_a295add0-ed87-4739-9946-a802886ede6f
+Total Bid Amount: 5300
+Total Earnings: 26500
+Profit/Loss: 21200
+
+Breakdown:
+  Bid: 3, Amount: 5300, Payout: 26500, Status: won

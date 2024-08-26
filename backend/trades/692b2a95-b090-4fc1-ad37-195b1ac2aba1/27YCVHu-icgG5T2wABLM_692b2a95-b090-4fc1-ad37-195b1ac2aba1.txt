@@ -1,0 +1,9 @@
+User ID: 27YCVHu-icgG5T2wABLM
+User Name: robot
+Ticket ID: 27YCVHu-icgG5T2wABLM_692b2a95-b090-4fc1-ad37-195b1ac2aba1
+Total Bid Amount: 6700
+Total Earnings: 0
+Profit/Loss: -6700
+
+Breakdown:
+  Bid: 3, Amount: 6700, Payout: 33500, Status: lost

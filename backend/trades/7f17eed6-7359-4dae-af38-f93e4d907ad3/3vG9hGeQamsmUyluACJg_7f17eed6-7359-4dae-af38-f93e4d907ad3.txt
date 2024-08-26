@@ -1,0 +1,9 @@
+User ID: 3vG9hGeQamsmUyluACJg
+User Name: robot
+Ticket ID: 3vG9hGeQamsmUyluACJg_7f17eed6-7359-4dae-af38-f93e4d907ad3
+Total Bid Amount: 8200
+Total Earnings: 41000
+Profit/Loss: 32800
+
+Breakdown:
+  Bid: 3, Amount: 8200, Payout: 41000, Status: won

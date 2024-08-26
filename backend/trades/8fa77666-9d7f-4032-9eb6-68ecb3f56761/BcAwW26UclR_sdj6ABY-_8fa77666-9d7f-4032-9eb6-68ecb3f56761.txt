@@ -1,0 +1,9 @@
+User ID: BcAwW26UclR_sdj6ABY-
+User Name: robot
+Ticket ID: BcAwW26UclR_sdj6ABY-_8fa77666-9d7f-4032-9eb6-68ecb3f56761
+Total Bid Amount: 3500
+Total Earnings: 0
+Profit/Loss: -3500
+
+Breakdown:
+  Bid: 3, Amount: 3500, Payout: 17500, Status: lost

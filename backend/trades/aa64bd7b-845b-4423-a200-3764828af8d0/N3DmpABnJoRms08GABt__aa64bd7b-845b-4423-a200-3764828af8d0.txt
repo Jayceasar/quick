@@ -1,0 +1,10 @@
+User ID: N3DmpABnJoRms08GABt_
+User Name: robot
+Ticket ID: N3DmpABnJoRms08GABt__aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 14900
+Total Earnings: 43500
+Profit/Loss: 28600
+
+Breakdown:
+  Bid: 2, Amount: 6200, Payout: 31000, Status: lost
+  Bid: 3, Amount: 8700, Payout: 43500, Status: won

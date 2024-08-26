@@ -1,0 +1,9 @@
+User ID: 77DAJ3L2tm4arnOLAB1D
+User Name: robot
+Ticket ID: 77DAJ3L2tm4arnOLAB1D_01af48cf-5a07-4b4a-b906-5b1c32c765d1
+Total Bid Amount: 9500
+Total Earnings: 0
+Profit/Loss: -9500
+
+Breakdown:
+  Bid: 1, Amount: 9500, Payout: 47500, Status: lost

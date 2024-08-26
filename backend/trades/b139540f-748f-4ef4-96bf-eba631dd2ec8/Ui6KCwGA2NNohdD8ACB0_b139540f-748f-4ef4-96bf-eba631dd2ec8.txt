@@ -1,0 +1,9 @@
+User ID: Ui6KCwGA2NNohdD8ACB0
+User Name: robot
+Ticket ID: Ui6KCwGA2NNohdD8ACB0_b139540f-748f-4ef4-96bf-eba631dd2ec8
+Total Bid Amount: 2200
+Total Earnings: 0
+Profit/Loss: -2200
+
+Breakdown:
+  Bid: 1, Amount: 2200, Payout: 11000, Status: lost

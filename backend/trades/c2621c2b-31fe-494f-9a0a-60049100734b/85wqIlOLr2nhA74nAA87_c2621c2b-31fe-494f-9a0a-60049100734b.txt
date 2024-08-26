@@ -1,0 +1,10 @@
+User ID: 85wqIlOLr2nhA74nAA87
+User Name: robot
+Ticket ID: 85wqIlOLr2nhA74nAA87_c2621c2b-31fe-494f-9a0a-60049100734b
+Total Bid Amount: 11600
+Total Earnings: 0
+Profit/Loss: -11600
+
+Breakdown:
+  Bid: 3, Amount: 6300, Payout: 31500, Status: lost
+  Bid: 4, Amount: 5300, Payout: 26500, Status: lost

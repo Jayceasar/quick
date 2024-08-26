@@ -1,0 +1,9 @@
+User ID: YCyS18aVskZmB-ZlAA8j
+User Name: robot
+Ticket ID: YCyS18aVskZmB-ZlAA8j_5092f0aa-69e0-4bf1-a90f-11d059a29664
+Total Bid Amount: 1300
+Total Earnings: 0
+Profit/Loss: -1300
+
+Breakdown:
+  Bid: 2, Amount: 1300, Payout: 6500, Status: lost

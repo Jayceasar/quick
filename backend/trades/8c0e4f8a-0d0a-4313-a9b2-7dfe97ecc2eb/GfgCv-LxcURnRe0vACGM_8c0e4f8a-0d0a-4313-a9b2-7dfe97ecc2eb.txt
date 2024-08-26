@@ -1,0 +1,9 @@
+User ID: GfgCv-LxcURnRe0vACGM
+User Name: robot
+Ticket ID: GfgCv-LxcURnRe0vACGM_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
+Total Bid Amount: 3200
+Total Earnings: 0
+Profit/Loss: -3200
+
+Breakdown:
+  Bid: 1, Amount: 3200, Payout: 16000, Status: lost

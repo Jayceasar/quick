@@ -1,0 +1,9 @@
+User ID: mkIKJK-SGXjRojw3AB0-
+User Name: robot
+Ticket ID: mkIKJK-SGXjRojw3AB0-_c5622fe9-fa66-4682-a1ea-f8ed721f9645
+Total Bid Amount: 8200
+Total Earnings: 0
+Profit/Loss: -8200
+
+Breakdown:
+  Bid: 2, Amount: 8200, Payout: 41000, Status: lost

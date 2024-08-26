@@ -1,0 +1,10 @@
+User ID: kDUSXezSthHZrhamABCx
+User Name: robot
+Ticket ID: kDUSXezSthHZrhamABCx_c2621c2b-31fe-494f-9a0a-60049100734b
+Total Bid Amount: 11900
+Total Earnings: 49000
+Profit/Loss: 37100
+
+Breakdown:
+  Bid: 2, Amount: 9800, Payout: 49000, Status: won
+  Bid: 5, Amount: 2100, Payout: 10500, Status: lost

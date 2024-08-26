@@ -1,0 +1,10 @@
+User ID: GPRamwPdWKbOGbClAA-j
+User Name: robot
+Ticket ID: GPRamwPdWKbOGbClAA-j_c2621c2b-31fe-494f-9a0a-60049100734b
+Total Bid Amount: 9100
+Total Earnings: 0
+Profit/Loss: -9100
+
+Breakdown:
+  Bid: 1, Amount: 6600, Payout: 33000, Status: lost
+  Bid: 1, Amount: 2500, Payout: 12500, Status: lost

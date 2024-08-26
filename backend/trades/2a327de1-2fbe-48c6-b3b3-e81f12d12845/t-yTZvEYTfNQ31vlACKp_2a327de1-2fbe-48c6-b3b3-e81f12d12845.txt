@@ -1,0 +1,9 @@
+User ID: t-yTZvEYTfNQ31vlACKp
+User Name: robot
+Ticket ID: t-yTZvEYTfNQ31vlACKp_2a327de1-2fbe-48c6-b3b3-e81f12d12845
+Total Bid Amount: 100
+Total Earnings: 0
+Profit/Loss: -100
+
+Breakdown:
+  Bid: 1, Amount: 100, Payout: 500, Status: lost

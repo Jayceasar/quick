@@ -1,0 +1,9 @@
+User ID: IQoTu2gwdVno3hcWAA_C
+User Name: robot
+Ticket ID: IQoTu2gwdVno3hcWAA_C_73e52ea7-53a0-471d-a88d-2ad368de3cb4
+Total Bid Amount: 7700
+Total Earnings: 0
+Profit/Loss: -7700
+
+Breakdown:
+  Bid: 1, Amount: 7700, Payout: 38500, Status: lost

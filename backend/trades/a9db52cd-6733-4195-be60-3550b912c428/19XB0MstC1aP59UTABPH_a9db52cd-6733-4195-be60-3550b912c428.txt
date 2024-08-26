@@ -1,0 +1,10 @@
+User ID: 19XB0MstC1aP59UTABPH
+User Name: robot
+Ticket ID: 19XB0MstC1aP59UTABPH_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 14000
+Total Earnings: 0
+Profit/Loss: -14000
+
+Breakdown:
+  Bid: 2, Amount: 7200, Payout: 36000, Status: lost
+  Bid: 6, Amount: 6800, Payout: 34000, Status: lost

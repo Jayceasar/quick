@@ -1,0 +1,10 @@
+User ID: PyJWJthAvkN5l7NfABGl
+User Name: robot
+Ticket ID: PyJWJthAvkN5l7NfABGl_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 9600
+Total Earnings: 0
+Profit/Loss: -9600
+
+Breakdown:
+  Bid: 6, Amount: 1300, Payout: 6500, Status: lost
+  Bid: 1, Amount: 8300, Payout: 41500, Status: lost

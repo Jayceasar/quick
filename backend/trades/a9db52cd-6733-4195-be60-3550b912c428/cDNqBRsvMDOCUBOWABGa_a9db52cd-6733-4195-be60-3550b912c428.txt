@@ -1,0 +1,9 @@
+User ID: cDNqBRsvMDOCUBOWABGa
+User Name: robot
+Ticket ID: cDNqBRsvMDOCUBOWABGa_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 2600
+Total Earnings: 13000
+Profit/Loss: 10400
+
+Breakdown:
+  Bid: 1, Amount: 2600, Payout: 13000, Status: won

@@ -1,0 +1,11 @@
+User ID: PO6haYG7Iux6x2iCABeU
+User Name: robot
+Ticket ID: PO6haYG7Iux6x2iCABeU_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 18900
+Total Earnings: 94500
+Profit/Loss: 75600
+
+Breakdown:
+  Bid: 3, Amount: 6000, Payout: 30000, Status: won
+  Bid: 3, Amount: 8200, Payout: 41000, Status: won
+  Bid: 3, Amount: 4700, Payout: 23500, Status: won

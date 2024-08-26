@@ -1,0 +1,10 @@
+User ID: p46ruiWHUC5Qv1umABhb
+User Name: robot
+Ticket ID: p46ruiWHUC5Qv1umABhb_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 10500
+Total Earnings: 0
+Profit/Loss: -10500
+
+Breakdown:
+  Bid: 1, Amount: 8000, Payout: 40000, Status: lost
+  Bid: 6, Amount: 2500, Payout: 12500, Status: lost

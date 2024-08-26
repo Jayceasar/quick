@@ -1,0 +1,9 @@
+User ID: CShtLkaw2Ad3VJ8RABvE
+User Name: robot
+Ticket ID: CShtLkaw2Ad3VJ8RABvE_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 8200
+Total Earnings: 0
+Profit/Loss: -8200
+
+Breakdown:
+  Bid: 2, Amount: 8200, Payout: 41000, Status: lost

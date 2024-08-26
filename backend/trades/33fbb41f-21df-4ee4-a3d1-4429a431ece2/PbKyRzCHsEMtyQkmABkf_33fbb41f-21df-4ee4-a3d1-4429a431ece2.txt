@@ -1,0 +1,10 @@
+User ID: PbKyRzCHsEMtyQkmABkf
+User Name: robot
+Ticket ID: PbKyRzCHsEMtyQkmABkf_33fbb41f-21df-4ee4-a3d1-4429a431ece2
+Total Bid Amount: 13800
+Total Earnings: 0
+Profit/Loss: -13800
+
+Breakdown:
+  Bid: 5, Amount: 8400, Payout: 42000, Status: lost
+  Bid: 5, Amount: 5400, Payout: 27000, Status: lost

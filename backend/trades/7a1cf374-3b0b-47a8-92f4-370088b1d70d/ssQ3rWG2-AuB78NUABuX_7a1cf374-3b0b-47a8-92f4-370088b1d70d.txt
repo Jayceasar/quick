@@ -1,0 +1,9 @@
+User ID: ssQ3rWG2-AuB78NUABuX
+User Name: robot
+Ticket ID: ssQ3rWG2-AuB78NUABuX_7a1cf374-3b0b-47a8-92f4-370088b1d70d
+Total Bid Amount: 2700
+Total Earnings: 0
+Profit/Loss: -2700
+
+Breakdown:
+  Bid: 5, Amount: 2700, Payout: 13500, Status: lost

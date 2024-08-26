@@ -1,0 +1,9 @@
+User ID: aQ4CJZdHzSt8krBSAB1W
+User Name: robot
+Ticket ID: aQ4CJZdHzSt8krBSAB1W_01af48cf-5a07-4b4a-b906-5b1c32c765d1
+Total Bid Amount: 7300
+Total Earnings: 0
+Profit/Loss: -7300
+
+Breakdown:
+  Bid: 1, Amount: 7300, Payout: 36500, Status: lost

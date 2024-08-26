@@ -1,0 +1,9 @@
+User ID: 6x22qCc4M7kYbphSAB-8
+User Name: robot
+Ticket ID: 6x22qCc4M7kYbphSAB-8_414b2b96-9ea1-4f03-977a-f2301d814e84
+Total Bid Amount: 7900
+Total Earnings: 0
+Profit/Loss: -7900
+
+Breakdown:
+  Bid: 2, Amount: 7900, Payout: 39500, Status: lost

@@ -1,0 +1,9 @@
+User ID: m4vwWUT1nV-FO2qZABZ5
+User Name: robot
+Ticket ID: m4vwWUT1nV-FO2qZABZ5_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 500
+Total Earnings: 0
+Profit/Loss: -500
+
+Breakdown:
+  Bid: 1, Amount: 500, Payout: 2500, Status: lost

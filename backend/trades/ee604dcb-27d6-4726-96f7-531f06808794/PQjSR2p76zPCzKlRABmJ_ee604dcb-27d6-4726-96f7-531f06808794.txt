@@ -1,0 +1,9 @@
+User ID: PQjSR2p76zPCzKlRABmJ
+User Name: robot
+Ticket ID: PQjSR2p76zPCzKlRABmJ_ee604dcb-27d6-4726-96f7-531f06808794
+Total Bid Amount: 9700
+Total Earnings: 0
+Profit/Loss: -9700
+
+Breakdown:
+  Bid: 2, Amount: 9700, Payout: 48500, Status: lost

@@ -1,0 +1,9 @@
+User ID: fflgAkL4n1zAZwLpAA9a
+User Name: robot
+Ticket ID: fflgAkL4n1zAZwLpAA9a_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 1000
+Total Earnings: 0
+Profit/Loss: -1000
+
+Breakdown:
+  Bid: 6, Amount: 1000, Payout: 5000, Status: lost

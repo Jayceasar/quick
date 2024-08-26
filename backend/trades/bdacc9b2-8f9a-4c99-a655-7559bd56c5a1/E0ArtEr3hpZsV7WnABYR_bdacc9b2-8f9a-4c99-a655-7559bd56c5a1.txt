@@ -1,0 +1,10 @@
+User ID: E0ArtEr3hpZsV7WnABYR
+User Name: robot
+Ticket ID: E0ArtEr3hpZsV7WnABYR_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 5300
+Total Earnings: 0
+Profit/Loss: -5300
+
+Breakdown:
+  Bid: 6, Amount: 200, Payout: 1000, Status: lost
+  Bid: 2, Amount: 5100, Payout: 25500, Status: lost

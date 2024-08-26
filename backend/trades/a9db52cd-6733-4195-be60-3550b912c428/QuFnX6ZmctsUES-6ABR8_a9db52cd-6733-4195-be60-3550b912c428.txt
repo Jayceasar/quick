@@ -1,0 +1,10 @@
+User ID: QuFnX6ZmctsUES-6ABR8
+User Name: robot
+Ticket ID: QuFnX6ZmctsUES-6ABR8_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 8500
+Total Earnings: 0
+Profit/Loss: -8500
+
+Breakdown:
+  Bid: 5, Amount: 8400, Payout: 42000, Status: lost
+  Bid: 2, Amount: 100, Payout: 500, Status: lost

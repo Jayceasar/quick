@@ -1,0 +1,9 @@
+User ID: vUoHEt2ycxRFvCffAB1Y
+User Name: robot
+Ticket ID: vUoHEt2ycxRFvCffAB1Y_c5622fe9-fa66-4682-a1ea-f8ed721f9645
+Total Bid Amount: 2300
+Total Earnings: 11500
+Profit/Loss: 9200
+
+Breakdown:
+  Bid: 3, Amount: 2300, Payout: 11500, Status: won

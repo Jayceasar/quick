@@ -1,0 +1,9 @@
+User ID: JVtVKr8LF00Z6kgMABL7
+User Name: robot
+Ticket ID: JVtVKr8LF00Z6kgMABL7_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 1000
+Total Earnings: 5000
+Profit/Loss: 4000
+
+Breakdown:
+  Bid: 1, Amount: 1000, Payout: 5000, Status: won

@@ -1,0 +1,10 @@
+User ID: 0y2e2FYT0mNHgI6mABQp
+User Name: robot
+Ticket ID: 0y2e2FYT0mNHgI6mABQp_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 5400
+Total Earnings: 6000
+Profit/Loss: 600
+
+Breakdown:
+  Bid: 1, Amount: 1200, Payout: 6000, Status: won
+  Bid: 3, Amount: 4200, Payout: 21000, Status: lost

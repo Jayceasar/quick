@@ -1,0 +1,9 @@
+User ID: tYY3d31Q8L6CU-pLAByO
+User Name: robot
+Ticket ID: tYY3d31Q8L6CU-pLAByO_4e590ac0-442e-4e7c-bb69-b3985af4acef
+Total Bid Amount: 8400
+Total Earnings: 42000
+Profit/Loss: 33600
+
+Breakdown:
+  Bid: 2, Amount: 8400, Payout: 42000, Status: won

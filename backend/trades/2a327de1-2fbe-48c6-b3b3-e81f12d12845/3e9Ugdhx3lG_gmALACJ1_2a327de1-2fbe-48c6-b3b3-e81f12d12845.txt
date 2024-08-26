@@ -1,0 +1,9 @@
+User ID: 3e9Ugdhx3lG_gmALACJ1
+User Name: robot
+Ticket ID: 3e9Ugdhx3lG_gmALACJ1_2a327de1-2fbe-48c6-b3b3-e81f12d12845
+Total Bid Amount: 7200
+Total Earnings: 0
+Profit/Loss: -7200
+
+Breakdown:
+  Bid: 1, Amount: 7200, Payout: 36000, Status: lost

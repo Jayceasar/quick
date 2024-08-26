@@ -1,0 +1,10 @@
+User ID: l4FdHRCru9WkRDDbABqR
+User Name: robot
+Ticket ID: l4FdHRCru9WkRDDbABqR_aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 10000
+Total Earnings: 16500
+Profit/Loss: 6500
+
+Breakdown:
+  Bid: 2, Amount: 6700, Payout: 33500, Status: lost
+  Bid: 3, Amount: 3300, Payout: 16500, Status: won

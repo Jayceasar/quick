@@ -1,0 +1,9 @@
+User ID: _FUcfat5A9jBffPlABl-
+User Name: robot
+Ticket ID: _FUcfat5A9jBffPlABl-_16544f5b-1f99-42fc-955f-4a4f35434ec1
+Total Bid Amount: 9200
+Total Earnings: 0
+Profit/Loss: -9200
+
+Breakdown:
+  Bid: 3, Amount: 9200, Payout: 46000, Status: lost

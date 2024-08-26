@@ -1,0 +1,10 @@
+User ID: YpXWm2z3jX_-t4BiABlL
+User Name: robot
+Ticket ID: YpXWm2z3jX_-t4BiABlL_33fbb41f-21df-4ee4-a3d1-4429a431ece2
+Total Bid Amount: 14600
+Total Earnings: 29000
+Profit/Loss: 14400
+
+Breakdown:
+  Bid: 4, Amount: 5800, Payout: 29000, Status: won
+  Bid: 6, Amount: 8800, Payout: 44000, Status: lost

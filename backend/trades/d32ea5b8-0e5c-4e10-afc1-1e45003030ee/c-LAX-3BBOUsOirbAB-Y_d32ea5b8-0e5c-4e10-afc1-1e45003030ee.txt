@@ -1,0 +1,9 @@
+User ID: c-LAX-3BBOUsOirbAB-Y
+User Name: robot
+Ticket ID: c-LAX-3BBOUsOirbAB-Y_d32ea5b8-0e5c-4e10-afc1-1e45003030ee
+Total Bid Amount: 1700
+Total Earnings: 0
+Profit/Loss: -1700
+
+Breakdown:
+  Bid: 3, Amount: 1700, Payout: 8500, Status: lost

@@ -1,0 +1,9 @@
+User ID: X1-2oA72eII1LKUvABWi
+User Name: robot
+Ticket ID: X1-2oA72eII1LKUvABWi_fb86114f-5de4-4582-b36e-777fdfb617a6
+Total Bid Amount: 5200
+Total Earnings: 26000
+Profit/Loss: 20800
+
+Breakdown:
+  Bid: 5, Amount: 5200, Payout: 26000, Status: won

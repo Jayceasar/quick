@@ -1,0 +1,9 @@
+User ID: PbjPj4_i9CHcvwLpAByq
+User Name: robot
+Ticket ID: PbjPj4_i9CHcvwLpAByq_01af48cf-5a07-4b4a-b906-5b1c32c765d1
+Total Bid Amount: 1000
+Total Earnings: 0
+Profit/Loss: -1000
+
+Breakdown:
+  Bid: 5, Amount: 1000, Payout: 5000, Status: lost

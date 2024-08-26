@@ -1,0 +1,10 @@
+User ID: 8-o_af6zuRfoybxeABGz
+User Name: robot
+Ticket ID: 8-o_af6zuRfoybxeABGz_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 11000
+Total Earnings: 0
+Profit/Loss: -11000
+
+Breakdown:
+  Bid: 3, Amount: 8400, Payout: 42000, Status: lost
+  Bid: 3, Amount: 2600, Payout: 13000, Status: lost

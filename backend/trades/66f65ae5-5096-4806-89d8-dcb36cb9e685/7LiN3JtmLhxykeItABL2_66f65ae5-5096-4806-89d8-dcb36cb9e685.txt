@@ -1,0 +1,10 @@
+User ID: 7LiN3JtmLhxykeItABL2
+User Name: robot
+Ticket ID: 7LiN3JtmLhxykeItABL2_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 6800
+Total Earnings: 0
+Profit/Loss: -6800
+
+Breakdown:
+  Bid: 6, Amount: 4500, Payout: 22500, Status: lost
+  Bid: 1, Amount: 2300, Payout: 11500, Status: lost

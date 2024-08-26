@@ -1,0 +1,9 @@
+User ID: bIpOF5ZFcs5PQrEYABJv
+User Name: robot
+Ticket ID: bIpOF5ZFcs5PQrEYABJv_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 1000
+Total Earnings: 0
+Profit/Loss: -1000
+
+Breakdown:
+  Bid: 6, Amount: 1000, Payout: 5000, Status: lost

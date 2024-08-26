@@ -1,0 +1,10 @@
+User ID: f5NYZHzUGmLgGEnGABQW
+User Name: robot
+Ticket ID: f5NYZHzUGmLgGEnGABQW_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 11800
+Total Earnings: 45500
+Profit/Loss: 33700
+
+Breakdown:
+  Bid: 6, Amount: 2700, Payout: 13500, Status: lost
+  Bid: 1, Amount: 9100, Payout: 45500, Status: won

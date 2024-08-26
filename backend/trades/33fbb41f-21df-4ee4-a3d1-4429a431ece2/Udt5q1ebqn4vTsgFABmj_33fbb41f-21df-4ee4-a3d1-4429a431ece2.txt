@@ -1,0 +1,10 @@
+User ID: Udt5q1ebqn4vTsgFABmj
+User Name: robot
+Ticket ID: Udt5q1ebqn4vTsgFABmj_33fbb41f-21df-4ee4-a3d1-4429a431ece2
+Total Bid Amount: 13700
+Total Earnings: 47500
+Profit/Loss: 33800
+
+Breakdown:
+  Bid: 3, Amount: 4200, Payout: 21000, Status: lost
+  Bid: 4, Amount: 9500, Payout: 47500, Status: won

@@ -1,0 +1,9 @@
+User ID: 7-_7XnmcEeJQn7dPACKo
+User Name: robot
+Ticket ID: 7-_7XnmcEeJQn7dPACKo_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
+Total Bid Amount: 500
+Total Earnings: 2500
+Profit/Loss: 2000
+
+Breakdown:
+  Bid: 5, Amount: 500, Payout: 2500, Status: won

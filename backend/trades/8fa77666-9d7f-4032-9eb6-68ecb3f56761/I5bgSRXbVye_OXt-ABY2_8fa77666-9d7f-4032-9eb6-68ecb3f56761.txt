@@ -1,0 +1,9 @@
+User ID: I5bgSRXbVye_OXt-ABY2
+User Name: robot
+Ticket ID: I5bgSRXbVye_OXt-ABY2_8fa77666-9d7f-4032-9eb6-68ecb3f56761
+Total Bid Amount: 7600
+Total Earnings: 0
+Profit/Loss: -7600
+
+Breakdown:
+  Bid: 4, Amount: 7600, Payout: 38000, Status: lost

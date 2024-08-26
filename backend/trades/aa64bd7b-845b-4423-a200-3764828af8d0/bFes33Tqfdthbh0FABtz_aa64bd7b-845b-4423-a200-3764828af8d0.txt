@@ -1,0 +1,10 @@
+User ID: bFes33Tqfdthbh0FABtz
+User Name: robot
+Ticket ID: bFes33Tqfdthbh0FABtz_aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 17500
+Total Earnings: 0
+Profit/Loss: -17500
+
+Breakdown:
+  Bid: 6, Amount: 8100, Payout: 40500, Status: lost
+  Bid: 4, Amount: 9400, Payout: 47000, Status: lost

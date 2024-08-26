@@ -1,0 +1,9 @@
+User ID: fG02WvcUHs9YOG3vABLF
+User Name: robot
+Ticket ID: fG02WvcUHs9YOG3vABLF_53f52dfa-658a-410e-aa4f-daee0e5a689c
+Total Bid Amount: 9500
+Total Earnings: 0
+Profit/Loss: -9500
+
+Breakdown:
+  Bid: 1, Amount: 9500, Payout: 47500, Status: lost

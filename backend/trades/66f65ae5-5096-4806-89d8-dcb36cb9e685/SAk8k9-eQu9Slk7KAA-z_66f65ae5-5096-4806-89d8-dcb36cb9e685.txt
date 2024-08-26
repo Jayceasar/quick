@@ -1,0 +1,9 @@
+User ID: SAk8k9-eQu9Slk7KAA-z
+User Name: robot
+Ticket ID: SAk8k9-eQu9Slk7KAA-z_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 3200
+Total Earnings: 0
+Profit/Loss: -3200
+
+Breakdown:
+  Bid: 6, Amount: 3200, Payout: 16000, Status: lost

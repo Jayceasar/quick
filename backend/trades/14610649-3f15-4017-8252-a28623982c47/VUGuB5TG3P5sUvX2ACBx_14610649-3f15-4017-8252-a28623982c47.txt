@@ -1,0 +1,9 @@
+User ID: VUGuB5TG3P5sUvX2ACBx
+User Name: robot
+Ticket ID: VUGuB5TG3P5sUvX2ACBx_14610649-3f15-4017-8252-a28623982c47
+Total Bid Amount: 4000
+Total Earnings: 20000
+Profit/Loss: 16000
+
+Breakdown:
+  Bid: 3, Amount: 4000, Payout: 20000, Status: won

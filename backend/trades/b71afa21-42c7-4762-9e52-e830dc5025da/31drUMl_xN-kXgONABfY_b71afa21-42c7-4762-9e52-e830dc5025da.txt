@@ -1,0 +1,9 @@
+User ID: 31drUMl_xN-kXgONABfY
+User Name: robot
+Ticket ID: 31drUMl_xN-kXgONABfY_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 9100
+Total Earnings: 0
+Profit/Loss: -9100
+
+Breakdown:
+  Bid: 1, Amount: 9100, Payout: 45500, Status: lost

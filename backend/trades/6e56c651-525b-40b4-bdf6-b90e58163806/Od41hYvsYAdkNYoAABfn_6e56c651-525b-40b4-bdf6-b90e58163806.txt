@@ -1,0 +1,10 @@
+User ID: Od41hYvsYAdkNYoAABfn
+User Name: robot
+Ticket ID: Od41hYvsYAdkNYoAABfn_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 15200
+Total Earnings: 0
+Profit/Loss: -15200
+
+Breakdown:
+  Bid: 5, Amount: 8900, Payout: 44500, Status: lost
+  Bid: 5, Amount: 6300, Payout: 31500, Status: lost

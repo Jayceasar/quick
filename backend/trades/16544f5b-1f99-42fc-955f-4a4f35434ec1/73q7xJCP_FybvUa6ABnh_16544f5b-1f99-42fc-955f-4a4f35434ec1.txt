@@ -1,0 +1,9 @@
+User ID: 73q7xJCP_FybvUa6ABnh
+User Name: robot
+Ticket ID: 73q7xJCP_FybvUa6ABnh_16544f5b-1f99-42fc-955f-4a4f35434ec1
+Total Bid Amount: 8100
+Total Earnings: 0
+Profit/Loss: -8100
+
+Breakdown:
+  Bid: 2, Amount: 8100, Payout: 40500, Status: lost

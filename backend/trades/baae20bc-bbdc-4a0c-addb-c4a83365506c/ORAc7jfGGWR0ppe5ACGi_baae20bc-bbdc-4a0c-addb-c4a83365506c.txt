@@ -1,0 +1,9 @@
+User ID: ORAc7jfGGWR0ppe5ACGi
+User Name: robot
+Ticket ID: ORAc7jfGGWR0ppe5ACGi_baae20bc-bbdc-4a0c-addb-c4a83365506c
+Total Bid Amount: 4900
+Total Earnings: 0
+Profit/Loss: -4900
+
+Breakdown:
+  Bid: 5, Amount: 4900, Payout: 24500, Status: lost

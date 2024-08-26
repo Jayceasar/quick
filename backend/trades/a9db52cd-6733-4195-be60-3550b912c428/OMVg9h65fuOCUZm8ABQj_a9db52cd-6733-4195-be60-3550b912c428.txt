@@ -1,0 +1,10 @@
+User ID: OMVg9h65fuOCUZm8ABQj
+User Name: robot
+Ticket ID: OMVg9h65fuOCUZm8ABQj_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 10200
+Total Earnings: 0
+Profit/Loss: -10200
+
+Breakdown:
+  Bid: 2, Amount: 700, Payout: 3500, Status: lost
+  Bid: 4, Amount: 9500, Payout: 47500, Status: lost

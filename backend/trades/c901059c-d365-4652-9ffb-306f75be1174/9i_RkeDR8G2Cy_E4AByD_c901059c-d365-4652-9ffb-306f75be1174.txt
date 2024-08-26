@@ -1,0 +1,10 @@
+User ID: 9i_RkeDR8G2Cy_E4AByD
+User Name: robot
+Ticket ID: 9i_RkeDR8G2Cy_E4AByD_c901059c-d365-4652-9ffb-306f75be1174
+Total Bid Amount: 15500
+Total Earnings: 0
+Profit/Loss: -15500
+
+Breakdown:
+  Bid: 2, Amount: 6800, Payout: 34000, Status: lost
+  Bid: 5, Amount: 8700, Payout: 43500, Status: lost

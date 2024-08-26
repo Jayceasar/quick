@@ -1,0 +1,10 @@
+User ID: nmipVTZ2WGJxUQiCAB_J
+User Name: robot
+Ticket ID: nmipVTZ2WGJxUQiCAB_J_a295add0-ed87-4739-9946-a802886ede6f
+Total Bid Amount: 15600
+Total Earnings: 35500
+Profit/Loss: 19900
+
+Breakdown:
+  Bid: 3, Amount: 7100, Payout: 35500, Status: won
+  Bid: 2, Amount: 8500, Payout: 42500, Status: lost

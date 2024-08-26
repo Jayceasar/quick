@@ -1,0 +1,11 @@
+User ID: HN66zMt22GH61r9fABeJ
+User Name: robot
+Ticket ID: HN66zMt22GH61r9fABeJ_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 15500
+Total Earnings: 0
+Profit/Loss: -15500
+
+Breakdown:
+  Bid: 1, Amount: 8500, Payout: 42500, Status: lost
+  Bid: 4, Amount: 300, Payout: 1500, Status: lost
+  Bid: 5, Amount: 6700, Payout: 33500, Status: lost

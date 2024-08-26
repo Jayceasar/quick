@@ -1,0 +1,9 @@
+User ID: cM07nKIi0bAdei4kABYg
+User Name: robot
+Ticket ID: cM07nKIi0bAdei4kABYg_8fa77666-9d7f-4032-9eb6-68ecb3f56761
+Total Bid Amount: 400
+Total Earnings: 0
+Profit/Loss: -400
+
+Breakdown:
+  Bid: 4, Amount: 400, Payout: 2000, Status: lost

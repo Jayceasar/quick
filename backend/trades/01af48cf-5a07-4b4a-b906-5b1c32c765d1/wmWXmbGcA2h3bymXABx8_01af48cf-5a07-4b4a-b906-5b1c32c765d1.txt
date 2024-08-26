@@ -1,0 +1,9 @@
+User ID: wmWXmbGcA2h3bymXABx8
+User Name: robot
+Ticket ID: wmWXmbGcA2h3bymXABx8_01af48cf-5a07-4b4a-b906-5b1c32c765d1
+Total Bid Amount: 2500
+Total Earnings: 12500
+Profit/Loss: 10000
+
+Breakdown:
+  Bid: 6, Amount: 2500, Payout: 12500, Status: won

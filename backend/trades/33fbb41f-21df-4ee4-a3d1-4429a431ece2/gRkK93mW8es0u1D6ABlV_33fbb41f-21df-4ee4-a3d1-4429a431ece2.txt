@@ -1,0 +1,10 @@
+User ID: gRkK93mW8es0u1D6ABlV
+User Name: robot
+Ticket ID: gRkK93mW8es0u1D6ABlV_33fbb41f-21df-4ee4-a3d1-4429a431ece2
+Total Bid Amount: 17900
+Total Earnings: 40500
+Profit/Loss: 22600
+
+Breakdown:
+  Bid: 5, Amount: 9800, Payout: 49000, Status: lost
+  Bid: 4, Amount: 8100, Payout: 40500, Status: won

@@ -1,0 +1,10 @@
+User ID: gMN640tP-DXVjfxxABvk
+User Name: robot
+Ticket ID: gMN640tP-DXVjfxxABvk_aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 12700
+Total Earnings: 0
+Profit/Loss: -12700
+
+Breakdown:
+  Bid: 1, Amount: 7000, Payout: 35000, Status: lost
+  Bid: 5, Amount: 5700, Payout: 28500, Status: lost

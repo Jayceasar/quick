@@ -1,0 +1,9 @@
+User ID: 1OrMkN6DCxd0oCwtACJ7
+User Name: robot
+Ticket ID: 1OrMkN6DCxd0oCwtACJ7_baae20bc-bbdc-4a0c-addb-c4a83365506c
+Total Bid Amount: 7700
+Total Earnings: 0
+Profit/Loss: -7700
+
+Breakdown:
+  Bid: 6, Amount: 7700, Payout: 38500, Status: lost

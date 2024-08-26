@@ -1,0 +1,9 @@
+User ID: b5NB0gkcbDQw-_IBABWg
+User Name: robot
+Ticket ID: b5NB0gkcbDQw-_IBABWg_8fa77666-9d7f-4032-9eb6-68ecb3f56761
+Total Bid Amount: 5200
+Total Earnings: 0
+Profit/Loss: -5200
+
+Breakdown:
+  Bid: 4, Amount: 5200, Payout: 26000, Status: lost

@@ -1,0 +1,9 @@
+User ID: LKkO7vT_CwPUjOnTABLk
+User Name: robot
+Ticket ID: LKkO7vT_CwPUjOnTABLk_692b2a95-b090-4fc1-ad37-195b1ac2aba1
+Total Bid Amount: 9200
+Total Earnings: 0
+Profit/Loss: -9200
+
+Breakdown:
+  Bid: 1, Amount: 9200, Payout: 46000, Status: lost

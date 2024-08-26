@@ -1,0 +1,11 @@
+User ID: mGvsZYLqYv9urvj7ABfG
+User Name: robot
+Ticket ID: mGvsZYLqYv9urvj7ABfG_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 14700
+Total Earnings: 0
+Profit/Loss: -14700
+
+Breakdown:
+  Bid: 6, Amount: 7200, Payout: 36000, Status: lost
+  Bid: 1, Amount: 6800, Payout: 34000, Status: lost
+  Bid: 6, Amount: 700, Payout: 3500, Status: lost

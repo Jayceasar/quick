@@ -1,0 +1,10 @@
+User ID: jrK7h7umXog_uAy9ABk0
+User Name: robot
+Ticket ID: jrK7h7umXog_uAy9ABk0_33fbb41f-21df-4ee4-a3d1-4429a431ece2
+Total Bid Amount: 10200
+Total Earnings: 8500
+Profit/Loss: -1700
+
+Breakdown:
+  Bid: 4, Amount: 1700, Payout: 8500, Status: won
+  Bid: 6, Amount: 8500, Payout: 42500, Status: lost

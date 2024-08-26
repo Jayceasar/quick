@@ -1,0 +1,9 @@
+User ID: iWsvbZMFxH93ZKGxAB1G
+User Name: robot
+Ticket ID: iWsvbZMFxH93ZKGxAB1G_a295add0-ed87-4739-9946-a802886ede6f
+Total Bid Amount: 9200
+Total Earnings: 46000
+Profit/Loss: 36800
+
+Breakdown:
+  Bid: 3, Amount: 9200, Payout: 46000, Status: won

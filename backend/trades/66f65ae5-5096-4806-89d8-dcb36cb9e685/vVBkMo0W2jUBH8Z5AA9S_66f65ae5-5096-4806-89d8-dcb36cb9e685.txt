@@ -1,0 +1,9 @@
+User ID: vVBkMo0W2jUBH8Z5AA9S
+User Name: robot
+Ticket ID: vVBkMo0W2jUBH8Z5AA9S_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 200
+Total Earnings: 0
+Profit/Loss: -200
+
+Breakdown:
+  Bid: 4, Amount: 200, Payout: 1000, Status: lost

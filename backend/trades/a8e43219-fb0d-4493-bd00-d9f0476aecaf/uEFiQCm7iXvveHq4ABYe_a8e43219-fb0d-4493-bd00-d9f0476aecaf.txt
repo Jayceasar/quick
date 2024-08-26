@@ -1,0 +1,9 @@
+User ID: uEFiQCm7iXvveHq4ABYe
+User Name: robot
+Ticket ID: uEFiQCm7iXvveHq4ABYe_a8e43219-fb0d-4493-bd00-d9f0476aecaf
+Total Bid Amount: 4700
+Total Earnings: 0
+Profit/Loss: -4700
+
+Breakdown:
+  Bid: 6, Amount: 4700, Payout: 23500, Status: lost

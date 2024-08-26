@@ -1,0 +1,10 @@
+User ID: jotF9CRhmEj3OxMAABKm
+User Name: robot
+Ticket ID: jotF9CRhmEj3OxMAABKm_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 13300
+Total Earnings: 44000
+Profit/Loss: 30700
+
+Breakdown:
+  Bid: 5, Amount: 8800, Payout: 44000, Status: won
+  Bid: 3, Amount: 4500, Payout: 22500, Status: lost

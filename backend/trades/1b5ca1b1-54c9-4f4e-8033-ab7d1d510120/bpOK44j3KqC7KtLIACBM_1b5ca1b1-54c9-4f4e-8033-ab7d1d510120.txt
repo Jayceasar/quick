@@ -1,0 +1,9 @@
+User ID: bpOK44j3KqC7KtLIACBM
+User Name: robot
+Ticket ID: bpOK44j3KqC7KtLIACBM_1b5ca1b1-54c9-4f4e-8033-ab7d1d510120
+Total Bid Amount: 9100
+Total Earnings: 45500
+Profit/Loss: 36400
+
+Breakdown:
+  Bid: 6, Amount: 9100, Payout: 45500, Status: won

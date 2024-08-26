@@ -1,0 +1,10 @@
+User ID: as2xRI0gBdpQAAx_ABfN
+User Name: robot
+Ticket ID: as2xRI0gBdpQAAx_ABfN_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 13300
+Total Earnings: 0
+Profit/Loss: -13300
+
+Breakdown:
+  Bid: 2, Amount: 8800, Payout: 44000, Status: lost
+  Bid: 6, Amount: 4500, Payout: 22500, Status: lost

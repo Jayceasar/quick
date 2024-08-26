@@ -1,0 +1,9 @@
+User ID: TXZhSAZI7fY4G347ABPt
+User Name: robot
+Ticket ID: TXZhSAZI7fY4G347ABPt_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 4400
+Total Earnings: 22000
+Profit/Loss: 17600
+
+Breakdown:
+  Bid: 3, Amount: 4400, Payout: 22000, Status: won

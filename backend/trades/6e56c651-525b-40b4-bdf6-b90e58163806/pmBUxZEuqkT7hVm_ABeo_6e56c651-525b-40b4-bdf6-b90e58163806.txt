@@ -1,0 +1,11 @@
+User ID: pmBUxZEuqkT7hVm_ABeo
+User Name: robot
+Ticket ID: pmBUxZEuqkT7hVm_ABeo_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 22300
+Total Earnings: 0
+Profit/Loss: -22300
+
+Breakdown:
+  Bid: 5, Amount: 8900, Payout: 44500, Status: lost
+  Bid: 2, Amount: 10000, Payout: 50000, Status: lost
+  Bid: 2, Amount: 3400, Payout: 17000, Status: lost

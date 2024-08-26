@@ -1,0 +1,10 @@
+User ID: kxiUVlwrOCdomA_AABul
+User Name: robot
+Ticket ID: kxiUVlwrOCdomA_AABul_aa64bd7b-845b-4423-a200-3764828af8d0
+Total Bid Amount: 9600
+Total Earnings: 6000
+Profit/Loss: -3600
+
+Breakdown:
+  Bid: 2, Amount: 8400, Payout: 42000, Status: lost
+  Bid: 3, Amount: 1200, Payout: 6000, Status: won

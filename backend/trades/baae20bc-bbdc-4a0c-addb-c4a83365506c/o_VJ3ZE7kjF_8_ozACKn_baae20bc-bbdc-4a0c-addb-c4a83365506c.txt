@@ -1,0 +1,9 @@
+User ID: o_VJ3ZE7kjF_8_ozACKn
+User Name: robot
+Ticket ID: o_VJ3ZE7kjF_8_ozACKn_baae20bc-bbdc-4a0c-addb-c4a83365506c
+Total Bid Amount: 500
+Total Earnings: 2500
+Profit/Loss: 2000
+
+Breakdown:
+  Bid: 2, Amount: 500, Payout: 2500, Status: won

@@ -1,0 +1,11 @@
+User ID: UHWSJCwDZDDQqpZsABep
+User Name: robot
+Ticket ID: UHWSJCwDZDDQqpZsABep_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 11900
+Total Earnings: 1000
+Profit/Loss: -10900
+
+Breakdown:
+  Bid: 4, Amount: 7500, Payout: 37500, Status: lost
+  Bid: 3, Amount: 200, Payout: 1000, Status: won
+  Bid: 5, Amount: 4200, Payout: 21000, Status: lost

@@ -1,0 +1,9 @@
+User ID: oqVU0XIbp4R4kWKcABXc
+User Name: robot
+Ticket ID: oqVU0XIbp4R4kWKcABXc_3b12a05c-d549-48e1-9b4b-7485d6fac451
+Total Bid Amount: 3100
+Total Earnings: 15500
+Profit/Loss: 12400
+
+Breakdown:
+  Bid: 1, Amount: 3100, Payout: 15500, Status: won

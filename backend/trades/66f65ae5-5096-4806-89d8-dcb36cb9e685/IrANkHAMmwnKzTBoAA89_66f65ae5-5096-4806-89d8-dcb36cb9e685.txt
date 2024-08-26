@@ -1,0 +1,9 @@
+User ID: IrANkHAMmwnKzTBoAA89
+User Name: robot
+Ticket ID: IrANkHAMmwnKzTBoAA89_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 8400
+Total Earnings: 0
+Profit/Loss: -8400
+
+Breakdown:
+  Bid: 2, Amount: 8400, Payout: 42000, Status: lost

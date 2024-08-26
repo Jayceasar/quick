@@ -1,0 +1,9 @@
+User ID: adD_N471zMgD0k8cABtE
+User Name: robot
+Ticket ID: adD_N471zMgD0k8cABtE_7a1cf374-3b0b-47a8-92f4-370088b1d70d
+Total Bid Amount: 7400
+Total Earnings: 0
+Profit/Loss: -7400
+
+Breakdown:
+  Bid: 4, Amount: 7400, Payout: 37000, Status: lost

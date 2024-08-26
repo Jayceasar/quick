@@ -1,0 +1,10 @@
+User ID: RMKCoqSa9kC_TRETABLi
+User Name: robot
+Ticket ID: RMKCoqSa9kC_TRETABLi_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 12300
+Total Earnings: 0
+Profit/Loss: -12300
+
+Breakdown:
+  Bid: 6, Amount: 8700, Payout: 43500, Status: lost
+  Bid: 2, Amount: 3600, Payout: 18000, Status: lost

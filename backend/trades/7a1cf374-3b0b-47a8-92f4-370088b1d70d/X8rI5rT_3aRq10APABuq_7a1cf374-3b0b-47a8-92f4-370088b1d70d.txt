@@ -1,0 +1,9 @@
+User ID: X8rI5rT_3aRq10APABuq
+User Name: robot
+Ticket ID: X8rI5rT_3aRq10APABuq_7a1cf374-3b0b-47a8-92f4-370088b1d70d
+Total Bid Amount: 600
+Total Earnings: 3000
+Profit/Loss: 2400
+
+Breakdown:
+  Bid: 2, Amount: 600, Payout: 3000, Status: won

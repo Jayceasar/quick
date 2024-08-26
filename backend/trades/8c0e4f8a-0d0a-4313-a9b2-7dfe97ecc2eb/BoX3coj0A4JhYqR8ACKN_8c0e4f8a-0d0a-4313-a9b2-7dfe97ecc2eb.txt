@@ -1,0 +1,9 @@
+User ID: BoX3coj0A4JhYqR8ACKN
+User Name: robot
+Ticket ID: BoX3coj0A4JhYqR8ACKN_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
+Total Bid Amount: 7700
+Total Earnings: 0
+Profit/Loss: -7700
+
+Breakdown:
+  Bid: 1, Amount: 7700, Payout: 38500, Status: lost

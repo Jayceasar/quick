@@ -1,0 +1,10 @@
+User ID: 0J-nYORZAeHRYAEPABfk
+User Name: robot
+Ticket ID: 0J-nYORZAeHRYAEPABfk_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 10900
+Total Earnings: 0
+Profit/Loss: -10900
+
+Breakdown:
+  Bid: 1, Amount: 4400, Payout: 22000, Status: lost
+  Bid: 4, Amount: 6500, Payout: 32500, Status: lost

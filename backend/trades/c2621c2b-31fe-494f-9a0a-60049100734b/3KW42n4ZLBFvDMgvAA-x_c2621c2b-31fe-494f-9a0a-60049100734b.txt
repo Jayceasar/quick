@@ -1,0 +1,10 @@
+User ID: 3KW42n4ZLBFvDMgvAA-x
+User Name: robot
+Ticket ID: 3KW42n4ZLBFvDMgvAA-x_c2621c2b-31fe-494f-9a0a-60049100734b
+Total Bid Amount: 9200
+Total Earnings: 15000
+Profit/Loss: 5800
+
+Breakdown:
+  Bid: 2, Amount: 3000, Payout: 15000, Status: won
+  Bid: 1, Amount: 6200, Payout: 31000, Status: lost

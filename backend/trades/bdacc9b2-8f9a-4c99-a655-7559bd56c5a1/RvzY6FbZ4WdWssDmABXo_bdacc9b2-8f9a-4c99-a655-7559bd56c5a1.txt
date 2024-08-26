@@ -1,0 +1,10 @@
+User ID: RvzY6FbZ4WdWssDmABXo
+User Name: robot
+Ticket ID: RvzY6FbZ4WdWssDmABXo_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 14000
+Total Earnings: 0
+Profit/Loss: -14000
+
+Breakdown:
+  Bid: 4, Amount: 9000, Payout: 45000, Status: lost
+  Bid: 4, Amount: 5000, Payout: 25000, Status: lost

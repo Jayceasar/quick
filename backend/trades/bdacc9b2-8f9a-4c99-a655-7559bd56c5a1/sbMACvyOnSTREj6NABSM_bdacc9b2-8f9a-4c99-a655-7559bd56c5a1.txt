@@ -1,0 +1,9 @@
+User ID: sbMACvyOnSTREj6NABSM
+User Name: robot
+Ticket ID: sbMACvyOnSTREj6NABSM_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 5400
+Total Earnings: 0
+Profit/Loss: -5400
+
+Breakdown:
+  Bid: 4, Amount: 5400, Payout: 27000, Status: lost

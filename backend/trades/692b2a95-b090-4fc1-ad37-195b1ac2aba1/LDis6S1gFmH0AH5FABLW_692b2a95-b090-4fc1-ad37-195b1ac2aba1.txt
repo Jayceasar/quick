@@ -1,0 +1,9 @@
+User ID: LDis6S1gFmH0AH5FABLW
+User Name: robot
+Ticket ID: LDis6S1gFmH0AH5FABLW_692b2a95-b090-4fc1-ad37-195b1ac2aba1
+Total Bid Amount: 2300
+Total Earnings: 0
+Profit/Loss: -2300
+
+Breakdown:
+  Bid: 6, Amount: 2300, Payout: 11500, Status: lost

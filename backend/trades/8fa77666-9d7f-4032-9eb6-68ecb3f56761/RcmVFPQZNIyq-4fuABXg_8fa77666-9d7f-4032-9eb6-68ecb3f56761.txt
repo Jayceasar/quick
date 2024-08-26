@@ -1,0 +1,9 @@
+User ID: RcmVFPQZNIyq-4fuABXg
+User Name: robot
+Ticket ID: RcmVFPQZNIyq-4fuABXg_8fa77666-9d7f-4032-9eb6-68ecb3f56761
+Total Bid Amount: 3300
+Total Earnings: 16500
+Profit/Loss: 13200
+
+Breakdown:
+  Bid: 5, Amount: 3300, Payout: 16500, Status: won

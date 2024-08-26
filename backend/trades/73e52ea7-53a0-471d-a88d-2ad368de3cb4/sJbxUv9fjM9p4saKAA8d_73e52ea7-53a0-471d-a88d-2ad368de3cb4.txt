@@ -1,0 +1,9 @@
+User ID: sJbxUv9fjM9p4saKAA8d
+User Name: robot
+Ticket ID: sJbxUv9fjM9p4saKAA8d_73e52ea7-53a0-471d-a88d-2ad368de3cb4
+Total Bid Amount: 1100
+Total Earnings: 5500
+Profit/Loss: 4400
+
+Breakdown:
+  Bid: 2, Amount: 1100, Payout: 5500, Status: won

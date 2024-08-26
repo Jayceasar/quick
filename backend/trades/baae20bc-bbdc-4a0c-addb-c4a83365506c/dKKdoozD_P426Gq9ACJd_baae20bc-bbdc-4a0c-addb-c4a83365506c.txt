@@ -1,0 +1,9 @@
+User ID: dKKdoozD_P426Gq9ACJd
+User Name: robot
+Ticket ID: dKKdoozD_P426Gq9ACJd_baae20bc-bbdc-4a0c-addb-c4a83365506c
+Total Bid Amount: 1600
+Total Earnings: 0
+Profit/Loss: -1600
+
+Breakdown:
+  Bid: 5, Amount: 1600, Payout: 8000, Status: lost

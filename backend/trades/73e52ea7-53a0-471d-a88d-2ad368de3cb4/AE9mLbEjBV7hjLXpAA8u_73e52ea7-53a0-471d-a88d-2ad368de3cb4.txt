@@ -1,0 +1,9 @@
+User ID: AE9mLbEjBV7hjLXpAA8u
+User Name: robot
+Ticket ID: AE9mLbEjBV7hjLXpAA8u_73e52ea7-53a0-471d-a88d-2ad368de3cb4
+Total Bid Amount: 4100
+Total Earnings: 0
+Profit/Loss: -4100
+
+Breakdown:
+  Bid: 4, Amount: 4100, Payout: 20500, Status: lost

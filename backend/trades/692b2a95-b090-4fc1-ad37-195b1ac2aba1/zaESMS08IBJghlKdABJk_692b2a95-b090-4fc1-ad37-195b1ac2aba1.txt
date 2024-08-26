@@ -1,0 +1,9 @@
+User ID: zaESMS08IBJghlKdABJk
+User Name: robot
+Ticket ID: zaESMS08IBJghlKdABJk_692b2a95-b090-4fc1-ad37-195b1ac2aba1
+Total Bid Amount: 2900
+Total Earnings: 0
+Profit/Loss: -2900
+
+Breakdown:
+  Bid: 6, Amount: 2900, Payout: 14500, Status: lost

@@ -1,0 +1,9 @@
+User ID: gYRe_sRNJbf06ebfAByt
+User Name: robot
+Ticket ID: gYRe_sRNJbf06ebfAByt_2781e5b9-a77d-4c00-9c16-4c60db515876
+Total Bid Amount: 1700
+Total Earnings: 0
+Profit/Loss: -1700
+
+Breakdown:
+  Bid: 6, Amount: 1700, Payout: 8500, Status: lost

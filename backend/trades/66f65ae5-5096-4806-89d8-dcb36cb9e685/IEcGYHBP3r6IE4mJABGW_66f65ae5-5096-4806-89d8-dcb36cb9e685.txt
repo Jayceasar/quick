@@ -1,0 +1,10 @@
+User ID: IEcGYHBP3r6IE4mJABGW
+User Name: robot
+Ticket ID: IEcGYHBP3r6IE4mJABGW_66f65ae5-5096-4806-89d8-dcb36cb9e685
+Total Bid Amount: 14400
+Total Earnings: 47000
+Profit/Loss: 32600
+
+Breakdown:
+  Bid: 3, Amount: 5000, Payout: 25000, Status: lost
+  Bid: 5, Amount: 9400, Payout: 47000, Status: won

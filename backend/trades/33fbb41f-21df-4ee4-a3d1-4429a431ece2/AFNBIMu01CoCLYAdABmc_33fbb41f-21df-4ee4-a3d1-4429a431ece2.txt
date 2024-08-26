@@ -1,0 +1,10 @@
+User ID: AFNBIMu01CoCLYAdABmc
+User Name: robot
+Ticket ID: AFNBIMu01CoCLYAdABmc_33fbb41f-21df-4ee4-a3d1-4429a431ece2
+Total Bid Amount: 5200
+Total Earnings: 26000
+Profit/Loss: 20800
+
+Breakdown:
+  Bid: 4, Amount: 2200, Payout: 11000, Status: won
+  Bid: 4, Amount: 3000, Payout: 15000, Status: won

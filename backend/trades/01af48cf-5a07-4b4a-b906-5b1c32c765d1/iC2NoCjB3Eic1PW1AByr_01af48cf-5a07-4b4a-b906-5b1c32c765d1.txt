@@ -1,0 +1,9 @@
+User ID: iC2NoCjB3Eic1PW1AByr
+User Name: robot
+Ticket ID: iC2NoCjB3Eic1PW1AByr_01af48cf-5a07-4b4a-b906-5b1c32c765d1
+Total Bid Amount: 8100
+Total Earnings: 40500
+Profit/Loss: 32400
+
+Breakdown:
+  Bid: 6, Amount: 8100, Payout: 40500, Status: won

@@ -1,0 +1,11 @@
+User ID: nd_Xh3G5uHQRBNapABdP
+User Name: robot
+Ticket ID: nd_Xh3G5uHQRBNapABdP_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 24800
+Total Earnings: 42000
+Profit/Loss: 17200
+
+Breakdown:
+  Bid: 1, Amount: 8400, Payout: 42000, Status: lost
+  Bid: 6, Amount: 8000, Payout: 40000, Status: lost
+  Bid: 3, Amount: 8400, Payout: 42000, Status: won

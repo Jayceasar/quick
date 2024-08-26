@@ -1,0 +1,9 @@
+User ID: OAiDaXj1Nxr9hhOLABLH
+User Name: robot
+Ticket ID: OAiDaXj1Nxr9hhOLABLH_53f52dfa-658a-410e-aa4f-daee0e5a689c
+Total Bid Amount: 100
+Total Earnings: 0
+Profit/Loss: -100
+
+Breakdown:
+  Bid: 2, Amount: 100, Payout: 500, Status: lost

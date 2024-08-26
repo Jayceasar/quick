@@ -1,0 +1,9 @@
+User ID: lveViOz0wlo4LCUFACBP
+User Name: robot
+Ticket ID: lveViOz0wlo4LCUFACBP_951f95fb-0e56-4d9e-9a99-f203119b7312
+Total Bid Amount: 9100
+Total Earnings: 0
+Profit/Loss: -9100
+
+Breakdown:
+  Bid: 4, Amount: 9100, Payout: 45500, Status: lost

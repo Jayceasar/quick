@@ -1,0 +1,9 @@
+User ID: DzY50BAVMnELNjmAAByF
+User Name: robot
+Ticket ID: DzY50BAVMnELNjmAAByF_2ca79661-347a-468a-9798-531cec82b083
+Total Bid Amount: 4700
+Total Earnings: 23500
+Profit/Loss: 18800
+
+Breakdown:
+  Bid: 1, Amount: 4700, Payout: 23500, Status: won

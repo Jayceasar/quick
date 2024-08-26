@@ -1,0 +1,9 @@
+User ID: cjENINrh00TouB65AB10
+User Name: robot
+Ticket ID: cjENINrh00TouB65AB10_73cf31f2-8401-4ac4-bb24-a78ee513d5d7
+Total Bid Amount: 7700
+Total Earnings: 0
+Profit/Loss: -7700
+
+Breakdown:
+  Bid: 1, Amount: 7700, Payout: 38500, Status: lost

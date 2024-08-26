@@ -1,0 +1,9 @@
+User ID: 9Z7ngVZNSs6frZulAB_d
+User Name: robot
+Ticket ID: 9Z7ngVZNSs6frZulAB_d_d32ea5b8-0e5c-4e10-afc1-1e45003030ee
+Total Bid Amount: 4300
+Total Earnings: 0
+Profit/Loss: -4300
+
+Breakdown:
+  Bid: 4, Amount: 4300, Payout: 21500, Status: lost

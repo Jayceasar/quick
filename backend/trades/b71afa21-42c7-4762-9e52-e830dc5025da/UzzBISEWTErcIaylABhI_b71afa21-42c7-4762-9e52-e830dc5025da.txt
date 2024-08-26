@@ -1,0 +1,10 @@
+User ID: UzzBISEWTErcIaylABhI
+User Name: robot
+Ticket ID: UzzBISEWTErcIaylABhI_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 6700
+Total Earnings: 10000
+Profit/Loss: 3300
+
+Breakdown:
+  Bid: 3, Amount: 4700, Payout: 23500, Status: lost
+  Bid: 2, Amount: 2000, Payout: 10000, Status: won

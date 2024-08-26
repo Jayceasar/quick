@@ -1,0 +1,9 @@
+User ID: kT_mGMDY9Jw0fWOvACJS
+User Name: robot
+Ticket ID: kT_mGMDY9Jw0fWOvACJS_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
+Total Bid Amount: 3800
+Total Earnings: 0
+Profit/Loss: -3800
+
+Breakdown:
+  Bid: 6, Amount: 3800, Payout: 19000, Status: lost

@@ -1,0 +1,9 @@
+User ID: EIgPy706mLpfsljQABYm
+User Name: robot
+Ticket ID: EIgPy706mLpfsljQABYm_8fa77666-9d7f-4032-9eb6-68ecb3f56761
+Total Bid Amount: 6700
+Total Earnings: 0
+Profit/Loss: -6700
+
+Breakdown:
+  Bid: 4, Amount: 6700, Payout: 33500, Status: lost

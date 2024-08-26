@@ -1,0 +1,9 @@
+User ID: bSy8P1ugLWMHwCPLABer
+User Name: robot
+Ticket ID: bSy8P1ugLWMHwCPLABer_b71afa21-42c7-4762-9e52-e830dc5025da
+Total Bid Amount: 5400
+Total Earnings: 0
+Profit/Loss: -5400
+
+Breakdown:
+  Bid: 6, Amount: 5400, Payout: 27000, Status: lost

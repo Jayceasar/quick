@@ -1,0 +1,10 @@
+User ID: fyjWQEXb-GXhVNauABQm
+User Name: robot
+Ticket ID: fyjWQEXb-GXhVNauABQm_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 10600
+Total Earnings: 0
+Profit/Loss: -10600
+
+Breakdown:
+  Bid: 6, Amount: 4500, Payout: 22500, Status: lost
+  Bid: 4, Amount: 6100, Payout: 30500, Status: lost

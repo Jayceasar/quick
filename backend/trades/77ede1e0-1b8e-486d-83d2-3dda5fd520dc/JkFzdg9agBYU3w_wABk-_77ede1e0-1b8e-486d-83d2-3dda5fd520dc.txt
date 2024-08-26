@@ -1,0 +1,9 @@
+User ID: JkFzdg9agBYU3w_wABk-
+User Name: robot
+Ticket ID: JkFzdg9agBYU3w_wABk-_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
+Total Bid Amount: 5300
+Total Earnings: 0
+Profit/Loss: -5300
+
+Breakdown:
+  Bid: 1, Amount: 5300, Payout: 26500, Status: lost

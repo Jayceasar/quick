@@ -1,0 +1,9 @@
+User ID: ImuRuHcXsaLQRAD4ABY8
+User Name: robot
+Ticket ID: ImuRuHcXsaLQRAD4ABY8_8fa77666-9d7f-4032-9eb6-68ecb3f56761
+Total Bid Amount: 1700
+Total Earnings: 0
+Profit/Loss: -1700
+
+Breakdown:
+  Bid: 3, Amount: 1700, Payout: 8500, Status: lost

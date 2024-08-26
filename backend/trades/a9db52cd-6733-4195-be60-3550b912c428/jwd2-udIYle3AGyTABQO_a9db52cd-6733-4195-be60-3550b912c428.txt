@@ -1,0 +1,10 @@
+User ID: jwd2-udIYle3AGyTABQO
+User Name: robot
+Ticket ID: jwd2-udIYle3AGyTABQO_a9db52cd-6733-4195-be60-3550b912c428
+Total Bid Amount: 18200
+Total Earnings: 0
+Profit/Loss: -18200
+
+Breakdown:
+  Bid: 2, Amount: 9600, Payout: 48000, Status: lost
+  Bid: 6, Amount: 8600, Payout: 43000, Status: lost

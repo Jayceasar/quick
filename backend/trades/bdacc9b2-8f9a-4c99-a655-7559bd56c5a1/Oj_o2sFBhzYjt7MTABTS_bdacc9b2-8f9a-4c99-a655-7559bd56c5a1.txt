@@ -1,0 +1,10 @@
+User ID: Oj_o2sFBhzYjt7MTABTS
+User Name: robot
+Ticket ID: Oj_o2sFBhzYjt7MTABTS_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 10400
+Total Earnings: 7000
+Profit/Loss: -3400
+
+Breakdown:
+  Bid: 6, Amount: 9000, Payout: 45000, Status: lost
+  Bid: 3, Amount: 1400, Payout: 7000, Status: won

@@ -1,0 +1,9 @@
+User ID: q8K74Sbut6js9nUMAB-9
+User Name: robot
+Ticket ID: q8K74Sbut6js9nUMAB-9_486374be-124f-4607-a8a7-de91e5126226
+Total Bid Amount: 2100
+Total Earnings: 10500
+Profit/Loss: 8400
+
+Breakdown:
+  Bid: 6, Amount: 2100, Payout: 10500, Status: won

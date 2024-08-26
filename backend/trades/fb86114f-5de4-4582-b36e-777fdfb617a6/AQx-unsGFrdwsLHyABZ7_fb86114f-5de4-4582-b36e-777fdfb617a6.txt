@@ -1,0 +1,10 @@
+User ID: AQx-unsGFrdwsLHyABZ7
+User Name: robot
+Ticket ID: AQx-unsGFrdwsLHyABZ7_fb86114f-5de4-4582-b36e-777fdfb617a6
+Total Bid Amount: 10300
+Total Earnings: 0
+Profit/Loss: -10300
+
+Breakdown:
+  Bid: 2, Amount: 4400, Payout: 22000, Status: lost
+  Bid: 1, Amount: 5900, Payout: 29500, Status: lost

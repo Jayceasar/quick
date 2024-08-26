@@ -1,0 +1,9 @@
+User ID: K93rwOJ91jsXKfVFACB6
+User Name: robot
+Ticket ID: K93rwOJ91jsXKfVFACB6_3e3ffb49-a8be-4e48-a533-33eb486e2676
+Total Bid Amount: 9200
+Total Earnings: 0
+Profit/Loss: -9200
+
+Breakdown:
+  Bid: 3, Amount: 9200, Payout: 46000, Status: lost

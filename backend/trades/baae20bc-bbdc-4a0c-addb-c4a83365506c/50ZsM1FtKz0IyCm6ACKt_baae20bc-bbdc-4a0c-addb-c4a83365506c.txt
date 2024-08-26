@@ -1,0 +1,9 @@
+User ID: 50ZsM1FtKz0IyCm6ACKt
+User Name: robot
+Ticket ID: 50ZsM1FtKz0IyCm6ACKt_baae20bc-bbdc-4a0c-addb-c4a83365506c
+Total Bid Amount: 4400
+Total Earnings: 22000
+Profit/Loss: 17600
+
+Breakdown:
+  Bid: 2, Amount: 4400, Payout: 22000, Status: won

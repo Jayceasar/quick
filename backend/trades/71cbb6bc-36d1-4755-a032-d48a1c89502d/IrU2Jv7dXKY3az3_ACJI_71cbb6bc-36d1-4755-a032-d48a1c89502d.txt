@@ -1,0 +1,10 @@
+User ID: IrU2Jv7dXKY3az3_ACJI
+User Name: robot
+Ticket ID: IrU2Jv7dXKY3az3_ACJI_71cbb6bc-36d1-4755-a032-d48a1c89502d
+Total Bid Amount: 2400
+Total Earnings: 10500
+Profit/Loss: 8100
+
+Breakdown:
+  Bid: 4, Amount: 300, Payout: 1500, Status: lost
+  Bid: 3, Amount: 2100, Payout: 10500, Status: won

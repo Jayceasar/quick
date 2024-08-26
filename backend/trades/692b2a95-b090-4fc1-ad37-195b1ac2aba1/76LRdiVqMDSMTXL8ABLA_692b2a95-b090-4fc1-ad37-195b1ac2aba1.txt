@@ -1,0 +1,9 @@
+User ID: 76LRdiVqMDSMTXL8ABLA
+User Name: robot
+Ticket ID: 76LRdiVqMDSMTXL8ABLA_692b2a95-b090-4fc1-ad37-195b1ac2aba1
+Total Bid Amount: 6100
+Total Earnings: 0
+Profit/Loss: -6100
+
+Breakdown:
+  Bid: 2, Amount: 6100, Payout: 30500, Status: lost

@@ -1,0 +1,9 @@
+User ID: tsNjI-oGPDSuGZK-ABQe
+User Name: robot
+Ticket ID: tsNjI-oGPDSuGZK-ABQe_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
+Total Bid Amount: 1700
+Total Earnings: 0
+Profit/Loss: -1700
+
+Breakdown:
+  Bid: 2, Amount: 1700, Payout: 8500, Status: lost

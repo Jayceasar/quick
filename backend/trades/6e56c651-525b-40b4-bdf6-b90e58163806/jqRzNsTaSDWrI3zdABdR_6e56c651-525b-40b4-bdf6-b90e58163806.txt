@@ -1,0 +1,11 @@
+User ID: jqRzNsTaSDWrI3zdABdR
+User Name: robot
+Ticket ID: jqRzNsTaSDWrI3zdABdR_6e56c651-525b-40b4-bdf6-b90e58163806
+Total Bid Amount: 13200
+Total Earnings: 0
+Profit/Loss: -13200
+
+Breakdown:
+  Bid: 6, Amount: 2500, Payout: 12500, Status: lost
+  Bid: 4, Amount: 5600, Payout: 28000, Status: lost
+  Bid: 2, Amount: 5100, Payout: 25500, Status: lost

@@ -1,0 +1,9 @@
+User ID: KR-SL5yCdwjiuK01ABmV
+User Name: robot
+Ticket ID: KR-SL5yCdwjiuK01ABmV_16544f5b-1f99-42fc-955f-4a4f35434ec1
+Total Bid Amount: 9100
+Total Earnings: 45500
+Profit/Loss: 36400
+
+Breakdown:
+  Bid: 1, Amount: 9100, Payout: 45500, Status: won
