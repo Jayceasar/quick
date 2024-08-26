@@ -1,9 +1,0 @@
-User ID: EN7sLBG_IVdSrV85AA9y
-User Name: robot
-Ticket ID: EN7sLBG_IVdSrV85AA9y_73e52ea7-53a0-471d-a88d-2ad368de3cb4
-Total Bid Amount: 6800
-Total Earnings: 0
-Profit/Loss: -6800
-
-Breakdown:
-  Bid: 6, Amount: 6800, Payout: 34000, Status: lost

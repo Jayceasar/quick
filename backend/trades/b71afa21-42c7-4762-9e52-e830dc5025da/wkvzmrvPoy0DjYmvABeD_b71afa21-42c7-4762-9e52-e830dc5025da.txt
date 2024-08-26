@@ -1,9 +1,0 @@
-User ID: wkvzmrvPoy0DjYmvABeD
-User Name: robot
-Ticket ID: wkvzmrvPoy0DjYmvABeD_b71afa21-42c7-4762-9e52-e830dc5025da
-Total Bid Amount: 2100
-Total Earnings: 0
-Profit/Loss: -2100
-
-Breakdown:
-  Bid: 1, Amount: 2100, Payout: 10500, Status: lost

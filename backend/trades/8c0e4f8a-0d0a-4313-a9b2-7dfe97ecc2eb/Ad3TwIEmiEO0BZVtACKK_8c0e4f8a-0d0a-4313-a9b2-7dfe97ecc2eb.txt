@@ -1,9 +1,0 @@
-User ID: Ad3TwIEmiEO0BZVtACKK
-User Name: robot
-Ticket ID: Ad3TwIEmiEO0BZVtACKK_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
-Total Bid Amount: 5700
-Total Earnings: 0
-Profit/Loss: -5700
-
-Breakdown:
-  Bid: 1, Amount: 5700, Payout: 28500, Status: lost

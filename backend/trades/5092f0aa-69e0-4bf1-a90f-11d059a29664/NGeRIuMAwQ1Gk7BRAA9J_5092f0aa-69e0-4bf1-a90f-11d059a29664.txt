@@ -1,9 +1,0 @@
-User ID: NGeRIuMAwQ1Gk7BRAA9J
-User Name: robot
-Ticket ID: NGeRIuMAwQ1Gk7BRAA9J_5092f0aa-69e0-4bf1-a90f-11d059a29664
-Total Bid Amount: 9200
-Total Earnings: 46000
-Profit/Loss: 36800
-
-Breakdown:
-  Bid: 1, Amount: 9200, Payout: 46000, Status: won

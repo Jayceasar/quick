@@ -1,9 +1,0 @@
-User ID: D5OQ2x3Z8Vc6BC2vACOM
-User Name: robot
-Ticket ID: D5OQ2x3Z8Vc6BC2vACOM_dcdccbbf-fe99-4c86-850c-d63a69cb323d
-Total Bid Amount: 8100
-Total Earnings: 0
-Profit/Loss: -8100
-
-Breakdown:
-  Bid: 5, Amount: 8100, Payout: 40500, Status: lost

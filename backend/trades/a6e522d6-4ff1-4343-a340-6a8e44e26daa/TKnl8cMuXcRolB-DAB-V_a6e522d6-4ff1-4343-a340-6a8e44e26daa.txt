@@ -1,9 +1,0 @@
-User ID: TKnl8cMuXcRolB-DAB-V
-User Name: robot
-Ticket ID: TKnl8cMuXcRolB-DAB-V_a6e522d6-4ff1-4343-a340-6a8e44e26daa
-Total Bid Amount: 9500
-Total Earnings: 0
-Profit/Loss: -9500
-
-Breakdown:
-  Bid: 5, Amount: 9500, Payout: 47500, Status: lost

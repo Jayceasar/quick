@@ -1,9 +1,0 @@
-User ID: iULDWYJV3PdfoW76ACQ2
-User Name: robot
-Ticket ID: iULDWYJV3PdfoW76ACQ2_834d1eca-0fba-4529-95f6-926cf877b44a
-Total Bid Amount: 6600
-Total Earnings: 0
-Profit/Loss: -6600
-
-Breakdown:
-  Bid: 5, Amount: 6600, Payout: 33000, Status: lost

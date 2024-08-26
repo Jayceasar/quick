@@ -1,9 +1,0 @@
-User ID: gtgFHR2qE0UcxOsSAB19
-User Name: robot
-Ticket ID: gtgFHR2qE0UcxOsSAB19_4e590ac0-442e-4e7c-bb69-b3985af4acef
-Total Bid Amount: 5200
-Total Earnings: 26000
-Profit/Loss: 20800
-
-Breakdown:
-  Bid: 2, Amount: 5200, Payout: 26000, Status: won

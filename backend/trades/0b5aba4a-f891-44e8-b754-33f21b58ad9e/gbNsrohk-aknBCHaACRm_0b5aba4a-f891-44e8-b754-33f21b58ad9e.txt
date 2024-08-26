@@ -1,9 +1,0 @@
-User ID: gbNsrohk-aknBCHaACRm
-User Name: robot
-Ticket ID: gbNsrohk-aknBCHaACRm_0b5aba4a-f891-44e8-b754-33f21b58ad9e
-Total Bid Amount: 8500
-Total Earnings: 0
-Profit/Loss: -8500
-
-Breakdown:
-  Bid: 1, Amount: 8500, Payout: 42500, Status: lost

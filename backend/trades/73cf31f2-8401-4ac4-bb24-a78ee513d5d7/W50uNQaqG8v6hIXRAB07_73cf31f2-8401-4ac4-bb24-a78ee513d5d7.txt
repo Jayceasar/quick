@@ -1,9 +1,0 @@
-User ID: W50uNQaqG8v6hIXRAB07
-User Name: robot
-Ticket ID: W50uNQaqG8v6hIXRAB07_73cf31f2-8401-4ac4-bb24-a78ee513d5d7
-Total Bid Amount: 3500
-Total Earnings: 17500
-Profit/Loss: 14000
-
-Breakdown:
-  Bid: 3, Amount: 3500, Payout: 17500, Status: won

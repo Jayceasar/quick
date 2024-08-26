@@ -1,9 +1,0 @@
-User ID: WNjZcKMSY3NPetBVAAIM
-User Name: robot
-Ticket ID: WNjZcKMSY3NPetBVAAIM_62b03c19-c2ac-4766-913d-1d50e3d473a4
-Total Bid Amount: 3000
-Total Earnings: 0
-Profit/Loss: -3000
-
-Breakdown:
-  Bid: 3, Amount: 3000, Payout: 15000, Status: lost

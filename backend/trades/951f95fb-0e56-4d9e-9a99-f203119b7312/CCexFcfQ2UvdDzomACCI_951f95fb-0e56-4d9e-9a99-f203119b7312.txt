@@ -1,9 +1,0 @@
-User ID: CCexFcfQ2UvdDzomACCI
-User Name: robot
-Ticket ID: CCexFcfQ2UvdDzomACCI_951f95fb-0e56-4d9e-9a99-f203119b7312
-Total Bid Amount: 2300
-Total Earnings: 11500
-Profit/Loss: 9200
-
-Breakdown:
-  Bid: 6, Amount: 2300, Payout: 11500, Status: won

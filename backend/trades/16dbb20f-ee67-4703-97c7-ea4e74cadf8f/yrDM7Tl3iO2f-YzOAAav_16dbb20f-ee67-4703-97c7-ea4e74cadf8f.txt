@@ -1,9 +1,0 @@
-User ID: yrDM7Tl3iO2f-YzOAAav
-User Name: robot
-Ticket ID: yrDM7Tl3iO2f-YzOAAav_16dbb20f-ee67-4703-97c7-ea4e74cadf8f
-Total Bid Amount: 10000
-Total Earnings: 0
-Profit/Loss: -10000
-
-Breakdown:
-  Bid: 6, Amount: 10000, Payout: 50000, Status: lost

@@ -1,9 +1,0 @@
-User ID: yd7vFm680nZTPUpMABX3
-User Name: robot
-Ticket ID: yd7vFm680nZTPUpMABX3_3b12a05c-d549-48e1-9b4b-7485d6fac451
-Total Bid Amount: 2000
-Total Earnings: 10000
-Profit/Loss: 8000
-
-Breakdown:
-  Bid: 1, Amount: 2000, Payout: 10000, Status: won

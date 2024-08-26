@@ -1,9 +1,0 @@
-User ID: rcHadqPfdLit08kOACKP
-User Name: robot
-Ticket ID: rcHadqPfdLit08kOACKP_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
-Total Bid Amount: 7600
-Total Earnings: 0
-Profit/Loss: -7600
-
-Breakdown:
-  Bid: 2, Amount: 7600, Payout: 38000, Status: lost

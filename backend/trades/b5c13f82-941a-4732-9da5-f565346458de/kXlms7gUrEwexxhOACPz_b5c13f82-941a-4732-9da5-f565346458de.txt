@@ -1,9 +1,0 @@
-User ID: kXlms7gUrEwexxhOACPz
-User Name: robot
-Ticket ID: kXlms7gUrEwexxhOACPz_b5c13f82-941a-4732-9da5-f565346458de
-Total Bid Amount: 5800
-Total Earnings: 0
-Profit/Loss: -5800
-
-Breakdown:
-  Bid: 1, Amount: 5800, Payout: 29000, Status: lost

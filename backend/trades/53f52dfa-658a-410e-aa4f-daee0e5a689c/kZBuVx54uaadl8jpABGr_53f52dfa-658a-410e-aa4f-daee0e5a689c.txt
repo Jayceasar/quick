@@ -1,9 +1,0 @@
-User ID: kZBuVx54uaadl8jpABGr
-User Name: robot
-Ticket ID: kZBuVx54uaadl8jpABGr_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 8600
-Total Earnings: 0
-Profit/Loss: -8600
-
-Breakdown:
-  Bid: 5, Amount: 8600, Payout: 43000, Status: lost

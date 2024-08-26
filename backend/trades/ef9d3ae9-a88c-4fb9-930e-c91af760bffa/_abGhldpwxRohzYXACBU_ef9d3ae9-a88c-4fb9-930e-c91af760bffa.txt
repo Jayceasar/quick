@@ -1,9 +1,0 @@
-User ID: _abGhldpwxRohzYXACBU
-User Name: robot
-Ticket ID: _abGhldpwxRohzYXACBU_ef9d3ae9-a88c-4fb9-930e-c91af760bffa
-Total Bid Amount: 5500
-Total Earnings: 27500
-Profit/Loss: 22000
-
-Breakdown:
-  Bid: 4, Amount: 5500, Payout: 27500, Status: won

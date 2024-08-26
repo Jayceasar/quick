@@ -1,9 +1,0 @@
-User ID: 3HDgg9vH-Iy25LqwAB-L
-User Name: robot
-Ticket ID: 3HDgg9vH-Iy25LqwAB-L_951f95fb-0e56-4d9e-9a99-f203119b7312
-Total Bid Amount: 400
-Total Earnings: 0
-Profit/Loss: -400
-
-Breakdown:
-  Bid: 2, Amount: 400, Payout: 2000, Status: lost

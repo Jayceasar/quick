@@ -1,9 +1,0 @@
-User ID: 3x1WLyvR7tqLWcHqAA0s
-User Name: robot
-Ticket ID: 3x1WLyvR7tqLWcHqAA0s_2f29ff1d-157f-4672-8a4d-f540db984810
-Total Bid Amount: 6100
-Total Earnings: 30500
-Profit/Loss: 24400
-
-Breakdown:
-  Bid: 1, Amount: 6100, Payout: 30500, Status: won

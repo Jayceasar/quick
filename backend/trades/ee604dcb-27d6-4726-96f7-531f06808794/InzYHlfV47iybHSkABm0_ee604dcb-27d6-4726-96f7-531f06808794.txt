@@ -1,9 +1,0 @@
-User ID: InzYHlfV47iybHSkABm0
-User Name: robot
-Ticket ID: InzYHlfV47iybHSkABm0_ee604dcb-27d6-4726-96f7-531f06808794
-Total Bid Amount: 3800
-Total Earnings: 0
-Profit/Loss: -3800
-
-Breakdown:
-  Bid: 2, Amount: 3800, Payout: 19000, Status: lost

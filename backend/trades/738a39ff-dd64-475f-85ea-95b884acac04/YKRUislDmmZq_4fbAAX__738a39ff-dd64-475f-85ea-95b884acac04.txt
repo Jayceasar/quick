@@ -1,9 +1,0 @@
-User ID: YKRUislDmmZq_4fbAAX_
-User Name: robot
-Ticket ID: YKRUislDmmZq_4fbAAX__738a39ff-dd64-475f-85ea-95b884acac04
-Total Bid Amount: 6700
-Total Earnings: 0
-Profit/Loss: -6700
-
-Breakdown:
-  Bid: 6, Amount: 6700, Payout: 33500, Status: lost

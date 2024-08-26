@@ -1,9 +1,0 @@
-User ID: fbNYChuNbGEBOoVxAAhO
-User Name: robot
-Ticket ID: fbNYChuNbGEBOoVxAAhO_5584dc10-136c-4075-8421-ae5476398969
-Total Bid Amount: 1600
-Total Earnings: 0
-Profit/Loss: -1600
-
-Breakdown:
-  Bid: 3, Amount: 1600, Payout: 8000, Status: lost

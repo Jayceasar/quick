@@ -1,9 +1,0 @@
-User ID: jR2Ky4gm7uY3oYCvAAKz
-User Name: robot
-Ticket ID: jR2Ky4gm7uY3oYCvAAKz_ad3a8c72-299f-43d4-805f-4646b325aae0
-Total Bid Amount: 6500
-Total Earnings: 0
-Profit/Loss: -6500
-
-Breakdown:
-  Bid: 4, Amount: 6500, Payout: 32500, Status: lost

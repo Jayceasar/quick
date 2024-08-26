@@ -1,9 +1,0 @@
-User ID: _916z87qje9bhHq0ABK6
-User Name: robot
-Ticket ID: _916z87qje9bhHq0ABK6_a9db52cd-6733-4195-be60-3550b912c428
-Total Bid Amount: 2600
-Total Earnings: 13000
-Profit/Loss: 10400
-
-Breakdown:
-  Bid: 1, Amount: 2600, Payout: 13000, Status: won

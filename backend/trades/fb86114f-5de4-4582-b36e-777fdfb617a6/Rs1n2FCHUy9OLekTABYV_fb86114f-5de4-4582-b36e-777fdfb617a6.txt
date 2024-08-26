@@ -1,9 +1,0 @@
-User ID: Rs1n2FCHUy9OLekTABYV
-User Name: robot
-Ticket ID: Rs1n2FCHUy9OLekTABYV_fb86114f-5de4-4582-b36e-777fdfb617a6
-Total Bid Amount: 9200
-Total Earnings: 0
-Profit/Loss: -9200
-
-Breakdown:
-  Bid: 2, Amount: 9200, Payout: 46000, Status: lost

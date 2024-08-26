@@ -1,9 +1,0 @@
-User ID: FYGaqD9gmJeBM0c0AAiH
-User Name: robot
-Ticket ID: FYGaqD9gmJeBM0c0AAiH_7edcaff6-689d-4d3c-9b04-4e875243c108
-Total Bid Amount: 3900
-Total Earnings: 0
-Profit/Loss: -3900
-
-Breakdown:
-  Bid: 1, Amount: 3900, Payout: 19500, Status: lost

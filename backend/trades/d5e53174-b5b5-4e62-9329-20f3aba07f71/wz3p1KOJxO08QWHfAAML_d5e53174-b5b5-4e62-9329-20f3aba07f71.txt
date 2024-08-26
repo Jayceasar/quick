@@ -1,9 +1,0 @@
-User ID: wz3p1KOJxO08QWHfAAML
-User Name: robot
-Ticket ID: wz3p1KOJxO08QWHfAAML_d5e53174-b5b5-4e62-9329-20f3aba07f71
-Total Bid Amount: 7300
-Total Earnings: 0
-Profit/Loss: -7300
-
-Breakdown:
-  Bid: 5, Amount: 7300, Payout: 36500, Status: lost

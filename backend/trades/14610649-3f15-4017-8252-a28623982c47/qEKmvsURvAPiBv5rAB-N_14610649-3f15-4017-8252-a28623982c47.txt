@@ -1,9 +1,0 @@
-User ID: qEKmvsURvAPiBv5rAB-N
-User Name: robot
-Ticket ID: qEKmvsURvAPiBv5rAB-N_14610649-3f15-4017-8252-a28623982c47
-Total Bid Amount: 5800
-Total Earnings: 0
-Profit/Loss: -5800
-
-Breakdown:
-  Bid: 1, Amount: 5800, Payout: 29000, Status: lost

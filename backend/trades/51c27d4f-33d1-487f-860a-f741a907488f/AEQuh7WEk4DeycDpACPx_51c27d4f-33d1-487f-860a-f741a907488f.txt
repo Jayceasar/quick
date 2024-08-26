@@ -1,9 +1,0 @@
-User ID: AEQuh7WEk4DeycDpACPx
-User Name: robot
-Ticket ID: AEQuh7WEk4DeycDpACPx_51c27d4f-33d1-487f-860a-f741a907488f
-Total Bid Amount: 4400
-Total Earnings: 0
-Profit/Loss: -4400
-
-Breakdown:
-  Bid: 2, Amount: 4400, Payout: 22000, Status: lost

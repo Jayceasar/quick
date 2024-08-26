@@ -1,9 +1,0 @@
-User ID: UKXPc5SgLLLs0kM6AA_U
-User Name: robot
-Ticket ID: UKXPc5SgLLLs0kM6AA_U_5092f0aa-69e0-4bf1-a90f-11d059a29664
-Total Bid Amount: 7300
-Total Earnings: 0
-Profit/Loss: -7300
-
-Breakdown:
-  Bid: 2, Amount: 7300, Payout: 36500, Status: lost

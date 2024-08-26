@@ -1,9 +1,0 @@
-User ID: 6V3PAXj8zUOZMBmGACKZ
-User Name: robot
-Ticket ID: 6V3PAXj8zUOZMBmGACKZ_56ee4408-3127-4e3c-9837-5f675e19ec5b
-Total Bid Amount: 7900
-Total Earnings: 0
-Profit/Loss: -7900
-
-Breakdown:
-  Bid: 3, Amount: 7900, Payout: 39500, Status: lost

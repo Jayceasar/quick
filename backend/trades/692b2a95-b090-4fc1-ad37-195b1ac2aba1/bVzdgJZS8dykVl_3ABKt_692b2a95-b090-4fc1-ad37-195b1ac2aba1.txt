@@ -1,9 +1,0 @@
-User ID: bVzdgJZS8dykVl_3ABKt
-User Name: robot
-Ticket ID: bVzdgJZS8dykVl_3ABKt_692b2a95-b090-4fc1-ad37-195b1ac2aba1
-Total Bid Amount: 800
-Total Earnings: 0
-Profit/Loss: -800
-
-Breakdown:
-  Bid: 4, Amount: 800, Payout: 4000, Status: lost

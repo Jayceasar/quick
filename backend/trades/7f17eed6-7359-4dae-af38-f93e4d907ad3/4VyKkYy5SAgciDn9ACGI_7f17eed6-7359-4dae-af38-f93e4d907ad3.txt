@@ -1,9 +1,0 @@
-User ID: 4VyKkYy5SAgciDn9ACGI
-User Name: robot
-Ticket ID: 4VyKkYy5SAgciDn9ACGI_7f17eed6-7359-4dae-af38-f93e4d907ad3
-Total Bid Amount: 7100
-Total Earnings: 0
-Profit/Loss: -7100
-
-Breakdown:
-  Bid: 6, Amount: 7100, Payout: 35500, Status: lost

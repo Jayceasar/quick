@@ -1,9 +1,0 @@
-User ID: SrxS15LFqOnirRLDABe_
-User Name: robot
-Ticket ID: SrxS15LFqOnirRLDABe__b71afa21-42c7-4762-9e52-e830dc5025da
-Total Bid Amount: 5100
-Total Earnings: 0
-Profit/Loss: -5100
-
-Breakdown:
-  Bid: 4, Amount: 5100, Payout: 25500, Status: lost

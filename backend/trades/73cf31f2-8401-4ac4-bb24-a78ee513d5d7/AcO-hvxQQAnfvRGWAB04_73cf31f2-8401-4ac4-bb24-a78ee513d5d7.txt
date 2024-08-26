@@ -1,9 +1,0 @@
-User ID: AcO-hvxQQAnfvRGWAB04
-User Name: robot
-Ticket ID: AcO-hvxQQAnfvRGWAB04_73cf31f2-8401-4ac4-bb24-a78ee513d5d7
-Total Bid Amount: 8900
-Total Earnings: 44500
-Profit/Loss: 35600
-
-Breakdown:
-  Bid: 3, Amount: 8900, Payout: 44500, Status: won

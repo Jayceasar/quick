@@ -1,9 +1,0 @@
-User ID: q2Y3MKHE1bdTo3p6AB92
-User Name: robot
-Ticket ID: q2Y3MKHE1bdTo3p6AB92_08a5c846-9e25-4cd7-810c-2809d6eecf3d
-Total Bid Amount: 1300
-Total Earnings: 0
-Profit/Loss: -1300
-
-Breakdown:
-  Bid: 4, Amount: 1300, Payout: 6500, Status: lost

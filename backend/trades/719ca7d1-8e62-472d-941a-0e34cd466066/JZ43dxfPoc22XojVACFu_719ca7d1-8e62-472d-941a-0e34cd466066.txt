@@ -1,9 +1,0 @@
-User ID: JZ43dxfPoc22XojVACFu
-User Name: robot
-Ticket ID: JZ43dxfPoc22XojVACFu_719ca7d1-8e62-472d-941a-0e34cd466066
-Total Bid Amount: 1300
-Total Earnings: 0
-Profit/Loss: -1300
-
-Breakdown:
-  Bid: 1, Amount: 1300, Payout: 6500, Status: lost

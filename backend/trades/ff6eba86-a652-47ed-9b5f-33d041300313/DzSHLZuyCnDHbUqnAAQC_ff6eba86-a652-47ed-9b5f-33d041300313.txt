@@ -1,9 +1,0 @@
-User ID: DzSHLZuyCnDHbUqnAAQC
-User Name: robot
-Ticket ID: DzSHLZuyCnDHbUqnAAQC_ff6eba86-a652-47ed-9b5f-33d041300313
-Total Bid Amount: 6900
-Total Earnings: 0
-Profit/Loss: -6900
-
-Breakdown:
-  Bid: 4, Amount: 6900, Payout: 34500, Status: lost

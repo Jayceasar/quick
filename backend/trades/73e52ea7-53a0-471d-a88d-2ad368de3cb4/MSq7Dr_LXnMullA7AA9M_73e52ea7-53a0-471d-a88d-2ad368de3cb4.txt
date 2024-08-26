@@ -1,9 +1,0 @@
-User ID: MSq7Dr_LXnMullA7AA9M
-User Name: robot
-Ticket ID: MSq7Dr_LXnMullA7AA9M_73e52ea7-53a0-471d-a88d-2ad368de3cb4
-Total Bid Amount: 10000
-Total Earnings: 0
-Profit/Loss: -10000
-
-Breakdown:
-  Bid: 6, Amount: 10000, Payout: 50000, Status: lost

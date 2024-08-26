@@ -1,9 +1,0 @@
-User ID: 3bVAoGia6QnbigPEAAih
-User Name: robot
-Ticket ID: 3bVAoGia6QnbigPEAAih_f3e07e15-d270-454e-8739-2e9bb78f4dc8
-Total Bid Amount: 4400
-Total Earnings: 0
-Profit/Loss: -4400
-
-Breakdown:
-  Bid: 5, Amount: 4400, Payout: 22000, Status: lost

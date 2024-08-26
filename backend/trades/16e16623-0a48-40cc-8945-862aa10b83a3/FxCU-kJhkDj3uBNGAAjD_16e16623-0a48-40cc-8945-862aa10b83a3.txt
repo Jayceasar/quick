@@ -1,9 +1,0 @@
-User ID: FxCU-kJhkDj3uBNGAAjD
-User Name: robot
-Ticket ID: FxCU-kJhkDj3uBNGAAjD_16e16623-0a48-40cc-8945-862aa10b83a3
-Total Bid Amount: 2700
-Total Earnings: 0
-Profit/Loss: -2700
-
-Breakdown:
-  Bid: 2, Amount: 2700, Payout: 13500, Status: lost

@@ -1,9 +1,0 @@
-User ID: DZP0xF5V7DjQ520tAAEo
-User Name: robot
-Ticket ID: DZP0xF5V7DjQ520tAAEo_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 6200
-Total Earnings: 0
-Profit/Loss: -6200
-
-Breakdown:
-  Bid: 2, Amount: 6200, Payout: 31000, Status: lost

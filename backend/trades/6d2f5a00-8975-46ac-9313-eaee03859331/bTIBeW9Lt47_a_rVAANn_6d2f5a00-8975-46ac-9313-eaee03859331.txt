@@ -1,9 +1,0 @@
-User ID: bTIBeW9Lt47_a_rVAANn
-User Name: robot
-Ticket ID: bTIBeW9Lt47_a_rVAANn_6d2f5a00-8975-46ac-9313-eaee03859331
-Total Bid Amount: 5400
-Total Earnings: 27000
-Profit/Loss: 21600
-
-Breakdown:
-  Bid: 2, Amount: 5400, Payout: 27000, Status: won

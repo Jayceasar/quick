@@ -1,9 +1,0 @@
-User ID: lIc29xYBss2NQx_DACJY
-User Name: robot
-Ticket ID: lIc29xYBss2NQx_DACJY_baae20bc-bbdc-4a0c-addb-c4a83365506c
-Total Bid Amount: 9900
-Total Earnings: 49500
-Profit/Loss: 39600
-
-Breakdown:
-  Bid: 2, Amount: 9900, Payout: 49500, Status: won

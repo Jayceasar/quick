@@ -1,9 +1,0 @@
-User ID: PiHq1OHWWp9-sCxHAB1R
-User Name: robot
-Ticket ID: PiHq1OHWWp9-sCxHAB1R_44666ccb-6626-428d-95d3-f7a7a00e87a7
-Total Bid Amount: 4500
-Total Earnings: 0
-Profit/Loss: -4500
-
-Breakdown:
-  Bid: 4, Amount: 4500, Payout: 22500, Status: lost

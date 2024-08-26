@@ -1,9 +1,0 @@
-User ID: c5P8Spx712lbDu1TABKk
-User Name: robot
-Ticket ID: c5P8Spx712lbDu1TABKk_692b2a95-b090-4fc1-ad37-195b1ac2aba1
-Total Bid Amount: 8500
-Total Earnings: 0
-Profit/Loss: -8500
-
-Breakdown:
-  Bid: 4, Amount: 8500, Payout: 42500, Status: lost

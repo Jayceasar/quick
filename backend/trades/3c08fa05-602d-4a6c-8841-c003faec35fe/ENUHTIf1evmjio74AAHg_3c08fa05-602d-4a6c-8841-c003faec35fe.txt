@@ -1,9 +1,0 @@
-User ID: ENUHTIf1evmjio74AAHg
-User Name: robot
-Ticket ID: ENUHTIf1evmjio74AAHg_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 4800
-Total Earnings: 0
-Profit/Loss: -4800
-
-Breakdown:
-  Bid: 3, Amount: 4800, Payout: 24000, Status: lost

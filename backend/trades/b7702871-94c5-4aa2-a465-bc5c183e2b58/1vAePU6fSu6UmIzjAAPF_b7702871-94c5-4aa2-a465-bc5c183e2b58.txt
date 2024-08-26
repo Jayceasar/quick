@@ -1,9 +1,0 @@
-User ID: 1vAePU6fSu6UmIzjAAPF
-User Name: robot
-Ticket ID: 1vAePU6fSu6UmIzjAAPF_b7702871-94c5-4aa2-a465-bc5c183e2b58
-Total Bid Amount: 1700
-Total Earnings: 0
-Profit/Loss: -1700
-
-Breakdown:
-  Bid: 1, Amount: 1700, Payout: 8500, Status: lost

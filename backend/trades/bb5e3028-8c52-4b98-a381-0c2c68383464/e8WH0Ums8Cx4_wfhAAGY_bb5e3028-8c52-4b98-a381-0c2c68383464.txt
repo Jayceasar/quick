@@ -1,9 +1,0 @@
-User ID: e8WH0Ums8Cx4_wfhAAGY
-User Name: robot
-Ticket ID: e8WH0Ums8Cx4_wfhAAGY_bb5e3028-8c52-4b98-a381-0c2c68383464
-Total Bid Amount: 1300
-Total Earnings: 6500
-Profit/Loss: 5200
-
-Breakdown:
-  Bid: 6, Amount: 1300, Payout: 6500, Status: won

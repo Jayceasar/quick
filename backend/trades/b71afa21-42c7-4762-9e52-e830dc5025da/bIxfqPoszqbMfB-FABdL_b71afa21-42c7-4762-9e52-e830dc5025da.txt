@@ -1,9 +1,0 @@
-User ID: bIxfqPoszqbMfB-FABdL
-User Name: robot
-Ticket ID: bIxfqPoszqbMfB-FABdL_b71afa21-42c7-4762-9e52-e830dc5025da
-Total Bid Amount: 4800
-Total Earnings: 0
-Profit/Loss: -4800
-
-Breakdown:
-  Bid: 3, Amount: 4800, Payout: 24000, Status: lost

@@ -1,9 +1,0 @@
-User ID: POg_zd6yz70aLeF1AAjW
-User Name: robot
-Ticket ID: POg_zd6yz70aLeF1AAjW_68f7215f-54a3-4d9e-9251-fc2476209693
-Total Bid Amount: 2600
-Total Earnings: 0
-Profit/Loss: -2600
-
-Breakdown:
-  Bid: 6, Amount: 2600, Payout: 13000, Status: lost

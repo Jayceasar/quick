@@ -1,9 +1,0 @@
-User ID: EDyxSW9w_YC7jGLUACPs
-User Name: robot
-Ticket ID: EDyxSW9w_YC7jGLUACPs_b18e0f6c-a0df-42b3-a078-d180045a23ae
-Total Bid Amount: 7200
-Total Earnings: 36000
-Profit/Loss: 28800
-
-Breakdown:
-  Bid: 4, Amount: 7200, Payout: 36000, Status: won

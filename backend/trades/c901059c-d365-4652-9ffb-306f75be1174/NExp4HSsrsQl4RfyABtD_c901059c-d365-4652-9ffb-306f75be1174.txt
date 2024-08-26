@@ -1,9 +1,0 @@
-User ID: NExp4HSsrsQl4RfyABtD
-User Name: robot
-Ticket ID: NExp4HSsrsQl4RfyABtD_c901059c-d365-4652-9ffb-306f75be1174
-Total Bid Amount: 2600
-Total Earnings: 0
-Profit/Loss: -2600
-
-Breakdown:
-  Bid: 3, Amount: 2600, Payout: 13000, Status: lost

@@ -1,9 +1,0 @@
-User ID: YLRlPphhwArYzQqsAB-x
-User Name: robot
-Ticket ID: YLRlPphhwArYzQqsAB-x_ef9d3ae9-a88c-4fb9-930e-c91af760bffa
-Total Bid Amount: 6000
-Total Earnings: 0
-Profit/Loss: -6000
-
-Breakdown:
-  Bid: 3, Amount: 6000, Payout: 30000, Status: lost

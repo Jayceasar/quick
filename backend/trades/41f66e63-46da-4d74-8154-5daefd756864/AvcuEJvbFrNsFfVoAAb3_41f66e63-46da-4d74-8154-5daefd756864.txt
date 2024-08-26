@@ -1,9 +1,0 @@
-User ID: AvcuEJvbFrNsFfVoAAb3
-User Name: robot
-Ticket ID: AvcuEJvbFrNsFfVoAAb3_41f66e63-46da-4d74-8154-5daefd756864
-Total Bid Amount: 300
-Total Earnings: 1500
-Profit/Loss: 1200
-
-Breakdown:
-  Bid: 6, Amount: 300, Payout: 1500, Status: won

@@ -1,9 +1,0 @@
-User ID: mt3Vr_fFGUtwK6-uAAX4
-User Name: robot
-Ticket ID: mt3Vr_fFGUtwK6-uAAX4_738a39ff-dd64-475f-85ea-95b884acac04
-Total Bid Amount: 4500
-Total Earnings: 22500
-Profit/Loss: 18000
-
-Breakdown:
-  Bid: 2, Amount: 4500, Payout: 22500, Status: won

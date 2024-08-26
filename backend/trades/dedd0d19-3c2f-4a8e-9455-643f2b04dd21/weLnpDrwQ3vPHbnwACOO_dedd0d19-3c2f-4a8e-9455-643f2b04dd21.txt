@@ -1,9 +1,0 @@
-User ID: weLnpDrwQ3vPHbnwACOO
-User Name: robot
-Ticket ID: weLnpDrwQ3vPHbnwACOO_dedd0d19-3c2f-4a8e-9455-643f2b04dd21
-Total Bid Amount: 5500
-Total Earnings: 0
-Profit/Loss: -5500
-
-Breakdown:
-  Bid: 4, Amount: 5500, Payout: 27500, Status: lost

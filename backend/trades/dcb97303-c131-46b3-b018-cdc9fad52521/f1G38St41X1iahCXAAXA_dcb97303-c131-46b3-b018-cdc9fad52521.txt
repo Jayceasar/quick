@@ -1,9 +1,0 @@
-User ID: f1G38St41X1iahCXAAXA
-User Name: robot
-Ticket ID: f1G38St41X1iahCXAAXA_dcb97303-c131-46b3-b018-cdc9fad52521
-Total Bid Amount: 7900
-Total Earnings: 0
-Profit/Loss: -7900
-
-Breakdown:
-  Bid: 4, Amount: 7900, Payout: 39500, Status: lost

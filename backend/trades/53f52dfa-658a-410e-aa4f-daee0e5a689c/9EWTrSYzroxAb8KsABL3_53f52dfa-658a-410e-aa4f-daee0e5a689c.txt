@@ -1,9 +1,0 @@
-User ID: 9EWTrSYzroxAb8KsABL3
-User Name: robot
-Ticket ID: 9EWTrSYzroxAb8KsABL3_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 1700
-Total Earnings: 0
-Profit/Loss: -1700
-
-Breakdown:
-  Bid: 2, Amount: 1700, Payout: 8500, Status: lost

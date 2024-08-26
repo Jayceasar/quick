@@ -1,9 +1,0 @@
-User ID: SqCCzWSVqoYSWELHACRN
-User Name: robot
-Ticket ID: SqCCzWSVqoYSWELHACRN_056763aa-b81f-4e9f-b6e3-57c723d2792c
-Total Bid Amount: 8500
-Total Earnings: 0
-Profit/Loss: -8500
-
-Breakdown:
-  Bid: 1, Amount: 8500, Payout: 42500, Status: lost

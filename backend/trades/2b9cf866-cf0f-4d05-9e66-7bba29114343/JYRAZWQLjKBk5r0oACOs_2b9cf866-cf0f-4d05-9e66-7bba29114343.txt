@@ -1,9 +1,0 @@
-User ID: JYRAZWQLjKBk5r0oACOs
-User Name: robot
-Ticket ID: JYRAZWQLjKBk5r0oACOs_2b9cf866-cf0f-4d05-9e66-7bba29114343
-Total Bid Amount: 5800
-Total Earnings: 0
-Profit/Loss: -5800
-
-Breakdown:
-  Bid: 4, Amount: 5800, Payout: 29000, Status: lost

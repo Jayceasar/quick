@@ -1,9 +1,0 @@
-User ID: 8SQrn02nuFol46JPAA0P
-User Name: robot
-Ticket ID: 8SQrn02nuFol46JPAA0P_2d9a9f59-c595-4e27-8c52-d1c69e966bd8
-Total Bid Amount: 2500
-Total Earnings: 12500
-Profit/Loss: 10000
-
-Breakdown:
-  Bid: 5, Amount: 2500, Payout: 12500, Status: won

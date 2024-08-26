@@ -1,9 +1,0 @@
-User ID: mcJwklGd6TlxTU_YAAMw
-User Name: robot
-Ticket ID: mcJwklGd6TlxTU_YAAMw_d4d335fb-57cb-443b-84fb-16963a73946e
-Total Bid Amount: 200
-Total Earnings: 0
-Profit/Loss: -200
-
-Breakdown:
-  Bid: 4, Amount: 200, Payout: 1000, Status: lost

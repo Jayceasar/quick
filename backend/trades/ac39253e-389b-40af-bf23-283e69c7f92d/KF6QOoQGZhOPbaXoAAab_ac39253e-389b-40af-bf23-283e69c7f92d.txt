@@ -1,9 +1,0 @@
-User ID: KF6QOoQGZhOPbaXoAAab
-User Name: robot
-Ticket ID: KF6QOoQGZhOPbaXoAAab_ac39253e-389b-40af-bf23-283e69c7f92d
-Total Bid Amount: 6400
-Total Earnings: 0
-Profit/Loss: -6400
-
-Breakdown:
-  Bid: 5, Amount: 6400, Payout: 32000, Status: lost

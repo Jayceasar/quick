@@ -1,9 +1,0 @@
-User ID: xhwGX7nwINLtGZULAA9V
-User Name: robot
-Ticket ID: xhwGX7nwINLtGZULAA9V_66f65ae5-5096-4806-89d8-dcb36cb9e685
-Total Bid Amount: 4700
-Total Earnings: 0
-Profit/Loss: -4700
-
-Breakdown:
-  Bid: 1, Amount: 4700, Payout: 23500, Status: lost

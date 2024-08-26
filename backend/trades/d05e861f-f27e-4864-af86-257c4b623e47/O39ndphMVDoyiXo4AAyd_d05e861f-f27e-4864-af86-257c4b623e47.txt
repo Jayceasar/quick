@@ -1,9 +1,0 @@
-User ID: O39ndphMVDoyiXo4AAyd
-User Name: robot
-Ticket ID: O39ndphMVDoyiXo4AAyd_d05e861f-f27e-4864-af86-257c4b623e47
-Total Bid Amount: 100
-Total Earnings: 0
-Profit/Loss: -100
-
-Breakdown:
-  Bid: 4, Amount: 100, Payout: 500, Status: lost

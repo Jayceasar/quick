@@ -1,9 +1,0 @@
-User ID: cRcWv20jnags2W8hAAGh
-User Name: robot
-Ticket ID: cRcWv20jnags2W8hAAGh_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 5500
-Total Earnings: 27500
-Profit/Loss: 22000
-
-Breakdown:
-  Bid: 5, Amount: 5500, Payout: 27500, Status: won

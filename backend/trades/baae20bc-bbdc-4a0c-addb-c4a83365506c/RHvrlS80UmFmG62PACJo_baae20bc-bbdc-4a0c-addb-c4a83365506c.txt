@@ -1,9 +1,0 @@
-User ID: RHvrlS80UmFmG62PACJo
-User Name: robot
-Ticket ID: RHvrlS80UmFmG62PACJo_baae20bc-bbdc-4a0c-addb-c4a83365506c
-Total Bid Amount: 5600
-Total Earnings: 28000
-Profit/Loss: 22400
-
-Breakdown:
-  Bid: 2, Amount: 5600, Payout: 28000, Status: won

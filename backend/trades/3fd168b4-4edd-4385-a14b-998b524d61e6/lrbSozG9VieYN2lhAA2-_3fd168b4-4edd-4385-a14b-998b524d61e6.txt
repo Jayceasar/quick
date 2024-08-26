@@ -1,9 +1,0 @@
-User ID: lrbSozG9VieYN2lhAA2-
-User Name: robot
-Ticket ID: lrbSozG9VieYN2lhAA2-_3fd168b4-4edd-4385-a14b-998b524d61e6
-Total Bid Amount: 4100
-Total Earnings: 0
-Profit/Loss: -4100
-
-Breakdown:
-  Bid: 2, Amount: 4100, Payout: 20500, Status: lost

@@ -1,9 +1,0 @@
-User ID: KRkszPPKOWrkltBJAAt7
-User Name: robot
-Ticket ID: KRkszPPKOWrkltBJAAt7_db0ef95d-e018-483f-b64a-b1c385856283
-Total Bid Amount: 8300
-Total Earnings: 41500
-Profit/Loss: 33200
-
-Breakdown:
-  Bid: 3, Amount: 8300, Payout: 41500, Status: won

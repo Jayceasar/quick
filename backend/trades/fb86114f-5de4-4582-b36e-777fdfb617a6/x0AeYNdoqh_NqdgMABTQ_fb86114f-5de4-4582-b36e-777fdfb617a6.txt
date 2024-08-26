@@ -1,9 +1,0 @@
-User ID: x0AeYNdoqh_NqdgMABTQ
-User Name: robot
-Ticket ID: x0AeYNdoqh_NqdgMABTQ_fb86114f-5de4-4582-b36e-777fdfb617a6
-Total Bid Amount: 900
-Total Earnings: 0
-Profit/Loss: -900
-
-Breakdown:
-  Bid: 2, Amount: 900, Payout: 4500, Status: lost

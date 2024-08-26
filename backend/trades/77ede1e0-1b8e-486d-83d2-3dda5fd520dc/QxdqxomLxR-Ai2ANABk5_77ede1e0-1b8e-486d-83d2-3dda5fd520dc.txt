@@ -1,9 +1,0 @@
-User ID: QxdqxomLxR-Ai2ANABk5
-User Name: robot
-Ticket ID: QxdqxomLxR-Ai2ANABk5_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
-Total Bid Amount: 200
-Total Earnings: 0
-Profit/Loss: -200
-
-Breakdown:
-  Bid: 1, Amount: 200, Payout: 1000, Status: lost

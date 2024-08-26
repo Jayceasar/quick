@@ -1,9 +1,0 @@
-User ID: RGA6WugEi5iyMvJVACRW
-User Name: robot
-Ticket ID: RGA6WugEi5iyMvJVACRW_be20dc7b-20ae-4668-8873-dcd784dc1eec
-Total Bid Amount: 7600
-Total Earnings: 0
-Profit/Loss: -7600
-
-Breakdown:
-  Bid: 2, Amount: 7600, Payout: 38000, Status: lost

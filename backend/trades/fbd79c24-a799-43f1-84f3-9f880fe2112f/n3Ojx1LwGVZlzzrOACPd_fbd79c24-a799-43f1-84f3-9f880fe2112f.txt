@@ -1,9 +1,0 @@
-User ID: n3Ojx1LwGVZlzzrOACPd
-User Name: robot
-Ticket ID: n3Ojx1LwGVZlzzrOACPd_fbd79c24-a799-43f1-84f3-9f880fe2112f
-Total Bid Amount: 9800
-Total Earnings: 0
-Profit/Loss: -9800
-
-Breakdown:
-  Bid: 3, Amount: 9800, Payout: 49000, Status: lost

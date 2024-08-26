@@ -1,9 +1,0 @@
-User ID: 0MOmXLmijhzc90K9AB-a
-User Name: robot
-Ticket ID: 0MOmXLmijhzc90K9AB-a_14610649-3f15-4017-8252-a28623982c47
-Total Bid Amount: 700
-Total Earnings: 0
-Profit/Loss: -700
-
-Breakdown:
-  Bid: 6, Amount: 700, Payout: 3500, Status: lost

@@ -1,9 +1,0 @@
-User ID: ruBC2kmNF5kXijQBAAPM
-User Name: robot
-Ticket ID: ruBC2kmNF5kXijQBAAPM_6d2f5a00-8975-46ac-9313-eaee03859331
-Total Bid Amount: 5900
-Total Earnings: 0
-Profit/Loss: -5900
-
-Breakdown:
-  Bid: 1, Amount: 5900, Payout: 29500, Status: lost

@@ -1,9 +1,0 @@
-User ID: Zege4QEeGp_4w9m3ABQq
-User Name: robot
-Ticket ID: Zege4QEeGp_4w9m3ABQq_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
-Total Bid Amount: 9300
-Total Earnings: 46500
-Profit/Loss: 37200
-
-Breakdown:
-  Bid: 3, Amount: 9300, Payout: 46500, Status: won

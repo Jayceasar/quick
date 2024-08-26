@@ -1,9 +1,0 @@
-User ID: 9TIJ3N2H7xE0R4ZxABtw
-User Name: robot
-Ticket ID: 9TIJ3N2H7xE0R4ZxABtw_7a1cf374-3b0b-47a8-92f4-370088b1d70d
-Total Bid Amount: 7700
-Total Earnings: 0
-Profit/Loss: -7700
-
-Breakdown:
-  Bid: 4, Amount: 7700, Payout: 38500, Status: lost

@@ -1,9 +1,0 @@
-User ID: _W2DRkkk9HIdJmMWABtO
-User Name: robot
-Ticket ID: _W2DRkkk9HIdJmMWABtO_c901059c-d365-4652-9ffb-306f75be1174
-Total Bid Amount: 5400
-Total Earnings: 0
-Profit/Loss: -5400
-
-Breakdown:
-  Bid: 6, Amount: 5400, Payout: 27000, Status: lost

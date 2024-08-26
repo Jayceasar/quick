@@ -1,9 +1,0 @@
-User ID: cIVOU_bEAaKSFy31AB13
-User Name: robot
-Ticket ID: cIVOU_bEAaKSFy31AB13_2781e5b9-a77d-4c00-9c16-4c60db515876
-Total Bid Amount: 9400
-Total Earnings: 0
-Profit/Loss: -9400
-
-Breakdown:
-  Bid: 5, Amount: 9400, Payout: 47000, Status: lost

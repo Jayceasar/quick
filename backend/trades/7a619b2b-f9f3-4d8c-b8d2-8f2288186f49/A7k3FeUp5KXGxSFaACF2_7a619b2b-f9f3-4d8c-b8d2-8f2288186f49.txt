@@ -1,9 +1,0 @@
-User ID: A7k3FeUp5KXGxSFaACF2
-User Name: robot
-Ticket ID: A7k3FeUp5KXGxSFaACF2_7a619b2b-f9f3-4d8c-b8d2-8f2288186f49
-Total Bid Amount: 8100
-Total Earnings: 0
-Profit/Loss: -8100
-
-Breakdown:
-  Bid: 6, Amount: 8100, Payout: 40500, Status: lost

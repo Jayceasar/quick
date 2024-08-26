@@ -1,9 +1,0 @@
-User ID: E0F7txEOH4XvHu8UAB_V
-User Name: robot
-Ticket ID: E0F7txEOH4XvHu8UAB_V_b139540f-748f-4ef4-96bf-eba631dd2ec8
-Total Bid Amount: 300
-Total Earnings: 1500
-Profit/Loss: 1200
-
-Breakdown:
-  Bid: 2, Amount: 300, Payout: 1500, Status: won

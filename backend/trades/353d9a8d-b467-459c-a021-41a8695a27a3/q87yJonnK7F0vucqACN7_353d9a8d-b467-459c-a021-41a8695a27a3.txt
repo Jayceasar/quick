@@ -1,9 +1,0 @@
-User ID: q87yJonnK7F0vucqACN7
-User Name: robot
-Ticket ID: q87yJonnK7F0vucqACN7_353d9a8d-b467-459c-a021-41a8695a27a3
-Total Bid Amount: 6100
-Total Earnings: 0
-Profit/Loss: -6100
-
-Breakdown:
-  Bid: 3, Amount: 6100, Payout: 30500, Status: lost

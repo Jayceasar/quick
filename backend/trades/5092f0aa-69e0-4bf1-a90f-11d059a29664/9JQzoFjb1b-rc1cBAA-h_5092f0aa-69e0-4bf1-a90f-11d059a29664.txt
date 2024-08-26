@@ -1,9 +1,0 @@
-User ID: 9JQzoFjb1b-rc1cBAA-h
-User Name: robot
-Ticket ID: 9JQzoFjb1b-rc1cBAA-h_5092f0aa-69e0-4bf1-a90f-11d059a29664
-Total Bid Amount: 3500
-Total Earnings: 0
-Profit/Loss: -3500
-
-Breakdown:
-  Bid: 3, Amount: 3500, Payout: 17500, Status: lost

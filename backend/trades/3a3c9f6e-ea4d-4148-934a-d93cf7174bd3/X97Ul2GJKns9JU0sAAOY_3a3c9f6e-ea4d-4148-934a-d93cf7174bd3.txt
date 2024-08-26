@@ -1,9 +1,0 @@
-User ID: X97Ul2GJKns9JU0sAAOY
-User Name: robot
-Ticket ID: X97Ul2GJKns9JU0sAAOY_3a3c9f6e-ea4d-4148-934a-d93cf7174bd3
-Total Bid Amount: 1200
-Total Earnings: 0
-Profit/Loss: -1200
-
-Breakdown:
-  Bid: 2, Amount: 1200, Payout: 6000, Status: lost

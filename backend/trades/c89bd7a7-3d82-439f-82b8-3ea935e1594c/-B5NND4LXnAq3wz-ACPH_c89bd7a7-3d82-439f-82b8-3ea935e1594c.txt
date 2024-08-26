@@ -1,9 +1,0 @@
-User ID: -B5NND4LXnAq3wz-ACPH
-User Name: robot
-Ticket ID: -B5NND4LXnAq3wz-ACPH_c89bd7a7-3d82-439f-82b8-3ea935e1594c
-Total Bid Amount: 10000
-Total Earnings: 50000
-Profit/Loss: 40000
-
-Breakdown:
-  Bid: 5, Amount: 10000, Payout: 50000, Status: won

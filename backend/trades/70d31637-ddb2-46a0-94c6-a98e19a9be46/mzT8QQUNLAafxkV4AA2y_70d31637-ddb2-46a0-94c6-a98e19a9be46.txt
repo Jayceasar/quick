@@ -1,9 +1,0 @@
-User ID: mzT8QQUNLAafxkV4AA2y
-User Name: robot
-Ticket ID: mzT8QQUNLAafxkV4AA2y_70d31637-ddb2-46a0-94c6-a98e19a9be46
-Total Bid Amount: 2500
-Total Earnings: 0
-Profit/Loss: -2500
-
-Breakdown:
-  Bid: 1, Amount: 2500, Payout: 12500, Status: lost

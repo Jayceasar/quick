@@ -1,9 +1,0 @@
-User ID: ewT0f-cOlbXkMGK7ACA9
-User Name: robot
-Ticket ID: ewT0f-cOlbXkMGK7ACA9_3e3ffb49-a8be-4e48-a533-33eb486e2676
-Total Bid Amount: 6500
-Total Earnings: 0
-Profit/Loss: -6500
-
-Breakdown:
-  Bid: 4, Amount: 6500, Payout: 32500, Status: lost

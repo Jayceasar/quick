@@ -1,9 +1,0 @@
-User ID: gF3OPqF5EPodl0aWABLc
-User Name: robot
-Ticket ID: gF3OPqF5EPodl0aWABLc_692b2a95-b090-4fc1-ad37-195b1ac2aba1
-Total Bid Amount: 4300
-Total Earnings: 0
-Profit/Loss: -4300
-
-Breakdown:
-  Bid: 4, Amount: 4300, Payout: 21500, Status: lost

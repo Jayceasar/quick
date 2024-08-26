@@ -1,9 +1,0 @@
-User ID: wjKulZQDyRpcse-QAA-t
-User Name: robot
-Ticket ID: wjKulZQDyRpcse-QAA-t_73e52ea7-53a0-471d-a88d-2ad368de3cb4
-Total Bid Amount: 400
-Total Earnings: 2000
-Profit/Loss: 1600
-
-Breakdown:
-  Bid: 2, Amount: 400, Payout: 2000, Status: won

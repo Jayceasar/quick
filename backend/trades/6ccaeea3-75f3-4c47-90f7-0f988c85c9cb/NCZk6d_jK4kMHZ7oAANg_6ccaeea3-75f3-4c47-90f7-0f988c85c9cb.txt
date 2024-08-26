@@ -1,9 +1,0 @@
-User ID: NCZk6d_jK4kMHZ7oAANg
-User Name: robot
-Ticket ID: NCZk6d_jK4kMHZ7oAANg_6ccaeea3-75f3-4c47-90f7-0f988c85c9cb
-Total Bid Amount: 3100
-Total Earnings: 0
-Profit/Loss: -3100
-
-Breakdown:
-  Bid: 5, Amount: 3100, Payout: 15500, Status: lost

@@ -1,9 +1,0 @@
-User ID: 6wdr8ia_JSUE2e91ACPA
-User Name: robot
-Ticket ID: 6wdr8ia_JSUE2e91ACPA_4508540c-24b1-4b4f-8d4c-f0d990720795
-Total Bid Amount: 7100
-Total Earnings: 35500
-Profit/Loss: 28400
-
-Breakdown:
-  Bid: 6, Amount: 7100, Payout: 35500, Status: won

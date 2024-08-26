@@ -1,9 +1,0 @@
-User ID: 3E_01rEIls-nOvxdACNz
-User Name: robot
-Ticket ID: 3E_01rEIls-nOvxdACNz_69d923c9-96c5-4adb-abe5-ca14ce4bb409
-Total Bid Amount: 1600
-Total Earnings: 0
-Profit/Loss: -1600
-
-Breakdown:
-  Bid: 2, Amount: 1600, Payout: 8000, Status: lost

@@ -1,9 +1,0 @@
-User ID: vEvfZH40EXwsItOwABuR
-User Name: robot
-Ticket ID: vEvfZH40EXwsItOwABuR_c901059c-d365-4652-9ffb-306f75be1174
-Total Bid Amount: 5400
-Total Earnings: 0
-Profit/Loss: -5400
-
-Breakdown:
-  Bid: 2, Amount: 5400, Payout: 27000, Status: lost

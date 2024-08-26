@@ -1,9 +1,0 @@
-User ID: Pyk5yLynmqIggkE1AAWG
-User Name: robot
-Ticket ID: Pyk5yLynmqIggkE1AAWG_f4cf4c3f-d9ae-4795-8b4a-b94bad6521aa
-Total Bid Amount: 5600
-Total Earnings: 0
-Profit/Loss: -5600
-
-Breakdown:
-  Bid: 2, Amount: 5600, Payout: 28000, Status: lost

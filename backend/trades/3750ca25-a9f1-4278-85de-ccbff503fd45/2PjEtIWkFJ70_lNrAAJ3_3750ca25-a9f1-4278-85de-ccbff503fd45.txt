@@ -1,9 +1,0 @@
-User ID: 2PjEtIWkFJ70_lNrAAJ3
-User Name: robot
-Ticket ID: 2PjEtIWkFJ70_lNrAAJ3_3750ca25-a9f1-4278-85de-ccbff503fd45
-Total Bid Amount: 1500
-Total Earnings: 7500
-Profit/Loss: 6000
-
-Breakdown:
-  Bid: 6, Amount: 1500, Payout: 7500, Status: won

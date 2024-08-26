@@ -1,9 +1,0 @@
-User ID: 41R6nIvIJYeSVvBRAA9f
-User Name: robot
-Ticket ID: 41R6nIvIJYeSVvBRAA9f_73e52ea7-53a0-471d-a88d-2ad368de3cb4
-Total Bid Amount: 6300
-Total Earnings: 31500
-Profit/Loss: 25200
-
-Breakdown:
-  Bid: 2, Amount: 6300, Payout: 31500, Status: won

@@ -1,9 +1,0 @@
-User ID: ziUP8ptz57gCGjXEABWs
-User Name: robot
-Ticket ID: ziUP8ptz57gCGjXEABWs_8fa77666-9d7f-4032-9eb6-68ecb3f56761
-Total Bid Amount: 6800
-Total Earnings: 0
-Profit/Loss: -6800
-
-Breakdown:
-  Bid: 3, Amount: 6800, Payout: 34000, Status: lost

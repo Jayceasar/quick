@@ -1,9 +1,0 @@
-User ID: RqqCnQmjdJS2RIvIAB-G
-User Name: robot
-Ticket ID: RqqCnQmjdJS2RIvIAB-G_c43dc4fe-1b01-4cc9-acfe-1139580a0b0f
-Total Bid Amount: 7000
-Total Earnings: 0
-Profit/Loss: -7000
-
-Breakdown:
-  Bid: 5, Amount: 7000, Payout: 35000, Status: lost

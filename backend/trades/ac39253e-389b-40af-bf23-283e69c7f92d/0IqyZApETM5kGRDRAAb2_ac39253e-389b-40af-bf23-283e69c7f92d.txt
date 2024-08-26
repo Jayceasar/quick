@@ -1,9 +1,0 @@
-User ID: 0IqyZApETM5kGRDRAAb2
-User Name: robot
-Ticket ID: 0IqyZApETM5kGRDRAAb2_ac39253e-389b-40af-bf23-283e69c7f92d
-Total Bid Amount: 1000
-Total Earnings: 0
-Profit/Loss: -1000
-
-Breakdown:
-  Bid: 2, Amount: 1000, Payout: 5000, Status: lost

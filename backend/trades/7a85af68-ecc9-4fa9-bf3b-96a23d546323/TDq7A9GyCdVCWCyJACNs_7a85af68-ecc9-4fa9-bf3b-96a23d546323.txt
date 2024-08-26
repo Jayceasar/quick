@@ -1,9 +1,0 @@
-User ID: TDq7A9GyCdVCWCyJACNs
-User Name: robot
-Ticket ID: TDq7A9GyCdVCWCyJACNs_7a85af68-ecc9-4fa9-bf3b-96a23d546323
-Total Bid Amount: 1600
-Total Earnings: 8000
-Profit/Loss: 6400
-
-Breakdown:
-  Bid: 2, Amount: 1600, Payout: 8000, Status: won

@@ -1,9 +1,0 @@
-User ID: P4nBTEdU3RBLg3z1AAQJ
-User Name: robot
-Ticket ID: P4nBTEdU3RBLg3z1AAQJ_e827b874-b370-4207-bcba-917383162e5c
-Total Bid Amount: 6200
-Total Earnings: 0
-Profit/Loss: -6200
-
-Breakdown:
-  Bid: 3, Amount: 6200, Payout: 31000, Status: lost

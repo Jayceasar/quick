@@ -1,9 +1,0 @@
-User ID: Kuq_Q-ZaAysIEC9zAAam
-User Name: robot
-Ticket ID: Kuq_Q-ZaAysIEC9zAAam_e5c8435f-e1c9-4163-99e8-aa0c1b077786
-Total Bid Amount: 2300
-Total Earnings: 11500
-Profit/Loss: 9200
-
-Breakdown:
-  Bid: 5, Amount: 2300, Payout: 11500, Status: won

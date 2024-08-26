@@ -1,9 +1,0 @@
-User ID: 5WJaPm4gm6elk6pGACOW
-User Name: robot
-Ticket ID: 5WJaPm4gm6elk6pGACOW_72f9191e-e346-449d-8a09-8eb634b49b76
-Total Bid Amount: 8400
-Total Earnings: 0
-Profit/Loss: -8400
-
-Breakdown:
-  Bid: 5, Amount: 8400, Payout: 42000, Status: lost

@@ -1,9 +1,0 @@
-User ID: KJ5tfpwdlhmJWRpdAAN5
-User Name: robot
-Ticket ID: KJ5tfpwdlhmJWRpdAAN5_3a3c9f6e-ea4d-4148-934a-d93cf7174bd3
-Total Bid Amount: 2600
-Total Earnings: 13000
-Profit/Loss: 10400
-
-Breakdown:
-  Bid: 4, Amount: 2600, Payout: 13000, Status: won

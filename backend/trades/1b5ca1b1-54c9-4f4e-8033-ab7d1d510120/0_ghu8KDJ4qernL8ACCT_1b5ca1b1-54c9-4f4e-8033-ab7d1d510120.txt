@@ -1,9 +1,0 @@
-User ID: 0_ghu8KDJ4qernL8ACCT
-User Name: robot
-Ticket ID: 0_ghu8KDJ4qernL8ACCT_1b5ca1b1-54c9-4f4e-8033-ab7d1d510120
-Total Bid Amount: 4300
-Total Earnings: 21500
-Profit/Loss: 17200
-
-Breakdown:
-  Bid: 6, Amount: 4300, Payout: 21500, Status: won

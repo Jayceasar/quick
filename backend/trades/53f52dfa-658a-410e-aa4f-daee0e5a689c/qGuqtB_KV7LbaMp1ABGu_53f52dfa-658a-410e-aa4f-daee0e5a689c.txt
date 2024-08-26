@@ -1,9 +1,0 @@
-User ID: qGuqtB_KV7LbaMp1ABGu
-User Name: robot
-Ticket ID: qGuqtB_KV7LbaMp1ABGu_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 9600
-Total Earnings: 0
-Profit/Loss: -9600
-
-Breakdown:
-  Bid: 3, Amount: 9600, Payout: 48000, Status: lost

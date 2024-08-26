@@ -1,9 +1,0 @@
-User ID: _mkj90Gl9iDzZ9hUACN-
-User Name: robot
-Ticket ID: _mkj90Gl9iDzZ9hUACN-_7a85af68-ecc9-4fa9-bf3b-96a23d546323
-Total Bid Amount: 100
-Total Earnings: 0
-Profit/Loss: -100
-
-Breakdown:
-  Bid: 1, Amount: 100, Payout: 500, Status: lost

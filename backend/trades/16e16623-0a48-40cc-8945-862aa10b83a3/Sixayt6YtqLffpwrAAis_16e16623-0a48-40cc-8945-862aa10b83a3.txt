@@ -1,9 +1,0 @@
-User ID: Sixayt6YtqLffpwrAAis
-User Name: robot
-Ticket ID: Sixayt6YtqLffpwrAAis_16e16623-0a48-40cc-8945-862aa10b83a3
-Total Bid Amount: 3200
-Total Earnings: 0
-Profit/Loss: -3200
-
-Breakdown:
-  Bid: 4, Amount: 3200, Payout: 16000, Status: lost

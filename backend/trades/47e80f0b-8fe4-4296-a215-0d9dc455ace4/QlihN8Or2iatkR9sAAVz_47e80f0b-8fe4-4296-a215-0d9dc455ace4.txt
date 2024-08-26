@@ -1,9 +1,0 @@
-User ID: QlihN8Or2iatkR9sAAVz
-User Name: robot
-Ticket ID: QlihN8Or2iatkR9sAAVz_47e80f0b-8fe4-4296-a215-0d9dc455ace4
-Total Bid Amount: 7200
-Total Earnings: 0
-Profit/Loss: -7200
-
-Breakdown:
-  Bid: 5, Amount: 7200, Payout: 36000, Status: lost

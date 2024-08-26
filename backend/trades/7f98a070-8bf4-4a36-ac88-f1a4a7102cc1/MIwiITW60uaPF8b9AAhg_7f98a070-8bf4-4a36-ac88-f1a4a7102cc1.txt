@@ -1,9 +1,0 @@
-User ID: MIwiITW60uaPF8b9AAhg
-User Name: robot
-Ticket ID: MIwiITW60uaPF8b9AAhg_7f98a070-8bf4-4a36-ac88-f1a4a7102cc1
-Total Bid Amount: 7700
-Total Earnings: 0
-Profit/Loss: -7700
-
-Breakdown:
-  Bid: 6, Amount: 7700, Payout: 38500, Status: lost

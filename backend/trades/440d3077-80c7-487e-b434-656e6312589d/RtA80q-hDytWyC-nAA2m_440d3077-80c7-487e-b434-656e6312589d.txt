@@ -1,9 +1,0 @@
-User ID: RtA80q-hDytWyC-nAA2m
-User Name: robot
-Ticket ID: RtA80q-hDytWyC-nAA2m_440d3077-80c7-487e-b434-656e6312589d
-Total Bid Amount: 6900
-Total Earnings: 0
-Profit/Loss: -6900
-
-Breakdown:
-  Bid: 2, Amount: 6900, Payout: 34500, Status: lost

@@ -1,9 +1,0 @@
-User ID: 2kom1dHTH2hn7KVGAAHe
-User Name: robot
-Ticket ID: 2kom1dHTH2hn7KVGAAHe_3750ca25-a9f1-4278-85de-ccbff503fd45
-Total Bid Amount: 8300
-Total Earnings: 0
-Profit/Loss: -8300
-
-Breakdown:
-  Bid: 5, Amount: 8300, Payout: 41500, Status: lost

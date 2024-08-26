@@ -1,9 +1,0 @@
-User ID: uazpG9wzRjGTYurjAB_R
-User Name: robot
-Ticket ID: uazpG9wzRjGTYurjAB_R_08a5c846-9e25-4cd7-810c-2809d6eecf3d
-Total Bid Amount: 2200
-Total Earnings: 11000
-Profit/Loss: 8800
-
-Breakdown:
-  Bid: 1, Amount: 2200, Payout: 11000, Status: won

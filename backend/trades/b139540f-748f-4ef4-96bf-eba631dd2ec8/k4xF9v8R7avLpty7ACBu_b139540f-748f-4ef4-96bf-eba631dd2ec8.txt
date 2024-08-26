@@ -1,9 +1,0 @@
-User ID: k4xF9v8R7avLpty7ACBu
-User Name: robot
-Ticket ID: k4xF9v8R7avLpty7ACBu_b139540f-748f-4ef4-96bf-eba631dd2ec8
-Total Bid Amount: 9300
-Total Earnings: 0
-Profit/Loss: -9300
-
-Breakdown:
-  Bid: 1, Amount: 9300, Payout: 46500, Status: lost

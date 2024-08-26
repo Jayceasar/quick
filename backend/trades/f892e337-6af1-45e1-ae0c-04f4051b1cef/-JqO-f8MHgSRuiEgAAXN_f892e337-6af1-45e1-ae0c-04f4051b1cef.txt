@@ -1,9 +1,0 @@
-User ID: -JqO-f8MHgSRuiEgAAXN
-User Name: robot
-Ticket ID: -JqO-f8MHgSRuiEgAAXN_f892e337-6af1-45e1-ae0c-04f4051b1cef
-Total Bid Amount: 8600
-Total Earnings: 0
-Profit/Loss: -8600
-
-Breakdown:
-  Bid: 2, Amount: 8600, Payout: 43000, Status: lost

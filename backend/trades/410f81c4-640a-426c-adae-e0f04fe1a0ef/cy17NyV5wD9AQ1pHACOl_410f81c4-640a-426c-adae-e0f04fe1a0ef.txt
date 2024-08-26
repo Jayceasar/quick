@@ -1,9 +1,0 @@
-User ID: cy17NyV5wD9AQ1pHACOl
-User Name: robot
-Ticket ID: cy17NyV5wD9AQ1pHACOl_410f81c4-640a-426c-adae-e0f04fe1a0ef
-Total Bid Amount: 6100
-Total Earnings: 0
-Profit/Loss: -6100
-
-Breakdown:
-  Bid: 6, Amount: 6100, Payout: 30500, Status: lost

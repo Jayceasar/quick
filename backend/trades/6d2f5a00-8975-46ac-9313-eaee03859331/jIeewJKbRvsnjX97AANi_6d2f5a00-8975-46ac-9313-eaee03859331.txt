@@ -1,9 +1,0 @@
-User ID: jIeewJKbRvsnjX97AANi
-User Name: robot
-Ticket ID: jIeewJKbRvsnjX97AANi_6d2f5a00-8975-46ac-9313-eaee03859331
-Total Bid Amount: 5000
-Total Earnings: 0
-Profit/Loss: -5000
-
-Breakdown:
-  Bid: 6, Amount: 5000, Payout: 25000, Status: lost

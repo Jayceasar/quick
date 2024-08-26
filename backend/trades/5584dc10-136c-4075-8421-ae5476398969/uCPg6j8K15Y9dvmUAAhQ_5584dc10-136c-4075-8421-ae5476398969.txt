@@ -1,9 +1,0 @@
-User ID: uCPg6j8K15Y9dvmUAAhQ
-User Name: robot
-Ticket ID: uCPg6j8K15Y9dvmUAAhQ_5584dc10-136c-4075-8421-ae5476398969
-Total Bid Amount: 1300
-Total Earnings: 6500
-Profit/Loss: 5200
-
-Breakdown:
-  Bid: 2, Amount: 1300, Payout: 6500, Status: won

@@ -1,9 +1,0 @@
-User ID: s0TPnMU1hSWuywmuAAyh
-User Name: robot
-Ticket ID: s0TPnMU1hSWuywmuAAyh_2064e9d8-c50a-4535-8fb3-112104adabdb
-Total Bid Amount: 2400
-Total Earnings: 0
-Profit/Loss: -2400
-
-Breakdown:
-  Bid: 4, Amount: 2400, Payout: 12000, Status: lost

@@ -1,9 +1,0 @@
-User ID: pNsbRIJXQSKHH1kYABZ4
-User Name: robot
-Ticket ID: pNsbRIJXQSKHH1kYABZ4_6e56c651-525b-40b4-bdf6-b90e58163806
-Total Bid Amount: 1200
-Total Earnings: 0
-Profit/Loss: -1200
-
-Breakdown:
-  Bid: 5, Amount: 1200, Payout: 6000, Status: lost

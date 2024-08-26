@@ -1,9 +1,0 @@
-User ID: bp7U-REnN-sYMboGABll
-User Name: robot
-Ticket ID: bp7U-REnN-sYMboGABll_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
-Total Bid Amount: 3000
-Total Earnings: 0
-Profit/Loss: -3000
-
-Breakdown:
-  Bid: 2, Amount: 3000, Payout: 15000, Status: lost

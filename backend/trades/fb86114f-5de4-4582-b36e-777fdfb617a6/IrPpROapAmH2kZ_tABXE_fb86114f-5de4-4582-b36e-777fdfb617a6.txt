@@ -1,9 +1,0 @@
-User ID: IrPpROapAmH2kZ_tABXE
-User Name: robot
-Ticket ID: IrPpROapAmH2kZ_tABXE_fb86114f-5de4-4582-b36e-777fdfb617a6
-Total Bid Amount: 600
-Total Earnings: 0
-Profit/Loss: -600
-
-Breakdown:
-  Bid: 1, Amount: 600, Payout: 3000, Status: lost

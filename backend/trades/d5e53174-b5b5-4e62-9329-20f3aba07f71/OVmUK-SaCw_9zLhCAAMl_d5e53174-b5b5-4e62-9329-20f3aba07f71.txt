@@ -1,9 +1,0 @@
-User ID: OVmUK-SaCw_9zLhCAAMl
-User Name: robot
-Ticket ID: OVmUK-SaCw_9zLhCAAMl_d5e53174-b5b5-4e62-9329-20f3aba07f71
-Total Bid Amount: 600
-Total Earnings: 0
-Profit/Loss: -600
-
-Breakdown:
-  Bid: 3, Amount: 600, Payout: 3000, Status: lost

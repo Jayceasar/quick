@@ -1,9 +1,0 @@
-User ID: k6Ewes_KlC-HOzPuAAZu
-User Name: robot
-Ticket ID: k6Ewes_KlC-HOzPuAAZu_7fbb9639-e749-44d5-a277-a14ee297c3c1
-Total Bid Amount: 9300
-Total Earnings: 0
-Profit/Loss: -9300
-
-Breakdown:
-  Bid: 4, Amount: 9300, Payout: 46500, Status: lost

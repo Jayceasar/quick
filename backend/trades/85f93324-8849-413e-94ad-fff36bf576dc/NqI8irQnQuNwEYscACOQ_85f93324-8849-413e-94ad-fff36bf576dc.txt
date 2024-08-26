@@ -1,9 +1,0 @@
-User ID: NqI8irQnQuNwEYscACOQ
-User Name: robot
-Ticket ID: NqI8irQnQuNwEYscACOQ_85f93324-8849-413e-94ad-fff36bf576dc
-Total Bid Amount: 9700
-Total Earnings: 0
-Profit/Loss: -9700
-
-Breakdown:
-  Bid: 1, Amount: 9700, Payout: 48500, Status: lost

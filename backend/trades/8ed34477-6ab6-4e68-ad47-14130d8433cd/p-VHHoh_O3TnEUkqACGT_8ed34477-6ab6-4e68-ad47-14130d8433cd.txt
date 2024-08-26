@@ -1,9 +1,0 @@
-User ID: p-VHHoh_O3TnEUkqACGT
-User Name: robot
-Ticket ID: p-VHHoh_O3TnEUkqACGT_8ed34477-6ab6-4e68-ad47-14130d8433cd
-Total Bid Amount: 800
-Total Earnings: 0
-Profit/Loss: -800
-
-Breakdown:
-  Bid: 6, Amount: 800, Payout: 4000, Status: lost

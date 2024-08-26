@@ -1,9 +1,0 @@
-User ID: w8wMh_p9oHSV-7Q1ABXA
-User Name: robot
-Ticket ID: w8wMh_p9oHSV-7Q1ABXA_3b12a05c-d549-48e1-9b4b-7485d6fac451
-Total Bid Amount: 1700
-Total Earnings: 0
-Profit/Loss: -1700
-
-Breakdown:
-  Bid: 2, Amount: 1700, Payout: 8500, Status: lost

@@ -1,9 +1,0 @@
-User ID: KhFNDGa59KtlAl4sAAic
-User Name: robot
-Ticket ID: KhFNDGa59KtlAl4sAAic_68f7215f-54a3-4d9e-9251-fc2476209693
-Total Bid Amount: 6800
-Total Earnings: 34000
-Profit/Loss: 27200
-
-Breakdown:
-  Bid: 1, Amount: 6800, Payout: 34000, Status: won

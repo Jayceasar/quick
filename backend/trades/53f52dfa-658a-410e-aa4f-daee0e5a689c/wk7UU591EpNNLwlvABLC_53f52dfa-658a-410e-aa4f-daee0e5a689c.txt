@@ -1,9 +1,0 @@
-User ID: wk7UU591EpNNLwlvABLC
-User Name: robot
-Ticket ID: wk7UU591EpNNLwlvABLC_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 8500
-Total Earnings: 0
-Profit/Loss: -8500
-
-Breakdown:
-  Bid: 1, Amount: 8500, Payout: 42500, Status: lost

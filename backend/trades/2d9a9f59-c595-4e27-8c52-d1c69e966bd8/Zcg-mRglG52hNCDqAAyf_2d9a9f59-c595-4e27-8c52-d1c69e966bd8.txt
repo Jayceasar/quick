@@ -1,9 +1,0 @@
-User ID: Zcg-mRglG52hNCDqAAyf
-User Name: robot
-Ticket ID: Zcg-mRglG52hNCDqAAyf_2d9a9f59-c595-4e27-8c52-d1c69e966bd8
-Total Bid Amount: 5400
-Total Earnings: 0
-Profit/Loss: -5400
-
-Breakdown:
-  Bid: 4, Amount: 5400, Payout: 27000, Status: lost

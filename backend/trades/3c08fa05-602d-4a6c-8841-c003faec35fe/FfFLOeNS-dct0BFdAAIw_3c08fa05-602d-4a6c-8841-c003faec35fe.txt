@@ -1,9 +1,0 @@
-User ID: FfFLOeNS-dct0BFdAAIw
-User Name: robot
-Ticket ID: FfFLOeNS-dct0BFdAAIw_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 1100
-Total Earnings: 0
-Profit/Loss: -1100
-
-Breakdown:
-  Bid: 3, Amount: 1100, Payout: 5500, Status: lost

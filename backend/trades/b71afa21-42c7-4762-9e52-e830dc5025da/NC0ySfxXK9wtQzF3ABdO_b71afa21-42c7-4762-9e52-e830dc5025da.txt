@@ -1,9 +1,0 @@
-User ID: NC0ySfxXK9wtQzF3ABdO
-User Name: robot
-Ticket ID: NC0ySfxXK9wtQzF3ABdO_b71afa21-42c7-4762-9e52-e830dc5025da
-Total Bid Amount: 3000
-Total Earnings: 15000
-Profit/Loss: 12000
-
-Breakdown:
-  Bid: 2, Amount: 3000, Payout: 15000, Status: won

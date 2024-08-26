@@ -1,9 +1,0 @@
-User ID: Eqfik8kGyyeSnIKTACJJ
-User Name: robot
-Ticket ID: Eqfik8kGyyeSnIKTACJJ_2a327de1-2fbe-48c6-b3b3-e81f12d12845
-Total Bid Amount: 3600
-Total Earnings: 18000
-Profit/Loss: 14400
-
-Breakdown:
-  Bid: 5, Amount: 3600, Payout: 18000, Status: won

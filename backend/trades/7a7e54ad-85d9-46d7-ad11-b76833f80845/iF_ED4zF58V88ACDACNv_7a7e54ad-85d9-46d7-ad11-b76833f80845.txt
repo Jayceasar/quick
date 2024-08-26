@@ -1,9 +1,0 @@
-User ID: iF_ED4zF58V88ACDACNv
-User Name: robot
-Ticket ID: iF_ED4zF58V88ACDACNv_7a7e54ad-85d9-46d7-ad11-b76833f80845
-Total Bid Amount: 1300
-Total Earnings: 0
-Profit/Loss: -1300
-
-Breakdown:
-  Bid: 5, Amount: 1300, Payout: 6500, Status: lost

@@ -1,9 +1,0 @@
-User ID: Py0yc7sFr3pxuE14AA9h
-User Name: robot
-Ticket ID: Py0yc7sFr3pxuE14AA9h_5092f0aa-69e0-4bf1-a90f-11d059a29664
-Total Bid Amount: 1600
-Total Earnings: 0
-Profit/Loss: -1600
-
-Breakdown:
-  Bid: 5, Amount: 1600, Payout: 8000, Status: lost

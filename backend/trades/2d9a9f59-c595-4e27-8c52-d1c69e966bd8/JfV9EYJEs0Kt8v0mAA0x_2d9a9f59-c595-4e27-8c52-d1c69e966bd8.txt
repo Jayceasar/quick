@@ -1,9 +1,0 @@
-User ID: JfV9EYJEs0Kt8v0mAA0x
-User Name: robot
-Ticket ID: JfV9EYJEs0Kt8v0mAA0x_2d9a9f59-c595-4e27-8c52-d1c69e966bd8
-Total Bid Amount: 2200
-Total Earnings: 0
-Profit/Loss: -2200
-
-Breakdown:
-  Bid: 3, Amount: 2200, Payout: 11000, Status: lost

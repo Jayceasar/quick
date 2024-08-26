@@ -1,9 +1,0 @@
-User ID: awyhQrvMTWp-vBOkACB7
-User Name: robot
-Ticket ID: awyhQrvMTWp-vBOkACB7_ef9d3ae9-a88c-4fb9-930e-c91af760bffa
-Total Bid Amount: 2400
-Total Earnings: 0
-Profit/Loss: -2400
-
-Breakdown:
-  Bid: 1, Amount: 2400, Payout: 12000, Status: lost

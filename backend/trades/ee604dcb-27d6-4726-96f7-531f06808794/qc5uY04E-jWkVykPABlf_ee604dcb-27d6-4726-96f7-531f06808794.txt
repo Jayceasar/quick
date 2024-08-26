@@ -1,9 +1,0 @@
-User ID: qc5uY04E-jWkVykPABlf
-User Name: robot
-Ticket ID: qc5uY04E-jWkVykPABlf_ee604dcb-27d6-4726-96f7-531f06808794
-Total Bid Amount: 9400
-Total Earnings: 0
-Profit/Loss: -9400
-
-Breakdown:
-  Bid: 3, Amount: 9400, Payout: 47000, Status: lost

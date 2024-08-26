@@ -1,9 +1,0 @@
-User ID: H6D6wLMMOzAse4TCAAgu
-User Name: robot
-Ticket ID: H6D6wLMMOzAse4TCAAgu_68f7215f-54a3-4d9e-9251-fc2476209693
-Total Bid Amount: 4300
-Total Earnings: 21500
-Profit/Loss: 17200
-
-Breakdown:
-  Bid: 1, Amount: 4300, Payout: 21500, Status: won

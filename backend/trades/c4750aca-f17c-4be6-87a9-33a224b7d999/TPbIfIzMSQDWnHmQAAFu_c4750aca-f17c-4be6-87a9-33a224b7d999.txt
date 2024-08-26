@@ -1,9 +1,0 @@
-User ID: TPbIfIzMSQDWnHmQAAFu
-User Name: robot
-Ticket ID: TPbIfIzMSQDWnHmQAAFu_c4750aca-f17c-4be6-87a9-33a224b7d999
-Total Bid Amount: 5000
-Total Earnings: 0
-Profit/Loss: -5000
-
-Breakdown:
-  Bid: 4, Amount: 5000, Payout: 25000, Status: lost

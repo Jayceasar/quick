@@ -1,9 +1,0 @@
-User ID: cRSzfRYwK_ODGaQ2AB_I
-User Name: robot
-Ticket ID: cRSzfRYwK_ODGaQ2AB_I_a6e522d6-4ff1-4343-a340-6a8e44e26daa
-Total Bid Amount: 8200
-Total Earnings: 41000
-Profit/Loss: 32800
-
-Breakdown:
-  Bid: 1, Amount: 8200, Payout: 41000, Status: won

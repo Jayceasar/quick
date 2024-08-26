@@ -1,9 +1,0 @@
-User ID: sQOfQ7IYeLJjrpimABm8
-User Name: robot
-Ticket ID: sQOfQ7IYeLJjrpimABm8_16544f5b-1f99-42fc-955f-4a4f35434ec1
-Total Bid Amount: 4600
-Total Earnings: 0
-Profit/Loss: -4600
-
-Breakdown:
-  Bid: 4, Amount: 4600, Payout: 23000, Status: lost

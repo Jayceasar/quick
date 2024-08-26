@@ -1,9 +1,0 @@
-User ID: 8k59VFJXteau3E46AB2m
-User Name: robot
-Ticket ID: 8k59VFJXteau3E46AB2m_44666ccb-6626-428d-95d3-f7a7a00e87a7
-Total Bid Amount: 5500
-Total Earnings: 0
-Profit/Loss: -5500
-
-Breakdown:
-  Bid: 4, Amount: 5500, Payout: 27500, Status: lost

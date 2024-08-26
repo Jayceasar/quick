@@ -1,9 +1,0 @@
-User ID: 0mjO_4SzBu9v8LK5ACPC
-User Name: robot
-Ticket ID: 0mjO_4SzBu9v8LK5ACPC_d6fe369a-9e2f-42a2-b09f-043f377d512c
-Total Bid Amount: 5400
-Total Earnings: 0
-Profit/Loss: -5400
-
-Breakdown:
-  Bid: 4, Amount: 5400, Payout: 27000, Status: lost

@@ -1,9 +1,0 @@
-User ID: Cpk0fd0Pt7dYxlyVAAV0
-User Name: robot
-Ticket ID: Cpk0fd0Pt7dYxlyVAAV0_dcb97303-c131-46b3-b018-cdc9fad52521
-Total Bid Amount: 9600
-Total Earnings: 0
-Profit/Loss: -9600
-
-Breakdown:
-  Bid: 2, Amount: 9600, Payout: 48000, Status: lost

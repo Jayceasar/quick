@@ -1,9 +1,0 @@
-User ID: 3x004WRPPSKHosyPAAx7
-User Name: robot
-Ticket ID: 3x004WRPPSKHosyPAAx7_d05e861f-f27e-4864-af86-257c4b623e47
-Total Bid Amount: 8500
-Total Earnings: 0
-Profit/Loss: -8500
-
-Breakdown:
-  Bid: 4, Amount: 8500, Payout: 42500, Status: lost

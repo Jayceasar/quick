@@ -1,9 +1,0 @@
-User ID: SMnri6McTDqRXZt2AAHi
-User Name: robot
-Ticket ID: SMnri6McTDqRXZt2AAHi_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 1800
-Total Earnings: 0
-Profit/Loss: -1800
-
-Breakdown:
-  Bid: 6, Amount: 1800, Payout: 9000, Status: lost

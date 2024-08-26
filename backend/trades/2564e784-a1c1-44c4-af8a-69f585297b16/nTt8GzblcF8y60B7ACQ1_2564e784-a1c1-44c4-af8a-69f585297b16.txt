@@ -1,9 +1,0 @@
-User ID: nTt8GzblcF8y60B7ACQ1
-User Name: robot
-Ticket ID: nTt8GzblcF8y60B7ACQ1_2564e784-a1c1-44c4-af8a-69f585297b16
-Total Bid Amount: 2100
-Total Earnings: 0
-Profit/Loss: -2100
-
-Breakdown:
-  Bid: 3, Amount: 2100, Payout: 10500, Status: lost

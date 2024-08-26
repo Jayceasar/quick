@@ -1,9 +1,0 @@
-User ID: 4rYB-OzFTv9Zo6dGAAV9
-User Name: robot
-Ticket ID: 4rYB-OzFTv9Zo6dGAAV9_ed17dce3-517e-47c2-a522-ca0bfdecb52d
-Total Bid Amount: 1300
-Total Earnings: 0
-Profit/Loss: -1300
-
-Breakdown:
-  Bid: 5, Amount: 1300, Payout: 6500, Status: lost

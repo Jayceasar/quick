@@ -1,9 +1,0 @@
-User ID: INwXnTzoAA1ZvYzAAAOc
-User Name: robot
-Ticket ID: INwXnTzoAA1ZvYzAAAOc_37c5d6ff-88c8-4fb6-a9db-bee3fcec589b
-Total Bid Amount: 2700
-Total Earnings: 13500
-Profit/Loss: 10800
-
-Breakdown:
-  Bid: 4, Amount: 2700, Payout: 13500, Status: won

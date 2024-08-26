@@ -1,9 +1,0 @@
-User ID: 9rQFc_oCOppRga2aAA-u
-User Name: robot
-Ticket ID: 9rQFc_oCOppRga2aAA-u_5092f0aa-69e0-4bf1-a90f-11d059a29664
-Total Bid Amount: 6400
-Total Earnings: 0
-Profit/Loss: -6400
-
-Breakdown:
-  Bid: 5, Amount: 6400, Payout: 32000, Status: lost

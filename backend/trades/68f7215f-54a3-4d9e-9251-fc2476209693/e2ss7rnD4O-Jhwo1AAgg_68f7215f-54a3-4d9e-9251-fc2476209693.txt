@@ -1,9 +1,0 @@
-User ID: e2ss7rnD4O-Jhwo1AAgg
-User Name: robot
-Ticket ID: e2ss7rnD4O-Jhwo1AAgg_68f7215f-54a3-4d9e-9251-fc2476209693
-Total Bid Amount: 5400
-Total Earnings: 0
-Profit/Loss: -5400
-
-Breakdown:
-  Bid: 6, Amount: 5400, Payout: 27000, Status: lost

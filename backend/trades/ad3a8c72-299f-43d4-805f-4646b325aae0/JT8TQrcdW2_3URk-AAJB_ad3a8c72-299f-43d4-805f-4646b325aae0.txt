@@ -1,9 +1,0 @@
-User ID: JT8TQrcdW2_3URk-AAJB
-User Name: robot
-Ticket ID: JT8TQrcdW2_3URk-AAJB_ad3a8c72-299f-43d4-805f-4646b325aae0
-Total Bid Amount: 1200
-Total Earnings: 0
-Profit/Loss: -1200
-
-Breakdown:
-  Bid: 2, Amount: 1200, Payout: 6000, Status: lost

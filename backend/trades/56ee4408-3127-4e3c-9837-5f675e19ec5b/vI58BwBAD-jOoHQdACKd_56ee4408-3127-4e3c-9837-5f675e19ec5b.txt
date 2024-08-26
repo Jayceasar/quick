@@ -1,9 +1,0 @@
-User ID: vI58BwBAD-jOoHQdACKd
-User Name: robot
-Ticket ID: vI58BwBAD-jOoHQdACKd_56ee4408-3127-4e3c-9837-5f675e19ec5b
-Total Bid Amount: 2900
-Total Earnings: 0
-Profit/Loss: -2900
-
-Breakdown:
-  Bid: 4, Amount: 2900, Payout: 14500, Status: lost

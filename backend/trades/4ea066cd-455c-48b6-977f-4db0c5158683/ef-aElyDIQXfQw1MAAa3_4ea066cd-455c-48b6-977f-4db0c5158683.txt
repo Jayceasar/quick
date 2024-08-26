@@ -1,9 +1,0 @@
-User ID: ef-aElyDIQXfQw1MAAa3
-User Name: robot
-Ticket ID: ef-aElyDIQXfQw1MAAa3_4ea066cd-455c-48b6-977f-4db0c5158683
-Total Bid Amount: 9600
-Total Earnings: 0
-Profit/Loss: -9600
-
-Breakdown:
-  Bid: 4, Amount: 9600, Payout: 48000, Status: lost

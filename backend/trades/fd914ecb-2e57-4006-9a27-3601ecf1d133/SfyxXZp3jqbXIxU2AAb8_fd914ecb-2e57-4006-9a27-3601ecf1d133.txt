@@ -1,9 +1,0 @@
-User ID: SfyxXZp3jqbXIxU2AAb8
-User Name: robot
-Ticket ID: SfyxXZp3jqbXIxU2AAb8_fd914ecb-2e57-4006-9a27-3601ecf1d133
-Total Bid Amount: 5900
-Total Earnings: 0
-Profit/Loss: -5900
-
-Breakdown:
-  Bid: 2, Amount: 5900, Payout: 29500, Status: lost

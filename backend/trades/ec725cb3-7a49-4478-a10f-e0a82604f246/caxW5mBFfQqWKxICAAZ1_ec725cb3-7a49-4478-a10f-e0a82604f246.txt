@@ -1,9 +1,0 @@
-User ID: caxW5mBFfQqWKxICAAZ1
-User Name: robot
-Ticket ID: caxW5mBFfQqWKxICAAZ1_ec725cb3-7a49-4478-a10f-e0a82604f246
-Total Bid Amount: 6300
-Total Earnings: 0
-Profit/Loss: -6300
-
-Breakdown:
-  Bid: 6, Amount: 6300, Payout: 31500, Status: lost

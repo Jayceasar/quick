@@ -1,9 +1,0 @@
-User ID: odrhyr2mrgEYJg3tAA9G
-User Name: robot
-Ticket ID: odrhyr2mrgEYJg3tAA9G_73e52ea7-53a0-471d-a88d-2ad368de3cb4
-Total Bid Amount: 1900
-Total Earnings: 0
-Profit/Loss: -1900
-
-Breakdown:
-  Bid: 6, Amount: 1900, Payout: 9500, Status: lost

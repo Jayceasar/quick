@@ -1,9 +1,0 @@
-User ID: kzjqnXoPC8mIkjzbAAjT
-User Name: robot
-Ticket ID: kzjqnXoPC8mIkjzbAAjT_16e16623-0a48-40cc-8945-862aa10b83a3
-Total Bid Amount: 7900
-Total Earnings: 0
-Profit/Loss: -7900
-
-Breakdown:
-  Bid: 6, Amount: 7900, Payout: 39500, Status: lost

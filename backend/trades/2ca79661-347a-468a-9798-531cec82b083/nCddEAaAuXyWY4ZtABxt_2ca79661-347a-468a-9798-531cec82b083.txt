@@ -1,9 +1,0 @@
-User ID: nCddEAaAuXyWY4ZtABxt
-User Name: robot
-Ticket ID: nCddEAaAuXyWY4ZtABxt_2ca79661-347a-468a-9798-531cec82b083
-Total Bid Amount: 4400
-Total Earnings: 0
-Profit/Loss: -4400
-
-Breakdown:
-  Bid: 3, Amount: 4400, Payout: 22000, Status: lost

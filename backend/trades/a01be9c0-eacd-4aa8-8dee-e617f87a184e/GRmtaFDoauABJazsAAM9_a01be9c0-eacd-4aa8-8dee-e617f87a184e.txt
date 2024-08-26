@@ -1,9 +1,0 @@
-User ID: GRmtaFDoauABJazsAAM9
-User Name: robot
-Ticket ID: GRmtaFDoauABJazsAAM9_a01be9c0-eacd-4aa8-8dee-e617f87a184e
-Total Bid Amount: 9300
-Total Earnings: 0
-Profit/Loss: -9300
-
-Breakdown:
-  Bid: 4, Amount: 9300, Payout: 46500, Status: lost

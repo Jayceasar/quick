@@ -1,9 +1,0 @@
-User ID: 5gshV4GHqbzXFmtZAAi1
-User Name: robot
-Ticket ID: 5gshV4GHqbzXFmtZAAi1_7edcaff6-689d-4d3c-9b04-4e875243c108
-Total Bid Amount: 5800
-Total Earnings: 29000
-Profit/Loss: 23200
-
-Breakdown:
-  Bid: 2, Amount: 5800, Payout: 29000, Status: won

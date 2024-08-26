@@ -1,9 +1,0 @@
-User ID: JAq4vutsqzcgfdSqAAcB
-User Name: robot
-Ticket ID: JAq4vutsqzcgfdSqAAcB_ac39253e-389b-40af-bf23-283e69c7f92d
-Total Bid Amount: 400
-Total Earnings: 0
-Profit/Loss: -400
-
-Breakdown:
-  Bid: 4, Amount: 400, Payout: 2000, Status: lost

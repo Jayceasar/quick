@@ -1,9 +1,0 @@
-User ID: u-ZyD84h5ZDqF_idAB_O
-User Name: robot
-Ticket ID: u-ZyD84h5ZDqF_idAB_O_b139540f-748f-4ef4-96bf-eba631dd2ec8
-Total Bid Amount: 6600
-Total Earnings: 0
-Profit/Loss: -6600
-
-Breakdown:
-  Bid: 1, Amount: 6600, Payout: 33000, Status: lost

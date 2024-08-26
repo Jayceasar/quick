@@ -1,9 +1,0 @@
-User ID: 1CW1zj9MYKQYJ7LOAAaH
-User Name: robot
-Ticket ID: 1CW1zj9MYKQYJ7LOAAaH_f4cf4c3f-d9ae-4795-8b4a-b94bad6521aa
-Total Bid Amount: 2700
-Total Earnings: 0
-Profit/Loss: -2700
-
-Breakdown:
-  Bid: 5, Amount: 2700, Payout: 13500, Status: lost

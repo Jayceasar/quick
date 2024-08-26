@@ -1,9 +1,0 @@
-User ID: uLRI-NbBuqT_UPFeABeb
-User Name: robot
-Ticket ID: uLRI-NbBuqT_UPFeABeb_b71afa21-42c7-4762-9e52-e830dc5025da
-Total Bid Amount: 6800
-Total Earnings: 0
-Profit/Loss: -6800
-
-Breakdown:
-  Bid: 6, Amount: 6800, Payout: 34000, Status: lost

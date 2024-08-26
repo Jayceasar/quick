@@ -1,9 +1,0 @@
-User ID: VXTU6ARFfPe-8zSjABJj
-User Name: robot
-Ticket ID: VXTU6ARFfPe-8zSjABJj_692b2a95-b090-4fc1-ad37-195b1ac2aba1
-Total Bid Amount: 9000
-Total Earnings: 0
-Profit/Loss: -9000
-
-Breakdown:
-  Bid: 4, Amount: 9000, Payout: 45000, Status: lost

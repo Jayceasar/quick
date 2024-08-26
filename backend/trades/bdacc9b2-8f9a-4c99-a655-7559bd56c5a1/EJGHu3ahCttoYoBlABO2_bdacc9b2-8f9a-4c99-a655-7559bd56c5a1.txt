@@ -1,9 +1,0 @@
-User ID: EJGHu3ahCttoYoBlABO2
-User Name: robot
-Ticket ID: EJGHu3ahCttoYoBlABO2_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
-Total Bid Amount: 9700
-Total Earnings: 0
-Profit/Loss: -9700
-
-Breakdown:
-  Bid: 1, Amount: 9700, Payout: 48500, Status: lost

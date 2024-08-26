@@ -1,9 +1,0 @@
-User ID: zxGEuQaK46Fu7q7VABtC
-User Name: robot
-Ticket ID: zxGEuQaK46Fu7q7VABtC_7a1cf374-3b0b-47a8-92f4-370088b1d70d
-Total Bid Amount: 10000
-Total Earnings: 0
-Profit/Loss: -10000
-
-Breakdown:
-  Bid: 6, Amount: 10000, Payout: 50000, Status: lost

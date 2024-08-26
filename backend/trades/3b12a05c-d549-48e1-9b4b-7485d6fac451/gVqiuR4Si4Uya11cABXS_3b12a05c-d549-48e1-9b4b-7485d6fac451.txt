@@ -1,9 +1,0 @@
-User ID: gVqiuR4Si4Uya11cABXS
-User Name: robot
-Ticket ID: gVqiuR4Si4Uya11cABXS_3b12a05c-d549-48e1-9b4b-7485d6fac451
-Total Bid Amount: 1100
-Total Earnings: 5500
-Profit/Loss: 4400
-
-Breakdown:
-  Bid: 1, Amount: 1100, Payout: 5500, Status: won

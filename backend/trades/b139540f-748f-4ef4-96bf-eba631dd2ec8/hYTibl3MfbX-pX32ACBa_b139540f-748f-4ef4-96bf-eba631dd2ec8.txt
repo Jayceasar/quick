@@ -1,9 +1,0 @@
-User ID: hYTibl3MfbX-pX32ACBa
-User Name: robot
-Ticket ID: hYTibl3MfbX-pX32ACBa_b139540f-748f-4ef4-96bf-eba631dd2ec8
-Total Bid Amount: 4600
-Total Earnings: 0
-Profit/Loss: -4600
-
-Breakdown:
-  Bid: 5, Amount: 4600, Payout: 23000, Status: lost

@@ -1,9 +1,0 @@
-User ID: TV71STPY4adVwG3hABKO
-User Name: robot
-Ticket ID: TV71STPY4adVwG3hABKO_a9db52cd-6733-4195-be60-3550b912c428
-Total Bid Amount: 4700
-Total Earnings: 23500
-Profit/Loss: 18800
-
-Breakdown:
-  Bid: 1, Amount: 4700, Payout: 23500, Status: won

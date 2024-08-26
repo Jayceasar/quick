@@ -1,9 +1,0 @@
-User ID: Tjhp335TIQL3Pr-eAALE
-User Name: robot
-Ticket ID: Tjhp335TIQL3Pr-eAALE_ad3a8c72-299f-43d4-805f-4646b325aae0
-Total Bid Amount: 2800
-Total Earnings: 0
-Profit/Loss: -2800
-
-Breakdown:
-  Bid: 6, Amount: 2800, Payout: 14000, Status: lost

@@ -1,9 +1,0 @@
-User ID: -uNwbsQuguP2xm8PACPN
-User Name: robot
-Ticket ID: -uNwbsQuguP2xm8PACPN_c9f2fd60-e777-437e-b2b0-409995884098
-Total Bid Amount: 8600
-Total Earnings: 0
-Profit/Loss: -8600
-
-Breakdown:
-  Bid: 2, Amount: 8600, Payout: 43000, Status: lost

@@ -1,9 +1,0 @@
-User ID: D4GCiIIveLBD21sTAA-E
-User Name: robot
-Ticket ID: D4GCiIIveLBD21sTAA-E_5092f0aa-69e0-4bf1-a90f-11d059a29664
-Total Bid Amount: 4300
-Total Earnings: 0
-Profit/Loss: -4300
-
-Breakdown:
-  Bid: 4, Amount: 4300, Payout: 21500, Status: lost

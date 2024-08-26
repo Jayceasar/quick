@@ -1,9 +1,0 @@
-User ID: 50TfMeAIg6AWu2_5AAGv
-User Name: robot
-Ticket ID: 50TfMeAIg6AWu2_5AAGv_bb5e3028-8c52-4b98-a381-0c2c68383464
-Total Bid Amount: 100
-Total Earnings: 500
-Profit/Loss: 400
-
-Breakdown:
-  Bid: 6, Amount: 100, Payout: 500, Status: won

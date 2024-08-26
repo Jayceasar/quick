@@ -1,9 +1,0 @@
-User ID: v8uX6DZam-kbWeEgABWP
-User Name: robot
-Ticket ID: v8uX6DZam-kbWeEgABWP_8fa77666-9d7f-4032-9eb6-68ecb3f56761
-Total Bid Amount: 4500
-Total Earnings: 0
-Profit/Loss: -4500
-
-Breakdown:
-  Bid: 2, Amount: 4500, Payout: 22500, Status: lost

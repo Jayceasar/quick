@@ -1,9 +1,0 @@
-User ID: ZcKbUpp8RFU218pxACRB
-User Name: robot
-Ticket ID: ZcKbUpp8RFU218pxACRB_9082c200-6f8a-4211-92ae-c09350af156d
-Total Bid Amount: 7700
-Total Earnings: 38500
-Profit/Loss: 30800
-
-Breakdown:
-  Bid: 1, Amount: 7700, Payout: 38500, Status: won

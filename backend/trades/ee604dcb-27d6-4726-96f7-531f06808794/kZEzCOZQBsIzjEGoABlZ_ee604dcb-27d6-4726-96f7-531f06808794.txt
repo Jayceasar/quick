@@ -1,9 +1,0 @@
-User ID: kZEzCOZQBsIzjEGoABlZ
-User Name: robot
-Ticket ID: kZEzCOZQBsIzjEGoABlZ_ee604dcb-27d6-4726-96f7-531f06808794
-Total Bid Amount: 9000
-Total Earnings: 45000
-Profit/Loss: 36000
-
-Breakdown:
-  Bid: 4, Amount: 9000, Payout: 45000, Status: won

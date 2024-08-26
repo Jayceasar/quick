@@ -1,9 +1,0 @@
-User ID: x-5TQxPdoxUm3ocdABqE
-User Name: robot
-Ticket ID: x-5TQxPdoxUm3ocdABqE_c901059c-d365-4652-9ffb-306f75be1174
-Total Bid Amount: 9100
-Total Earnings: 0
-Profit/Loss: -9100
-
-Breakdown:
-  Bid: 5, Amount: 9100, Payout: 45500, Status: lost

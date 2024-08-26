@@ -1,9 +1,0 @@
-User ID: kQN7jXPr4w4ndS63ACKx
-User Name: robot
-Ticket ID: kQN7jXPr4w4ndS63ACKx_56ee4408-3127-4e3c-9837-5f675e19ec5b
-Total Bid Amount: 800
-Total Earnings: 0
-Profit/Loss: -800
-
-Breakdown:
-  Bid: 5, Amount: 800, Payout: 4000, Status: lost

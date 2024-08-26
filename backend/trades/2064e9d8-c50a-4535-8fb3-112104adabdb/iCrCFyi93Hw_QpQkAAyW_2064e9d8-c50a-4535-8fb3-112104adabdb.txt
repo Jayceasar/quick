@@ -1,9 +1,0 @@
-User ID: iCrCFyi93Hw_QpQkAAyW
-User Name: robot
-Ticket ID: iCrCFyi93Hw_QpQkAAyW_2064e9d8-c50a-4535-8fb3-112104adabdb
-Total Bid Amount: 1900
-Total Earnings: 9500
-Profit/Loss: 7600
-
-Breakdown:
-  Bid: 5, Amount: 1900, Payout: 9500, Status: won

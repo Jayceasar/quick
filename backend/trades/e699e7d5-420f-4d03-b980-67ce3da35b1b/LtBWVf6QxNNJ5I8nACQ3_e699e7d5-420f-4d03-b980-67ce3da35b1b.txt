@@ -1,9 +1,0 @@
-User ID: LtBWVf6QxNNJ5I8nACQ3
-User Name: robot
-Ticket ID: LtBWVf6QxNNJ5I8nACQ3_e699e7d5-420f-4d03-b980-67ce3da35b1b
-Total Bid Amount: 2700
-Total Earnings: 0
-Profit/Loss: -2700
-
-Breakdown:
-  Bid: 1, Amount: 2700, Payout: 13500, Status: lost

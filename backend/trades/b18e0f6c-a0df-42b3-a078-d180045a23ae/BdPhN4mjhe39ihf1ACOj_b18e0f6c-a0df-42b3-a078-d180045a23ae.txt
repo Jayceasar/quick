@@ -1,9 +1,0 @@
-User ID: BdPhN4mjhe39ihf1ACOj
-User Name: robot
-Ticket ID: BdPhN4mjhe39ihf1ACOj_b18e0f6c-a0df-42b3-a078-d180045a23ae
-Total Bid Amount: 10000
-Total Earnings: 0
-Profit/Loss: -10000
-
-Breakdown:
-  Bid: 5, Amount: 10000, Payout: 50000, Status: lost

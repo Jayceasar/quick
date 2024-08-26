@@ -1,9 +1,0 @@
-User ID: W46-LIv1ZFwSs3ceAByY
-User Name: robot
-Ticket ID: W46-LIv1ZFwSs3ceAByY_4e590ac0-442e-4e7c-bb69-b3985af4acef
-Total Bid Amount: 1300
-Total Earnings: 0
-Profit/Loss: -1300
-
-Breakdown:
-  Bid: 6, Amount: 1300, Payout: 6500, Status: lost

@@ -1,9 +1,0 @@
-User ID: 4GFCoByX6YTpOgF8AAa2
-User Name: robot
-Ticket ID: 4GFCoByX6YTpOgF8AAa2_7a85e992-2509-45aa-84c7-d86854db7bba
-Total Bid Amount: 5000
-Total Earnings: 0
-Profit/Loss: -5000
-
-Breakdown:
-  Bid: 3, Amount: 5000, Payout: 25000, Status: lost

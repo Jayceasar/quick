@@ -1,9 +1,0 @@
-User ID: PULlRyAu9jFTq23zAANa
-User Name: robot
-Ticket ID: PULlRyAu9jFTq23zAANa_3a3c9f6e-ea4d-4148-934a-d93cf7174bd3
-Total Bid Amount: 6900
-Total Earnings: 0
-Profit/Loss: -6900
-
-Breakdown:
-  Bid: 6, Amount: 6900, Payout: 34500, Status: lost

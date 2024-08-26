@@ -1,9 +1,0 @@
-User ID: HN66zMt22GH61r9fABeJ
-User Name: robot
-Ticket ID: HN66zMt22GH61r9fABeJ_b71afa21-42c7-4762-9e52-e830dc5025da
-Total Bid Amount: 400
-Total Earnings: 2000
-Profit/Loss: 1600
-
-Breakdown:
-  Bid: 2, Amount: 400, Payout: 2000, Status: won

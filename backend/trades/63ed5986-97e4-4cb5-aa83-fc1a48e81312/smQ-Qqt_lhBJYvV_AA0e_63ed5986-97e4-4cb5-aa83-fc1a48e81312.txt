@@ -1,9 +1,0 @@
-User ID: smQ-Qqt_lhBJYvV_AA0e
-User Name: robot
-Ticket ID: smQ-Qqt_lhBJYvV_AA0e_63ed5986-97e4-4cb5-aa83-fc1a48e81312
-Total Bid Amount: 4300
-Total Earnings: 0
-Profit/Loss: -4300
-
-Breakdown:
-  Bid: 1, Amount: 4300, Payout: 21500, Status: lost

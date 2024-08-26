@@ -1,9 +1,0 @@
-User ID: Y6Rc78spe_1kSVUtABY3
-User Name: robot
-Ticket ID: Y6Rc78spe_1kSVUtABY3_fb86114f-5de4-4582-b36e-777fdfb617a6
-Total Bid Amount: 3600
-Total Earnings: 0
-Profit/Loss: -3600
-
-Breakdown:
-  Bid: 2, Amount: 3600, Payout: 18000, Status: lost

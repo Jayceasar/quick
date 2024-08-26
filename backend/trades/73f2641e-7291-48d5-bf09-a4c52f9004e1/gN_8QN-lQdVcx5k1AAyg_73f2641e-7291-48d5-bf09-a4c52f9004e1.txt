@@ -1,9 +1,0 @@
-User ID: gN_8QN-lQdVcx5k1AAyg
-User Name: robot
-Ticket ID: gN_8QN-lQdVcx5k1AAyg_73f2641e-7291-48d5-bf09-a4c52f9004e1
-Total Bid Amount: 7600
-Total Earnings: 38000
-Profit/Loss: 30400
-
-Breakdown:
-  Bid: 2, Amount: 7600, Payout: 38000, Status: won

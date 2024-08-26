@@ -1,9 +1,0 @@
-User ID: 7rJMmzYHdnBv31eBAAhX
-User Name: robot
-Ticket ID: 7rJMmzYHdnBv31eBAAhX_7f98a070-8bf4-4a36-ac88-f1a4a7102cc1
-Total Bid Amount: 6900
-Total Earnings: 0
-Profit/Loss: -6900
-
-Breakdown:
-  Bid: 1, Amount: 6900, Payout: 34500, Status: lost

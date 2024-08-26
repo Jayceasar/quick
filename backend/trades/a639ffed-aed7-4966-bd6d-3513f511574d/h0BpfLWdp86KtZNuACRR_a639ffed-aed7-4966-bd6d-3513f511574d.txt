@@ -1,9 +1,0 @@
-User ID: h0BpfLWdp86KtZNuACRR
-User Name: robot
-Ticket ID: h0BpfLWdp86KtZNuACRR_a639ffed-aed7-4966-bd6d-3513f511574d
-Total Bid Amount: 2500
-Total Earnings: 0
-Profit/Loss: -2500
-
-Breakdown:
-  Bid: 3, Amount: 2500, Payout: 12500, Status: lost

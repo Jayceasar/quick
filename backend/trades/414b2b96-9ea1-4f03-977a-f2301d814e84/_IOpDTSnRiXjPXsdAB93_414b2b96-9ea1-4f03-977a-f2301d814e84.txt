@@ -1,9 +1,0 @@
-User ID: _IOpDTSnRiXjPXsdAB93
-User Name: robot
-Ticket ID: _IOpDTSnRiXjPXsdAB93_414b2b96-9ea1-4f03-977a-f2301d814e84
-Total Bid Amount: 2800
-Total Earnings: 0
-Profit/Loss: -2800
-
-Breakdown:
-  Bid: 5, Amount: 2800, Payout: 14000, Status: lost

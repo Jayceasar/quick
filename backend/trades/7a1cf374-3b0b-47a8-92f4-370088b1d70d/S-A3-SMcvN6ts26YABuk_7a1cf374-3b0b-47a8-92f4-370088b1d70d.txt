@@ -1,9 +1,0 @@
-User ID: S-A3-SMcvN6ts26YABuk
-User Name: robot
-Ticket ID: S-A3-SMcvN6ts26YABuk_7a1cf374-3b0b-47a8-92f4-370088b1d70d
-Total Bid Amount: 9800
-Total Earnings: 49000
-Profit/Loss: 39200
-
-Breakdown:
-  Bid: 2, Amount: 9800, Payout: 49000, Status: won

@@ -1,9 +1,0 @@
-User ID: CQ7JR5WBIDWjL-1jACBy
-User Name: robot
-Ticket ID: CQ7JR5WBIDWjL-1jACBy_56850f82-82b8-4cfb-888b-f0899476a0dd
-Total Bid Amount: 7500
-Total Earnings: 0
-Profit/Loss: -7500
-
-Breakdown:
-  Bid: 4, Amount: 7500, Payout: 37500, Status: lost

@@ -1,9 +1,0 @@
-User ID: 8o-EvQbucnza8xc5AB-T
-User Name: robot
-Ticket ID: 8o-EvQbucnza8xc5AB-T_48e48b91-a7f3-42a9-b98a-e8d202ad406b
-Total Bid Amount: 3500
-Total Earnings: 0
-Profit/Loss: -3500
-
-Breakdown:
-  Bid: 3, Amount: 3500, Payout: 17500, Status: lost

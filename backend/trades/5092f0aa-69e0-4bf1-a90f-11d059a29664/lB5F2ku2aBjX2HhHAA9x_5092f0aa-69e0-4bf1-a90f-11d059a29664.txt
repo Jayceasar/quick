@@ -1,9 +1,0 @@
-User ID: lB5F2ku2aBjX2HhHAA9x
-User Name: robot
-Ticket ID: lB5F2ku2aBjX2HhHAA9x_5092f0aa-69e0-4bf1-a90f-11d059a29664
-Total Bid Amount: 7900
-Total Earnings: 0
-Profit/Loss: -7900
-
-Breakdown:
-  Bid: 4, Amount: 7900, Payout: 39500, Status: lost

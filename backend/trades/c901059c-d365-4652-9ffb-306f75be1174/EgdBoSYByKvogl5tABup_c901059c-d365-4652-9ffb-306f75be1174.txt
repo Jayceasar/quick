@@ -1,9 +1,0 @@
-User ID: EgdBoSYByKvogl5tABup
-User Name: robot
-Ticket ID: EgdBoSYByKvogl5tABup_c901059c-d365-4652-9ffb-306f75be1174
-Total Bid Amount: 9900
-Total Earnings: 0
-Profit/Loss: -9900
-
-Breakdown:
-  Bid: 2, Amount: 9900, Payout: 49500, Status: lost

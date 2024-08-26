@@ -1,9 +1,0 @@
-User ID: F2xcSZTX7l_H7sxLAAEl
-User Name: robot
-Ticket ID: F2xcSZTX7l_H7sxLAAEl_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 1200
-Total Earnings: 0
-Profit/Loss: -1200
-
-Breakdown:
-  Bid: 3, Amount: 1200, Payout: 6000, Status: lost

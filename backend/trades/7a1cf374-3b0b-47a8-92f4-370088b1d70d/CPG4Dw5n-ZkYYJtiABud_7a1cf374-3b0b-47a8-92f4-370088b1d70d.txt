@@ -1,9 +1,0 @@
-User ID: CPG4Dw5n-ZkYYJtiABud
-User Name: robot
-Ticket ID: CPG4Dw5n-ZkYYJtiABud_7a1cf374-3b0b-47a8-92f4-370088b1d70d
-Total Bid Amount: 800
-Total Earnings: 0
-Profit/Loss: -800
-
-Breakdown:
-  Bid: 1, Amount: 800, Payout: 4000, Status: lost

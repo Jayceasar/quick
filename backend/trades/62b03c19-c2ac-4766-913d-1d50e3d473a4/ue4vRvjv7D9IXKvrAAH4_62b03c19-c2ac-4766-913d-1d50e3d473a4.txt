@@ -1,9 +1,0 @@
-User ID: ue4vRvjv7D9IXKvrAAH4
-User Name: robot
-Ticket ID: ue4vRvjv7D9IXKvrAAH4_62b03c19-c2ac-4766-913d-1d50e3d473a4
-Total Bid Amount: 7300
-Total Earnings: 0
-Profit/Loss: -7300
-
-Breakdown:
-  Bid: 4, Amount: 7300, Payout: 36500, Status: lost

@@ -1,9 +1,0 @@
-User ID: LqOllhabm1OUOk41AB_A
-User Name: robot
-Ticket ID: LqOllhabm1OUOk41AB_A_d32ea5b8-0e5c-4e10-afc1-1e45003030ee
-Total Bid Amount: 3800
-Total Earnings: 0
-Profit/Loss: -3800
-
-Breakdown:
-  Bid: 2, Amount: 3800, Payout: 19000, Status: lost

@@ -1,9 +1,0 @@
-User ID: 7uyI_Z8cMtHPbE1KABJo
-User Name: robot
-Ticket ID: 7uyI_Z8cMtHPbE1KABJo_692b2a95-b090-4fc1-ad37-195b1ac2aba1
-Total Bid Amount: 9000
-Total Earnings: 0
-Profit/Loss: -9000
-
-Breakdown:
-  Bid: 6, Amount: 9000, Payout: 45000, Status: lost

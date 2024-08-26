@@ -1,9 +1,0 @@
-User ID: etvWXtm2HcwP6a_cAB2j
-User Name: robot
-Ticket ID: etvWXtm2HcwP6a_cAB2j_01af48cf-5a07-4b4a-b906-5b1c32c765d1
-Total Bid Amount: 7900
-Total Earnings: 0
-Profit/Loss: -7900
-
-Breakdown:
-  Bid: 1, Amount: 7900, Payout: 39500, Status: lost

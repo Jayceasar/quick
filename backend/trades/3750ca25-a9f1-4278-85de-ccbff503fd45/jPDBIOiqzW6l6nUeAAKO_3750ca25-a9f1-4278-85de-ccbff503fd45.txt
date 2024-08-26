@@ -1,9 +1,0 @@
-User ID: jPDBIOiqzW6l6nUeAAKO
-User Name: robot
-Ticket ID: jPDBIOiqzW6l6nUeAAKO_3750ca25-a9f1-4278-85de-ccbff503fd45
-Total Bid Amount: 200
-Total Earnings: 1000
-Profit/Loss: 800
-
-Breakdown:
-  Bid: 6, Amount: 200, Payout: 1000, Status: won

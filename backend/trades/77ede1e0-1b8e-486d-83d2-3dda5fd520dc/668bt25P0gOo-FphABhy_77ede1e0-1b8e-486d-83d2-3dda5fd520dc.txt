@@ -1,9 +1,0 @@
-User ID: 668bt25P0gOo-FphABhy
-User Name: robot
-Ticket ID: 668bt25P0gOo-FphABhy_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
-Total Bid Amount: 1100
-Total Earnings: 0
-Profit/Loss: -1100
-
-Breakdown:
-  Bid: 5, Amount: 1100, Payout: 5500, Status: lost

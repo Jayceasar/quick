@@ -1,9 +1,0 @@
-User ID: yJvO2sbL0XqURay5AB98
-User Name: robot
-Ticket ID: yJvO2sbL0XqURay5AB98_c31ade6d-4388-40e1-8def-a0f98931b35e
-Total Bid Amount: 900
-Total Earnings: 4500
-Profit/Loss: 3600
-
-Breakdown:
-  Bid: 3, Amount: 900, Payout: 4500, Status: won

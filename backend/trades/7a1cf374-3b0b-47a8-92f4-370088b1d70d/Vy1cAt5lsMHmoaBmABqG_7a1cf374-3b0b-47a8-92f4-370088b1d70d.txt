@@ -1,9 +1,0 @@
-User ID: Vy1cAt5lsMHmoaBmABqG
-User Name: robot
-Ticket ID: Vy1cAt5lsMHmoaBmABqG_7a1cf374-3b0b-47a8-92f4-370088b1d70d
-Total Bid Amount: 7800
-Total Earnings: 0
-Profit/Loss: -7800
-
-Breakdown:
-  Bid: 5, Amount: 7800, Payout: 39000, Status: lost

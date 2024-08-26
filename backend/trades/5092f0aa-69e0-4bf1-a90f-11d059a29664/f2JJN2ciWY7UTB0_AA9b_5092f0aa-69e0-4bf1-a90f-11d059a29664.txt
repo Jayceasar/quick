@@ -1,9 +1,0 @@
-User ID: f2JJN2ciWY7UTB0_AA9b
-User Name: robot
-Ticket ID: f2JJN2ciWY7UTB0_AA9b_5092f0aa-69e0-4bf1-a90f-11d059a29664
-Total Bid Amount: 6400
-Total Earnings: 0
-Profit/Loss: -6400
-
-Breakdown:
-  Bid: 2, Amount: 6400, Payout: 32000, Status: lost

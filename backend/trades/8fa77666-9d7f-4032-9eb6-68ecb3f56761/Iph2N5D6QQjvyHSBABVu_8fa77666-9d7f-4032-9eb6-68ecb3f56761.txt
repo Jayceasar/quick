@@ -1,9 +1,0 @@
-User ID: Iph2N5D6QQjvyHSBABVu
-User Name: robot
-Ticket ID: Iph2N5D6QQjvyHSBABVu_8fa77666-9d7f-4032-9eb6-68ecb3f56761
-Total Bid Amount: 700
-Total Earnings: 3500
-Profit/Loss: 2800
-
-Breakdown:
-  Bid: 5, Amount: 700, Payout: 3500, Status: won

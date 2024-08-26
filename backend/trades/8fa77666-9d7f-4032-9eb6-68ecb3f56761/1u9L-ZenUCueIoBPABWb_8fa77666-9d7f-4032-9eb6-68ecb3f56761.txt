@@ -1,9 +1,0 @@
-User ID: 1u9L-ZenUCueIoBPABWb
-User Name: robot
-Ticket ID: 1u9L-ZenUCueIoBPABWb_8fa77666-9d7f-4032-9eb6-68ecb3f56761
-Total Bid Amount: 600
-Total Earnings: 0
-Profit/Loss: -600
-
-Breakdown:
-  Bid: 6, Amount: 600, Payout: 3000, Status: lost

@@ -1,9 +1,0 @@
-User ID: HCXDhODY7a90OzhYAAPL
-User Name: robot
-Ticket ID: HCXDhODY7a90OzhYAAPL_37c5d6ff-88c8-4fb6-a9db-bee3fcec589b
-Total Bid Amount: 6800
-Total Earnings: 0
-Profit/Loss: -6800
-
-Breakdown:
-  Bid: 5, Amount: 6800, Payout: 34000, Status: lost

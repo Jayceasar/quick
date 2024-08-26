@@ -1,9 +1,0 @@
-User ID: ELjdDP6haD09n_IbAA86
-User Name: robot
-Ticket ID: ELjdDP6haD09n_IbAA86_5092f0aa-69e0-4bf1-a90f-11d059a29664
-Total Bid Amount: 5400
-Total Earnings: 27000
-Profit/Loss: 21600
-
-Breakdown:
-  Bid: 1, Amount: 5400, Payout: 27000, Status: won

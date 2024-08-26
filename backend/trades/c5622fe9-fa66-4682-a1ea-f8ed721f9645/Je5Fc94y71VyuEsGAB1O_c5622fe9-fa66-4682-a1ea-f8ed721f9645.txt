@@ -1,9 +1,0 @@
-User ID: Je5Fc94y71VyuEsGAB1O
-User Name: robot
-Ticket ID: Je5Fc94y71VyuEsGAB1O_c5622fe9-fa66-4682-a1ea-f8ed721f9645
-Total Bid Amount: 5500
-Total Earnings: 0
-Profit/Loss: -5500
-
-Breakdown:
-  Bid: 2, Amount: 5500, Payout: 27500, Status: lost

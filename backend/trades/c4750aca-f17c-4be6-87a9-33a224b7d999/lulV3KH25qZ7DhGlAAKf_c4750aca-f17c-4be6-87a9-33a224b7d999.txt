@@ -1,9 +1,0 @@
-User ID: lulV3KH25qZ7DhGlAAKf
-User Name: robot
-Ticket ID: lulV3KH25qZ7DhGlAAKf_c4750aca-f17c-4be6-87a9-33a224b7d999
-Total Bid Amount: 2400
-Total Earnings: 0
-Profit/Loss: -2400
-
-Breakdown:
-  Bid: 6, Amount: 2400, Payout: 12000, Status: lost

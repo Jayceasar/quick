@@ -1,9 +1,0 @@
-User ID: qOfai2aV4MecYJHgABkt
-User Name: robot
-Ticket ID: qOfai2aV4MecYJHgABkt_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
-Total Bid Amount: 1500
-Total Earnings: 7500
-Profit/Loss: 6000
-
-Breakdown:
-  Bid: 3, Amount: 1500, Payout: 7500, Status: won

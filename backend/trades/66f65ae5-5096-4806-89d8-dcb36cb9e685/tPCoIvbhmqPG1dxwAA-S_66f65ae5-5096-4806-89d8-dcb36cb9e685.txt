@@ -1,9 +1,0 @@
-User ID: tPCoIvbhmqPG1dxwAA-S
-User Name: robot
-Ticket ID: tPCoIvbhmqPG1dxwAA-S_66f65ae5-5096-4806-89d8-dcb36cb9e685
-Total Bid Amount: 7500
-Total Earnings: 37500
-Profit/Loss: 30000
-
-Breakdown:
-  Bid: 5, Amount: 7500, Payout: 37500, Status: won

@@ -1,9 +1,0 @@
-User ID: udkeVPXsltquss13ACJL
-User Name: robot
-Ticket ID: udkeVPXsltquss13ACJL_8ed34477-6ab6-4e68-ad47-14130d8433cd
-Total Bid Amount: 7400
-Total Earnings: 0
-Profit/Loss: -7400
-
-Breakdown:
-  Bid: 6, Amount: 7400, Payout: 37000, Status: lost

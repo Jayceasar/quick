@@ -1,9 +1,0 @@
-User ID: pK7GE56mTzdtekXbAAiL
-User Name: robot
-Ticket ID: pK7GE56mTzdtekXbAAiL_16e16623-0a48-40cc-8945-862aa10b83a3
-Total Bid Amount: 5300
-Total Earnings: 0
-Profit/Loss: -5300
-
-Breakdown:
-  Bid: 4, Amount: 5300, Payout: 26500, Status: lost

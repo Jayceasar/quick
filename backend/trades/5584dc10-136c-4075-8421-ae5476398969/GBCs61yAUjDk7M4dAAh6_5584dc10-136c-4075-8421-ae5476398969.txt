@@ -1,9 +1,0 @@
-User ID: GBCs61yAUjDk7M4dAAh6
-User Name: robot
-Ticket ID: GBCs61yAUjDk7M4dAAh6_5584dc10-136c-4075-8421-ae5476398969
-Total Bid Amount: 2100
-Total Earnings: 0
-Profit/Loss: -2100
-
-Breakdown:
-  Bid: 1, Amount: 2100, Payout: 10500, Status: lost

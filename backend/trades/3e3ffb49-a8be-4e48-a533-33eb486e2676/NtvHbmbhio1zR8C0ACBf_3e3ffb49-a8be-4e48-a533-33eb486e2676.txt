@@ -1,9 +1,0 @@
-User ID: NtvHbmbhio1zR8C0ACBf
-User Name: robot
-Ticket ID: NtvHbmbhio1zR8C0ACBf_3e3ffb49-a8be-4e48-a533-33eb486e2676
-Total Bid Amount: 9800
-Total Earnings: 0
-Profit/Loss: -9800
-
-Breakdown:
-  Bid: 4, Amount: 9800, Payout: 49000, Status: lost

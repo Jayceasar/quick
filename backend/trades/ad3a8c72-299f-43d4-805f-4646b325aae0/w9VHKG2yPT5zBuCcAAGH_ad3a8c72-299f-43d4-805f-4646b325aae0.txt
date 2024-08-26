@@ -1,9 +1,0 @@
-User ID: w9VHKG2yPT5zBuCcAAGH
-User Name: robot
-Ticket ID: w9VHKG2yPT5zBuCcAAGH_ad3a8c72-299f-43d4-805f-4646b325aae0
-Total Bid Amount: 500
-Total Earnings: 0
-Profit/Loss: -500
-
-Breakdown:
-  Bid: 6, Amount: 500, Payout: 2500, Status: lost

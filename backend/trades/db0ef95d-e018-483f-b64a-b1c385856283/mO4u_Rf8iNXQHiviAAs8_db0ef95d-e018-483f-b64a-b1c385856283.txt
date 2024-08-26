@@ -1,9 +1,0 @@
-User ID: mO4u_Rf8iNXQHiviAAs8
-User Name: robot
-Ticket ID: mO4u_Rf8iNXQHiviAAs8_db0ef95d-e018-483f-b64a-b1c385856283
-Total Bid Amount: 8200
-Total Earnings: 0
-Profit/Loss: -8200
-
-Breakdown:
-  Bid: 6, Amount: 8200, Payout: 41000, Status: lost

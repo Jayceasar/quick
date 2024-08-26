@@ -1,9 +1,0 @@
-User ID: ibKqrRRbILrp1e7gAA8z
-User Name: robot
-Ticket ID: ibKqrRRbILrp1e7gAA8z_73e52ea7-53a0-471d-a88d-2ad368de3cb4
-Total Bid Amount: 6900
-Total Earnings: 0
-Profit/Loss: -6900
-
-Breakdown:
-  Bid: 4, Amount: 6900, Payout: 34500, Status: lost

@@ -1,9 +1,0 @@
-User ID: rPEIlAj6o7CVNnrsABSD
-User Name: robot
-Ticket ID: rPEIlAj6o7CVNnrsABSD_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
-Total Bid Amount: 3200
-Total Earnings: 0
-Profit/Loss: -3200
-
-Breakdown:
-  Bid: 5, Amount: 3200, Payout: 16000, Status: lost

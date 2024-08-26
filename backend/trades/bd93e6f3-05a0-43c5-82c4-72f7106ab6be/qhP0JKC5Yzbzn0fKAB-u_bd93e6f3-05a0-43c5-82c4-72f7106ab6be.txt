@@ -1,9 +1,0 @@
-User ID: qhP0JKC5Yzbzn0fKAB-u
-User Name: robot
-Ticket ID: qhP0JKC5Yzbzn0fKAB-u_bd93e6f3-05a0-43c5-82c4-72f7106ab6be
-Total Bid Amount: 4600
-Total Earnings: 0
-Profit/Loss: -4600
-
-Breakdown:
-  Bid: 2, Amount: 4600, Payout: 23000, Status: lost

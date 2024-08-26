@@ -1,9 +1,0 @@
-User ID: 1U0e00KolqKI-E0dAAtL
-User Name: robot
-Ticket ID: 1U0e00KolqKI-E0dAAtL_db0ef95d-e018-483f-b64a-b1c385856283
-Total Bid Amount: 8900
-Total Earnings: 44500
-Profit/Loss: 35600
-
-Breakdown:
-  Bid: 3, Amount: 8900, Payout: 44500, Status: won

@@ -1,9 +1,0 @@
-User ID: nanf60FC4y9qBWBzACOm
-User Name: robot
-Ticket ID: nanf60FC4y9qBWBzACOm_00ffb90f-d6da-4fb8-81c8-2ccdc7e179df
-Total Bid Amount: 7200
-Total Earnings: 0
-Profit/Loss: -7200
-
-Breakdown:
-  Bid: 5, Amount: 7200, Payout: 36000, Status: lost

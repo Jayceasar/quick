@@ -1,9 +1,0 @@
-User ID: ew0UMKlgRHi-wnooABWa
-User Name: robot
-Ticket ID: ew0UMKlgRHi-wnooABWa_a8e43219-fb0d-4493-bd00-d9f0476aecaf
-Total Bid Amount: 2300
-Total Earnings: 0
-Profit/Loss: -2300
-
-Breakdown:
-  Bid: 6, Amount: 2300, Payout: 11500, Status: lost

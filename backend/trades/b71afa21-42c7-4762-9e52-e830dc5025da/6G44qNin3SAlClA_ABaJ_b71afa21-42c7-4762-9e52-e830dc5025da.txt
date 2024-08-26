@@ -1,9 +1,0 @@
-User ID: 6G44qNin3SAlClA_ABaJ
-User Name: robot
-Ticket ID: 6G44qNin3SAlClA_ABaJ_b71afa21-42c7-4762-9e52-e830dc5025da
-Total Bid Amount: 8800
-Total Earnings: 0
-Profit/Loss: -8800
-
-Breakdown:
-  Bid: 5, Amount: 8800, Payout: 44000, Status: lost

@@ -1,9 +1,0 @@
-User ID: pp3byxkX07gq9FvZABZC
-User Name: robot
-Ticket ID: pp3byxkX07gq9FvZABZC_8fa77666-9d7f-4032-9eb6-68ecb3f56761
-Total Bid Amount: 7800
-Total Earnings: 0
-Profit/Loss: -7800
-
-Breakdown:
-  Bid: 2, Amount: 7800, Payout: 39000, Status: lost

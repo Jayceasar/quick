@@ -1,9 +1,0 @@
-User ID: _HVEumoyw0e6wnxZACN6
-User Name: robot
-Ticket ID: _HVEumoyw0e6wnxZACN6_b5b8e808-519f-4db5-9dd9-c0784bb48199
-Total Bid Amount: 9500
-Total Earnings: 0
-Profit/Loss: -9500
-
-Breakdown:
-  Bid: 1, Amount: 9500, Payout: 47500, Status: lost

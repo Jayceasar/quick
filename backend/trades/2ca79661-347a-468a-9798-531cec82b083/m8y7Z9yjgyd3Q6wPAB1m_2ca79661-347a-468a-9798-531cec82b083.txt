@@ -1,9 +1,0 @@
-User ID: m8y7Z9yjgyd3Q6wPAB1m
-User Name: robot
-Ticket ID: m8y7Z9yjgyd3Q6wPAB1m_2ca79661-347a-468a-9798-531cec82b083
-Total Bid Amount: 3900
-Total Earnings: 0
-Profit/Loss: -3900
-
-Breakdown:
-  Bid: 4, Amount: 3900, Payout: 19500, Status: lost

@@ -1,9 +1,0 @@
-User ID: Yc_5yuXYYOInh8LfAB-1
-User Name: robot
-Ticket ID: Yc_5yuXYYOInh8LfAB-1_d32ea5b8-0e5c-4e10-afc1-1e45003030ee
-Total Bid Amount: 2700
-Total Earnings: 0
-Profit/Loss: -2700
-
-Breakdown:
-  Bid: 2, Amount: 2700, Payout: 13500, Status: lost

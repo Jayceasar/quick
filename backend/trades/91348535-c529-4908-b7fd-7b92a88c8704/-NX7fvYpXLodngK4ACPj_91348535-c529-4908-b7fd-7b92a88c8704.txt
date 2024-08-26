@@ -1,9 +1,0 @@
-User ID: -NX7fvYpXLodngK4ACPj
-User Name: robot
-Ticket ID: -NX7fvYpXLodngK4ACPj_91348535-c529-4908-b7fd-7b92a88c8704
-Total Bid Amount: 6200
-Total Earnings: 0
-Profit/Loss: -6200
-
-Breakdown:
-  Bid: 6, Amount: 6200, Payout: 31000, Status: lost

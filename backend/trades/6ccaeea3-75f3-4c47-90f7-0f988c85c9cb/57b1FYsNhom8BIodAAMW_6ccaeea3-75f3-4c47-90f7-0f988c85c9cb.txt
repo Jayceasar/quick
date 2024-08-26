@@ -1,9 +1,0 @@
-User ID: 57b1FYsNhom8BIodAAMW
-User Name: robot
-Ticket ID: 57b1FYsNhom8BIodAAMW_6ccaeea3-75f3-4c47-90f7-0f988c85c9cb
-Total Bid Amount: 6700
-Total Earnings: 0
-Profit/Loss: -6700
-
-Breakdown:
-  Bid: 1, Amount: 6700, Payout: 33500, Status: lost

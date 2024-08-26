@@ -1,9 +1,0 @@
-User ID: 2ouRCATbIaiIv3EjACRP
-User Name: robot
-Ticket ID: 2ouRCATbIaiIv3EjACRP_2564e784-a1c1-44c4-af8a-69f585297b16
-Total Bid Amount: 9700
-Total Earnings: 0
-Profit/Loss: -9700
-
-Breakdown:
-  Bid: 5, Amount: 9700, Payout: 48500, Status: lost

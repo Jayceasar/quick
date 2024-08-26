@@ -1,9 +1,0 @@
-User ID: 5__75Q0zFlpyYiE5ABlI
-User Name: robot
-Ticket ID: 5__75Q0zFlpyYiE5ABlI_ee604dcb-27d6-4726-96f7-531f06808794
-Total Bid Amount: 1900
-Total Earnings: 0
-Profit/Loss: -1900
-
-Breakdown:
-  Bid: 5, Amount: 1900, Payout: 9500, Status: lost

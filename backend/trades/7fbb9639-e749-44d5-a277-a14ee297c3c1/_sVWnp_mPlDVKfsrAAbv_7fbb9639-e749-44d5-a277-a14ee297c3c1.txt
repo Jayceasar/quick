@@ -1,9 +1,0 @@
-User ID: _sVWnp_mPlDVKfsrAAbv
-User Name: robot
-Ticket ID: _sVWnp_mPlDVKfsrAAbv_7fbb9639-e749-44d5-a277-a14ee297c3c1
-Total Bid Amount: 2700
-Total Earnings: 13500
-Profit/Loss: 10800
-
-Breakdown:
-  Bid: 1, Amount: 2700, Payout: 13500, Status: won

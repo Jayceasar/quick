@@ -1,9 +1,0 @@
-User ID: 83m8KwlQwtxmPNTrAA2e
-User Name: robot
-Ticket ID: 83m8KwlQwtxmPNTrAA2e_d7f235bf-d254-4efd-894a-37a2ac2dbf1c
-Total Bid Amount: 2100
-Total Earnings: 0
-Profit/Loss: -2100
-
-Breakdown:
-  Bid: 2, Amount: 2100, Payout: 10500, Status: lost

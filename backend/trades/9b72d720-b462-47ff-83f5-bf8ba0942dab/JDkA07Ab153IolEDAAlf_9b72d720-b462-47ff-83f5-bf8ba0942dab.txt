@@ -1,9 +1,0 @@
-User ID: JDkA07Ab153IolEDAAlf
-User Name: robot
-Ticket ID: JDkA07Ab153IolEDAAlf_9b72d720-b462-47ff-83f5-bf8ba0942dab
-Total Bid Amount: 5200
-Total Earnings: 26000
-Profit/Loss: 20800
-
-Breakdown:
-  Bid: 5, Amount: 5200, Payout: 26000, Status: won

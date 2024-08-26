@@ -1,9 +1,0 @@
-User ID: cZo0Nwkf30Jlk2SQAB_L
-User Name: robot
-Ticket ID: cZo0Nwkf30Jlk2SQAB_L_9e24f89c-b94d-406e-8fa1-4dbbf1c9a8db
-Total Bid Amount: 3200
-Total Earnings: 0
-Profit/Loss: -3200
-
-Breakdown:
-  Bid: 6, Amount: 3200, Payout: 16000, Status: lost

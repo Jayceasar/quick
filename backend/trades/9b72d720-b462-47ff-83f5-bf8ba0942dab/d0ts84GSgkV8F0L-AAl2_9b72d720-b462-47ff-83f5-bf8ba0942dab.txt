@@ -1,9 +1,0 @@
-User ID: d0ts84GSgkV8F0L-AAl2
-User Name: robot
-Ticket ID: d0ts84GSgkV8F0L-AAl2_9b72d720-b462-47ff-83f5-bf8ba0942dab
-Total Bid Amount: 9200
-Total Earnings: 0
-Profit/Loss: -9200
-
-Breakdown:
-  Bid: 1, Amount: 9200, Payout: 46000, Status: lost

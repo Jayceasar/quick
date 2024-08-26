@@ -1,9 +1,0 @@
-User ID: BX2bWj_GCYK5UzE2ACO6
-User Name: robot
-Ticket ID: BX2bWj_GCYK5UzE2ACO6_2564e784-a1c1-44c4-af8a-69f585297b16
-Total Bid Amount: 6200
-Total Earnings: 0
-Profit/Loss: -6200
-
-Breakdown:
-  Bid: 1, Amount: 6200, Payout: 31000, Status: lost

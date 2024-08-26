@@ -1,9 +1,0 @@
-User ID: gP_aWxytPllIY5YJAAjc
-User Name: robot
-Ticket ID: gP_aWxytPllIY5YJAAjc_68f7215f-54a3-4d9e-9251-fc2476209693
-Total Bid Amount: 4300
-Total Earnings: 0
-Profit/Loss: -4300
-
-Breakdown:
-  Bid: 6, Amount: 4300, Payout: 21500, Status: lost

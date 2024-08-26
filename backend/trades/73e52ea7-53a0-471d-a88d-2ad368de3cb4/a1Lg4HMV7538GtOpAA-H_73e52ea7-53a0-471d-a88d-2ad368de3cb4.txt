@@ -1,9 +1,0 @@
-User ID: a1Lg4HMV7538GtOpAA-H
-User Name: robot
-Ticket ID: a1Lg4HMV7538GtOpAA-H_73e52ea7-53a0-471d-a88d-2ad368de3cb4
-Total Bid Amount: 2500
-Total Earnings: 0
-Profit/Loss: -2500
-
-Breakdown:
-  Bid: 6, Amount: 2500, Payout: 12500, Status: lost

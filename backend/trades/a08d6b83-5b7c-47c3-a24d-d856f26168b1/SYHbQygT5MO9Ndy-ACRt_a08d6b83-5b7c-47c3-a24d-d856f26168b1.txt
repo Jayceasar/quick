@@ -1,9 +1,0 @@
-User ID: SYHbQygT5MO9Ndy-ACRt
-User Name: robot
-Ticket ID: SYHbQygT5MO9Ndy-ACRt_a08d6b83-5b7c-47c3-a24d-d856f26168b1
-Total Bid Amount: 8600
-Total Earnings: 0
-Profit/Loss: -8600
-
-Breakdown:
-  Bid: 6, Amount: 8600, Payout: 43000, Status: lost

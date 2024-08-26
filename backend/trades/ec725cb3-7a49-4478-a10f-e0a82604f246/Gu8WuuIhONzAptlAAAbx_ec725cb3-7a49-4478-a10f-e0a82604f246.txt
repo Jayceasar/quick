@@ -1,9 +1,0 @@
-User ID: Gu8WuuIhONzAptlAAAbx
-User Name: robot
-Ticket ID: Gu8WuuIhONzAptlAAAbx_ec725cb3-7a49-4478-a10f-e0a82604f246
-Total Bid Amount: 9000
-Total Earnings: 45000
-Profit/Loss: 36000
-
-Breakdown:
-  Bid: 1, Amount: 9000, Payout: 45000, Status: won

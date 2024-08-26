@@ -1,9 +1,0 @@
-User ID: 5xyI42XvThwRWyiJAAmO
-User Name: robot
-Ticket ID: 5xyI42XvThwRWyiJAAmO_9b72d720-b462-47ff-83f5-bf8ba0942dab
-Total Bid Amount: 1900
-Total Earnings: 0
-Profit/Loss: -1900
-
-Breakdown:
-  Bid: 1, Amount: 1900, Payout: 9500, Status: lost

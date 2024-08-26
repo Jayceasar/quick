@@ -1,9 +1,0 @@
-User ID: L9aeOdGrkB1r5VjCABu0
-User Name: robot
-Ticket ID: L9aeOdGrkB1r5VjCABu0_c901059c-d365-4652-9ffb-306f75be1174
-Total Bid Amount: 9000
-Total Earnings: 45000
-Profit/Loss: 36000
-
-Breakdown:
-  Bid: 1, Amount: 9000, Payout: 45000, Status: won

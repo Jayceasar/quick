@@ -1,9 +1,0 @@
-User ID: b86-V3YKAyvMmqc1ACO8
-User Name: robot
-Ticket ID: b86-V3YKAyvMmqc1ACO8_e2f9ecd7-e371-479c-976d-2bd75a8384af
-Total Bid Amount: 5700
-Total Earnings: 0
-Profit/Loss: -5700
-
-Breakdown:
-  Bid: 3, Amount: 5700, Payout: 28500, Status: lost

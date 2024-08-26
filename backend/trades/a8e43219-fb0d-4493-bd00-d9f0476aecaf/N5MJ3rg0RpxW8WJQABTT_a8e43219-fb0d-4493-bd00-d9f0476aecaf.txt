@@ -1,9 +1,0 @@
-User ID: N5MJ3rg0RpxW8WJQABTT
-User Name: robot
-Ticket ID: N5MJ3rg0RpxW8WJQABTT_a8e43219-fb0d-4493-bd00-d9f0476aecaf
-Total Bid Amount: 4800
-Total Earnings: 0
-Profit/Loss: -4800
-
-Breakdown:
-  Bid: 1, Amount: 4800, Payout: 24000, Status: lost

@@ -1,9 +1,0 @@
-User ID: sfKl0HBkzihPrEdFABPr
-User Name: robot
-Ticket ID: sfKl0HBkzihPrEdFABPr_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
-Total Bid Amount: 7000
-Total Earnings: 35000
-Profit/Loss: 28000
-
-Breakdown:
-  Bid: 3, Amount: 7000, Payout: 35000, Status: won

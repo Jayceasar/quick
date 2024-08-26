@@ -1,9 +1,0 @@
-User ID: M0FYNVEC9j4OWeevACJQ
-User Name: robot
-Ticket ID: M0FYNVEC9j4OWeevACJQ_7f17eed6-7359-4dae-af38-f93e4d907ad3
-Total Bid Amount: 7500
-Total Earnings: 0
-Profit/Loss: -7500
-
-Breakdown:
-  Bid: 5, Amount: 7500, Payout: 37500, Status: lost

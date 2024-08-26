@@ -1,9 +1,0 @@
-User ID: iWWmbMgwSiu09ERtABx-
-User Name: robot
-Ticket ID: iWWmbMgwSiu09ERtABx-_44666ccb-6626-428d-95d3-f7a7a00e87a7
-Total Bid Amount: 2000
-Total Earnings: 0
-Profit/Loss: -2000
-
-Breakdown:
-  Bid: 3, Amount: 2000, Payout: 10000, Status: lost

@@ -1,9 +1,0 @@
-User ID: P3gnv5qQi-rCWpl2ABXh
-User Name: robot
-Ticket ID: P3gnv5qQi-rCWpl2ABXh_3b12a05c-d549-48e1-9b4b-7485d6fac451
-Total Bid Amount: 100
-Total Earnings: 0
-Profit/Loss: -100
-
-Breakdown:
-  Bid: 4, Amount: 100, Payout: 500, Status: lost

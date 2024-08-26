@@ -1,9 +1,0 @@
-User ID: anCNdvJrd5OPVWrLAB1T
-User Name: robot
-Ticket ID: anCNdvJrd5OPVWrLAB1T_01af48cf-5a07-4b4a-b906-5b1c32c765d1
-Total Bid Amount: 300
-Total Earnings: 0
-Profit/Loss: -300
-
-Breakdown:
-  Bid: 5, Amount: 300, Payout: 1500, Status: lost

@@ -1,9 +1,0 @@
-User ID: omnNoB8h8Gwp4PUbAA0M
-User Name: robot
-Ticket ID: omnNoB8h8Gwp4PUbAA0M_2f29ff1d-157f-4672-8a4d-f540db984810
-Total Bid Amount: 3800
-Total Earnings: 0
-Profit/Loss: -3800
-
-Breakdown:
-  Bid: 5, Amount: 3800, Payout: 19000, Status: lost

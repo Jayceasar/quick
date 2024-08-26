@@ -1,9 +1,0 @@
-User ID: rUc9kJrMnZAGhZpfABdD
-User Name: robot
-Ticket ID: rUc9kJrMnZAGhZpfABdD_6e56c651-525b-40b4-bdf6-b90e58163806
-Total Bid Amount: 8000
-Total Earnings: 40000
-Profit/Loss: 32000
-
-Breakdown:
-  Bid: 3, Amount: 8000, Payout: 40000, Status: won

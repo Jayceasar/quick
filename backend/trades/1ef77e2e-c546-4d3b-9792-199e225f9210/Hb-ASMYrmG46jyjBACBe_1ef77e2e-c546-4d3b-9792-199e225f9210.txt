@@ -1,9 +1,0 @@
-User ID: Hb-ASMYrmG46jyjBACBe
-User Name: robot
-Ticket ID: Hb-ASMYrmG46jyjBACBe_1ef77e2e-c546-4d3b-9792-199e225f9210
-Total Bid Amount: 1800
-Total Earnings: 0
-Profit/Loss: -1800
-
-Breakdown:
-  Bid: 4, Amount: 1800, Payout: 9000, Status: lost

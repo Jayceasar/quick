@@ -1,9 +1,0 @@
-User ID: FouqLHmA_WmrzX2xACON
-User Name: robot
-Ticket ID: FouqLHmA_WmrzX2xACON_51ad16e6-fa97-451d-af0e-01721a031f25
-Total Bid Amount: 1300
-Total Earnings: 0
-Profit/Loss: -1300
-
-Breakdown:
-  Bid: 4, Amount: 1300, Payout: 6500, Status: lost

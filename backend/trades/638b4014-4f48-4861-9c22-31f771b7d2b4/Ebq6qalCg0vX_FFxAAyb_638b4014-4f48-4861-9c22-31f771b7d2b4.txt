@@ -1,9 +1,0 @@
-User ID: Ebq6qalCg0vX_FFxAAyb
-User Name: robot
-Ticket ID: Ebq6qalCg0vX_FFxAAyb_638b4014-4f48-4861-9c22-31f771b7d2b4
-Total Bid Amount: 3600
-Total Earnings: 18000
-Profit/Loss: 14400
-
-Breakdown:
-  Bid: 5, Amount: 3600, Payout: 18000, Status: won

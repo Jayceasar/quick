@@ -1,9 +1,0 @@
-User ID: nDW-uN_EWNkNzFCNABXl
-User Name: robot
-Ticket ID: nDW-uN_EWNkNzFCNABXl_8fa77666-9d7f-4032-9eb6-68ecb3f56761
-Total Bid Amount: 4100
-Total Earnings: 20500
-Profit/Loss: 16400
-
-Breakdown:
-  Bid: 5, Amount: 4100, Payout: 20500, Status: won

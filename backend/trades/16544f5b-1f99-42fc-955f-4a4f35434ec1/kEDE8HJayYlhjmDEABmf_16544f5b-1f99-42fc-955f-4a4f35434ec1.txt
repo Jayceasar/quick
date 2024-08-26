@@ -1,9 +1,0 @@
-User ID: kEDE8HJayYlhjmDEABmf
-User Name: robot
-Ticket ID: kEDE8HJayYlhjmDEABmf_16544f5b-1f99-42fc-955f-4a4f35434ec1
-Total Bid Amount: 9500
-Total Earnings: 0
-Profit/Loss: -9500
-
-Breakdown:
-  Bid: 4, Amount: 9500, Payout: 47500, Status: lost

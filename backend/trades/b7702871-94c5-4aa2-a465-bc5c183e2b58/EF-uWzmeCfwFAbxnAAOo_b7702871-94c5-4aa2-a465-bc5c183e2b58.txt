@@ -1,9 +1,0 @@
-User ID: EF-uWzmeCfwFAbxnAAOo
-User Name: robot
-Ticket ID: EF-uWzmeCfwFAbxnAAOo_b7702871-94c5-4aa2-a465-bc5c183e2b58
-Total Bid Amount: 6100
-Total Earnings: 0
-Profit/Loss: -6100
-
-Breakdown:
-  Bid: 4, Amount: 6100, Payout: 30500, Status: lost

@@ -1,9 +1,0 @@
-User ID: zFehhSTRixIBc8O7AAX6
-User Name: robot
-Ticket ID: zFehhSTRixIBc8O7AAX6_1ec01398-941f-4051-b478-12bf2e82e9cd
-Total Bid Amount: 1200
-Total Earnings: 0
-Profit/Loss: -1200
-
-Breakdown:
-  Bid: 5, Amount: 1200, Payout: 6000, Status: lost

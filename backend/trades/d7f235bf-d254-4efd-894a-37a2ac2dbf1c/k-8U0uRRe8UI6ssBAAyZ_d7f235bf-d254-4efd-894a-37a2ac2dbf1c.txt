@@ -1,9 +1,0 @@
-User ID: k-8U0uRRe8UI6ssBAAyZ
-User Name: robot
-Ticket ID: k-8U0uRRe8UI6ssBAAyZ_d7f235bf-d254-4efd-894a-37a2ac2dbf1c
-Total Bid Amount: 2400
-Total Earnings: 0
-Profit/Loss: -2400
-
-Breakdown:
-  Bid: 2, Amount: 2400, Payout: 12000, Status: lost

@@ -1,9 +1,0 @@
-User ID: wcwFnl7nIP8DoihKAAiv
-User Name: robot
-Ticket ID: wcwFnl7nIP8DoihKAAiv_5584dc10-136c-4075-8421-ae5476398969
-Total Bid Amount: 6100
-Total Earnings: 30500
-Profit/Loss: 24400
-
-Breakdown:
-  Bid: 2, Amount: 6100, Payout: 30500, Status: won

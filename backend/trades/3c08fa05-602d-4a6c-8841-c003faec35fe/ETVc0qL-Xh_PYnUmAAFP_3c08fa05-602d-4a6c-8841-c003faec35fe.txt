@@ -1,9 +1,0 @@
-User ID: ETVc0qL-Xh_PYnUmAAFP
-User Name: robot
-Ticket ID: ETVc0qL-Xh_PYnUmAAFP_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 4400
-Total Earnings: 0
-Profit/Loss: -4400
-
-Breakdown:
-  Bid: 4, Amount: 4400, Payout: 22000, Status: lost

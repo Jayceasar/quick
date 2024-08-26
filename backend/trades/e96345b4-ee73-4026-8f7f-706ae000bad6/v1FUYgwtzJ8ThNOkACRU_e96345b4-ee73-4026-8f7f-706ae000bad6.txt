@@ -1,9 +1,0 @@
-User ID: v1FUYgwtzJ8ThNOkACRU
-User Name: robot
-Ticket ID: v1FUYgwtzJ8ThNOkACRU_e96345b4-ee73-4026-8f7f-706ae000bad6
-Total Bid Amount: 5600
-Total Earnings: 0
-Profit/Loss: -5600
-
-Breakdown:
-  Bid: 5, Amount: 5600, Payout: 28000, Status: lost

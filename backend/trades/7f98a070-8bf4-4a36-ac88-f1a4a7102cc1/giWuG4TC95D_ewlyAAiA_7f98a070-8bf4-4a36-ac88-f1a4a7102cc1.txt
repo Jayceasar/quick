@@ -1,9 +1,0 @@
-User ID: giWuG4TC95D_ewlyAAiA
-User Name: robot
-Ticket ID: giWuG4TC95D_ewlyAAiA_7f98a070-8bf4-4a36-ac88-f1a4a7102cc1
-Total Bid Amount: 6200
-Total Earnings: 0
-Profit/Loss: -6200
-
-Breakdown:
-  Bid: 2, Amount: 6200, Payout: 31000, Status: lost

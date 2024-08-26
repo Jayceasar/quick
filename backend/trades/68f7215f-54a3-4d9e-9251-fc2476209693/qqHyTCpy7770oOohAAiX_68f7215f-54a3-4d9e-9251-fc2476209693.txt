@@ -1,9 +1,0 @@
-User ID: qqHyTCpy7770oOohAAiX
-User Name: robot
-Ticket ID: qqHyTCpy7770oOohAAiX_68f7215f-54a3-4d9e-9251-fc2476209693
-Total Bid Amount: 6500
-Total Earnings: 0
-Profit/Loss: -6500
-
-Breakdown:
-  Bid: 6, Amount: 6500, Payout: 32500, Status: lost

@@ -1,9 +1,0 @@
-User ID: q-G9jFREvliHpiVLACBD
-User Name: robot
-Ticket ID: q-G9jFREvliHpiVLACBD_c31ade6d-4388-40e1-8def-a0f98931b35e
-Total Bid Amount: 200
-Total Earnings: 0
-Profit/Loss: -200
-
-Breakdown:
-  Bid: 6, Amount: 200, Payout: 1000, Status: lost

@@ -1,9 +1,0 @@
-User ID: GsIglcZfWJ2SyS0lACRd
-User Name: robot
-Ticket ID: GsIglcZfWJ2SyS0lACRd_b4aa9080-0d9b-4f54-82e1-9c784ee5ed58
-Total Bid Amount: 6300
-Total Earnings: 31500
-Profit/Loss: 25200
-
-Breakdown:
-  Bid: 1, Amount: 6300, Payout: 31500, Status: won

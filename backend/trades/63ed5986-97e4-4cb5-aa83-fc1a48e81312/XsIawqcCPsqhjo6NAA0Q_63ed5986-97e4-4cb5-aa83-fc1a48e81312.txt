@@ -1,9 +1,0 @@
-User ID: XsIawqcCPsqhjo6NAA0Q
-User Name: robot
-Ticket ID: XsIawqcCPsqhjo6NAA0Q_63ed5986-97e4-4cb5-aa83-fc1a48e81312
-Total Bid Amount: 7200
-Total Earnings: 36000
-Profit/Loss: 28800
-
-Breakdown:
-  Bid: 2, Amount: 7200, Payout: 36000, Status: won

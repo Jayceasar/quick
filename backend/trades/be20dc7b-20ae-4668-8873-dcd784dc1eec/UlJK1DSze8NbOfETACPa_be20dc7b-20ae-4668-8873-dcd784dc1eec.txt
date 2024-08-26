@@ -1,9 +1,0 @@
-User ID: UlJK1DSze8NbOfETACPa
-User Name: robot
-Ticket ID: UlJK1DSze8NbOfETACPa_be20dc7b-20ae-4668-8873-dcd784dc1eec
-Total Bid Amount: 100
-Total Earnings: 500
-Profit/Loss: 400
-
-Breakdown:
-  Bid: 1, Amount: 100, Payout: 500, Status: won

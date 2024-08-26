@@ -1,9 +1,0 @@
-User ID: E3bhmgtxOLimO_vUACPO
-User Name: robot
-Ticket ID: E3bhmgtxOLimO_vUACPO_b5b8e808-519f-4db5-9dd9-c0784bb48199
-Total Bid Amount: 4700
-Total Earnings: 0
-Profit/Loss: -4700
-
-Breakdown:
-  Bid: 1, Amount: 4700, Payout: 23500, Status: lost

@@ -1,9 +1,0 @@
-User ID: 7zyrlxL9-aO15Mn2ACRu
-User Name: robot
-Ticket ID: 7zyrlxL9-aO15Mn2ACRu_1e6a6f95-bf5b-4786-9146-f30fa1f02de8
-Total Bid Amount: 300
-Total Earnings: 0
-Profit/Loss: -300
-
-Breakdown:
-  Bid: 6, Amount: 300, Payout: 1500, Status: lost

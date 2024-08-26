@@ -1,9 +1,0 @@
-User ID: v0Og0nq3Qt9O5USBAAjJ
-User Name: robot
-Ticket ID: v0Og0nq3Qt9O5USBAAjJ_7edcaff6-689d-4d3c-9b04-4e875243c108
-Total Bid Amount: 4500
-Total Earnings: 22500
-Profit/Loss: 18000
-
-Breakdown:
-  Bid: 2, Amount: 4500, Payout: 22500, Status: won

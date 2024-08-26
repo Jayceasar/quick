@@ -1,9 +1,0 @@
-User ID: T2mh1mH40s1qAOzIACJ4
-User Name: robot
-Ticket ID: T2mh1mH40s1qAOzIACJ4_baae20bc-bbdc-4a0c-addb-c4a83365506c
-Total Bid Amount: 4300
-Total Earnings: 21500
-Profit/Loss: 17200
-
-Breakdown:
-  Bid: 2, Amount: 4300, Payout: 21500, Status: won

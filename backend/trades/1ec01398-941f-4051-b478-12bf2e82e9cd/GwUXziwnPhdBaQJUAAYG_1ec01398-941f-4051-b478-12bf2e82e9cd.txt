@@ -1,9 +1,0 @@
-User ID: GwUXziwnPhdBaQJUAAYG
-User Name: robot
-Ticket ID: GwUXziwnPhdBaQJUAAYG_1ec01398-941f-4051-b478-12bf2e82e9cd
-Total Bid Amount: 5600
-Total Earnings: 0
-Profit/Loss: -5600
-
-Breakdown:
-  Bid: 4, Amount: 5600, Payout: 28000, Status: lost

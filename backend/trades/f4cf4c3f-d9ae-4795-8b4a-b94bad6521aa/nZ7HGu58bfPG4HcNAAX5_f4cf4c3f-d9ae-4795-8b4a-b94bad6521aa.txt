@@ -1,9 +1,0 @@
-User ID: nZ7HGu58bfPG4HcNAAX5
-User Name: robot
-Ticket ID: nZ7HGu58bfPG4HcNAAX5_f4cf4c3f-d9ae-4795-8b4a-b94bad6521aa
-Total Bid Amount: 6300
-Total Earnings: 31500
-Profit/Loss: 25200
-
-Breakdown:
-  Bid: 1, Amount: 6300, Payout: 31500, Status: won

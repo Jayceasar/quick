@@ -1,9 +1,0 @@
-User ID: UgvhsfxxxilcO_ezAA0w
-User Name: robot
-Ticket ID: UgvhsfxxxilcO_ezAA0w_70d31637-ddb2-46a0-94c6-a98e19a9be46
-Total Bid Amount: 5000
-Total Earnings: 0
-Profit/Loss: -5000
-
-Breakdown:
-  Bid: 5, Amount: 5000, Payout: 25000, Status: lost

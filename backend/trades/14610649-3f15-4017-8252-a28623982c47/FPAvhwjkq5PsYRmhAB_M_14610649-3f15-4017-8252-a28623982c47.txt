@@ -1,9 +1,0 @@
-User ID: FPAvhwjkq5PsYRmhAB_M
-User Name: robot
-Ticket ID: FPAvhwjkq5PsYRmhAB_M_14610649-3f15-4017-8252-a28623982c47
-Total Bid Amount: 6500
-Total Earnings: 0
-Profit/Loss: -6500
-
-Breakdown:
-  Bid: 6, Amount: 6500, Payout: 32500, Status: lost

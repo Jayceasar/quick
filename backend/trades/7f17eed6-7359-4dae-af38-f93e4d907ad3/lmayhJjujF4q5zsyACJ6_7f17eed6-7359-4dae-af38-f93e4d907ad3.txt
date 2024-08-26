@@ -1,9 +1,0 @@
-User ID: lmayhJjujF4q5zsyACJ6
-User Name: robot
-Ticket ID: lmayhJjujF4q5zsyACJ6_7f17eed6-7359-4dae-af38-f93e4d907ad3
-Total Bid Amount: 8500
-Total Earnings: 0
-Profit/Loss: -8500
-
-Breakdown:
-  Bid: 6, Amount: 8500, Payout: 42500, Status: lost

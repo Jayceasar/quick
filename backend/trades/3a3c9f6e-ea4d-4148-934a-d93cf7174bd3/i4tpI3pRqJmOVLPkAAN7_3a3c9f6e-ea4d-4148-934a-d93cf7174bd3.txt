@@ -1,9 +1,0 @@
-User ID: i4tpI3pRqJmOVLPkAAN7
-User Name: robot
-Ticket ID: i4tpI3pRqJmOVLPkAAN7_3a3c9f6e-ea4d-4148-934a-d93cf7174bd3
-Total Bid Amount: 900
-Total Earnings: 0
-Profit/Loss: -900
-
-Breakdown:
-  Bid: 5, Amount: 900, Payout: 4500, Status: lost

@@ -1,9 +1,0 @@
-User ID: KW00KwjK-JoRWXYeABR9
-User Name: robot
-Ticket ID: KW00KwjK-JoRWXYeABR9_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
-Total Bid Amount: 1300
-Total Earnings: 0
-Profit/Loss: -1300
-
-Breakdown:
-  Bid: 5, Amount: 1300, Payout: 6500, Status: lost

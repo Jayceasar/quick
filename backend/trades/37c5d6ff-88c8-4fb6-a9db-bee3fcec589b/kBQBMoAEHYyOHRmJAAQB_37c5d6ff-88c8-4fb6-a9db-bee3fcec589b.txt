@@ -1,9 +1,0 @@
-User ID: kBQBMoAEHYyOHRmJAAQB
-User Name: robot
-Ticket ID: kBQBMoAEHYyOHRmJAAQB_37c5d6ff-88c8-4fb6-a9db-bee3fcec589b
-Total Bid Amount: 5700
-Total Earnings: 28500
-Profit/Loss: 22800
-
-Breakdown:
-  Bid: 4, Amount: 5700, Payout: 28500, Status: won

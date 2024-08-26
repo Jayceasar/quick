@@ -1,9 +1,0 @@
-User ID: 6VuF-oZ_7GZ2dHCtACOv
-User Name: robot
-Ticket ID: 6VuF-oZ_7GZ2dHCtACOv_014a9a18-0da8-4b91-9847-0c9b334bc6ed
-Total Bid Amount: 8000
-Total Earnings: 0
-Profit/Loss: -8000
-
-Breakdown:
-  Bid: 3, Amount: 8000, Payout: 40000, Status: lost

@@ -1,9 +1,0 @@
-User ID: yept5xAOw_qoC8vrAA8V
-User Name: robot
-Ticket ID: yept5xAOw_qoC8vrAA8V_66f65ae5-5096-4806-89d8-dcb36cb9e685
-Total Bid Amount: 4800
-Total Earnings: 0
-Profit/Loss: -4800
-
-Breakdown:
-  Bid: 2, Amount: 4800, Payout: 24000, Status: lost

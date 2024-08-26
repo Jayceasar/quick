@@ -1,9 +1,0 @@
-User ID: doqQDgGSd4_CIVDTABL5
-User Name: robot
-Ticket ID: doqQDgGSd4_CIVDTABL5_692b2a95-b090-4fc1-ad37-195b1ac2aba1
-Total Bid Amount: 900
-Total Earnings: 0
-Profit/Loss: -900
-
-Breakdown:
-  Bid: 2, Amount: 900, Payout: 4500, Status: lost

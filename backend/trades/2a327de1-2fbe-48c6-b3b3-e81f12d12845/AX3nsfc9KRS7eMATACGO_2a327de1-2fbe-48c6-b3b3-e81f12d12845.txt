@@ -1,9 +1,0 @@
-User ID: AX3nsfc9KRS7eMATACGO
-User Name: robot
-Ticket ID: AX3nsfc9KRS7eMATACGO_2a327de1-2fbe-48c6-b3b3-e81f12d12845
-Total Bid Amount: 7700
-Total Earnings: 0
-Profit/Loss: -7700
-
-Breakdown:
-  Bid: 4, Amount: 7700, Payout: 38500, Status: lost

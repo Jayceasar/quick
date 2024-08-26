@@ -1,9 +1,0 @@
-User ID: JcADMYGJp4XyfMOjAAaE
-User Name: robot
-Ticket ID: JcADMYGJp4XyfMOjAAaE_c014d5fc-7839-4e85-8e65-f08a55c0e3f2
-Total Bid Amount: 8200
-Total Earnings: 0
-Profit/Loss: -8200
-
-Breakdown:
-  Bid: 1, Amount: 8200, Payout: 41000, Status: lost

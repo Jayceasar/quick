@@ -1,9 +1,0 @@
-User ID: hoEzDxLpA1tYfNtgAAMN
-User Name: robot
-Ticket ID: hoEzDxLpA1tYfNtgAAMN_6d2f5a00-8975-46ac-9313-eaee03859331
-Total Bid Amount: 3600
-Total Earnings: 0
-Profit/Loss: -3600
-
-Breakdown:
-  Bid: 5, Amount: 3600, Payout: 18000, Status: lost

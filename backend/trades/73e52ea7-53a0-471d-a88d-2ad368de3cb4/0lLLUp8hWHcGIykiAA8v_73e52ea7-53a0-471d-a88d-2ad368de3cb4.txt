@@ -1,9 +1,0 @@
-User ID: 0lLLUp8hWHcGIykiAA8v
-User Name: robot
-Ticket ID: 0lLLUp8hWHcGIykiAA8v_73e52ea7-53a0-471d-a88d-2ad368de3cb4
-Total Bid Amount: 4600
-Total Earnings: 0
-Profit/Loss: -4600
-
-Breakdown:
-  Bid: 6, Amount: 4600, Payout: 23000, Status: lost

@@ -1,9 +1,0 @@
-User ID: 0Tyi5iW8XHjwr0adABLR
-User Name: robot
-Ticket ID: 0Tyi5iW8XHjwr0adABLR_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 7600
-Total Earnings: 38000
-Profit/Loss: 30400
-
-Breakdown:
-  Bid: 6, Amount: 7600, Payout: 38000, Status: won

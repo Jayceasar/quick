@@ -1,9 +1,0 @@
-User ID: iRrkAKAN_U2qtKeQAAi7
-User Name: robot
-Ticket ID: iRrkAKAN_U2qtKeQAAi7_5584dc10-136c-4075-8421-ae5476398969
-Total Bid Amount: 5100
-Total Earnings: 0
-Profit/Loss: -5100
-
-Breakdown:
-  Bid: 3, Amount: 5100, Payout: 25500, Status: lost

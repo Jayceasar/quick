@@ -1,9 +1,0 @@
-User ID: k_vuGlDosrAOLBgeABJ0
-User Name: robot
-Ticket ID: k_vuGlDosrAOLBgeABJ0_692b2a95-b090-4fc1-ad37-195b1ac2aba1
-Total Bid Amount: 1800
-Total Earnings: 9000
-Profit/Loss: 7200
-
-Breakdown:
-  Bid: 5, Amount: 1800, Payout: 9000, Status: won

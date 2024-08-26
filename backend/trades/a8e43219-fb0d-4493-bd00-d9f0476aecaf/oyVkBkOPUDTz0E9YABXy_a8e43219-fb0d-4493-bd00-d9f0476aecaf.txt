@@ -1,9 +1,0 @@
-User ID: oyVkBkOPUDTz0E9YABXy
-User Name: robot
-Ticket ID: oyVkBkOPUDTz0E9YABXy_a8e43219-fb0d-4493-bd00-d9f0476aecaf
-Total Bid Amount: 9600
-Total Earnings: 0
-Profit/Loss: -9600
-
-Breakdown:
-  Bid: 6, Amount: 9600, Payout: 48000, Status: lost

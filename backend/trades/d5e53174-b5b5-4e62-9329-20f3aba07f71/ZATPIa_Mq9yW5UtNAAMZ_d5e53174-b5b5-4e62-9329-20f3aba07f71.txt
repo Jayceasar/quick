@@ -1,9 +1,0 @@
-User ID: ZATPIa_Mq9yW5UtNAAMZ
-User Name: robot
-Ticket ID: ZATPIa_Mq9yW5UtNAAMZ_d5e53174-b5b5-4e62-9329-20f3aba07f71
-Total Bid Amount: 4300
-Total Earnings: 0
-Profit/Loss: -4300
-
-Breakdown:
-  Bid: 2, Amount: 4300, Payout: 21500, Status: lost

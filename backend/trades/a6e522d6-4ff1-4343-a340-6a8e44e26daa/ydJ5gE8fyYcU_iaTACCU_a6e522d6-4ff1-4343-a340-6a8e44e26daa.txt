@@ -1,9 +1,0 @@
-User ID: ydJ5gE8fyYcU_iaTACCU
-User Name: robot
-Ticket ID: ydJ5gE8fyYcU_iaTACCU_a6e522d6-4ff1-4343-a340-6a8e44e26daa
-Total Bid Amount: 4300
-Total Earnings: 0
-Profit/Loss: -4300
-
-Breakdown:
-  Bid: 2, Amount: 4300, Payout: 21500, Status: lost

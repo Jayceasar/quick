@@ -1,9 +1,0 @@
-User ID: 7xOU79sTvRZjtmkzACB_
-User Name: robot
-Ticket ID: 7xOU79sTvRZjtmkzACB__07612224-3336-47cc-8c54-187b9f190cab
-Total Bid Amount: 2600
-Total Earnings: 13000
-Profit/Loss: 10400
-
-Breakdown:
-  Bid: 3, Amount: 2600, Payout: 13000, Status: won

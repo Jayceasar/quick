@@ -1,9 +1,0 @@
-User ID: GSPDkkZHlol4L2N-AAuk
-User Name: robot
-Ticket ID: GSPDkkZHlol4L2N-AAuk_db0ef95d-e018-483f-b64a-b1c385856283
-Total Bid Amount: 7600
-Total Earnings: 0
-Profit/Loss: -7600
-
-Breakdown:
-  Bid: 6, Amount: 7600, Payout: 38000, Status: lost

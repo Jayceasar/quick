@@ -1,9 +1,0 @@
-User ID: -3Jos3aVzpoXMNjJAA-w
-User Name: robot
-Ticket ID: -3Jos3aVzpoXMNjJAA-w_66f65ae5-5096-4806-89d8-dcb36cb9e685
-Total Bid Amount: 8000
-Total Earnings: 40000
-Profit/Loss: 32000
-
-Breakdown:
-  Bid: 5, Amount: 8000, Payout: 40000, Status: won

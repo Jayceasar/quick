@@ -1,9 +1,0 @@
-User ID: 25LAmVR3up7PVY03AAbK
-User Name: robot
-Ticket ID: 25LAmVR3up7PVY03AAbK_1f158410-d003-4f01-bda5-9b47fab4ab92
-Total Bid Amount: 9600
-Total Earnings: 0
-Profit/Loss: -9600
-
-Breakdown:
-  Bid: 6, Amount: 9600, Payout: 48000, Status: lost

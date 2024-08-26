@@ -1,9 +1,0 @@
-User ID: DSfRtqu5ooFqOZsOACKE
-User Name: robot
-Ticket ID: DSfRtqu5ooFqOZsOACKE_8ed34477-6ab6-4e68-ad47-14130d8433cd
-Total Bid Amount: 4800
-Total Earnings: 0
-Profit/Loss: -4800
-
-Breakdown:
-  Bid: 1, Amount: 4800, Payout: 24000, Status: lost

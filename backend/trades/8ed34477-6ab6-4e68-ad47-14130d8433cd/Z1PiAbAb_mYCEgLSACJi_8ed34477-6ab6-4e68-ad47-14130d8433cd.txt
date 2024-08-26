@@ -1,9 +1,0 @@
-User ID: Z1PiAbAb_mYCEgLSACJi
-User Name: robot
-Ticket ID: Z1PiAbAb_mYCEgLSACJi_8ed34477-6ab6-4e68-ad47-14130d8433cd
-Total Bid Amount: 6100
-Total Earnings: 0
-Profit/Loss: -6100
-
-Breakdown:
-  Bid: 1, Amount: 6100, Payout: 30500, Status: lost

@@ -1,9 +1,0 @@
-User ID: -8-kPK5KY2nrBOoxAAJL
-User Name: robot
-Ticket ID: -8-kPK5KY2nrBOoxAAJL_ad3a8c72-299f-43d4-805f-4646b325aae0
-Total Bid Amount: 10000
-Total Earnings: 50000
-Profit/Loss: 40000
-
-Breakdown:
-  Bid: 1, Amount: 10000, Payout: 50000, Status: won

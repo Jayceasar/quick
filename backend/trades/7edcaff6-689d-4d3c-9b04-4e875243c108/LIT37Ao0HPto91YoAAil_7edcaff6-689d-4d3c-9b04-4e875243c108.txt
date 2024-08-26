@@ -1,9 +1,0 @@
-User ID: LIT37Ao0HPto91YoAAil
-User Name: robot
-Ticket ID: LIT37Ao0HPto91YoAAil_7edcaff6-689d-4d3c-9b04-4e875243c108
-Total Bid Amount: 2100
-Total Earnings: 10500
-Profit/Loss: 8400
-
-Breakdown:
-  Bid: 2, Amount: 2100, Payout: 10500, Status: won

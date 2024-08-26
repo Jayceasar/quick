@@ -1,9 +1,0 @@
-User ID: t4klyePuKs9x5nLvACBs
-User Name: robot
-Ticket ID: t4klyePuKs9x5nLvACBs_414b2b96-9ea1-4f03-977a-f2301d814e84
-Total Bid Amount: 8600
-Total Earnings: 0
-Profit/Loss: -8600
-
-Breakdown:
-  Bid: 5, Amount: 8600, Payout: 43000, Status: lost

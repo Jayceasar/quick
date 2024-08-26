@@ -1,9 +1,0 @@
-User ID: O4RBOimSOKqm9RVoACF5
-User Name: robot
-Ticket ID: O4RBOimSOKqm9RVoACF5_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
-Total Bid Amount: 5400
-Total Earnings: 0
-Profit/Loss: -5400
-
-Breakdown:
-  Bid: 1, Amount: 5400, Payout: 27000, Status: lost

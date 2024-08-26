@@ -1,9 +1,0 @@
-User ID: TksjglPP-jLs_mIgAAZ4
-User Name: robot
-Ticket ID: TksjglPP-jLs_mIgAAZ4_51aaa087-b7d2-477a-9555-272cadfee5a8
-Total Bid Amount: 7000
-Total Earnings: 35000
-Profit/Loss: 28000
-
-Breakdown:
-  Bid: 3, Amount: 7000, Payout: 35000, Status: won

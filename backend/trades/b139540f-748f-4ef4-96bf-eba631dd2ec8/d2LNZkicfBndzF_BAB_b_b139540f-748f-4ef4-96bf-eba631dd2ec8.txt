@@ -1,9 +1,0 @@
-User ID: d2LNZkicfBndzF_BAB_b
-User Name: robot
-Ticket ID: d2LNZkicfBndzF_BAB_b_b139540f-748f-4ef4-96bf-eba631dd2ec8
-Total Bid Amount: 5500
-Total Earnings: 0
-Profit/Loss: -5500
-
-Breakdown:
-  Bid: 4, Amount: 5500, Payout: 27500, Status: lost

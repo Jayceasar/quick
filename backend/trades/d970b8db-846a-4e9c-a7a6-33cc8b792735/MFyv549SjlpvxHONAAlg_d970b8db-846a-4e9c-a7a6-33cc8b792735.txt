@@ -1,9 +1,0 @@
-User ID: MFyv549SjlpvxHONAAlg
-User Name: robot
-Ticket ID: MFyv549SjlpvxHONAAlg_d970b8db-846a-4e9c-a7a6-33cc8b792735
-Total Bid Amount: 6300
-Total Earnings: 0
-Profit/Loss: -6300
-
-Breakdown:
-  Bid: 6, Amount: 6300, Payout: 31500, Status: lost

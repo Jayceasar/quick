@@ -1,9 +1,0 @@
-User ID: mnUJV9PRJetEFkN4AAuu
-User Name: robot
-Ticket ID: mnUJV9PRJetEFkN4AAuu_db0ef95d-e018-483f-b64a-b1c385856283
-Total Bid Amount: 9200
-Total Earnings: 0
-Profit/Loss: -9200
-
-Breakdown:
-  Bid: 5, Amount: 9200, Payout: 46000, Status: lost

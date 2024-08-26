@@ -1,9 +1,0 @@
-User ID: OmsW4P9sa39vV3c7AAFi
-User Name: robot
-Ticket ID: OmsW4P9sa39vV3c7AAFi_c4750aca-f17c-4be6-87a9-33a224b7d999
-Total Bid Amount: 1900
-Total Earnings: 9500
-Profit/Loss: 7600
-
-Breakdown:
-  Bid: 5, Amount: 1900, Payout: 9500, Status: won

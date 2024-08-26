@@ -1,9 +1,0 @@
-User ID: 6htF8modr5z6Q6yzACOF
-User Name: robot
-Ticket ID: 6htF8modr5z6Q6yzACOF_1b116764-9029-44ae-8a1b-5f22d99e725b
-Total Bid Amount: 3000
-Total Earnings: 15000
-Profit/Loss: 12000
-
-Breakdown:
-  Bid: 2, Amount: 3000, Payout: 15000, Status: won

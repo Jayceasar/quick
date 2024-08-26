@@ -1,9 +1,0 @@
-User ID: SHVlR6RXtRI_KPevACRV
-User Name: robot
-Ticket ID: SHVlR6RXtRI_KPevACRV_d1d2d895-a9fb-46cf-a404-26cb8c1b74dc
-Total Bid Amount: 8400
-Total Earnings: 42000
-Profit/Loss: 33600
-
-Breakdown:
-  Bid: 1, Amount: 8400, Payout: 42000, Status: won

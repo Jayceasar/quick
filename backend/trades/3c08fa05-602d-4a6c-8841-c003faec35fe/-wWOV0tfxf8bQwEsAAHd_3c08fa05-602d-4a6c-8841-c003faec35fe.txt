@@ -1,9 +1,0 @@
-User ID: -wWOV0tfxf8bQwEsAAHd
-User Name: robot
-Ticket ID: -wWOV0tfxf8bQwEsAAHd_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 900
-Total Earnings: 0
-Profit/Loss: -900
-
-Breakdown:
-  Bid: 6, Amount: 900, Payout: 4500, Status: lost

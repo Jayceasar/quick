@@ -1,9 +1,0 @@
-User ID: xZ6Hkm5dUPEPDWa8ACRe
-User Name: robot
-Ticket ID: xZ6Hkm5dUPEPDWa8ACRe_4508540c-24b1-4b4f-8d4c-f0d990720795
-Total Bid Amount: 3800
-Total Earnings: 19000
-Profit/Loss: 15200
-
-Breakdown:
-  Bid: 6, Amount: 3800, Payout: 19000, Status: won

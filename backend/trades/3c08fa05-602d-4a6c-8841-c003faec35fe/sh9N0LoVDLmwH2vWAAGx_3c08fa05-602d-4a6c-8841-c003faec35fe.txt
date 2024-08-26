@@ -1,9 +1,0 @@
-User ID: sh9N0LoVDLmwH2vWAAGx
-User Name: robot
-Ticket ID: sh9N0LoVDLmwH2vWAAGx_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 2000
-Total Earnings: 0
-Profit/Loss: -2000
-
-Breakdown:
-  Bid: 6, Amount: 2000, Payout: 10000, Status: lost

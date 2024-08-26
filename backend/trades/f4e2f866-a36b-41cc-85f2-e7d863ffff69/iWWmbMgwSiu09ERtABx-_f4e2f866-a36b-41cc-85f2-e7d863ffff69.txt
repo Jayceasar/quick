@@ -1,9 +1,0 @@
-User ID: iWWmbMgwSiu09ERtABx-
-User Name: robot
-Ticket ID: iWWmbMgwSiu09ERtABx-_f4e2f866-a36b-41cc-85f2-e7d863ffff69
-Total Bid Amount: 5600
-Total Earnings: 0
-Profit/Loss: -5600
-
-Breakdown:
-  Bid: 3, Amount: 5600, Payout: 28000, Status: lost

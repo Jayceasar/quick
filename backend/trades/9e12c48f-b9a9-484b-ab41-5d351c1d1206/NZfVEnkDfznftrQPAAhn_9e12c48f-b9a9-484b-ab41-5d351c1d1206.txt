@@ -1,9 +1,0 @@
-User ID: NZfVEnkDfznftrQPAAhn
-User Name: robot
-Ticket ID: NZfVEnkDfznftrQPAAhn_9e12c48f-b9a9-484b-ab41-5d351c1d1206
-Total Bid Amount: 2500
-Total Earnings: 0
-Profit/Loss: -2500
-
-Breakdown:
-  Bid: 5, Amount: 2500, Payout: 12500, Status: lost

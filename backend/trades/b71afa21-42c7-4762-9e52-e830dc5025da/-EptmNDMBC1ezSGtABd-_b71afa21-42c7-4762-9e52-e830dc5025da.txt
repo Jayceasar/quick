@@ -1,9 +1,0 @@
-User ID: -EptmNDMBC1ezSGtABd-
-User Name: robot
-Ticket ID: -EptmNDMBC1ezSGtABd-_b71afa21-42c7-4762-9e52-e830dc5025da
-Total Bid Amount: 8300
-Total Earnings: 0
-Profit/Loss: -8300
-
-Breakdown:
-  Bid: 1, Amount: 8300, Payout: 41500, Status: lost

@@ -1,9 +1,0 @@
-User ID: 7DkCwdjUy_jImLC4ACF7
-User Name: robot
-Ticket ID: 7DkCwdjUy_jImLC4ACF7_7a619b2b-f9f3-4d8c-b8d2-8f2288186f49
-Total Bid Amount: 4900
-Total Earnings: 0
-Profit/Loss: -4900
-
-Breakdown:
-  Bid: 2, Amount: 4900, Payout: 24500, Status: lost

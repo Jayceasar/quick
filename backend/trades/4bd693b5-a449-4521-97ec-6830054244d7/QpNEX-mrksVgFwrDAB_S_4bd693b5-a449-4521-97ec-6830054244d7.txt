@@ -1,9 +1,0 @@
-User ID: QpNEX-mrksVgFwrDAB_S
-User Name: robot
-Ticket ID: QpNEX-mrksVgFwrDAB_S_4bd693b5-a449-4521-97ec-6830054244d7
-Total Bid Amount: 5100
-Total Earnings: 0
-Profit/Loss: -5100
-
-Breakdown:
-  Bid: 4, Amount: 5100, Payout: 25500, Status: lost

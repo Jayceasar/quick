@@ -1,9 +1,0 @@
-User ID: ljOxU31Cokq28l2hACRa
-User Name: robot
-Ticket ID: ljOxU31Cokq28l2hACRa_b5b8e808-519f-4db5-9dd9-c0784bb48199
-Total Bid Amount: 3600
-Total Earnings: 0
-Profit/Loss: -3600
-
-Breakdown:
-  Bid: 5, Amount: 3600, Payout: 18000, Status: lost

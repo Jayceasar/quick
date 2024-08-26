@@ -1,9 +1,0 @@
-User ID: sVRUChsmyxSpKq1sAAvC
-User Name: robot
-Ticket ID: sVRUChsmyxSpKq1sAAvC_db0ef95d-e018-483f-b64a-b1c385856283
-Total Bid Amount: 8500
-Total Earnings: 0
-Profit/Loss: -8500
-
-Breakdown:
-  Bid: 5, Amount: 8500, Payout: 42500, Status: lost

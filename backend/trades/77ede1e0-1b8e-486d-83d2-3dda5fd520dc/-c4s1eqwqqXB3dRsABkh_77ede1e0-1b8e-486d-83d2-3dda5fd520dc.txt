@@ -1,9 +1,0 @@
-User ID: -c4s1eqwqqXB3dRsABkh
-User Name: robot
-Ticket ID: -c4s1eqwqqXB3dRsABkh_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
-Total Bid Amount: 3500
-Total Earnings: 17500
-Profit/Loss: 14000
-
-Breakdown:
-  Bid: 3, Amount: 3500, Payout: 17500, Status: won

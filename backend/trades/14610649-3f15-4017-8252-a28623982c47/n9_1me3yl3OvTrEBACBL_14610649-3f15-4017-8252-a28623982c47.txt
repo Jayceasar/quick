@@ -1,9 +1,0 @@
-User ID: n9_1me3yl3OvTrEBACBL
-User Name: robot
-Ticket ID: n9_1me3yl3OvTrEBACBL_14610649-3f15-4017-8252-a28623982c47
-Total Bid Amount: 10000
-Total Earnings: 50000
-Profit/Loss: 40000
-
-Breakdown:
-  Bid: 3, Amount: 10000, Payout: 50000, Status: won

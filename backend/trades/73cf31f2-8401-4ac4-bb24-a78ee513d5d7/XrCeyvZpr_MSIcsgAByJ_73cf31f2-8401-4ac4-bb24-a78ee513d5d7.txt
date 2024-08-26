@@ -1,9 +1,0 @@
-User ID: XrCeyvZpr_MSIcsgAByJ
-User Name: robot
-Ticket ID: XrCeyvZpr_MSIcsgAByJ_73cf31f2-8401-4ac4-bb24-a78ee513d5d7
-Total Bid Amount: 200
-Total Earnings: 0
-Profit/Loss: -200
-
-Breakdown:
-  Bid: 4, Amount: 200, Payout: 1000, Status: lost

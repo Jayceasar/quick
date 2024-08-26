@@ -1,9 +1,0 @@
-User ID: _6oUwqvfdztrmw9WACRr
-User Name: robot
-Ticket ID: _6oUwqvfdztrmw9WACRr_e96345b4-ee73-4026-8f7f-706ae000bad6
-Total Bid Amount: 4200
-Total Earnings: 21000
-Profit/Loss: 16800
-
-Breakdown:
-  Bid: 2, Amount: 4200, Payout: 21000, Status: won

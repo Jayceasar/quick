@@ -1,9 +1,0 @@
-User ID: -oOW9L8R2I6ZmaSRACRH
-User Name: robot
-Ticket ID: -oOW9L8R2I6ZmaSRACRH_e699e7d5-420f-4d03-b980-67ce3da35b1b
-Total Bid Amount: 1200
-Total Earnings: 0
-Profit/Loss: -1200
-
-Breakdown:
-  Bid: 5, Amount: 1200, Payout: 6000, Status: lost

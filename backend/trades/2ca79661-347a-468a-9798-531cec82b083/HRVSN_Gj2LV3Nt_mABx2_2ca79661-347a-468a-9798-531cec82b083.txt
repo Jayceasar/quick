@@ -1,9 +1,0 @@
-User ID: HRVSN_Gj2LV3Nt_mABx2
-User Name: robot
-Ticket ID: HRVSN_Gj2LV3Nt_mABx2_2ca79661-347a-468a-9798-531cec82b083
-Total Bid Amount: 8300
-Total Earnings: 0
-Profit/Loss: -8300
-
-Breakdown:
-  Bid: 5, Amount: 8300, Payout: 41500, Status: lost

@@ -1,9 +1,0 @@
-User ID: ekiM5MS0q73q_iSUAAjL
-User Name: robot
-Ticket ID: ekiM5MS0q73q_iSUAAjL_16e16623-0a48-40cc-8945-862aa10b83a3
-Total Bid Amount: 2800
-Total Earnings: 0
-Profit/Loss: -2800
-
-Breakdown:
-  Bid: 2, Amount: 2800, Payout: 14000, Status: lost

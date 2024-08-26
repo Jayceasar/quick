@@ -1,9 +1,0 @@
-User ID: Da8OCyYbXWMfYHspACRp
-User Name: robot
-Ticket ID: Da8OCyYbXWMfYHspACRp_9082c200-6f8a-4211-92ae-c09350af156d
-Total Bid Amount: 2100
-Total Earnings: 0
-Profit/Loss: -2100
-
-Breakdown:
-  Bid: 3, Amount: 2100, Payout: 10500, Status: lost

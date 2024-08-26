@@ -1,9 +1,0 @@
-User ID: QNDGhL_b1tVD_D83AAMv
-User Name: robot
-Ticket ID: QNDGhL_b1tVD_D83AAMv_c4750aca-f17c-4be6-87a9-33a224b7d999
-Total Bid Amount: 6900
-Total Earnings: 0
-Profit/Loss: -6900
-
-Breakdown:
-  Bid: 6, Amount: 6900, Payout: 34500, Status: lost

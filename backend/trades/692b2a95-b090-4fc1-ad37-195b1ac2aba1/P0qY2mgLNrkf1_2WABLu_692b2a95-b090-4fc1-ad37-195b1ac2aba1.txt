@@ -1,9 +1,0 @@
-User ID: P0qY2mgLNrkf1_2WABLu
-User Name: robot
-Ticket ID: P0qY2mgLNrkf1_2WABLu_692b2a95-b090-4fc1-ad37-195b1ac2aba1
-Total Bid Amount: 7300
-Total Earnings: 0
-Profit/Loss: -7300
-
-Breakdown:
-  Bid: 4, Amount: 7300, Payout: 36500, Status: lost

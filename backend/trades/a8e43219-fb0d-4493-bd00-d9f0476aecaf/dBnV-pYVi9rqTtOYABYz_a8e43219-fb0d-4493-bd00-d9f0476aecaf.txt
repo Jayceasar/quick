@@ -1,9 +1,0 @@
-User ID: dBnV-pYVi9rqTtOYABYz
-User Name: robot
-Ticket ID: dBnV-pYVi9rqTtOYABYz_a8e43219-fb0d-4493-bd00-d9f0476aecaf
-Total Bid Amount: 8900
-Total Earnings: 44500
-Profit/Loss: 35600
-
-Breakdown:
-  Bid: 5, Amount: 8900, Payout: 44500, Status: won

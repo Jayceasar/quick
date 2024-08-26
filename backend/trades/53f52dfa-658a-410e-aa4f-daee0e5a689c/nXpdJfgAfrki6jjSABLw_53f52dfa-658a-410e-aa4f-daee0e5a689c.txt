@@ -1,9 +1,0 @@
-User ID: nXpdJfgAfrki6jjSABLw
-User Name: robot
-Ticket ID: nXpdJfgAfrki6jjSABLw_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 6600
-Total Earnings: 33000
-Profit/Loss: 26400
-
-Breakdown:
-  Bid: 6, Amount: 6600, Payout: 33000, Status: won

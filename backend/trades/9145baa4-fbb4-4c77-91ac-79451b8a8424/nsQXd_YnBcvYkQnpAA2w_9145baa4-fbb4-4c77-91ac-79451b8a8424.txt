@@ -1,9 +1,0 @@
-User ID: nsQXd_YnBcvYkQnpAA2w
-User Name: robot
-Ticket ID: nsQXd_YnBcvYkQnpAA2w_9145baa4-fbb4-4c77-91ac-79451b8a8424
-Total Bid Amount: 9500
-Total Earnings: 47500
-Profit/Loss: 38000
-
-Breakdown:
-  Bid: 2, Amount: 9500, Payout: 47500, Status: won

@@ -1,9 +1,0 @@
-User ID: JeaJusx1_jrsvBqXABnl
-User Name: robot
-Ticket ID: JeaJusx1_jrsvBqXABnl_ee604dcb-27d6-4726-96f7-531f06808794
-Total Bid Amount: 4000
-Total Earnings: 20000
-Profit/Loss: 16000
-
-Breakdown:
-  Bid: 4, Amount: 4000, Payout: 20000, Status: won

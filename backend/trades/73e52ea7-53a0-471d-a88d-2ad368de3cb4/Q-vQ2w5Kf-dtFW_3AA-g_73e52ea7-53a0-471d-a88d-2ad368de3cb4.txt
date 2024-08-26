@@ -1,9 +1,0 @@
-User ID: Q-vQ2w5Kf-dtFW_3AA-g
-User Name: robot
-Ticket ID: Q-vQ2w5Kf-dtFW_3AA-g_73e52ea7-53a0-471d-a88d-2ad368de3cb4
-Total Bid Amount: 9700
-Total Earnings: 0
-Profit/Loss: -9700
-
-Breakdown:
-  Bid: 5, Amount: 9700, Payout: 48500, Status: lost

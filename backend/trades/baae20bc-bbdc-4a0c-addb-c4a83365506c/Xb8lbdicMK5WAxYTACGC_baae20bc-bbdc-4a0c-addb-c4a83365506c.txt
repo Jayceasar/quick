@@ -1,9 +1,0 @@
-User ID: Xb8lbdicMK5WAxYTACGC
-User Name: robot
-Ticket ID: Xb8lbdicMK5WAxYTACGC_baae20bc-bbdc-4a0c-addb-c4a83365506c
-Total Bid Amount: 6800
-Total Earnings: 0
-Profit/Loss: -6800
-
-Breakdown:
-  Bid: 1, Amount: 6800, Payout: 34000, Status: lost

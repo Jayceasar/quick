@@ -1,9 +1,0 @@
-User ID: jBrPbpVJgrcKb5ZrAAFM
-User Name: robot
-Ticket ID: jBrPbpVJgrcKb5ZrAAFM_ad3a8c72-299f-43d4-805f-4646b325aae0
-Total Bid Amount: 8100
-Total Earnings: 0
-Profit/Loss: -8100
-
-Breakdown:
-  Bid: 2, Amount: 8100, Payout: 40500, Status: lost

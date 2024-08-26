@@ -1,9 +1,0 @@
-User ID: P6Cr3x6je-q0eY5dABlz
-User Name: robot
-Ticket ID: P6Cr3x6je-q0eY5dABlz_ee604dcb-27d6-4726-96f7-531f06808794
-Total Bid Amount: 7600
-Total Earnings: 0
-Profit/Loss: -7600
-
-Breakdown:
-  Bid: 2, Amount: 7600, Payout: 38000, Status: lost

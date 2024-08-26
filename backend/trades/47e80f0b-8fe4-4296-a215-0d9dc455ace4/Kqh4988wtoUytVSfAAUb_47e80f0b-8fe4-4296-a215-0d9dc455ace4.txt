@@ -1,9 +1,0 @@
-User ID: Kqh4988wtoUytVSfAAUb
-User Name: robot
-Ticket ID: Kqh4988wtoUytVSfAAUb_47e80f0b-8fe4-4296-a215-0d9dc455ace4
-Total Bid Amount: 400
-Total Earnings: 0
-Profit/Loss: -400
-
-Breakdown:
-  Bid: 3, Amount: 400, Payout: 2000, Status: lost

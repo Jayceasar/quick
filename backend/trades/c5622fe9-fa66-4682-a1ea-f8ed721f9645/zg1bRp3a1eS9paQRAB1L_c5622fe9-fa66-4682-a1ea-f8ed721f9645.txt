@@ -1,9 +1,0 @@
-User ID: zg1bRp3a1eS9paQRAB1L
-User Name: robot
-Ticket ID: zg1bRp3a1eS9paQRAB1L_c5622fe9-fa66-4682-a1ea-f8ed721f9645
-Total Bid Amount: 7000
-Total Earnings: 0
-Profit/Loss: -7000
-
-Breakdown:
-  Bid: 1, Amount: 7000, Payout: 35000, Status: lost

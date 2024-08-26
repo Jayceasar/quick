@@ -1,9 +1,0 @@
-User ID: ejyhM810q3utxkbvABTB
-User Name: robot
-Ticket ID: ejyhM810q3utxkbvABTB_3b12a05c-d549-48e1-9b4b-7485d6fac451
-Total Bid Amount: 600
-Total Earnings: 0
-Profit/Loss: -600
-
-Breakdown:
-  Bid: 4, Amount: 600, Payout: 3000, Status: lost

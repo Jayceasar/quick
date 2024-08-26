@@ -1,9 +1,0 @@
-User ID: l1xyezZF_XRuZb0KAAh_
-User Name: robot
-Ticket ID: l1xyezZF_XRuZb0KAAh__5584dc10-136c-4075-8421-ae5476398969
-Total Bid Amount: 9100
-Total Earnings: 0
-Profit/Loss: -9100
-
-Breakdown:
-  Bid: 4, Amount: 9100, Payout: 45500, Status: lost

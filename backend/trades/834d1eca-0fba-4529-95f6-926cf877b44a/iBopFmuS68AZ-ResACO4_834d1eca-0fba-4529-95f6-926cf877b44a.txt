@@ -1,9 +1,0 @@
-User ID: iBopFmuS68AZ-ResACO4
-User Name: robot
-Ticket ID: iBopFmuS68AZ-ResACO4_834d1eca-0fba-4529-95f6-926cf877b44a
-Total Bid Amount: 2100
-Total Earnings: 0
-Profit/Loss: -2100
-
-Breakdown:
-  Bid: 5, Amount: 2100, Payout: 10500, Status: lost

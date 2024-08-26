@@ -1,9 +1,0 @@
-User ID: Z0gDl3_SQdYa8XbpAAa4
-User Name: robot
-Ticket ID: Z0gDl3_SQdYa8XbpAAa4_55aa9e87-54e9-4667-99f6-aa713cff3098
-Total Bid Amount: 4700
-Total Earnings: 0
-Profit/Loss: -4700
-
-Breakdown:
-  Bid: 5, Amount: 4700, Payout: 23500, Status: lost

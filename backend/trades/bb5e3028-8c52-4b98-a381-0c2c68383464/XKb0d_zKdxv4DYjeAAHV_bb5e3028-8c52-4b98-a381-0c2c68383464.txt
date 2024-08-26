@@ -1,9 +1,0 @@
-User ID: XKb0d_zKdxv4DYjeAAHV
-User Name: robot
-Ticket ID: XKb0d_zKdxv4DYjeAAHV_bb5e3028-8c52-4b98-a381-0c2c68383464
-Total Bid Amount: 300
-Total Earnings: 0
-Profit/Loss: -300
-
-Breakdown:
-  Bid: 3, Amount: 300, Payout: 1500, Status: lost

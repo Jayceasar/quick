@@ -1,9 +1,0 @@
-User ID: 035rdySMrDU15WaOAB-o
-User Name: robot
-Ticket ID: 035rdySMrDU15WaOAB-o_4bd693b5-a449-4521-97ec-6830054244d7
-Total Bid Amount: 7600
-Total Earnings: 0
-Profit/Loss: -7600
-
-Breakdown:
-  Bid: 5, Amount: 7600, Payout: 38000, Status: lost

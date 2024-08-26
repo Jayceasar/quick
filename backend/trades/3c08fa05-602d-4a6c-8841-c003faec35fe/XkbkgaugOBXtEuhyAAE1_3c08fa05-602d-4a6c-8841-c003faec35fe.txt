@@ -1,9 +1,0 @@
-User ID: XkbkgaugOBXtEuhyAAE1
-User Name: robot
-Ticket ID: XkbkgaugOBXtEuhyAAE1_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 6700
-Total Earnings: 0
-Profit/Loss: -6700
-
-Breakdown:
-  Bid: 2, Amount: 6700, Payout: 33500, Status: lost

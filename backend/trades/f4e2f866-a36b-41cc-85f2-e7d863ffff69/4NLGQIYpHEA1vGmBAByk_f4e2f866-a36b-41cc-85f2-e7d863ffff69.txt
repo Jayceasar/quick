@@ -1,9 +1,0 @@
-User ID: 4NLGQIYpHEA1vGmBAByk
-User Name: robot
-Ticket ID: 4NLGQIYpHEA1vGmBAByk_f4e2f866-a36b-41cc-85f2-e7d863ffff69
-Total Bid Amount: 4000
-Total Earnings: 20000
-Profit/Loss: 16000
-
-Breakdown:
-  Bid: 4, Amount: 4000, Payout: 20000, Status: won

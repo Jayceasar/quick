@@ -1,9 +1,0 @@
-User ID: 53P9DqypyoyK0ZrXAAbO
-User Name: robot
-Ticket ID: 53P9DqypyoyK0ZrXAAbO_51aaa087-b7d2-477a-9555-272cadfee5a8
-Total Bid Amount: 5800
-Total Earnings: 29000
-Profit/Loss: 23200
-
-Breakdown:
-  Bid: 3, Amount: 5800, Payout: 29000, Status: won

@@ -1,9 +1,0 @@
-User ID: 9Tc2p8P9mYX46WNQABt9
-User Name: robot
-Ticket ID: 9Tc2p8P9mYX46WNQABt9_c901059c-d365-4652-9ffb-306f75be1174
-Total Bid Amount: 900
-Total Earnings: 4500
-Profit/Loss: 3600
-
-Breakdown:
-  Bid: 1, Amount: 900, Payout: 4500, Status: won

@@ -1,9 +1,0 @@
-User ID: 1rWWlByfJNzoLQh2ABX-
-User Name: robot
-Ticket ID: 1rWWlByfJNzoLQh2ABX-_fb86114f-5de4-4582-b36e-777fdfb617a6
-Total Bid Amount: 2400
-Total Earnings: 12000
-Profit/Loss: 9600
-
-Breakdown:
-  Bid: 5, Amount: 2400, Payout: 12000, Status: won

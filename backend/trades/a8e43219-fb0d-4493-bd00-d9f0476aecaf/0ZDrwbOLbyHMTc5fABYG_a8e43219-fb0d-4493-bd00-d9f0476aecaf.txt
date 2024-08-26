@@ -1,9 +1,0 @@
-User ID: 0ZDrwbOLbyHMTc5fABYG
-User Name: robot
-Ticket ID: 0ZDrwbOLbyHMTc5fABYG_a8e43219-fb0d-4493-bd00-d9f0476aecaf
-Total Bid Amount: 2300
-Total Earnings: 11500
-Profit/Loss: 9200
-
-Breakdown:
-  Bid: 5, Amount: 2300, Payout: 11500, Status: won

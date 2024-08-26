@@ -1,9 +1,0 @@
-User ID: BS41bIs0NyUjzCiNAByg
-User Name: robot
-Ticket ID: BS41bIs0NyUjzCiNAByg_cb7b5adb-35cb-4abd-a9dd-0532d0ca6333
-Total Bid Amount: 5900
-Total Earnings: 0
-Profit/Loss: -5900
-
-Breakdown:
-  Bid: 4, Amount: 5900, Payout: 29500, Status: lost

@@ -1,9 +1,0 @@
-User ID: WleU9rk7AmHmveB1AAO0
-User Name: robot
-Ticket ID: WleU9rk7AmHmveB1AAO0_e827b874-b370-4207-bcba-917383162e5c
-Total Bid Amount: 3800
-Total Earnings: 19000
-Profit/Loss: 15200
-
-Breakdown:
-  Bid: 2, Amount: 3800, Payout: 19000, Status: won

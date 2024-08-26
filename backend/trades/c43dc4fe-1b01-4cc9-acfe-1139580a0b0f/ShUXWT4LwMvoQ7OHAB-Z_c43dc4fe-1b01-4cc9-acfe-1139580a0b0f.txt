@@ -1,9 +1,0 @@
-User ID: ShUXWT4LwMvoQ7OHAB-Z
-User Name: robot
-Ticket ID: ShUXWT4LwMvoQ7OHAB-Z_c43dc4fe-1b01-4cc9-acfe-1139580a0b0f
-Total Bid Amount: 7100
-Total Earnings: 0
-Profit/Loss: -7100
-
-Breakdown:
-  Bid: 5, Amount: 7100, Payout: 35500, Status: lost

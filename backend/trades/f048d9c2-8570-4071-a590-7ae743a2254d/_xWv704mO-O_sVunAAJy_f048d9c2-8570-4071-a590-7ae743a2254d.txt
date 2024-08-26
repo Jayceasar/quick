@@ -1,9 +1,0 @@
-User ID: _xWv704mO-O_sVunAAJy
-User Name: robot
-Ticket ID: _xWv704mO-O_sVunAAJy_f048d9c2-8570-4071-a590-7ae743a2254d
-Total Bid Amount: 5600
-Total Earnings: 0
-Profit/Loss: -5600
-
-Breakdown:
-  Bid: 1, Amount: 5600, Payout: 28000, Status: lost

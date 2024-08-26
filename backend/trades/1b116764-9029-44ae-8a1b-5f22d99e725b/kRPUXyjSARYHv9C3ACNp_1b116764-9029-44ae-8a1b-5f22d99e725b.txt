@@ -1,9 +1,0 @@
-User ID: kRPUXyjSARYHv9C3ACNp
-User Name: robot
-Ticket ID: kRPUXyjSARYHv9C3ACNp_1b116764-9029-44ae-8a1b-5f22d99e725b
-Total Bid Amount: 1500
-Total Earnings: 0
-Profit/Loss: -1500
-
-Breakdown:
-  Bid: 5, Amount: 1500, Payout: 7500, Status: lost

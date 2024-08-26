@@ -1,9 +1,0 @@
-User ID: T9ULx7Z5XUeUJgbDABvi
-User Name: robot
-Ticket ID: T9ULx7Z5XUeUJgbDABvi_7a1cf374-3b0b-47a8-92f4-370088b1d70d
-Total Bid Amount: 6700
-Total Earnings: 0
-Profit/Loss: -6700
-
-Breakdown:
-  Bid: 6, Amount: 6700, Payout: 33500, Status: lost

@@ -1,9 +1,0 @@
-User ID: wtj9_zDFRN-uCHgwACKA
-User Name: robot
-Ticket ID: wtj9_zDFRN-uCHgwACKA_7f17eed6-7359-4dae-af38-f93e4d907ad3
-Total Bid Amount: 3500
-Total Earnings: 0
-Profit/Loss: -3500
-
-Breakdown:
-  Bid: 1, Amount: 3500, Payout: 17500, Status: lost

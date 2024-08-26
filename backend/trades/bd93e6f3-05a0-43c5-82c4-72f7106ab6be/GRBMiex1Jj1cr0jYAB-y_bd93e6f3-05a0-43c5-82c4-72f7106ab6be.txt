@@ -1,9 +1,0 @@
-User ID: GRBMiex1Jj1cr0jYAB-y
-User Name: robot
-Ticket ID: GRBMiex1Jj1cr0jYAB-y_bd93e6f3-05a0-43c5-82c4-72f7106ab6be
-Total Bid Amount: 2200
-Total Earnings: 11000
-Profit/Loss: 8800
-
-Breakdown:
-  Bid: 3, Amount: 2200, Payout: 11000, Status: won

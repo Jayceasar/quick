@@ -1,9 +1,0 @@
-User ID: p6OkUuD1iFxnrMDGACGU
-User Name: robot
-Ticket ID: p6OkUuD1iFxnrMDGACGU_7a619b2b-f9f3-4d8c-b8d2-8f2288186f49
-Total Bid Amount: 8300
-Total Earnings: 0
-Profit/Loss: -8300
-
-Breakdown:
-  Bid: 6, Amount: 8300, Payout: 41500, Status: lost

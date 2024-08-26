@@ -1,9 +1,0 @@
-User ID: UwoaUgQQQIfL0b0cACCB
-User Name: robot
-Ticket ID: UwoaUgQQQIfL0b0cACCB_ef9d3ae9-a88c-4fb9-930e-c91af760bffa
-Total Bid Amount: 800
-Total Earnings: 0
-Profit/Loss: -800
-
-Breakdown:
-  Bid: 3, Amount: 800, Payout: 4000, Status: lost

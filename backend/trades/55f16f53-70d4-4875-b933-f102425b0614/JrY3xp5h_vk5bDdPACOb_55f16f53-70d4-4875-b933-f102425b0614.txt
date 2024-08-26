@@ -1,9 +1,0 @@
-User ID: JrY3xp5h_vk5bDdPACOb
-User Name: robot
-Ticket ID: JrY3xp5h_vk5bDdPACOb_55f16f53-70d4-4875-b933-f102425b0614
-Total Bid Amount: 4600
-Total Earnings: 0
-Profit/Loss: -4600
-
-Breakdown:
-  Bid: 6, Amount: 4600, Payout: 23000, Status: lost

@@ -1,9 +1,0 @@
-User ID: W5EssIOs_fFPJA2XACOJ
-User Name: robot
-Ticket ID: W5EssIOs_fFPJA2XACOJ_4ed168a4-9dfd-4225-874f-a78d819ce4bc
-Total Bid Amount: 1900
-Total Earnings: 0
-Profit/Loss: -1900
-
-Breakdown:
-  Bid: 5, Amount: 1900, Payout: 9500, Status: lost

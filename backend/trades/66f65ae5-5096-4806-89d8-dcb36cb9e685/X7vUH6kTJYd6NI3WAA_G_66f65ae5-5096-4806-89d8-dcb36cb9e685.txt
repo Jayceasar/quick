@@ -1,9 +1,0 @@
-User ID: X7vUH6kTJYd6NI3WAA_G
-User Name: robot
-Ticket ID: X7vUH6kTJYd6NI3WAA_G_66f65ae5-5096-4806-89d8-dcb36cb9e685
-Total Bid Amount: 1200
-Total Earnings: 0
-Profit/Loss: -1200
-
-Breakdown:
-  Bid: 6, Amount: 1200, Payout: 6000, Status: lost

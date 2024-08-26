@@ -1,9 +1,0 @@
-User ID: HR_kHv3G-MSyMEDPAAg2
-User Name: robot
-Ticket ID: HR_kHv3G-MSyMEDPAAg2_f3e07e15-d270-454e-8739-2e9bb78f4dc8
-Total Bid Amount: 6800
-Total Earnings: 34000
-Profit/Loss: 27200
-
-Breakdown:
-  Bid: 2, Amount: 6800, Payout: 34000, Status: won

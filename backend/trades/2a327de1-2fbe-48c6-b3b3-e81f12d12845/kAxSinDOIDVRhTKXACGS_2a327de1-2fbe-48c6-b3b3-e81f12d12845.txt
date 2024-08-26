@@ -1,9 +1,0 @@
-User ID: kAxSinDOIDVRhTKXACGS
-User Name: robot
-Ticket ID: kAxSinDOIDVRhTKXACGS_2a327de1-2fbe-48c6-b3b3-e81f12d12845
-Total Bid Amount: 4100
-Total Earnings: 0
-Profit/Loss: -4100
-
-Breakdown:
-  Bid: 3, Amount: 4100, Payout: 20500, Status: lost

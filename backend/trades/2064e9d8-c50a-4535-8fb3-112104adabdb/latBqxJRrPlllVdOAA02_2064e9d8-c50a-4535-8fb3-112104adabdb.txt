@@ -1,9 +1,0 @@
-User ID: latBqxJRrPlllVdOAA02
-User Name: robot
-Ticket ID: latBqxJRrPlllVdOAA02_2064e9d8-c50a-4535-8fb3-112104adabdb
-Total Bid Amount: 8600
-Total Earnings: 0
-Profit/Loss: -8600
-
-Breakdown:
-  Bid: 3, Amount: 8600, Payout: 43000, Status: lost

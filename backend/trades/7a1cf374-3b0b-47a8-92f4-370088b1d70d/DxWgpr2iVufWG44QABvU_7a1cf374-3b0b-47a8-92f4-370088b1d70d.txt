@@ -1,9 +1,0 @@
-User ID: DxWgpr2iVufWG44QABvU
-User Name: robot
-Ticket ID: DxWgpr2iVufWG44QABvU_7a1cf374-3b0b-47a8-92f4-370088b1d70d
-Total Bid Amount: 5300
-Total Earnings: 0
-Profit/Loss: -5300
-
-Breakdown:
-  Bid: 6, Amount: 5300, Payout: 26500, Status: lost

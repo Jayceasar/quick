@@ -1,9 +1,0 @@
-User ID: 7pW5PWlH6BbtMhB8AAMx
-User Name: robot
-Ticket ID: 7pW5PWlH6BbtMhB8AAMx_c4750aca-f17c-4be6-87a9-33a224b7d999
-Total Bid Amount: 1800
-Total Earnings: 0
-Profit/Loss: -1800
-
-Breakdown:
-  Bid: 4, Amount: 1800, Payout: 9000, Status: lost

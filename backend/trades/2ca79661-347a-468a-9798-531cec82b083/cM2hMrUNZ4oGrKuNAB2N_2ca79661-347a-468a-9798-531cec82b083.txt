@@ -1,9 +1,0 @@
-User ID: cM2hMrUNZ4oGrKuNAB2N
-User Name: robot
-Ticket ID: cM2hMrUNZ4oGrKuNAB2N_2ca79661-347a-468a-9798-531cec82b083
-Total Bid Amount: 7700
-Total Earnings: 38500
-Profit/Loss: 30800
-
-Breakdown:
-  Bid: 1, Amount: 7700, Payout: 38500, Status: won

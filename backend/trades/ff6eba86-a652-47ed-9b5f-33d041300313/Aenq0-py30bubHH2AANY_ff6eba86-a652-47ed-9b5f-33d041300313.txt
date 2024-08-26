@@ -1,9 +1,0 @@
-User ID: Aenq0-py30bubHH2AANY
-User Name: robot
-Ticket ID: Aenq0-py30bubHH2AANY_ff6eba86-a652-47ed-9b5f-33d041300313
-Total Bid Amount: 10000
-Total Earnings: 0
-Profit/Loss: -10000
-
-Breakdown:
-  Bid: 6, Amount: 10000, Payout: 50000, Status: lost

@@ -1,9 +1,0 @@
-User ID: dzzTFmSDPw7fPWXBAAE_
-User Name: robot
-Ticket ID: dzzTFmSDPw7fPWXBAAE__62b03c19-c2ac-4766-913d-1d50e3d473a4
-Total Bid Amount: 6500
-Total Earnings: 32500
-Profit/Loss: 26000
-
-Breakdown:
-  Bid: 2, Amount: 6500, Payout: 32500, Status: won

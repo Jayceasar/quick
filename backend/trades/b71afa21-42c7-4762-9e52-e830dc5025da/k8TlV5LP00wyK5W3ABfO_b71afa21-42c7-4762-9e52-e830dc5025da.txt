@@ -1,9 +1,0 @@
-User ID: k8TlV5LP00wyK5W3ABfO
-User Name: robot
-Ticket ID: k8TlV5LP00wyK5W3ABfO_b71afa21-42c7-4762-9e52-e830dc5025da
-Total Bid Amount: 500
-Total Earnings: 0
-Profit/Loss: -500
-
-Breakdown:
-  Bid: 1, Amount: 500, Payout: 2500, Status: lost

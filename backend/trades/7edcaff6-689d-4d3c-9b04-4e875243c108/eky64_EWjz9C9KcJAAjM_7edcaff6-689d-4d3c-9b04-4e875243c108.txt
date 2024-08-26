@@ -1,9 +1,0 @@
-User ID: eky64_EWjz9C9KcJAAjM
-User Name: robot
-Ticket ID: eky64_EWjz9C9KcJAAjM_7edcaff6-689d-4d3c-9b04-4e875243c108
-Total Bid Amount: 6800
-Total Earnings: 0
-Profit/Loss: -6800
-
-Breakdown:
-  Bid: 1, Amount: 6800, Payout: 34000, Status: lost

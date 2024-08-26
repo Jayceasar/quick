@@ -1,9 +1,0 @@
-User ID: MKfJPnwZ989jJMKlAA-8
-User Name: robot
-Ticket ID: MKfJPnwZ989jJMKlAA-8_73e52ea7-53a0-471d-a88d-2ad368de3cb4
-Total Bid Amount: 4000
-Total Earnings: 20000
-Profit/Loss: 16000
-
-Breakdown:
-  Bid: 2, Amount: 4000, Payout: 20000, Status: won

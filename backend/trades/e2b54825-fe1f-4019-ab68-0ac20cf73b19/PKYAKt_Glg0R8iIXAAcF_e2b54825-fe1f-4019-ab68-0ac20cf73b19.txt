@@ -1,9 +1,0 @@
-User ID: PKYAKt_Glg0R8iIXAAcF
-User Name: robot
-Ticket ID: PKYAKt_Glg0R8iIXAAcF_e2b54825-fe1f-4019-ab68-0ac20cf73b19
-Total Bid Amount: 2300
-Total Earnings: 0
-Profit/Loss: -2300
-
-Breakdown:
-  Bid: 3, Amount: 2300, Payout: 11500, Status: lost

@@ -1,9 +1,0 @@
-User ID: CC2su8owNTDeBLz-ACJt
-User Name: robot
-Ticket ID: CC2su8owNTDeBLz-ACJt_8ed34477-6ab6-4e68-ad47-14130d8433cd
-Total Bid Amount: 2700
-Total Earnings: 0
-Profit/Loss: -2700
-
-Breakdown:
-  Bid: 5, Amount: 2700, Payout: 13500, Status: lost

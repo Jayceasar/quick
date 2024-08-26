@@ -1,9 +1,0 @@
-User ID: VH_7e84JLpl55eicABu8
-User Name: robot
-Ticket ID: VH_7e84JLpl55eicABu8_c901059c-d365-4652-9ffb-306f75be1174
-Total Bid Amount: 700
-Total Earnings: 3500
-Profit/Loss: 2800
-
-Breakdown:
-  Bid: 1, Amount: 700, Payout: 3500, Status: won

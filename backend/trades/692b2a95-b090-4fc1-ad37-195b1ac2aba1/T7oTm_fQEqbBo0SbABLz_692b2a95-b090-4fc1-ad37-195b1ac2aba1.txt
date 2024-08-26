@@ -1,9 +1,0 @@
-User ID: T7oTm_fQEqbBo0SbABLz
-User Name: robot
-Ticket ID: T7oTm_fQEqbBo0SbABLz_692b2a95-b090-4fc1-ad37-195b1ac2aba1
-Total Bid Amount: 1100
-Total Earnings: 0
-Profit/Loss: -1100
-
-Breakdown:
-  Bid: 1, Amount: 1100, Payout: 5500, Status: lost

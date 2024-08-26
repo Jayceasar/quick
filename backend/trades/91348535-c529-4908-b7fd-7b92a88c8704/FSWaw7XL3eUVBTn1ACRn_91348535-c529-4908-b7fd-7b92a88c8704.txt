@@ -1,9 +1,0 @@
-User ID: FSWaw7XL3eUVBTn1ACRn
-User Name: robot
-Ticket ID: FSWaw7XL3eUVBTn1ACRn_91348535-c529-4908-b7fd-7b92a88c8704
-Total Bid Amount: 300
-Total Earnings: 0
-Profit/Loss: -300
-
-Breakdown:
-  Bid: 4, Amount: 300, Payout: 1500, Status: lost

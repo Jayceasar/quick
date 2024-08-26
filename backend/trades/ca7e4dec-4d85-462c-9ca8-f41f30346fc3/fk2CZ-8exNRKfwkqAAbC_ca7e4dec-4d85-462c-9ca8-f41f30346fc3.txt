@@ -1,9 +1,0 @@
-User ID: fk2CZ-8exNRKfwkqAAbC
-User Name: robot
-Ticket ID: fk2CZ-8exNRKfwkqAAbC_ca7e4dec-4d85-462c-9ca8-f41f30346fc3
-Total Bid Amount: 1100
-Total Earnings: 0
-Profit/Loss: -1100
-
-Breakdown:
-  Bid: 6, Amount: 1100, Payout: 5500, Status: lost

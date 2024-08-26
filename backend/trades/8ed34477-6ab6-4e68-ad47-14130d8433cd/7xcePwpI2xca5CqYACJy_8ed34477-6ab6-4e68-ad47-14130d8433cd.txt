@@ -1,9 +1,0 @@
-User ID: 7xcePwpI2xca5CqYACJy
-User Name: robot
-Ticket ID: 7xcePwpI2xca5CqYACJy_8ed34477-6ab6-4e68-ad47-14130d8433cd
-Total Bid Amount: 2100
-Total Earnings: 10500
-Profit/Loss: 8400
-
-Breakdown:
-  Bid: 2, Amount: 2100, Payout: 10500, Status: won

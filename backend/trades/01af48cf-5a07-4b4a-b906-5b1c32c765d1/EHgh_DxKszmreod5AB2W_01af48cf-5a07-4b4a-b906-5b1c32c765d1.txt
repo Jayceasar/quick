@@ -1,9 +1,0 @@
-User ID: EHgh_DxKszmreod5AB2W
-User Name: robot
-Ticket ID: EHgh_DxKszmreod5AB2W_01af48cf-5a07-4b4a-b906-5b1c32c765d1
-Total Bid Amount: 5600
-Total Earnings: 0
-Profit/Loss: -5600
-
-Breakdown:
-  Bid: 4, Amount: 5600, Payout: 28000, Status: lost

@@ -1,9 +1,0 @@
-User ID: 5YWzW37E4enN4JppAAMT
-User Name: robot
-Ticket ID: 5YWzW37E4enN4JppAAMT_37c5d6ff-88c8-4fb6-a9db-bee3fcec589b
-Total Bid Amount: 5000
-Total Earnings: 0
-Profit/Loss: -5000
-
-Breakdown:
-  Bid: 3, Amount: 5000, Payout: 25000, Status: lost

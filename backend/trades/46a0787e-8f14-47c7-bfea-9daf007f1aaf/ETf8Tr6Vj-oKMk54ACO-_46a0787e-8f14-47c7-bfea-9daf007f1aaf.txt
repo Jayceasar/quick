@@ -1,9 +1,0 @@
-User ID: ETf8Tr6Vj-oKMk54ACO-
-User Name: robot
-Ticket ID: ETf8Tr6Vj-oKMk54ACO-_46a0787e-8f14-47c7-bfea-9daf007f1aaf
-Total Bid Amount: 3700
-Total Earnings: 0
-Profit/Loss: -3700
-
-Breakdown:
-  Bid: 4, Amount: 3700, Payout: 18500, Status: lost

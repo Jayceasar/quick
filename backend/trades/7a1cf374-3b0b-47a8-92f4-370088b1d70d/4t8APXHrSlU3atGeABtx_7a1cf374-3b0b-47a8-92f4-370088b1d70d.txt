@@ -1,9 +1,0 @@
-User ID: 4t8APXHrSlU3atGeABtx
-User Name: robot
-Ticket ID: 4t8APXHrSlU3atGeABtx_7a1cf374-3b0b-47a8-92f4-370088b1d70d
-Total Bid Amount: 9200
-Total Earnings: 46000
-Profit/Loss: 36800
-
-Breakdown:
-  Bid: 2, Amount: 9200, Payout: 46000, Status: won

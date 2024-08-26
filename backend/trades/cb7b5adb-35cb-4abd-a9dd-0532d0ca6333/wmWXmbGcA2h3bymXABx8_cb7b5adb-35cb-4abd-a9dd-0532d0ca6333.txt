@@ -1,9 +1,0 @@
-User ID: wmWXmbGcA2h3bymXABx8
-User Name: robot
-Ticket ID: wmWXmbGcA2h3bymXABx8_cb7b5adb-35cb-4abd-a9dd-0532d0ca6333
-Total Bid Amount: 7300
-Total Earnings: 0
-Profit/Loss: -7300
-
-Breakdown:
-  Bid: 5, Amount: 7300, Payout: 36500, Status: lost

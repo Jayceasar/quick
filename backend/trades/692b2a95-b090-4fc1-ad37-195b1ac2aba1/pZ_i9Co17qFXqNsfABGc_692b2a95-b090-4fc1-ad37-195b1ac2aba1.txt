@@ -1,9 +1,0 @@
-User ID: pZ_i9Co17qFXqNsfABGc
-User Name: robot
-Ticket ID: pZ_i9Co17qFXqNsfABGc_692b2a95-b090-4fc1-ad37-195b1ac2aba1
-Total Bid Amount: 3000
-Total Earnings: 0
-Profit/Loss: -3000
-
-Breakdown:
-  Bid: 3, Amount: 3000, Payout: 15000, Status: lost

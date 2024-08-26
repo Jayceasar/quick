@@ -1,9 +1,0 @@
-User ID: JMONi5tA21BxbTb7ACI-
-User Name: robot
-Ticket ID: JMONi5tA21BxbTb7ACI-_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
-Total Bid Amount: 6500
-Total Earnings: 0
-Profit/Loss: -6500
-
-Breakdown:
-  Bid: 4, Amount: 6500, Payout: 32500, Status: lost

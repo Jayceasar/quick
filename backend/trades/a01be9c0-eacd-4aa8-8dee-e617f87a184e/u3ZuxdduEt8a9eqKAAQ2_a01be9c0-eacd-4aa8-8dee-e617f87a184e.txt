@@ -1,9 +1,0 @@
-User ID: u3ZuxdduEt8a9eqKAAQ2
-User Name: robot
-Ticket ID: u3ZuxdduEt8a9eqKAAQ2_a01be9c0-eacd-4aa8-8dee-e617f87a184e
-Total Bid Amount: 1600
-Total Earnings: 8000
-Profit/Loss: 6400
-
-Breakdown:
-  Bid: 2, Amount: 1600, Payout: 8000, Status: won

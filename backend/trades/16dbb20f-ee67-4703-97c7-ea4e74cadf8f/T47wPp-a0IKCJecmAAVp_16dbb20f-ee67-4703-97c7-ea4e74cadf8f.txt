@@ -1,9 +1,0 @@
-User ID: T47wPp-a0IKCJecmAAVp
-User Name: robot
-Ticket ID: T47wPp-a0IKCJecmAAVp_16dbb20f-ee67-4703-97c7-ea4e74cadf8f
-Total Bid Amount: 6900
-Total Earnings: 0
-Profit/Loss: -6900
-
-Breakdown:
-  Bid: 3, Amount: 6900, Payout: 34500, Status: lost

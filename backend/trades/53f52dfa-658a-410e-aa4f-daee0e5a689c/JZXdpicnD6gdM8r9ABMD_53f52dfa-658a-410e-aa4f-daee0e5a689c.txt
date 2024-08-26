@@ -1,9 +1,0 @@
-User ID: JZXdpicnD6gdM8r9ABMD
-User Name: robot
-Ticket ID: JZXdpicnD6gdM8r9ABMD_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 9200
-Total Earnings: 0
-Profit/Loss: -9200
-
-Breakdown:
-  Bid: 3, Amount: 9200, Payout: 46000, Status: lost

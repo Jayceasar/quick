@@ -1,9 +1,0 @@
-User ID: uLNBOQR7N_lF0tDHAA-N
-User Name: robot
-Ticket ID: uLNBOQR7N_lF0tDHAA-N_5092f0aa-69e0-4bf1-a90f-11d059a29664
-Total Bid Amount: 5800
-Total Earnings: 29000
-Profit/Loss: 23200
-
-Breakdown:
-  Bid: 1, Amount: 5800, Payout: 29000, Status: won

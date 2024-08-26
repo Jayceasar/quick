@@ -1,9 +1,0 @@
-User ID: __2f5-zs9CVgNxCZAAM0
-User Name: robot
-Ticket ID: __2f5-zs9CVgNxCZAAM0_c4750aca-f17c-4be6-87a9-33a224b7d999
-Total Bid Amount: 4800
-Total Earnings: 0
-Profit/Loss: -4800
-
-Breakdown:
-  Bid: 2, Amount: 4800, Payout: 24000, Status: lost

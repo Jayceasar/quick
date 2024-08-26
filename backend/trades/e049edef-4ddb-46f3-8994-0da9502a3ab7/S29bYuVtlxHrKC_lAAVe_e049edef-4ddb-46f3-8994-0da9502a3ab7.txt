@@ -1,9 +1,0 @@
-User ID: S29bYuVtlxHrKC_lAAVe
-User Name: robot
-Ticket ID: S29bYuVtlxHrKC_lAAVe_e049edef-4ddb-46f3-8994-0da9502a3ab7
-Total Bid Amount: 8700
-Total Earnings: 0
-Profit/Loss: -8700
-
-Breakdown:
-  Bid: 1, Amount: 8700, Payout: 43500, Status: lost

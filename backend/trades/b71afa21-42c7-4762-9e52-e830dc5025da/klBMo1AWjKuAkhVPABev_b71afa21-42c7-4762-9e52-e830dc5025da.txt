@@ -1,9 +1,0 @@
-User ID: klBMo1AWjKuAkhVPABev
-User Name: robot
-Ticket ID: klBMo1AWjKuAkhVPABev_b71afa21-42c7-4762-9e52-e830dc5025da
-Total Bid Amount: 9400
-Total Earnings: 0
-Profit/Loss: -9400
-
-Breakdown:
-  Bid: 6, Amount: 9400, Payout: 47000, Status: lost

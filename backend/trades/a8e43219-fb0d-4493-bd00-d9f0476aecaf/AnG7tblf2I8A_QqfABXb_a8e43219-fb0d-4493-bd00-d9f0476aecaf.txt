@@ -1,9 +1,0 @@
-User ID: AnG7tblf2I8A_QqfABXb
-User Name: robot
-Ticket ID: AnG7tblf2I8A_QqfABXb_a8e43219-fb0d-4493-bd00-d9f0476aecaf
-Total Bid Amount: 3700
-Total Earnings: 0
-Profit/Loss: -3700
-
-Breakdown:
-  Bid: 3, Amount: 3700, Payout: 18500, Status: lost

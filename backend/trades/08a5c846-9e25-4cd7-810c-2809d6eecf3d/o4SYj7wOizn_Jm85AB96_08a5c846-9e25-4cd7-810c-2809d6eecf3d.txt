@@ -1,9 +1,0 @@
-User ID: o4SYj7wOizn_Jm85AB96
-User Name: robot
-Ticket ID: o4SYj7wOizn_Jm85AB96_08a5c846-9e25-4cd7-810c-2809d6eecf3d
-Total Bid Amount: 2800
-Total Earnings: 14000
-Profit/Loss: 11200
-
-Breakdown:
-  Bid: 1, Amount: 2800, Payout: 14000, Status: won

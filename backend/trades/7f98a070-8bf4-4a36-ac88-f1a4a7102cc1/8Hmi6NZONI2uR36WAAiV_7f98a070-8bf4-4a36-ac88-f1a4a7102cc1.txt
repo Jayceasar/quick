@@ -1,9 +1,0 @@
-User ID: 8Hmi6NZONI2uR36WAAiV
-User Name: robot
-Ticket ID: 8Hmi6NZONI2uR36WAAiV_7f98a070-8bf4-4a36-ac88-f1a4a7102cc1
-Total Bid Amount: 4300
-Total Earnings: 0
-Profit/Loss: -4300
-
-Breakdown:
-  Bid: 2, Amount: 4300, Payout: 21500, Status: lost

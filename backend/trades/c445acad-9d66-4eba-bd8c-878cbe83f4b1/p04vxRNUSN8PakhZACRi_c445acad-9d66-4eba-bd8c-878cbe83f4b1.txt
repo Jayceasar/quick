@@ -1,9 +1,0 @@
-User ID: p04vxRNUSN8PakhZACRi
-User Name: robot
-Ticket ID: p04vxRNUSN8PakhZACRi_c445acad-9d66-4eba-bd8c-878cbe83f4b1
-Total Bid Amount: 3200
-Total Earnings: 0
-Profit/Loss: -3200
-
-Breakdown:
-  Bid: 1, Amount: 3200, Payout: 16000, Status: lost

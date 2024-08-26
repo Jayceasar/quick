@@ -1,9 +1,0 @@
-User ID: GGpW3rNEf4fWim1sAAP3
-User Name: robot
-Ticket ID: GGpW3rNEf4fWim1sAAP3_37c5d6ff-88c8-4fb6-a9db-bee3fcec589b
-Total Bid Amount: 2900
-Total Earnings: 0
-Profit/Loss: -2900
-
-Breakdown:
-  Bid: 2, Amount: 2900, Payout: 14500, Status: lost

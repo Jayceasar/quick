@@ -1,9 +1,0 @@
-User ID: 3I96gSytZxM-fsZoACFr
-User Name: robot
-Ticket ID: 3I96gSytZxM-fsZoACFr_baae20bc-bbdc-4a0c-addb-c4a83365506c
-Total Bid Amount: 5500
-Total Earnings: 0
-Profit/Loss: -5500
-
-Breakdown:
-  Bid: 4, Amount: 5500, Payout: 27500, Status: lost

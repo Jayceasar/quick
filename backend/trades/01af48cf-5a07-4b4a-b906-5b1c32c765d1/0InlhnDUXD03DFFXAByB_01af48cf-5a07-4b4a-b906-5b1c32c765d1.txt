@@ -1,9 +1,0 @@
-User ID: 0InlhnDUXD03DFFXAByB
-User Name: robot
-Ticket ID: 0InlhnDUXD03DFFXAByB_01af48cf-5a07-4b4a-b906-5b1c32c765d1
-Total Bid Amount: 5500
-Total Earnings: 0
-Profit/Loss: -5500
-
-Breakdown:
-  Bid: 1, Amount: 5500, Payout: 27500, Status: lost

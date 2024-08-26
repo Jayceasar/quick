@@ -1,9 +1,0 @@
-User ID: naw4Bw7jnVuv1Bn5ABX9
-User Name: robot
-Ticket ID: naw4Bw7jnVuv1Bn5ABX9_a8e43219-fb0d-4493-bd00-d9f0476aecaf
-Total Bid Amount: 1000
-Total Earnings: 0
-Profit/Loss: -1000
-
-Breakdown:
-  Bid: 1, Amount: 1000, Payout: 5000, Status: lost

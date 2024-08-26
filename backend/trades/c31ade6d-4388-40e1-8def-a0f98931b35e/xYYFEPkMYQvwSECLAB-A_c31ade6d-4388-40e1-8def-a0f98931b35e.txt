@@ -1,9 +1,0 @@
-User ID: xYYFEPkMYQvwSECLAB-A
-User Name: robot
-Ticket ID: xYYFEPkMYQvwSECLAB-A_c31ade6d-4388-40e1-8def-a0f98931b35e
-Total Bid Amount: 100
-Total Earnings: 0
-Profit/Loss: -100
-
-Breakdown:
-  Bid: 4, Amount: 100, Payout: 500, Status: lost

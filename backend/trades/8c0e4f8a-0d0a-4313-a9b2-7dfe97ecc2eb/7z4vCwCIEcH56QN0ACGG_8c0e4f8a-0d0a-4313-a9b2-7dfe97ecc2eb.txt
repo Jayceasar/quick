@@ -1,9 +1,0 @@
-User ID: 7z4vCwCIEcH56QN0ACGG
-User Name: robot
-Ticket ID: 7z4vCwCIEcH56QN0ACGG_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
-Total Bid Amount: 5100
-Total Earnings: 25500
-Profit/Loss: 20400
-
-Breakdown:
-  Bid: 5, Amount: 5100, Payout: 25500, Status: won

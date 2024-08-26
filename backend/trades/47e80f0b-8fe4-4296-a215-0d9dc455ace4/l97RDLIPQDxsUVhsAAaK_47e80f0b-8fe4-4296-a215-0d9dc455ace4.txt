@@ -1,9 +1,0 @@
-User ID: l97RDLIPQDxsUVhsAAaK
-User Name: robot
-Ticket ID: l97RDLIPQDxsUVhsAAaK_47e80f0b-8fe4-4296-a215-0d9dc455ace4
-Total Bid Amount: 5400
-Total Earnings: 27000
-Profit/Loss: 21600
-
-Breakdown:
-  Bid: 1, Amount: 5400, Payout: 27000, Status: won

@@ -1,9 +1,0 @@
-User ID: 1bChUnSrUa8ETSYEACGA
-User Name: robot
-Ticket ID: 1bChUnSrUa8ETSYEACGA_2a327de1-2fbe-48c6-b3b3-e81f12d12845
-Total Bid Amount: 5500
-Total Earnings: 27500
-Profit/Loss: 22000
-
-Breakdown:
-  Bid: 5, Amount: 5500, Payout: 27500, Status: won

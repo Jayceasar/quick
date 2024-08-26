@@ -1,9 +1,0 @@
-User ID: _foZ8OT9zWeG-0dJABun
-User Name: robot
-Ticket ID: _foZ8OT9zWeG-0dJABun_c901059c-d365-4652-9ffb-306f75be1174
-Total Bid Amount: 3300
-Total Earnings: 16500
-Profit/Loss: 13200
-
-Breakdown:
-  Bid: 1, Amount: 3300, Payout: 16500, Status: won

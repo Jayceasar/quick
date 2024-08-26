@@ -1,9 +1,0 @@
-User ID: 3AyUru7JnU3m2ew7AAN-
-User Name: robot
-Ticket ID: 3AyUru7JnU3m2ew7AAN-_b7702871-94c5-4aa2-a465-bc5c183e2b58
-Total Bid Amount: 2700
-Total Earnings: 13500
-Profit/Loss: 10800
-
-Breakdown:
-  Bid: 5, Amount: 2700, Payout: 13500, Status: won

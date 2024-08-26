@@ -1,9 +1,0 @@
-User ID: qPGokIvjE3PK-o11AAF2
-User Name: robot
-Ticket ID: qPGokIvjE3PK-o11AAF2_3750ca25-a9f1-4278-85de-ccbff503fd45
-Total Bid Amount: 2700
-Total Earnings: 0
-Profit/Loss: -2700
-
-Breakdown:
-  Bid: 1, Amount: 2700, Payout: 13500, Status: lost

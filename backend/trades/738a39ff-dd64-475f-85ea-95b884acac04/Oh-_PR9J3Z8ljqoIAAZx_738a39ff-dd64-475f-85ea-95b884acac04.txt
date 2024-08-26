@@ -1,9 +1,0 @@
-User ID: Oh-_PR9J3Z8ljqoIAAZx
-User Name: robot
-Ticket ID: Oh-_PR9J3Z8ljqoIAAZx_738a39ff-dd64-475f-85ea-95b884acac04
-Total Bid Amount: 9800
-Total Earnings: 0
-Profit/Loss: -9800
-
-Breakdown:
-  Bid: 5, Amount: 9800, Payout: 49000, Status: lost

@@ -1,9 +1,0 @@
-User ID: 1Eg2EPfCjImV03IbAANE
-User Name: robot
-Ticket ID: 1Eg2EPfCjImV03IbAANE_e827b874-b370-4207-bcba-917383162e5c
-Total Bid Amount: 4500
-Total Earnings: 22500
-Profit/Loss: 18000
-
-Breakdown:
-  Bid: 2, Amount: 4500, Payout: 22500, Status: won

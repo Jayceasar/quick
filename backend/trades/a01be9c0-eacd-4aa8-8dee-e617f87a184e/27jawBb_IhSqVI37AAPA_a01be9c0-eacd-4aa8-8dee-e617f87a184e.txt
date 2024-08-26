@@ -1,9 +1,0 @@
-User ID: 27jawBb_IhSqVI37AAPA
-User Name: robot
-Ticket ID: 27jawBb_IhSqVI37AAPA_a01be9c0-eacd-4aa8-8dee-e617f87a184e
-Total Bid Amount: 8200
-Total Earnings: 41000
-Profit/Loss: 32800
-
-Breakdown:
-  Bid: 2, Amount: 8200, Payout: 41000, Status: won

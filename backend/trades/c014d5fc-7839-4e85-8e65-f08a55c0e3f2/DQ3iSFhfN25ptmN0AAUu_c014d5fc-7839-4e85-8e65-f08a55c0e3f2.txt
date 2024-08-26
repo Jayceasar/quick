@@ -1,9 +1,0 @@
-User ID: DQ3iSFhfN25ptmN0AAUu
-User Name: robot
-Ticket ID: DQ3iSFhfN25ptmN0AAUu_c014d5fc-7839-4e85-8e65-f08a55c0e3f2
-Total Bid Amount: 6400
-Total Earnings: 0
-Profit/Loss: -6400
-
-Breakdown:
-  Bid: 1, Amount: 6400, Payout: 32000, Status: lost

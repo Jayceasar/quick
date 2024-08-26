@@ -1,9 +1,0 @@
-User ID: aDLXmJ2HAS-NopltAB5F
-User Name: robot
-Ticket ID: aDLXmJ2HAS-NopltAB5F_a5318a37-9f3b-4e0f-afd9-4ce9b649cb5f
-Total Bid Amount: 9600
-Total Earnings: 48000
-Profit/Loss: 38400
-
-Breakdown:
-  Bid: 2, Amount: 9600, Payout: 48000, Status: won

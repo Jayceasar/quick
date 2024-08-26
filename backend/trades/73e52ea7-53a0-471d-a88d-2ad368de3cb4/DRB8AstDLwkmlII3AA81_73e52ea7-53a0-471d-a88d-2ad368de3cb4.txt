@@ -1,9 +1,0 @@
-User ID: DRB8AstDLwkmlII3AA81
-User Name: robot
-Ticket ID: DRB8AstDLwkmlII3AA81_73e52ea7-53a0-471d-a88d-2ad368de3cb4
-Total Bid Amount: 8200
-Total Earnings: 41000
-Profit/Loss: 32800
-
-Breakdown:
-  Bid: 2, Amount: 8200, Payout: 41000, Status: won

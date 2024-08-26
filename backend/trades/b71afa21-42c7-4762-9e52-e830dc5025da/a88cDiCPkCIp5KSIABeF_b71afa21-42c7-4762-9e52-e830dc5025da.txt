@@ -1,9 +1,0 @@
-User ID: a88cDiCPkCIp5KSIABeF
-User Name: robot
-Ticket ID: a88cDiCPkCIp5KSIABeF_b71afa21-42c7-4762-9e52-e830dc5025da
-Total Bid Amount: 4900
-Total Earnings: 24500
-Profit/Loss: 19600
-
-Breakdown:
-  Bid: 2, Amount: 4900, Payout: 24500, Status: won

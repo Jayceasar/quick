@@ -1,9 +1,0 @@
-User ID: DBd94Qz6MaSZJMcwACGa
-User Name: robot
-Ticket ID: DBd94Qz6MaSZJMcwACGa_8ed34477-6ab6-4e68-ad47-14130d8433cd
-Total Bid Amount: 1900
-Total Earnings: 0
-Profit/Loss: -1900
-
-Breakdown:
-  Bid: 5, Amount: 1900, Payout: 9500, Status: lost

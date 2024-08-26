@@ -1,9 +1,0 @@
-User ID: SCHg-iIlGGETvKuXACKI
-User Name: robot
-Ticket ID: SCHg-iIlGGETvKuXACKI_7a619b2b-f9f3-4d8c-b8d2-8f2288186f49
-Total Bid Amount: 5900
-Total Earnings: 0
-Profit/Loss: -5900
-
-Breakdown:
-  Bid: 1, Amount: 5900, Payout: 29500, Status: lost

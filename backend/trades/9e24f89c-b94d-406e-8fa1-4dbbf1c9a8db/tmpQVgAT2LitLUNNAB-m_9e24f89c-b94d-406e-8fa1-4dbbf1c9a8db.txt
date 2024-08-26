@@ -1,9 +1,0 @@
-User ID: tmpQVgAT2LitLUNNAB-m
-User Name: robot
-Ticket ID: tmpQVgAT2LitLUNNAB-m_9e24f89c-b94d-406e-8fa1-4dbbf1c9a8db
-Total Bid Amount: 3600
-Total Earnings: 0
-Profit/Loss: -3600
-
-Breakdown:
-  Bid: 2, Amount: 3600, Payout: 18000, Status: lost

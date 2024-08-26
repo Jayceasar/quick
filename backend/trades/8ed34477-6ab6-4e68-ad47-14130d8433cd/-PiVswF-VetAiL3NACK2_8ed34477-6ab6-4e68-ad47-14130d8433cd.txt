@@ -1,9 +1,0 @@
-User ID: -PiVswF-VetAiL3NACK2
-User Name: robot
-Ticket ID: -PiVswF-VetAiL3NACK2_8ed34477-6ab6-4e68-ad47-14130d8433cd
-Total Bid Amount: 5100
-Total Earnings: 0
-Profit/Loss: -5100
-
-Breakdown:
-  Bid: 3, Amount: 5100, Payout: 25500, Status: lost

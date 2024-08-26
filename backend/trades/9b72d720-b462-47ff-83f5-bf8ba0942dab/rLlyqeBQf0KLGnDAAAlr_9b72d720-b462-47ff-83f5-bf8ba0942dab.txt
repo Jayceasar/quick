@@ -1,9 +1,0 @@
-User ID: rLlyqeBQf0KLGnDAAAlr
-User Name: robot
-Ticket ID: rLlyqeBQf0KLGnDAAAlr_9b72d720-b462-47ff-83f5-bf8ba0942dab
-Total Bid Amount: 9700
-Total Earnings: 48500
-Profit/Loss: 38800
-
-Breakdown:
-  Bid: 5, Amount: 9700, Payout: 48500, Status: won

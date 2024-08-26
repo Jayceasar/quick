@@ -1,9 +1,0 @@
-User ID: G-eDZrtKl5XdXX0HACPe
-User Name: robot
-Ticket ID: G-eDZrtKl5XdXX0HACPe_265eb397-1854-4119-accc-a16b6345bf48
-Total Bid Amount: 200
-Total Earnings: 0
-Profit/Loss: -200
-
-Breakdown:
-  Bid: 2, Amount: 200, Payout: 1000, Status: lost

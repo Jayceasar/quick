@@ -1,9 +1,0 @@
-User ID: BjbHF2vJR04CjbtvAAaX
-User Name: robot
-Ticket ID: BjbHF2vJR04CjbtvAAaX_f4cf4c3f-d9ae-4795-8b4a-b94bad6521aa
-Total Bid Amount: 6300
-Total Earnings: 0
-Profit/Loss: -6300
-
-Breakdown:
-  Bid: 4, Amount: 6300, Payout: 31500, Status: lost

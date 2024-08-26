@@ -1,9 +1,0 @@
-User ID: n2PNgNct1aTS9sE8AAgb
-User Name: robot
-Ticket ID: n2PNgNct1aTS9sE8AAgb_7edcaff6-689d-4d3c-9b04-4e875243c108
-Total Bid Amount: 9600
-Total Earnings: 0
-Profit/Loss: -9600
-
-Breakdown:
-  Bid: 5, Amount: 9600, Payout: 48000, Status: lost

@@ -1,9 +1,0 @@
-User ID: fMkFKaCPcj72kI8rAAuK
-User Name: robot
-Ticket ID: fMkFKaCPcj72kI8rAAuK_d970b8db-846a-4e9c-a7a6-33cc8b792735
-Total Bid Amount: 800
-Total Earnings: 0
-Profit/Loss: -800
-
-Breakdown:
-  Bid: 2, Amount: 800, Payout: 4000, Status: lost

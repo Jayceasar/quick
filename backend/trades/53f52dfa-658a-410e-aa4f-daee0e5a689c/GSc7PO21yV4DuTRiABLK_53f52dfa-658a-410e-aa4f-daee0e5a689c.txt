@@ -1,9 +1,0 @@
-User ID: GSc7PO21yV4DuTRiABLK
-User Name: robot
-Ticket ID: GSc7PO21yV4DuTRiABLK_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 4700
-Total Earnings: 23500
-Profit/Loss: 18800
-
-Breakdown:
-  Bid: 6, Amount: 4700, Payout: 23500, Status: won

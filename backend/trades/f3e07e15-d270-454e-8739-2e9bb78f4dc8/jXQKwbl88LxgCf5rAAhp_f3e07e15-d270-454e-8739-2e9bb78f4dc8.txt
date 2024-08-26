@@ -1,9 +1,0 @@
-User ID: jXQKwbl88LxgCf5rAAhp
-User Name: robot
-Ticket ID: jXQKwbl88LxgCf5rAAhp_f3e07e15-d270-454e-8739-2e9bb78f4dc8
-Total Bid Amount: 700
-Total Earnings: 0
-Profit/Loss: -700
-
-Breakdown:
-  Bid: 4, Amount: 700, Payout: 3500, Status: lost

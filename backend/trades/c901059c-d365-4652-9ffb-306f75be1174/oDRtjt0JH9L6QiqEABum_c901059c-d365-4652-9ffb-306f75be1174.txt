@@ -1,9 +1,0 @@
-User ID: oDRtjt0JH9L6QiqEABum
-User Name: robot
-Ticket ID: oDRtjt0JH9L6QiqEABum_c901059c-d365-4652-9ffb-306f75be1174
-Total Bid Amount: 2900
-Total Earnings: 0
-Profit/Loss: -2900
-
-Breakdown:
-  Bid: 4, Amount: 2900, Payout: 14500, Status: lost

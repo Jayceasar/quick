@@ -1,9 +1,0 @@
-User ID: lJXhyYeTYTi32WUpABtU
-User Name: robot
-Ticket ID: lJXhyYeTYTi32WUpABtU_7a1cf374-3b0b-47a8-92f4-370088b1d70d
-Total Bid Amount: 9700
-Total Earnings: 0
-Profit/Loss: -9700
-
-Breakdown:
-  Bid: 1, Amount: 9700, Payout: 48500, Status: lost

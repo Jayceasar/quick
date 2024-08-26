@@ -1,9 +1,0 @@
-User ID: XexH032le6zcDQt7AA22
-User Name: robot
-Ticket ID: XexH032le6zcDQt7AA22_68e62d25-465c-4fa3-a30f-dedebd975de0
-Total Bid Amount: 8500
-Total Earnings: 0
-Profit/Loss: -8500
-
-Breakdown:
-  Bid: 1, Amount: 8500, Payout: 42500, Status: lost

@@ -1,9 +1,0 @@
-User ID: d_xsdLD6CumaodSEABcf
-User Name: robot
-Ticket ID: d_xsdLD6CumaodSEABcf_6e56c651-525b-40b4-bdf6-b90e58163806
-Total Bid Amount: 9600
-Total Earnings: 48000
-Profit/Loss: 38400
-
-Breakdown:
-  Bid: 3, Amount: 9600, Payout: 48000, Status: won

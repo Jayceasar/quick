@@ -1,9 +1,0 @@
-User ID: pxF17Y4mfv6lG0EeABuu
-User Name: robot
-Ticket ID: pxF17Y4mfv6lG0EeABuu_c901059c-d365-4652-9ffb-306f75be1174
-Total Bid Amount: 8300
-Total Earnings: 0
-Profit/Loss: -8300
-
-Breakdown:
-  Bid: 3, Amount: 8300, Payout: 41500, Status: lost

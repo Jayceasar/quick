@@ -1,9 +1,0 @@
-User ID: wVLD-nTrbhtwNViOABl0
-User Name: robot
-Ticket ID: wVLD-nTrbhtwNViOABl0_ee604dcb-27d6-4726-96f7-531f06808794
-Total Bid Amount: 500
-Total Earnings: 0
-Profit/Loss: -500
-
-Breakdown:
-  Bid: 3, Amount: 500, Payout: 2500, Status: lost

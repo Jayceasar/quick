@@ -1,9 +1,0 @@
-User ID: s7tqa5dPHaPq7ulMAA95
-User Name: robot
-Ticket ID: s7tqa5dPHaPq7ulMAA95_73e52ea7-53a0-471d-a88d-2ad368de3cb4
-Total Bid Amount: 9300
-Total Earnings: 0
-Profit/Loss: -9300
-
-Breakdown:
-  Bid: 6, Amount: 9300, Payout: 46500, Status: lost

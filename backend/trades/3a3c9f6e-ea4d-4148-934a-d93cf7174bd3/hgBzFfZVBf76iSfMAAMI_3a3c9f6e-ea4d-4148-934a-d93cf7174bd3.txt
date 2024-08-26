@@ -1,9 +1,0 @@
-User ID: hgBzFfZVBf76iSfMAAMI
-User Name: robot
-Ticket ID: hgBzFfZVBf76iSfMAAMI_3a3c9f6e-ea4d-4148-934a-d93cf7174bd3
-Total Bid Amount: 800
-Total Earnings: 4000
-Profit/Loss: 3200
-
-Breakdown:
-  Bid: 4, Amount: 800, Payout: 4000, Status: won

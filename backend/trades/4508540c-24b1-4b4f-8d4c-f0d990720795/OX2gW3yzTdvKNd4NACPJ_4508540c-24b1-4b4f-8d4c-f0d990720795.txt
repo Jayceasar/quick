@@ -1,9 +1,0 @@
-User ID: OX2gW3yzTdvKNd4NACPJ
-User Name: robot
-Ticket ID: OX2gW3yzTdvKNd4NACPJ_4508540c-24b1-4b4f-8d4c-f0d990720795
-Total Bid Amount: 5100
-Total Earnings: 0
-Profit/Loss: -5100
-
-Breakdown:
-  Bid: 1, Amount: 5100, Payout: 25500, Status: lost

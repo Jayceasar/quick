@@ -1,9 +1,0 @@
-User ID: _jLTahF3S1VSECbrAB-d
-User Name: robot
-Ticket ID: _jLTahF3S1VSECbrAB-d_3e3ffb49-a8be-4e48-a533-33eb486e2676
-Total Bid Amount: 4300
-Total Earnings: 0
-Profit/Loss: -4300
-
-Breakdown:
-  Bid: 6, Amount: 4300, Payout: 21500, Status: lost

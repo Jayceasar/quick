@@ -1,9 +1,0 @@
-User ID: wl3miHl81LC5IoyqAAYA
-User Name: robot
-Ticket ID: wl3miHl81LC5IoyqAAYA_ed17dce3-517e-47c2-a522-ca0bfdecb52d
-Total Bid Amount: 7800
-Total Earnings: 39000
-Profit/Loss: 31200
-
-Breakdown:
-  Bid: 4, Amount: 7800, Payout: 39000, Status: won

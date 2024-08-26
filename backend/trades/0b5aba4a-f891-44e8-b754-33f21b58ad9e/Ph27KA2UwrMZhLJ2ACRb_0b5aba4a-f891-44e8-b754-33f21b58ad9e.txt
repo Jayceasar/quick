@@ -1,9 +1,0 @@
-User ID: Ph27KA2UwrMZhLJ2ACRb
-User Name: robot
-Ticket ID: Ph27KA2UwrMZhLJ2ACRb_0b5aba4a-f891-44e8-b754-33f21b58ad9e
-Total Bid Amount: 4900
-Total Earnings: 24500
-Profit/Loss: 19600
-
-Breakdown:
-  Bid: 2, Amount: 4900, Payout: 24500, Status: won

@@ -1,9 +1,0 @@
-User ID: j9R2ogmod8Hz2-GPABdV
-User Name: robot
-Ticket ID: j9R2ogmod8Hz2-GPABdV_b71afa21-42c7-4762-9e52-e830dc5025da
-Total Bid Amount: 3100
-Total Earnings: 15500
-Profit/Loss: 12400
-
-Breakdown:
-  Bid: 2, Amount: 3100, Payout: 15500, Status: won

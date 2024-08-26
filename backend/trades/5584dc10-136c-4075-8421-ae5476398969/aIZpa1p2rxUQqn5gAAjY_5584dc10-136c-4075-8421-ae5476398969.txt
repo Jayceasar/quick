@@ -1,9 +1,0 @@
-User ID: aIZpa1p2rxUQqn5gAAjY
-User Name: robot
-Ticket ID: aIZpa1p2rxUQqn5gAAjY_5584dc10-136c-4075-8421-ae5476398969
-Total Bid Amount: 7100
-Total Earnings: 35500
-Profit/Loss: 28400
-
-Breakdown:
-  Bid: 2, Amount: 7100, Payout: 35500, Status: won

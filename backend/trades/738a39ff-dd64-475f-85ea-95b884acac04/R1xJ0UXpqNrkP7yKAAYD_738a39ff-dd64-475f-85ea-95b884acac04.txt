@@ -1,9 +1,0 @@
-User ID: R1xJ0UXpqNrkP7yKAAYD
-User Name: robot
-Ticket ID: R1xJ0UXpqNrkP7yKAAYD_738a39ff-dd64-475f-85ea-95b884acac04
-Total Bid Amount: 2700
-Total Earnings: 0
-Profit/Loss: -2700
-
-Breakdown:
-  Bid: 1, Amount: 2700, Payout: 13500, Status: lost

@@ -1,9 +1,0 @@
-User ID: iTOgU2F0w37QTIjyACI3
-User Name: robot
-Ticket ID: iTOgU2F0w37QTIjyACI3_8ed34477-6ab6-4e68-ad47-14130d8433cd
-Total Bid Amount: 7600
-Total Earnings: 0
-Profit/Loss: -7600
-
-Breakdown:
-  Bid: 6, Amount: 7600, Payout: 38000, Status: lost

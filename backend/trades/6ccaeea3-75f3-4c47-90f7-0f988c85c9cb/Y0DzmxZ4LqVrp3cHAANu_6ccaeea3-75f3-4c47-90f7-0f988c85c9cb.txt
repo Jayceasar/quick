@@ -1,9 +1,0 @@
-User ID: Y0DzmxZ4LqVrp3cHAANu
-User Name: robot
-Ticket ID: Y0DzmxZ4LqVrp3cHAANu_6ccaeea3-75f3-4c47-90f7-0f988c85c9cb
-Total Bid Amount: 6100
-Total Earnings: 0
-Profit/Loss: -6100
-
-Breakdown:
-  Bid: 2, Amount: 6100, Payout: 30500, Status: lost

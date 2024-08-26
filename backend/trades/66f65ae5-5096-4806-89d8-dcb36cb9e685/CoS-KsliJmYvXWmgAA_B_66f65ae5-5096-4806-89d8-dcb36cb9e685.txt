@@ -1,9 +1,0 @@
-User ID: CoS-KsliJmYvXWmgAA_B
-User Name: robot
-Ticket ID: CoS-KsliJmYvXWmgAA_B_66f65ae5-5096-4806-89d8-dcb36cb9e685
-Total Bid Amount: 7200
-Total Earnings: 0
-Profit/Loss: -7200
-
-Breakdown:
-  Bid: 1, Amount: 7200, Payout: 36000, Status: lost

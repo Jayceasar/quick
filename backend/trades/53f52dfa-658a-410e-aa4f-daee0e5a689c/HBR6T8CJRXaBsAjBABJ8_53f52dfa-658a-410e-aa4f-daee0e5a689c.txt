@@ -1,9 +1,0 @@
-User ID: HBR6T8CJRXaBsAjBABJ8
-User Name: robot
-Ticket ID: HBR6T8CJRXaBsAjBABJ8_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 3500
-Total Earnings: 0
-Profit/Loss: -3500
-
-Breakdown:
-  Bid: 5, Amount: 3500, Payout: 17500, Status: lost

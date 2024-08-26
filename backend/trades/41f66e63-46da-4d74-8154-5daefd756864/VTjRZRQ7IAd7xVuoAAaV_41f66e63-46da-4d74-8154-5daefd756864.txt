@@ -1,9 +1,0 @@
-User ID: VTjRZRQ7IAd7xVuoAAaV
-User Name: robot
-Ticket ID: VTjRZRQ7IAd7xVuoAAaV_41f66e63-46da-4d74-8154-5daefd756864
-Total Bid Amount: 3100
-Total Earnings: 0
-Profit/Loss: -3100
-
-Breakdown:
-  Bid: 4, Amount: 3100, Payout: 15500, Status: lost

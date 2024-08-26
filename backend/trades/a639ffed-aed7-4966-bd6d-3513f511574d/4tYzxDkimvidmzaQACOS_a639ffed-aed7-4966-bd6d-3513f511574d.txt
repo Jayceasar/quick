@@ -1,9 +1,0 @@
-User ID: 4tYzxDkimvidmzaQACOS
-User Name: robot
-Ticket ID: 4tYzxDkimvidmzaQACOS_a639ffed-aed7-4966-bd6d-3513f511574d
-Total Bid Amount: 3900
-Total Earnings: 0
-Profit/Loss: -3900
-
-Breakdown:
-  Bid: 1, Amount: 3900, Payout: 19500, Status: lost

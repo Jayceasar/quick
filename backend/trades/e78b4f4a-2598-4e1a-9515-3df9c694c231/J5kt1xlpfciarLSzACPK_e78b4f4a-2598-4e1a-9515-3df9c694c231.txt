@@ -1,9 +1,0 @@
-User ID: J5kt1xlpfciarLSzACPK
-User Name: robot
-Ticket ID: J5kt1xlpfciarLSzACPK_e78b4f4a-2598-4e1a-9515-3df9c694c231
-Total Bid Amount: 7700
-Total Earnings: 0
-Profit/Loss: -7700
-
-Breakdown:
-  Bid: 4, Amount: 7700, Payout: 38500, Status: lost

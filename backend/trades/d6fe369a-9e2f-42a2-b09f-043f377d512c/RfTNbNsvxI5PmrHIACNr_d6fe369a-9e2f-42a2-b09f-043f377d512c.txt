@@ -1,9 +1,0 @@
-User ID: RfTNbNsvxI5PmrHIACNr
-User Name: robot
-Ticket ID: RfTNbNsvxI5PmrHIACNr_d6fe369a-9e2f-42a2-b09f-043f377d512c
-Total Bid Amount: 900
-Total Earnings: 0
-Profit/Loss: -900
-
-Breakdown:
-  Bid: 2, Amount: 900, Payout: 4500, Status: lost

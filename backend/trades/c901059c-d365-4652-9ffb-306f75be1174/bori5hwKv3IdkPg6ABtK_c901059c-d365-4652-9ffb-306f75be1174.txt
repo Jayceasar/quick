@@ -1,9 +1,0 @@
-User ID: bori5hwKv3IdkPg6ABtK
-User Name: robot
-Ticket ID: bori5hwKv3IdkPg6ABtK_c901059c-d365-4652-9ffb-306f75be1174
-Total Bid Amount: 7600
-Total Earnings: 0
-Profit/Loss: -7600
-
-Breakdown:
-  Bid: 6, Amount: 7600, Payout: 38000, Status: lost

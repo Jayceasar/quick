@@ -1,9 +1,0 @@
-User ID: c55OTQDf2imQ-Fy2AA8o
-User Name: robot
-Ticket ID: c55OTQDf2imQ-Fy2AA8o_73e52ea7-53a0-471d-a88d-2ad368de3cb4
-Total Bid Amount: 4000
-Total Earnings: 0
-Profit/Loss: -4000
-
-Breakdown:
-  Bid: 6, Amount: 4000, Payout: 20000, Status: lost

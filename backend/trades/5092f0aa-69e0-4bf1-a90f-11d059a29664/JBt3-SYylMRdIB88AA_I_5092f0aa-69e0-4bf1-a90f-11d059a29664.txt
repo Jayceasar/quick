@@ -1,9 +1,0 @@
-User ID: JBt3-SYylMRdIB88AA_I
-User Name: robot
-Ticket ID: JBt3-SYylMRdIB88AA_I_5092f0aa-69e0-4bf1-a90f-11d059a29664
-Total Bid Amount: 3900
-Total Earnings: 0
-Profit/Loss: -3900
-
-Breakdown:
-  Bid: 6, Amount: 3900, Payout: 19500, Status: lost

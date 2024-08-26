@@ -1,9 +1,0 @@
-User ID: Rax2xjdj_yVZloN_ACGJ
-User Name: robot
-Ticket ID: Rax2xjdj_yVZloN_ACGJ_7a619b2b-f9f3-4d8c-b8d2-8f2288186f49
-Total Bid Amount: 6900
-Total Earnings: 0
-Profit/Loss: -6900
-
-Breakdown:
-  Bid: 6, Amount: 6900, Payout: 34500, Status: lost

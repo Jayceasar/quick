@@ -1,9 +1,0 @@
-User ID: mD8K9w8qgT9X2oZyABtn
-User Name: robot
-Ticket ID: mD8K9w8qgT9X2oZyABtn_7a1cf374-3b0b-47a8-92f4-370088b1d70d
-Total Bid Amount: 900
-Total Earnings: 0
-Profit/Loss: -900
-
-Breakdown:
-  Bid: 4, Amount: 900, Payout: 4500, Status: lost

@@ -1,9 +1,0 @@
-User ID: wBztrhTvcwpITStGAAiD
-User Name: robot
-Ticket ID: wBztrhTvcwpITStGAAiD_5584dc10-136c-4075-8421-ae5476398969
-Total Bid Amount: 8300
-Total Earnings: 0
-Profit/Loss: -8300
-
-Breakdown:
-  Bid: 4, Amount: 8300, Payout: 41500, Status: lost

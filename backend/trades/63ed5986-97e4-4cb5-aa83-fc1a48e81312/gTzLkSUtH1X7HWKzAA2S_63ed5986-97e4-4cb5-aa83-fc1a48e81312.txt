@@ -1,9 +1,0 @@
-User ID: gTzLkSUtH1X7HWKzAA2S
-User Name: robot
-Ticket ID: gTzLkSUtH1X7HWKzAA2S_63ed5986-97e4-4cb5-aa83-fc1a48e81312
-Total Bid Amount: 4400
-Total Earnings: 0
-Profit/Loss: -4400
-
-Breakdown:
-  Bid: 1, Amount: 4400, Payout: 22000, Status: lost

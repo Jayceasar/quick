@@ -1,9 +1,0 @@
-User ID: RuMsCJOTvfcvQXXYAAM-
-User Name: robot
-Ticket ID: RuMsCJOTvfcvQXXYAAM-_d5e53174-b5b5-4e62-9329-20f3aba07f71
-Total Bid Amount: 600
-Total Earnings: 3000
-Profit/Loss: 2400
-
-Breakdown:
-  Bid: 1, Amount: 600, Payout: 3000, Status: won

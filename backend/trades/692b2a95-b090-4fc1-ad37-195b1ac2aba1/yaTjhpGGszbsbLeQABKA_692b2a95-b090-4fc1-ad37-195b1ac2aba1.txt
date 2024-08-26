@@ -1,9 +1,0 @@
-User ID: yaTjhpGGszbsbLeQABKA
-User Name: robot
-Ticket ID: yaTjhpGGszbsbLeQABKA_692b2a95-b090-4fc1-ad37-195b1ac2aba1
-Total Bid Amount: 2700
-Total Earnings: 0
-Profit/Loss: -2700
-
-Breakdown:
-  Bid: 1, Amount: 2700, Payout: 13500, Status: lost

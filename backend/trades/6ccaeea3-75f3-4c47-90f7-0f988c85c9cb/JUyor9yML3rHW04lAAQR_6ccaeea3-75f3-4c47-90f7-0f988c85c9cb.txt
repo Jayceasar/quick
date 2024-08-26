@@ -1,9 +1,0 @@
-User ID: JUyor9yML3rHW04lAAQR
-User Name: robot
-Ticket ID: JUyor9yML3rHW04lAAQR_6ccaeea3-75f3-4c47-90f7-0f988c85c9cb
-Total Bid Amount: 1500
-Total Earnings: 0
-Profit/Loss: -1500
-
-Breakdown:
-  Bid: 2, Amount: 1500, Payout: 7500, Status: lost

@@ -1,9 +1,0 @@
-User ID: 8FN0GetyCsl7bJwLAAya
-User Name: robot
-Ticket ID: 8FN0GetyCsl7bJwLAAya_70d31637-ddb2-46a0-94c6-a98e19a9be46
-Total Bid Amount: 5500
-Total Earnings: 0
-Profit/Loss: -5500
-
-Breakdown:
-  Bid: 1, Amount: 5500, Payout: 27500, Status: lost

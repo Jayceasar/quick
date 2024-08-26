@@ -1,9 +1,0 @@
-User ID: 9rQFc_oCOppRga2aAA-u
-User Name: robot
-Ticket ID: 9rQFc_oCOppRga2aAA-u_73e52ea7-53a0-471d-a88d-2ad368de3cb4
-Total Bid Amount: 1500
-Total Earnings: 7500
-Profit/Loss: 6000
-
-Breakdown:
-  Bid: 2, Amount: 1500, Payout: 7500, Status: won

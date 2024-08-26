@@ -1,9 +1,0 @@
-User ID: ouWmpFsotIMgrIzrABGs
-User Name: robot
-Ticket ID: ouWmpFsotIMgrIzrABGs_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 4200
-Total Earnings: 0
-Profit/Loss: -4200
-
-Breakdown:
-  Bid: 5, Amount: 4200, Payout: 21000, Status: lost

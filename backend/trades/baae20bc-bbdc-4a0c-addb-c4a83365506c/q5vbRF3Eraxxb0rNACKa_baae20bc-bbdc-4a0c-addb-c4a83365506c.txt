@@ -1,9 +1,0 @@
-User ID: q5vbRF3Eraxxb0rNACKa
-User Name: robot
-Ticket ID: q5vbRF3Eraxxb0rNACKa_baae20bc-bbdc-4a0c-addb-c4a83365506c
-Total Bid Amount: 9700
-Total Earnings: 48500
-Profit/Loss: 38800
-
-Breakdown:
-  Bid: 2, Amount: 9700, Payout: 48500, Status: won

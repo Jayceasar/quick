@@ -1,9 +1,0 @@
-User ID: Cj7EEs8Jf_Xskym7AAG_
-User Name: robot
-Ticket ID: Cj7EEs8Jf_Xskym7AAG__c4750aca-f17c-4be6-87a9-33a224b7d999
-Total Bid Amount: 8300
-Total Earnings: 41500
-Profit/Loss: 33200
-
-Breakdown:
-  Bid: 5, Amount: 8300, Payout: 41500, Status: won

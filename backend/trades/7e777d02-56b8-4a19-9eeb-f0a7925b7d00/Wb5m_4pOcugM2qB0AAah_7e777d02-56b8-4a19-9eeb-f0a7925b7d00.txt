@@ -1,9 +1,0 @@
-User ID: Wb5m_4pOcugM2qB0AAah
-User Name: robot
-Ticket ID: Wb5m_4pOcugM2qB0AAah_7e777d02-56b8-4a19-9eeb-f0a7925b7d00
-Total Bid Amount: 6000
-Total Earnings: 30000
-Profit/Loss: 24000
-
-Breakdown:
-  Bid: 1, Amount: 6000, Payout: 30000, Status: won

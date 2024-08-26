@@ -1,9 +1,0 @@
-User ID: sdkaQ1NlYW62ZDv5AA0c
-User Name: robot
-Ticket ID: sdkaQ1NlYW62ZDv5AA0c_d7f235bf-d254-4efd-894a-37a2ac2dbf1c
-Total Bid Amount: 5300
-Total Earnings: 0
-Profit/Loss: -5300
-
-Breakdown:
-  Bid: 2, Amount: 5300, Payout: 26500, Status: lost

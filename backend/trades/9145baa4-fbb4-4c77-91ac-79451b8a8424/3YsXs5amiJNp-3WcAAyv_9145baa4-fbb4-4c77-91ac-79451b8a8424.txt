@@ -1,9 +1,0 @@
-User ID: 3YsXs5amiJNp-3WcAAyv
-User Name: robot
-Ticket ID: 3YsXs5amiJNp-3WcAAyv_9145baa4-fbb4-4c77-91ac-79451b8a8424
-Total Bid Amount: 1600
-Total Earnings: 8000
-Profit/Loss: 6400
-
-Breakdown:
-  Bid: 2, Amount: 1600, Payout: 8000, Status: won

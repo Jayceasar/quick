@@ -1,9 +1,0 @@
-User ID: _jLTahF3S1VSECbrAB-d
-User Name: robot
-Ticket ID: _jLTahF3S1VSECbrAB-d_414b2b96-9ea1-4f03-977a-f2301d814e84
-Total Bid Amount: 600
-Total Earnings: 3000
-Profit/Loss: 2400
-
-Breakdown:
-  Bid: 4, Amount: 600, Payout: 3000, Status: won

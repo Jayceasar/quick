@@ -1,9 +1,0 @@
-User ID: 2pZYl44zcRjbfwp8ACBW
-User Name: robot
-Ticket ID: 2pZYl44zcRjbfwp8ACBW_3e3ffb49-a8be-4e48-a533-33eb486e2676
-Total Bid Amount: 10000
-Total Earnings: 0
-Profit/Loss: -10000
-
-Breakdown:
-  Bid: 6, Amount: 10000, Payout: 50000, Status: lost

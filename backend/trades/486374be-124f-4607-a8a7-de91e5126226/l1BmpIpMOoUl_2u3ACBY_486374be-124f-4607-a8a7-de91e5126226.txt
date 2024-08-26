@@ -1,9 +1,0 @@
-User ID: l1BmpIpMOoUl_2u3ACBY
-User Name: robot
-Ticket ID: l1BmpIpMOoUl_2u3ACBY_486374be-124f-4607-a8a7-de91e5126226
-Total Bid Amount: 7200
-Total Earnings: 0
-Profit/Loss: -7200
-
-Breakdown:
-  Bid: 2, Amount: 7200, Payout: 36000, Status: lost

@@ -1,9 +1,0 @@
-User ID: E-OPbqxyoyCOfUxEACPD
-User Name: robot
-Ticket ID: E-OPbqxyoyCOfUxEACPD_b18e0f6c-a0df-42b3-a078-d180045a23ae
-Total Bid Amount: 7700
-Total Earnings: 0
-Profit/Loss: -7700
-
-Breakdown:
-  Bid: 6, Amount: 7700, Payout: 38500, Status: lost

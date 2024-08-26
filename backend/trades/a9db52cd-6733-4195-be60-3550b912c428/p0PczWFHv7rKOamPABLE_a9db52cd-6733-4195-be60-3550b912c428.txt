@@ -1,9 +1,0 @@
-User ID: p0PczWFHv7rKOamPABLE
-User Name: robot
-Ticket ID: p0PczWFHv7rKOamPABLE_a9db52cd-6733-4195-be60-3550b912c428
-Total Bid Amount: 8800
-Total Earnings: 0
-Profit/Loss: -8800
-
-Breakdown:
-  Bid: 6, Amount: 8800, Payout: 44000, Status: lost

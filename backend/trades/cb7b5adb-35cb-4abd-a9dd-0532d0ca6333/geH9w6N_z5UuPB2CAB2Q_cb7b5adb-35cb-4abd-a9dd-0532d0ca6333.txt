@@ -1,9 +1,0 @@
-User ID: geH9w6N_z5UuPB2CAB2Q
-User Name: robot
-Ticket ID: geH9w6N_z5UuPB2CAB2Q_cb7b5adb-35cb-4abd-a9dd-0532d0ca6333
-Total Bid Amount: 5700
-Total Earnings: 0
-Profit/Loss: -5700
-
-Breakdown:
-  Bid: 4, Amount: 5700, Payout: 28500, Status: lost

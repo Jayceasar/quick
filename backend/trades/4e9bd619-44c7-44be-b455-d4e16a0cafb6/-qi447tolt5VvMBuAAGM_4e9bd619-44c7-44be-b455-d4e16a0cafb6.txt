@@ -1,9 +1,0 @@
-User ID: -qi447tolt5VvMBuAAGM
-User Name: robot
-Ticket ID: -qi447tolt5VvMBuAAGM_4e9bd619-44c7-44be-b455-d4e16a0cafb6
-Total Bid Amount: 8600
-Total Earnings: 0
-Profit/Loss: -8600
-
-Breakdown:
-  Bid: 6, Amount: 8600, Payout: 43000, Status: lost

@@ -1,9 +1,0 @@
-User ID: nGdJoiY1xwS3siqGACB8
-User Name: robot
-Ticket ID: nGdJoiY1xwS3siqGACB8_9e24f89c-b94d-406e-8fa1-4dbbf1c9a8db
-Total Bid Amount: 6000
-Total Earnings: 0
-Profit/Loss: -6000
-
-Breakdown:
-  Bid: 2, Amount: 6000, Payout: 30000, Status: lost

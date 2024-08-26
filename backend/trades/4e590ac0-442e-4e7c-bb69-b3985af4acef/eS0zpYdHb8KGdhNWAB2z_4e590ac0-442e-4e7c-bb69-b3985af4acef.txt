@@ -1,9 +1,0 @@
-User ID: eS0zpYdHb8KGdhNWAB2z
-User Name: robot
-Ticket ID: eS0zpYdHb8KGdhNWAB2z_4e590ac0-442e-4e7c-bb69-b3985af4acef
-Total Bid Amount: 8200
-Total Earnings: 0
-Profit/Loss: -8200
-
-Breakdown:
-  Bid: 4, Amount: 8200, Payout: 41000, Status: lost

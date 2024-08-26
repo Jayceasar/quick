@@ -1,9 +1,0 @@
-User ID: XdzqckRWd9hnHZmUACPq
-User Name: robot
-Ticket ID: XdzqckRWd9hnHZmUACPq_17dc8cbb-1c60-4c0d-b487-e9bd3279b7a9
-Total Bid Amount: 4700
-Total Earnings: 0
-Profit/Loss: -4700
-
-Breakdown:
-  Bid: 3, Amount: 4700, Payout: 23500, Status: lost

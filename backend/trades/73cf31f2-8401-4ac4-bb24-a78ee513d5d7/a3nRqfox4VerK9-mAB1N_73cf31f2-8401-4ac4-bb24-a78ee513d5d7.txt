@@ -1,9 +1,0 @@
-User ID: a3nRqfox4VerK9-mAB1N
-User Name: robot
-Ticket ID: a3nRqfox4VerK9-mAB1N_73cf31f2-8401-4ac4-bb24-a78ee513d5d7
-Total Bid Amount: 3600
-Total Earnings: 0
-Profit/Loss: -3600
-
-Breakdown:
-  Bid: 5, Amount: 3600, Payout: 18000, Status: lost

@@ -1,9 +1,0 @@
-User ID: 2Z-ClqdrlJxInlD7ACPM
-User Name: robot
-Ticket ID: 2Z-ClqdrlJxInlD7ACPM_51ad16e6-fa97-451d-af0e-01721a031f25
-Total Bid Amount: 6000
-Total Earnings: 0
-Profit/Loss: -6000
-
-Breakdown:
-  Bid: 3, Amount: 6000, Payout: 30000, Status: lost

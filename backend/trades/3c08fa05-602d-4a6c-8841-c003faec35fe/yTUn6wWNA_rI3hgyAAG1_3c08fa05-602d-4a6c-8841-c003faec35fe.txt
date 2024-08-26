@@ -1,9 +1,0 @@
-User ID: yTUn6wWNA_rI3hgyAAG1
-User Name: robot
-Ticket ID: yTUn6wWNA_rI3hgyAAG1_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 1300
-Total Earnings: 0
-Profit/Loss: -1300
-
-Breakdown:
-  Bid: 4, Amount: 1300, Payout: 6500, Status: lost

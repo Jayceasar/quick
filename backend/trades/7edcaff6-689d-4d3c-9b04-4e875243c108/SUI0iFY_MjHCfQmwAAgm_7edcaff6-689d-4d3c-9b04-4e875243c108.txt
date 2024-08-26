@@ -1,9 +1,0 @@
-User ID: SUI0iFY_MjHCfQmwAAgm
-User Name: robot
-Ticket ID: SUI0iFY_MjHCfQmwAAgm_7edcaff6-689d-4d3c-9b04-4e875243c108
-Total Bid Amount: 3500
-Total Earnings: 0
-Profit/Loss: -3500
-
-Breakdown:
-  Bid: 4, Amount: 3500, Payout: 17500, Status: lost

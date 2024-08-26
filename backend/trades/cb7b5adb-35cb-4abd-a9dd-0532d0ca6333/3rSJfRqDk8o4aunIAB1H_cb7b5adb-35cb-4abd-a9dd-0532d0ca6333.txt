@@ -1,9 +1,0 @@
-User ID: 3rSJfRqDk8o4aunIAB1H
-User Name: robot
-Ticket ID: 3rSJfRqDk8o4aunIAB1H_cb7b5adb-35cb-4abd-a9dd-0532d0ca6333
-Total Bid Amount: 600
-Total Earnings: 0
-Profit/Loss: -600
-
-Breakdown:
-  Bid: 2, Amount: 600, Payout: 3000, Status: lost

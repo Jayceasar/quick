@@ -1,9 +1,0 @@
-User ID: XRSEK1fZchwwaz6qACPR
-User Name: robot
-Ticket ID: XRSEK1fZchwwaz6qACPR_4508540c-24b1-4b4f-8d4c-f0d990720795
-Total Bid Amount: 100
-Total Earnings: 500
-Profit/Loss: 400
-
-Breakdown:
-  Bid: 6, Amount: 100, Payout: 500, Status: won

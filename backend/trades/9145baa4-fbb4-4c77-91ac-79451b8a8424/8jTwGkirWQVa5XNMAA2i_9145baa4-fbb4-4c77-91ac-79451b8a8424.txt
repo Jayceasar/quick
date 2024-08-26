@@ -1,9 +1,0 @@
-User ID: 8jTwGkirWQVa5XNMAA2i
-User Name: robot
-Ticket ID: 8jTwGkirWQVa5XNMAA2i_9145baa4-fbb4-4c77-91ac-79451b8a8424
-Total Bid Amount: 6900
-Total Earnings: 0
-Profit/Loss: -6900
-
-Breakdown:
-  Bid: 3, Amount: 6900, Payout: 34500, Status: lost

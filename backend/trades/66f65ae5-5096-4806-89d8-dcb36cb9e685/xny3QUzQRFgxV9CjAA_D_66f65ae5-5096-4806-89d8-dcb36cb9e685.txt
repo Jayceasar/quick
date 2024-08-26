@@ -1,9 +1,0 @@
-User ID: xny3QUzQRFgxV9CjAA_D
-User Name: robot
-Ticket ID: xny3QUzQRFgxV9CjAA_D_66f65ae5-5096-4806-89d8-dcb36cb9e685
-Total Bid Amount: 700
-Total Earnings: 0
-Profit/Loss: -700
-
-Breakdown:
-  Bid: 6, Amount: 700, Payout: 3500, Status: lost

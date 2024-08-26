@@ -1,9 +1,0 @@
-User ID: cKI5beNAgw5ExyoHACGe
-User Name: robot
-Ticket ID: cKI5beNAgw5ExyoHACGe_7f17eed6-7359-4dae-af38-f93e4d907ad3
-Total Bid Amount: 2000
-Total Earnings: 0
-Profit/Loss: -2000
-
-Breakdown:
-  Bid: 1, Amount: 2000, Payout: 10000, Status: lost

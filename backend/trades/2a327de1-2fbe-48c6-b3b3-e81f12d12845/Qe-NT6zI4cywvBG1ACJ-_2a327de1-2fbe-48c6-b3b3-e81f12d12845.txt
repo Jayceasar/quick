@@ -1,9 +1,0 @@
-User ID: Qe-NT6zI4cywvBG1ACJ-
-User Name: robot
-Ticket ID: Qe-NT6zI4cywvBG1ACJ-_2a327de1-2fbe-48c6-b3b3-e81f12d12845
-Total Bid Amount: 7300
-Total Earnings: 0
-Profit/Loss: -7300
-
-Breakdown:
-  Bid: 2, Amount: 7300, Payout: 36500, Status: lost

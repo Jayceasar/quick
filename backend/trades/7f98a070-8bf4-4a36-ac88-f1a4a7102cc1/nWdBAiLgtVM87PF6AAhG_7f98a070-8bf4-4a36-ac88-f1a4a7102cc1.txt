@@ -1,9 +1,0 @@
-User ID: nWdBAiLgtVM87PF6AAhG
-User Name: robot
-Ticket ID: nWdBAiLgtVM87PF6AAhG_7f98a070-8bf4-4a36-ac88-f1a4a7102cc1
-Total Bid Amount: 600
-Total Earnings: 0
-Profit/Loss: -600
-
-Breakdown:
-  Bid: 1, Amount: 600, Payout: 3000, Status: lost

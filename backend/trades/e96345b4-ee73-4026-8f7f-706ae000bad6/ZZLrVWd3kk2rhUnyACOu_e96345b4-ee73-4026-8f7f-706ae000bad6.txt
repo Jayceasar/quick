@@ -1,9 +1,0 @@
-User ID: ZZLrVWd3kk2rhUnyACOu
-User Name: robot
-Ticket ID: ZZLrVWd3kk2rhUnyACOu_e96345b4-ee73-4026-8f7f-706ae000bad6
-Total Bid Amount: 900
-Total Earnings: 4500
-Profit/Loss: 3600
-
-Breakdown:
-  Bid: 2, Amount: 900, Payout: 4500, Status: won

@@ -1,9 +1,0 @@
-User ID: dyEHTK-gtFgDUumSACJc
-User Name: robot
-Ticket ID: dyEHTK-gtFgDUumSACJc_7f17eed6-7359-4dae-af38-f93e4d907ad3
-Total Bid Amount: 5300
-Total Earnings: 0
-Profit/Loss: -5300
-
-Breakdown:
-  Bid: 1, Amount: 5300, Payout: 26500, Status: lost

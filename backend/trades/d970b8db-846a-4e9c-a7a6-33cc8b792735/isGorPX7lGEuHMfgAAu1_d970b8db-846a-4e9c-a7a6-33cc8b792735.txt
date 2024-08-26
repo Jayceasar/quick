@@ -1,9 +1,0 @@
-User ID: isGorPX7lGEuHMfgAAu1
-User Name: robot
-Ticket ID: isGorPX7lGEuHMfgAAu1_d970b8db-846a-4e9c-a7a6-33cc8b792735
-Total Bid Amount: 4200
-Total Earnings: 0
-Profit/Loss: -4200
-
-Breakdown:
-  Bid: 4, Amount: 4200, Payout: 21000, Status: lost

@@ -1,9 +1,0 @@
-User ID: KKkFjo3haMGKTaWVAB1a
-User Name: robot
-Ticket ID: KKkFjo3haMGKTaWVAB1a_a295add0-ed87-4739-9946-a802886ede6f
-Total Bid Amount: 4100
-Total Earnings: 0
-Profit/Loss: -4100
-
-Breakdown:
-  Bid: 6, Amount: 4100, Payout: 20500, Status: lost

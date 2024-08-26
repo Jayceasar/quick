@@ -1,9 +1,0 @@
-User ID: sxGcdIXgS9WFPsK8ABuj
-User Name: robot
-Ticket ID: sxGcdIXgS9WFPsK8ABuj_c901059c-d365-4652-9ffb-306f75be1174
-Total Bid Amount: 9500
-Total Earnings: 0
-Profit/Loss: -9500
-
-Breakdown:
-  Bid: 2, Amount: 9500, Payout: 47500, Status: lost

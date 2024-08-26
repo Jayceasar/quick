@@ -1,9 +1,0 @@
-User ID: rWgUWlRyeInia0p1AA0T
-User Name: robot
-Ticket ID: rWgUWlRyeInia0p1AA0T_63ed5986-97e4-4cb5-aa83-fc1a48e81312
-Total Bid Amount: 4100
-Total Earnings: 0
-Profit/Loss: -4100
-
-Breakdown:
-  Bid: 6, Amount: 4100, Payout: 20500, Status: lost

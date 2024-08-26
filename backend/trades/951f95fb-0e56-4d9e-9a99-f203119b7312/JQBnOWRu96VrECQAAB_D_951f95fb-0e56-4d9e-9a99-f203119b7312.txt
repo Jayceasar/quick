@@ -1,9 +1,0 @@
-User ID: JQBnOWRu96VrECQAAB_D
-User Name: robot
-Ticket ID: JQBnOWRu96VrECQAAB_D_951f95fb-0e56-4d9e-9a99-f203119b7312
-Total Bid Amount: 5700
-Total Earnings: 0
-Profit/Loss: -5700
-
-Breakdown:
-  Bid: 1, Amount: 5700, Payout: 28500, Status: lost

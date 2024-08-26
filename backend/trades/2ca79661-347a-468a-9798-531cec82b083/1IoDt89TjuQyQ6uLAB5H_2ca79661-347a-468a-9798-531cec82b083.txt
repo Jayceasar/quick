@@ -1,9 +1,0 @@
-User ID: 1IoDt89TjuQyQ6uLAB5H
-User Name: robot
-Ticket ID: 1IoDt89TjuQyQ6uLAB5H_2ca79661-347a-468a-9798-531cec82b083
-Total Bid Amount: 4400
-Total Earnings: 22000
-Profit/Loss: 17600
-
-Breakdown:
-  Bid: 1, Amount: 4400, Payout: 22000, Status: won

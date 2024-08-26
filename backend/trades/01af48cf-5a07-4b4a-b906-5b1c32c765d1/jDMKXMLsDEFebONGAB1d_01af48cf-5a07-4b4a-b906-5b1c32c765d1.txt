@@ -1,9 +1,0 @@
-User ID: jDMKXMLsDEFebONGAB1d
-User Name: robot
-Ticket ID: jDMKXMLsDEFebONGAB1d_01af48cf-5a07-4b4a-b906-5b1c32c765d1
-Total Bid Amount: 2300
-Total Earnings: 0
-Profit/Loss: -2300
-
-Breakdown:
-  Bid: 2, Amount: 2300, Payout: 11500, Status: lost

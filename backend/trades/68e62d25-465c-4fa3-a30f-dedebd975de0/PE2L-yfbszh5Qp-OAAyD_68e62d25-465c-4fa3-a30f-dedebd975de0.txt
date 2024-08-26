@@ -1,9 +1,0 @@
-User ID: PE2L-yfbszh5Qp-OAAyD
-User Name: robot
-Ticket ID: PE2L-yfbszh5Qp-OAAyD_68e62d25-465c-4fa3-a30f-dedebd975de0
-Total Bid Amount: 4100
-Total Earnings: 20500
-Profit/Loss: 16400
-
-Breakdown:
-  Bid: 5, Amount: 4100, Payout: 20500, Status: won

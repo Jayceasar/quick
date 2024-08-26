@@ -1,9 +1,0 @@
-User ID: 2Mci74BU-tWbXzHfAB_B
-User Name: robot
-Ticket ID: 2Mci74BU-tWbXzHfAB_B_ce826aab-9a87-417c-932c-403d0e5f1b5b
-Total Bid Amount: 3600
-Total Earnings: 0
-Profit/Loss: -3600
-
-Breakdown:
-  Bid: 6, Amount: 3600, Payout: 18000, Status: lost

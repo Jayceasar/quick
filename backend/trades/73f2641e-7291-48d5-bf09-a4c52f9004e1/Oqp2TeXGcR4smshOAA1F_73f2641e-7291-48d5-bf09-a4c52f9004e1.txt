@@ -1,9 +1,0 @@
-User ID: Oqp2TeXGcR4smshOAA1F
-User Name: robot
-Ticket ID: Oqp2TeXGcR4smshOAA1F_73f2641e-7291-48d5-bf09-a4c52f9004e1
-Total Bid Amount: 6200
-Total Earnings: 0
-Profit/Loss: -6200
-
-Breakdown:
-  Bid: 6, Amount: 6200, Payout: 31000, Status: lost

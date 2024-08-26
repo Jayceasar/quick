@@ -1,9 +1,0 @@
-User ID: 6NKGn7B4WTcV6zt_ABkj
-User Name: robot
-Ticket ID: 6NKGn7B4WTcV6zt_ABkj_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
-Total Bid Amount: 2400
-Total Earnings: 0
-Profit/Loss: -2400
-
-Breakdown:
-  Bid: 1, Amount: 2400, Payout: 12000, Status: lost

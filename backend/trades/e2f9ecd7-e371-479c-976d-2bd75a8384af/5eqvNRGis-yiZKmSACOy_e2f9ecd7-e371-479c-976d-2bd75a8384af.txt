@@ -1,9 +1,0 @@
-User ID: 5eqvNRGis-yiZKmSACOy
-User Name: robot
-Ticket ID: 5eqvNRGis-yiZKmSACOy_e2f9ecd7-e371-479c-976d-2bd75a8384af
-Total Bid Amount: 5100
-Total Earnings: 0
-Profit/Loss: -5100
-
-Breakdown:
-  Bid: 2, Amount: 5100, Payout: 25500, Status: lost

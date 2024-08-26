@@ -1,9 +1,0 @@
-User ID: BMRcqZvgpnRYIt_mAAP9
-User Name: robot
-Ticket ID: BMRcqZvgpnRYIt_mAAP9_3a3c9f6e-ea4d-4148-934a-d93cf7174bd3
-Total Bid Amount: 6100
-Total Earnings: 0
-Profit/Loss: -6100
-
-Breakdown:
-  Bid: 2, Amount: 6100, Payout: 30500, Status: lost

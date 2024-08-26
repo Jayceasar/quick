@@ -1,9 +1,0 @@
-User ID: vn8ae0HmjlWvO_HDACBX
-User Name: robot
-Ticket ID: vn8ae0HmjlWvO_HDACBX_9e24f89c-b94d-406e-8fa1-4dbbf1c9a8db
-Total Bid Amount: 6100
-Total Earnings: 0
-Profit/Loss: -6100
-
-Breakdown:
-  Bid: 6, Amount: 6100, Payout: 30500, Status: lost

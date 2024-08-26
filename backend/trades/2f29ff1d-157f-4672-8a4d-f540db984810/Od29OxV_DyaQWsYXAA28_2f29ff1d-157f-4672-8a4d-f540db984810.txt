@@ -1,9 +1,0 @@
-User ID: Od29OxV_DyaQWsYXAA28
-User Name: robot
-Ticket ID: Od29OxV_DyaQWsYXAA28_2f29ff1d-157f-4672-8a4d-f540db984810
-Total Bid Amount: 1200
-Total Earnings: 0
-Profit/Loss: -1200
-
-Breakdown:
-  Bid: 3, Amount: 1200, Payout: 6000, Status: lost

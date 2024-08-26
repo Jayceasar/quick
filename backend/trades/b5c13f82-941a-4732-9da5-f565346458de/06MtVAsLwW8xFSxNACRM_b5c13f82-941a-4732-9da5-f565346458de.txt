@@ -1,9 +1,0 @@
-User ID: 06MtVAsLwW8xFSxNACRM
-User Name: robot
-Ticket ID: 06MtVAsLwW8xFSxNACRM_b5c13f82-941a-4732-9da5-f565346458de
-Total Bid Amount: 4600
-Total Earnings: 0
-Profit/Loss: -4600
-
-Breakdown:
-  Bid: 1, Amount: 4600, Payout: 23000, Status: lost

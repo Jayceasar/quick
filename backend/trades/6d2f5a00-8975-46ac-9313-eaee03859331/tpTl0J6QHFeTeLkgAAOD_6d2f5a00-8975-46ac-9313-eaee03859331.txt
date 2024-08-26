@@ -1,9 +1,0 @@
-User ID: tpTl0J6QHFeTeLkgAAOD
-User Name: robot
-Ticket ID: tpTl0J6QHFeTeLkgAAOD_6d2f5a00-8975-46ac-9313-eaee03859331
-Total Bid Amount: 7000
-Total Earnings: 0
-Profit/Loss: -7000
-
-Breakdown:
-  Bid: 6, Amount: 7000, Payout: 35000, Status: lost

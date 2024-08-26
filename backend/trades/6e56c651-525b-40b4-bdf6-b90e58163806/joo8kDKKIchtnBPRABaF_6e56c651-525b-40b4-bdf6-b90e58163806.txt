@@ -1,9 +1,0 @@
-User ID: joo8kDKKIchtnBPRABaF
-User Name: robot
-Ticket ID: joo8kDKKIchtnBPRABaF_6e56c651-525b-40b4-bdf6-b90e58163806
-Total Bid Amount: 8700
-Total Earnings: 0
-Profit/Loss: -8700
-
-Breakdown:
-  Bid: 6, Amount: 8700, Payout: 43500, Status: lost

@@ -1,9 +1,0 @@
-User ID: Ihfz5exRpnWRvHKkABYf
-User Name: robot
-Ticket ID: Ihfz5exRpnWRvHKkABYf_3b12a05c-d549-48e1-9b4b-7485d6fac451
-Total Bid Amount: 5800
-Total Earnings: 0
-Profit/Loss: -5800
-
-Breakdown:
-  Bid: 2, Amount: 5800, Payout: 29000, Status: lost

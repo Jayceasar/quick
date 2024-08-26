@@ -1,9 +1,0 @@
-User ID: aMBYAPOYi-7puYMcAAiP
-User Name: robot
-Ticket ID: aMBYAPOYi-7puYMcAAiP_7f98a070-8bf4-4a36-ac88-f1a4a7102cc1
-Total Bid Amount: 8700
-Total Earnings: 0
-Profit/Loss: -8700
-
-Breakdown:
-  Bid: 3, Amount: 8700, Payout: 43500, Status: lost

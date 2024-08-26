@@ -1,9 +1,0 @@
-User ID: LUUa8b8buleJJwRDACKF
-User Name: robot
-Ticket ID: LUUa8b8buleJJwRDACKF_7a619b2b-f9f3-4d8c-b8d2-8f2288186f49
-Total Bid Amount: 6400
-Total Earnings: 0
-Profit/Loss: -6400
-
-Breakdown:
-  Bid: 1, Amount: 6400, Payout: 32000, Status: lost

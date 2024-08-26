@@ -1,9 +1,0 @@
-User ID: JENnLA--RgRWgfb5AAx4
-User Name: robot
-Ticket ID: JENnLA--RgRWgfb5AAx4_9145baa4-fbb4-4c77-91ac-79451b8a8424
-Total Bid Amount: 1700
-Total Earnings: 8500
-Profit/Loss: 6800
-
-Breakdown:
-  Bid: 2, Amount: 1700, Payout: 8500, Status: won

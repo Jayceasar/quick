@@ -1,9 +1,0 @@
-User ID: f0WLqNBDpS6ecWJPAAHi
-User Name: robot
-Ticket ID: f0WLqNBDpS6ecWJPAAHi_f048d9c2-8570-4071-a590-7ae743a2254d
-Total Bid Amount: 6700
-Total Earnings: 0
-Profit/Loss: -6700
-
-Breakdown:
-  Bid: 1, Amount: 6700, Payout: 33500, Status: lost

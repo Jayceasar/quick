@@ -1,9 +1,0 @@
-User ID: pDpe6CMBIxQGgqSvAAhD
-User Name: robot
-Ticket ID: pDpe6CMBIxQGgqSvAAhD_16e16623-0a48-40cc-8945-862aa10b83a3
-Total Bid Amount: 7200
-Total Earnings: 0
-Profit/Loss: -7200
-
-Breakdown:
-  Bid: 6, Amount: 7200, Payout: 36000, Status: lost

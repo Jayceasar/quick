@@ -1,9 +1,0 @@
-User ID: -0JUfUUszo_cMVAJAAaj
-User Name: robot
-Ticket ID: -0JUfUUszo_cMVAJAAaj_7a85e992-2509-45aa-84c7-d86854db7bba
-Total Bid Amount: 3400
-Total Earnings: 17000
-Profit/Loss: 13600
-
-Breakdown:
-  Bid: 6, Amount: 3400, Payout: 17000, Status: won

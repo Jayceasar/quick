@@ -1,9 +1,0 @@
-User ID: -PLATiTH38229CRRAAX8
-User Name: robot
-Ticket ID: -PLATiTH38229CRRAAX8_f892e337-6af1-45e1-ae0c-04f4051b1cef
-Total Bid Amount: 8400
-Total Earnings: 0
-Profit/Loss: -8400
-
-Breakdown:
-  Bid: 2, Amount: 8400, Payout: 42000, Status: lost

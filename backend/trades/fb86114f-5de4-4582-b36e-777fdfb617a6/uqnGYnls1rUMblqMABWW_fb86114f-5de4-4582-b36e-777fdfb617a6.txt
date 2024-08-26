@@ -1,9 +1,0 @@
-User ID: uqnGYnls1rUMblqMABWW
-User Name: robot
-Ticket ID: uqnGYnls1rUMblqMABWW_fb86114f-5de4-4582-b36e-777fdfb617a6
-Total Bid Amount: 2200
-Total Earnings: 0
-Profit/Loss: -2200
-
-Breakdown:
-  Bid: 4, Amount: 2200, Payout: 11000, Status: lost

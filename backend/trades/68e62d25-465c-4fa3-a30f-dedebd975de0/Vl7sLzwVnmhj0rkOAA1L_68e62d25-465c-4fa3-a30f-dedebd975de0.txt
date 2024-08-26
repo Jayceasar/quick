@@ -1,9 +1,0 @@
-User ID: Vl7sLzwVnmhj0rkOAA1L
-User Name: robot
-Ticket ID: Vl7sLzwVnmhj0rkOAA1L_68e62d25-465c-4fa3-a30f-dedebd975de0
-Total Bid Amount: 3700
-Total Earnings: 18500
-Profit/Loss: 14800
-
-Breakdown:
-  Bid: 5, Amount: 3700, Payout: 18500, Status: won

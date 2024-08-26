@@ -1,9 +1,0 @@
-User ID: jMeWWhk6i5hOCybEACFn
-User Name: robot
-Ticket ID: jMeWWhk6i5hOCybEACFn_baae20bc-bbdc-4a0c-addb-c4a83365506c
-Total Bid Amount: 8900
-Total Earnings: 0
-Profit/Loss: -8900
-
-Breakdown:
-  Bid: 4, Amount: 8900, Payout: 44500, Status: lost

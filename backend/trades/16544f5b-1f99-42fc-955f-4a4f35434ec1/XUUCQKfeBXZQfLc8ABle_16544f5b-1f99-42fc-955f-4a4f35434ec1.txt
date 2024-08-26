@@ -1,9 +1,0 @@
-User ID: XUUCQKfeBXZQfLc8ABle
-User Name: robot
-Ticket ID: XUUCQKfeBXZQfLc8ABle_16544f5b-1f99-42fc-955f-4a4f35434ec1
-Total Bid Amount: 5100
-Total Earnings: 0
-Profit/Loss: -5100
-
-Breakdown:
-  Bid: 5, Amount: 5100, Payout: 25500, Status: lost

@@ -1,9 +1,0 @@
-User ID: AAqplYPPQyAJ7ZARAA-R
-User Name: robot
-Ticket ID: AAqplYPPQyAJ7ZARAA-R_66f65ae5-5096-4806-89d8-dcb36cb9e685
-Total Bid Amount: 5400
-Total Earnings: 0
-Profit/Loss: -5400
-
-Breakdown:
-  Bid: 1, Amount: 5400, Payout: 27000, Status: lost

@@ -1,9 +1,0 @@
-User ID: eu13uMhZKJV2MS3tABlh
-User Name: robot
-Ticket ID: eu13uMhZKJV2MS3tABlh_ee604dcb-27d6-4726-96f7-531f06808794
-Total Bid Amount: 7500
-Total Earnings: 0
-Profit/Loss: -7500
-
-Breakdown:
-  Bid: 5, Amount: 7500, Payout: 37500, Status: lost

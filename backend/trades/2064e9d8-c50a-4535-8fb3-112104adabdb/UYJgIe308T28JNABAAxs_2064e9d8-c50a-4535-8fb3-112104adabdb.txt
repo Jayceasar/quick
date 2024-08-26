@@ -1,9 +1,0 @@
-User ID: UYJgIe308T28JNABAAxs
-User Name: robot
-Ticket ID: UYJgIe308T28JNABAAxs_2064e9d8-c50a-4535-8fb3-112104adabdb
-Total Bid Amount: 8000
-Total Earnings: 0
-Profit/Loss: -8000
-
-Breakdown:
-  Bid: 4, Amount: 8000, Payout: 40000, Status: lost

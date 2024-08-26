@@ -1,9 +1,0 @@
-User ID: nsQXd_YnBcvYkQnpAA2w
-User Name: robot
-Ticket ID: nsQXd_YnBcvYkQnpAA2w_ea2ac63c-b057-4cf3-9c72-de8e18bd58ea
-Total Bid Amount: 8900
-Total Earnings: 0
-Profit/Loss: -8900
-
-Breakdown:
-  Bid: 4, Amount: 8900, Payout: 44500, Status: lost

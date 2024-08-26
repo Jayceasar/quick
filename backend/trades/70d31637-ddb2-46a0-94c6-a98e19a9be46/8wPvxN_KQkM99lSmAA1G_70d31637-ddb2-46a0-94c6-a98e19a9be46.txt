@@ -1,9 +1,0 @@
-User ID: 8wPvxN_KQkM99lSmAA1G
-User Name: robot
-Ticket ID: 8wPvxN_KQkM99lSmAA1G_70d31637-ddb2-46a0-94c6-a98e19a9be46
-Total Bid Amount: 6100
-Total Earnings: 0
-Profit/Loss: -6100
-
-Breakdown:
-  Bid: 6, Amount: 6100, Payout: 30500, Status: lost

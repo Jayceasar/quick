@@ -1,9 +1,0 @@
-User ID: GPSmGG3AhHg4hpb8AAvW
-User Name: robot
-Ticket ID: GPSmGG3AhHg4hpb8AAvW_db0ef95d-e018-483f-b64a-b1c385856283
-Total Bid Amount: 2800
-Total Earnings: 0
-Profit/Loss: -2800
-
-Breakdown:
-  Bid: 5, Amount: 2800, Payout: 14000, Status: lost

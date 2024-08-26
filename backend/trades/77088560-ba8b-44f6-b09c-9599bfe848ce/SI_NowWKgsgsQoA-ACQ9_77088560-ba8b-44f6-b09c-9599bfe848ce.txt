@@ -1,9 +1,0 @@
-User ID: SI_NowWKgsgsQoA-ACQ9
-User Name: robot
-Ticket ID: SI_NowWKgsgsQoA-ACQ9_77088560-ba8b-44f6-b09c-9599bfe848ce
-Total Bid Amount: 3400
-Total Earnings: 17000
-Profit/Loss: 13600
-
-Breakdown:
-  Bid: 2, Amount: 3400, Payout: 17000, Status: won

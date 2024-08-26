@@ -1,9 +1,0 @@
-User ID: 0Hi-3UJOXQ98XxEtACBC
-User Name: robot
-Ticket ID: 0Hi-3UJOXQ98XxEtACBC_d32ea5b8-0e5c-4e10-afc1-1e45003030ee
-Total Bid Amount: 3300
-Total Earnings: 0
-Profit/Loss: -3300
-
-Breakdown:
-  Bid: 4, Amount: 3300, Payout: 16500, Status: lost

@@ -1,9 +1,0 @@
-User ID: 7n_JunQEXESo6LGBAAaF
-User Name: robot
-Ticket ID: 7n_JunQEXESo6LGBAAaF_6640391f-3f12-4ffe-bf47-a458af251c60
-Total Bid Amount: 1100
-Total Earnings: 0
-Profit/Loss: -1100
-
-Breakdown:
-  Bid: 6, Amount: 1100, Payout: 5500, Status: lost

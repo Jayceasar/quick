@@ -1,9 +1,0 @@
-User ID: -0SxNkjMcFVhu2GsABmA
-User Name: robot
-Ticket ID: -0SxNkjMcFVhu2GsABmA_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
-Total Bid Amount: 400
-Total Earnings: 0
-Profit/Loss: -400
-
-Breakdown:
-  Bid: 4, Amount: 400, Payout: 2000, Status: lost

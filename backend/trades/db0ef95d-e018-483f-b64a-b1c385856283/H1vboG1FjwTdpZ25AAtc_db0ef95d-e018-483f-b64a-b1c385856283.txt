@@ -1,9 +1,0 @@
-User ID: H1vboG1FjwTdpZ25AAtc
-User Name: robot
-Ticket ID: H1vboG1FjwTdpZ25AAtc_db0ef95d-e018-483f-b64a-b1c385856283
-Total Bid Amount: 2100
-Total Earnings: 0
-Profit/Loss: -2100
-
-Breakdown:
-  Bid: 1, Amount: 2100, Payout: 10500, Status: lost

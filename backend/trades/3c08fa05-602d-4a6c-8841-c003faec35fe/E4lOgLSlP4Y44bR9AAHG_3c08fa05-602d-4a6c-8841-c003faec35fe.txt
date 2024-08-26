@@ -1,9 +1,0 @@
-User ID: E4lOgLSlP4Y44bR9AAHG
-User Name: robot
-Ticket ID: E4lOgLSlP4Y44bR9AAHG_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 9100
-Total Earnings: 0
-Profit/Loss: -9100
-
-Breakdown:
-  Bid: 2, Amount: 9100, Payout: 45500, Status: lost

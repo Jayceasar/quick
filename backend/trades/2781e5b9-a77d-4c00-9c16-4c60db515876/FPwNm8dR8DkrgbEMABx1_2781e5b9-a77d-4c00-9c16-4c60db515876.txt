@@ -1,9 +1,0 @@
-User ID: FPwNm8dR8DkrgbEMABx1
-User Name: robot
-Ticket ID: FPwNm8dR8DkrgbEMABx1_2781e5b9-a77d-4c00-9c16-4c60db515876
-Total Bid Amount: 5600
-Total Earnings: 0
-Profit/Loss: -5600
-
-Breakdown:
-  Bid: 6, Amount: 5600, Payout: 28000, Status: lost

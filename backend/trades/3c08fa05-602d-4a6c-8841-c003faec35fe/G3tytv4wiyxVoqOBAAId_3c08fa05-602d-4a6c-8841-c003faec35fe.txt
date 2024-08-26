@@ -1,9 +1,0 @@
-User ID: G3tytv4wiyxVoqOBAAId
-User Name: robot
-Ticket ID: G3tytv4wiyxVoqOBAAId_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 7000
-Total Earnings: 0
-Profit/Loss: -7000
-
-Breakdown:
-  Bid: 3, Amount: 7000, Payout: 35000, Status: lost

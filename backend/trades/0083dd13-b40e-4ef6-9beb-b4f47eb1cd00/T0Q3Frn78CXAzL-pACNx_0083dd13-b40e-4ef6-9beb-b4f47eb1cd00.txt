@@ -1,9 +1,0 @@
-User ID: T0Q3Frn78CXAzL-pACNx
-User Name: robot
-Ticket ID: T0Q3Frn78CXAzL-pACNx_0083dd13-b40e-4ef6-9beb-b4f47eb1cd00
-Total Bid Amount: 5400
-Total Earnings: 0
-Profit/Loss: -5400
-
-Breakdown:
-  Bid: 4, Amount: 5400, Payout: 27000, Status: lost

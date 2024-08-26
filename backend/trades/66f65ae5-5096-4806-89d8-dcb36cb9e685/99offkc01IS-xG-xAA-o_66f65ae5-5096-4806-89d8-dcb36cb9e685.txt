@@ -1,9 +1,0 @@
-User ID: 99offkc01IS-xG-xAA-o
-User Name: robot
-Ticket ID: 99offkc01IS-xG-xAA-o_66f65ae5-5096-4806-89d8-dcb36cb9e685
-Total Bid Amount: 8700
-Total Earnings: 0
-Profit/Loss: -8700
-
-Breakdown:
-  Bid: 4, Amount: 8700, Payout: 43500, Status: lost

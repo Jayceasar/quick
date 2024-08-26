@@ -1,9 +1,0 @@
-User ID: -IxlQGgPimot8aHyAAyi
-User Name: robot
-Ticket ID: -IxlQGgPimot8aHyAAyi_73f2641e-7291-48d5-bf09-a4c52f9004e1
-Total Bid Amount: 7200
-Total Earnings: 0
-Profit/Loss: -7200
-
-Breakdown:
-  Bid: 6, Amount: 7200, Payout: 36000, Status: lost

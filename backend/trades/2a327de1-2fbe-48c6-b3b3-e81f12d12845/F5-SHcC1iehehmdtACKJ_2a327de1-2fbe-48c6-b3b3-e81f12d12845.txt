@@ -1,9 +1,0 @@
-User ID: F5-SHcC1iehehmdtACKJ
-User Name: robot
-Ticket ID: F5-SHcC1iehehmdtACKJ_2a327de1-2fbe-48c6-b3b3-e81f12d12845
-Total Bid Amount: 700
-Total Earnings: 0
-Profit/Loss: -700
-
-Breakdown:
-  Bid: 3, Amount: 700, Payout: 3500, Status: lost

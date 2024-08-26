@@ -1,9 +1,0 @@
-User ID: nhw54cNHoJ2jjVqzAA8i
-User Name: robot
-Ticket ID: nhw54cNHoJ2jjVqzAA8i_73e52ea7-53a0-471d-a88d-2ad368de3cb4
-Total Bid Amount: 5700
-Total Earnings: 0
-Profit/Loss: -5700
-
-Breakdown:
-  Bid: 1, Amount: 5700, Payout: 28500, Status: lost

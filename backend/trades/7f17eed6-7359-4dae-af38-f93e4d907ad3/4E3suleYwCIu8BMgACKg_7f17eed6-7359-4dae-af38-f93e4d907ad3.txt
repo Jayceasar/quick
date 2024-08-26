@@ -1,9 +1,0 @@
-User ID: 4E3suleYwCIu8BMgACKg
-User Name: robot
-Ticket ID: 4E3suleYwCIu8BMgACKg_7f17eed6-7359-4dae-af38-f93e4d907ad3
-Total Bid Amount: 5900
-Total Earnings: 0
-Profit/Loss: -5900
-
-Breakdown:
-  Bid: 1, Amount: 5900, Payout: 29500, Status: lost

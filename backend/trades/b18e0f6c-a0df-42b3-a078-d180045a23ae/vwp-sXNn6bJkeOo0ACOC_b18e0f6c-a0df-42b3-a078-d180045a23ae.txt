@@ -1,9 +1,0 @@
-User ID: vwp-sXNn6bJkeOo0ACOC
-User Name: robot
-Ticket ID: vwp-sXNn6bJkeOo0ACOC_b18e0f6c-a0df-42b3-a078-d180045a23ae
-Total Bid Amount: 8000
-Total Earnings: 0
-Profit/Loss: -8000
-
-Breakdown:
-  Bid: 2, Amount: 8000, Payout: 40000, Status: lost

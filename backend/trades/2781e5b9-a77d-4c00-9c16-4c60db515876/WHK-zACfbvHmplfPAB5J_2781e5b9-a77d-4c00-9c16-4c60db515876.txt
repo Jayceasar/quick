@@ -1,9 +1,0 @@
-User ID: WHK-zACfbvHmplfPAB5J
-User Name: robot
-Ticket ID: WHK-zACfbvHmplfPAB5J_2781e5b9-a77d-4c00-9c16-4c60db515876
-Total Bid Amount: 6100
-Total Earnings: 0
-Profit/Loss: -6100
-
-Breakdown:
-  Bid: 4, Amount: 6100, Payout: 30500, Status: lost

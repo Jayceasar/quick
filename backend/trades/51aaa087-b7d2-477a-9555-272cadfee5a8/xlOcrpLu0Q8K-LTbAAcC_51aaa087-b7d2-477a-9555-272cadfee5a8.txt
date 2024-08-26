@@ -1,9 +1,0 @@
-User ID: xlOcrpLu0Q8K-LTbAAcC
-User Name: robot
-Ticket ID: xlOcrpLu0Q8K-LTbAAcC_51aaa087-b7d2-477a-9555-272cadfee5a8
-Total Bid Amount: 8400
-Total Earnings: 0
-Profit/Loss: -8400
-
-Breakdown:
-  Bid: 1, Amount: 8400, Payout: 42000, Status: lost

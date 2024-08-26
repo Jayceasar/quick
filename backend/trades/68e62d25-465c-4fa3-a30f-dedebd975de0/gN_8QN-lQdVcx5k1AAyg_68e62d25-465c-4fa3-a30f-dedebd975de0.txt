@@ -1,9 +1,0 @@
-User ID: gN_8QN-lQdVcx5k1AAyg
-User Name: robot
-Ticket ID: gN_8QN-lQdVcx5k1AAyg_68e62d25-465c-4fa3-a30f-dedebd975de0
-Total Bid Amount: 5300
-Total Earnings: 0
-Profit/Loss: -5300
-
-Breakdown:
-  Bid: 6, Amount: 5300, Payout: 26500, Status: lost

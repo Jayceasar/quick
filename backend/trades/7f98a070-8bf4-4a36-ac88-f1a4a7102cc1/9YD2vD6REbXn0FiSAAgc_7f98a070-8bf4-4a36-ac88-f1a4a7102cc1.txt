@@ -1,9 +1,0 @@
-User ID: 9YD2vD6REbXn0FiSAAgc
-User Name: robot
-Ticket ID: 9YD2vD6REbXn0FiSAAgc_7f98a070-8bf4-4a36-ac88-f1a4a7102cc1
-Total Bid Amount: 3600
-Total Earnings: 0
-Profit/Loss: -3600
-
-Breakdown:
-  Bid: 2, Amount: 3600, Payout: 18000, Status: lost

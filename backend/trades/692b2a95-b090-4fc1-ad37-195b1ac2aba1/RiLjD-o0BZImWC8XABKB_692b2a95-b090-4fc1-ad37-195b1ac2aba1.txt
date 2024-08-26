@@ -1,9 +1,0 @@
-User ID: RiLjD-o0BZImWC8XABKB
-User Name: robot
-Ticket ID: RiLjD-o0BZImWC8XABKB_692b2a95-b090-4fc1-ad37-195b1ac2aba1
-Total Bid Amount: 8000
-Total Earnings: 0
-Profit/Loss: -8000
-
-Breakdown:
-  Bid: 6, Amount: 8000, Payout: 40000, Status: lost

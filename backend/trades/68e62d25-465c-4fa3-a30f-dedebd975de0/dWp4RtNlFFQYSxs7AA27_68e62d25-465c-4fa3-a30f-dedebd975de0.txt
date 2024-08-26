@@ -1,9 +1,0 @@
-User ID: dWp4RtNlFFQYSxs7AA27
-User Name: robot
-Ticket ID: dWp4RtNlFFQYSxs7AA27_68e62d25-465c-4fa3-a30f-dedebd975de0
-Total Bid Amount: 1100
-Total Earnings: 0
-Profit/Loss: -1100
-
-Breakdown:
-  Bid: 1, Amount: 1100, Payout: 5500, Status: lost

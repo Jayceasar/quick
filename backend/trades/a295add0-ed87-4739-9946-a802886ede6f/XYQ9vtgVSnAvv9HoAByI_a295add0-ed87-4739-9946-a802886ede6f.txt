@@ -1,9 +1,0 @@
-User ID: XYQ9vtgVSnAvv9HoAByI
-User Name: robot
-Ticket ID: XYQ9vtgVSnAvv9HoAByI_a295add0-ed87-4739-9946-a802886ede6f
-Total Bid Amount: 5500
-Total Earnings: 0
-Profit/Loss: -5500
-
-Breakdown:
-  Bid: 1, Amount: 5500, Payout: 27500, Status: lost

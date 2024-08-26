@@ -1,9 +1,0 @@
-User ID: KjHEoeZzzUUY0NrdAAar
-User Name: robot
-Ticket ID: KjHEoeZzzUUY0NrdAAar_7a85e992-2509-45aa-84c7-d86854db7bba
-Total Bid Amount: 200
-Total Earnings: 0
-Profit/Loss: -200
-
-Breakdown:
-  Bid: 2, Amount: 200, Payout: 1000, Status: lost

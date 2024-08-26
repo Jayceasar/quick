@@ -1,9 +1,0 @@
-User ID: 599zc7TTI6arwN0qAAIz
-User Name: robot
-Ticket ID: 599zc7TTI6arwN0qAAIz_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 2800
-Total Earnings: 0
-Profit/Loss: -2800
-
-Breakdown:
-  Bid: 3, Amount: 2800, Payout: 14000, Status: lost

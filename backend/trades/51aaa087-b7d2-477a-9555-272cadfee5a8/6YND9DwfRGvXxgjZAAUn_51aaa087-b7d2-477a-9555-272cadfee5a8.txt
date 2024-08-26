@@ -1,9 +1,0 @@
-User ID: 6YND9DwfRGvXxgjZAAUn
-User Name: robot
-Ticket ID: 6YND9DwfRGvXxgjZAAUn_51aaa087-b7d2-477a-9555-272cadfee5a8
-Total Bid Amount: 3500
-Total Earnings: 17500
-Profit/Loss: 14000
-
-Breakdown:
-  Bid: 3, Amount: 3500, Payout: 17500, Status: won

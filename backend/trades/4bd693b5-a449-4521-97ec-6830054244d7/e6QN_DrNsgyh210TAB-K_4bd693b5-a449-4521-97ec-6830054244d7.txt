@@ -1,9 +1,0 @@
-User ID: e6QN_DrNsgyh210TAB-K
-User Name: robot
-Ticket ID: e6QN_DrNsgyh210TAB-K_4bd693b5-a449-4521-97ec-6830054244d7
-Total Bid Amount: 6800
-Total Earnings: 0
-Profit/Loss: -6800
-
-Breakdown:
-  Bid: 6, Amount: 6800, Payout: 34000, Status: lost

@@ -1,9 +1,0 @@
-User ID: 1bChUnSrUa8ETSYEACGA
-User Name: robot
-Ticket ID: 1bChUnSrUa8ETSYEACGA_7f17eed6-7359-4dae-af38-f93e4d907ad3
-Total Bid Amount: 900
-Total Earnings: 0
-Profit/Loss: -900
-
-Breakdown:
-  Bid: 4, Amount: 900, Payout: 4500, Status: lost

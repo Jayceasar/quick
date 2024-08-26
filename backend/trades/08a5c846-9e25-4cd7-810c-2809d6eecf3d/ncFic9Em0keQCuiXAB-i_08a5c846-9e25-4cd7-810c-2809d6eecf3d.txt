@@ -1,9 +1,0 @@
-User ID: ncFic9Em0keQCuiXAB-i
-User Name: robot
-Ticket ID: ncFic9Em0keQCuiXAB-i_08a5c846-9e25-4cd7-810c-2809d6eecf3d
-Total Bid Amount: 5900
-Total Earnings: 0
-Profit/Loss: -5900
-
-Breakdown:
-  Bid: 5, Amount: 5900, Payout: 29500, Status: lost

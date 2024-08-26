@@ -1,9 +1,0 @@
-User ID: SKaJbj3sIEONElv9ACOf
-User Name: robot
-Ticket ID: SKaJbj3sIEONElv9ACOf_c9f2fd60-e777-437e-b2b0-409995884098
-Total Bid Amount: 1500
-Total Earnings: 0
-Profit/Loss: -1500
-
-Breakdown:
-  Bid: 2, Amount: 1500, Payout: 7500, Status: lost

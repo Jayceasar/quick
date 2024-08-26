@@ -1,9 +1,0 @@
-User ID: A2hOjWw0n_vsFC1NABk_
-User Name: robot
-Ticket ID: A2hOjWw0n_vsFC1NABk__16544f5b-1f99-42fc-955f-4a4f35434ec1
-Total Bid Amount: 6300
-Total Earnings: 0
-Profit/Loss: -6300
-
-Breakdown:
-  Bid: 4, Amount: 6300, Payout: 31500, Status: lost

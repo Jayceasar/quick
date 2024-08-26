@@ -1,9 +1,0 @@
-User ID: Xt_NM0rdS1jhz5zSAAIF
-User Name: robot
-Ticket ID: Xt_NM0rdS1jhz5zSAAIF_4e9bd619-44c7-44be-b455-d4e16a0cafb6
-Total Bid Amount: 4300
-Total Earnings: 0
-Profit/Loss: -4300
-
-Breakdown:
-  Bid: 6, Amount: 4300, Payout: 21500, Status: lost

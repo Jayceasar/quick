@@ -1,9 +1,0 @@
-User ID: iv9H1dB2THCKl3t9ABXG
-User Name: robot
-Ticket ID: iv9H1dB2THCKl3t9ABXG_8fa77666-9d7f-4032-9eb6-68ecb3f56761
-Total Bid Amount: 3300
-Total Earnings: 0
-Profit/Loss: -3300
-
-Breakdown:
-  Bid: 2, Amount: 3300, Payout: 16500, Status: lost

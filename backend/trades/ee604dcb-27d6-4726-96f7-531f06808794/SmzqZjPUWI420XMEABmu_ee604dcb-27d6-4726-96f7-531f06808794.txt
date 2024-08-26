@@ -1,9 +1,0 @@
-User ID: SmzqZjPUWI420XMEABmu
-User Name: robot
-Ticket ID: SmzqZjPUWI420XMEABmu_ee604dcb-27d6-4726-96f7-531f06808794
-Total Bid Amount: 7800
-Total Earnings: 0
-Profit/Loss: -7800
-
-Breakdown:
-  Bid: 1, Amount: 7800, Payout: 39000, Status: lost

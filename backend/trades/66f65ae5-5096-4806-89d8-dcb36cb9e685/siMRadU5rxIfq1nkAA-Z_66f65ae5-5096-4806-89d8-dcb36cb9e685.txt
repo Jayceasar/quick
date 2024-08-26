@@ -1,9 +1,0 @@
-User ID: siMRadU5rxIfq1nkAA-Z
-User Name: robot
-Ticket ID: siMRadU5rxIfq1nkAA-Z_66f65ae5-5096-4806-89d8-dcb36cb9e685
-Total Bid Amount: 3400
-Total Earnings: 0
-Profit/Loss: -3400
-
-Breakdown:
-  Bid: 1, Amount: 3400, Payout: 17000, Status: lost

@@ -1,9 +1,0 @@
-User ID: TOZyYQwndTqbxbDyAAI1
-User Name: robot
-Ticket ID: TOZyYQwndTqbxbDyAAI1_c4750aca-f17c-4be6-87a9-33a224b7d999
-Total Bid Amount: 1400
-Total Earnings: 0
-Profit/Loss: -1400
-
-Breakdown:
-  Bid: 4, Amount: 1400, Payout: 7000, Status: lost

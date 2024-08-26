@@ -1,9 +1,0 @@
-User ID: cT9XRhkIbCByq6GlABhn
-User Name: robot
-Ticket ID: cT9XRhkIbCByq6GlABhn_16544f5b-1f99-42fc-955f-4a4f35434ec1
-Total Bid Amount: 3600
-Total Earnings: 0
-Profit/Loss: -3600
-
-Breakdown:
-  Bid: 6, Amount: 3600, Payout: 18000, Status: lost

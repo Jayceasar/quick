@@ -1,9 +1,0 @@
-User ID: 81KzN9FR1yFONH4zAAhL
-User Name: robot
-Ticket ID: 81KzN9FR1yFONH4zAAhL_7f98a070-8bf4-4a36-ac88-f1a4a7102cc1
-Total Bid Amount: 7500
-Total Earnings: 37500
-Profit/Loss: 30000
-
-Breakdown:
-  Bid: 5, Amount: 7500, Payout: 37500, Status: won

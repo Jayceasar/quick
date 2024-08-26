@@ -1,9 +1,0 @@
-User ID: EgBE95kl8L5kYCDtACPS
-User Name: robot
-Ticket ID: EgBE95kl8L5kYCDtACPS_0b5aba4a-f891-44e8-b754-33f21b58ad9e
-Total Bid Amount: 7600
-Total Earnings: 0
-Profit/Loss: -7600
-
-Breakdown:
-  Bid: 3, Amount: 7600, Payout: 38000, Status: lost

@@ -1,9 +1,0 @@
-User ID: yUZ4p_PpgoaLazCXAAcA
-User Name: robot
-Ticket ID: yUZ4p_PpgoaLazCXAAcA_c7e3ff9e-2871-48f8-a4b2-06cf7da727cb
-Total Bid Amount: 7800
-Total Earnings: 0
-Profit/Loss: -7800
-
-Breakdown:
-  Bid: 2, Amount: 7800, Payout: 39000, Status: lost

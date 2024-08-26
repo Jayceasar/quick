@@ -1,9 +1,0 @@
-User ID: hbpSwEvyBYBwD6qlACOZ
-User Name: robot
-Ticket ID: hbpSwEvyBYBwD6qlACOZ_7a7e54ad-85d9-46d7-ad11-b76833f80845
-Total Bid Amount: 6100
-Total Earnings: 0
-Profit/Loss: -6100
-
-Breakdown:
-  Bid: 6, Amount: 6100, Payout: 30500, Status: lost

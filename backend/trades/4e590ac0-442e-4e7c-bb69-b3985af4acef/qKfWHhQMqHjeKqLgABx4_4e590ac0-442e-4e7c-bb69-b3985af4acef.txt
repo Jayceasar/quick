@@ -1,9 +1,0 @@
-User ID: qKfWHhQMqHjeKqLgABx4
-User Name: robot
-Ticket ID: qKfWHhQMqHjeKqLgABx4_4e590ac0-442e-4e7c-bb69-b3985af4acef
-Total Bid Amount: 9000
-Total Earnings: 0
-Profit/Loss: -9000
-
-Breakdown:
-  Bid: 4, Amount: 9000, Payout: 45000, Status: lost

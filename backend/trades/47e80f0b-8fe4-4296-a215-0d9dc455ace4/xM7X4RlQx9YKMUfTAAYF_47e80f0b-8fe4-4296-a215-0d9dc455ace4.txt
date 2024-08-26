@@ -1,9 +1,0 @@
-User ID: xM7X4RlQx9YKMUfTAAYF
-User Name: robot
-Ticket ID: xM7X4RlQx9YKMUfTAAYF_47e80f0b-8fe4-4296-a215-0d9dc455ace4
-Total Bid Amount: 2600
-Total Earnings: 0
-Profit/Loss: -2600
-
-Breakdown:
-  Bid: 3, Amount: 2600, Payout: 13000, Status: lost

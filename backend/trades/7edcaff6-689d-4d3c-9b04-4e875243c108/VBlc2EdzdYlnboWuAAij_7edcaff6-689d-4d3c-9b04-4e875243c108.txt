@@ -1,9 +1,0 @@
-User ID: VBlc2EdzdYlnboWuAAij
-User Name: robot
-Ticket ID: VBlc2EdzdYlnboWuAAij_7edcaff6-689d-4d3c-9b04-4e875243c108
-Total Bid Amount: 7000
-Total Earnings: 0
-Profit/Loss: -7000
-
-Breakdown:
-  Bid: 3, Amount: 7000, Payout: 35000, Status: lost

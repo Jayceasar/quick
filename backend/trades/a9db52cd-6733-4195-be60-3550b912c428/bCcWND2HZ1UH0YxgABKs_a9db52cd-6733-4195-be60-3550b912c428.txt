@@ -1,9 +1,0 @@
-User ID: bCcWND2HZ1UH0YxgABKs
-User Name: robot
-Ticket ID: bCcWND2HZ1UH0YxgABKs_a9db52cd-6733-4195-be60-3550b912c428
-Total Bid Amount: 7300
-Total Earnings: 36500
-Profit/Loss: 29200
-
-Breakdown:
-  Bid: 1, Amount: 7300, Payout: 36500, Status: won

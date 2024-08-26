@@ -1,9 +1,0 @@
-User ID: l2ekJP6G8LAfxyPfAAcN
-User Name: robot
-Ticket ID: l2ekJP6G8LAfxyPfAAcN_12a28a63-36a1-4295-9b29-055aa3a41e6f
-Total Bid Amount: 8200
-Total Earnings: 41000
-Profit/Loss: 32800
-
-Breakdown:
-  Bid: 6, Amount: 8200, Payout: 41000, Status: won

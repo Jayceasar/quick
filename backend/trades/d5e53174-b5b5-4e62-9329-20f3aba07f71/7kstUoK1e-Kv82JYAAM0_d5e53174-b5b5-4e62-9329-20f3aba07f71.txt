@@ -1,9 +1,0 @@
-User ID: 7kstUoK1e-Kv82JYAAM0
-User Name: robot
-Ticket ID: 7kstUoK1e-Kv82JYAAM0_d5e53174-b5b5-4e62-9329-20f3aba07f71
-Total Bid Amount: 8500
-Total Earnings: 42500
-Profit/Loss: 34000
-
-Breakdown:
-  Bid: 1, Amount: 8500, Payout: 42500, Status: won

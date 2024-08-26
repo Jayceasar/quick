@@ -1,9 +1,0 @@
-User ID: urqbuUonb7HVB8F5ACOB
-User Name: robot
-Ticket ID: urqbuUonb7HVB8F5ACOB_01f9d651-f1ef-433d-b500-ded64344ab1b
-Total Bid Amount: 2600
-Total Earnings: 13000
-Profit/Loss: 10400
-
-Breakdown:
-  Bid: 4, Amount: 2600, Payout: 13000, Status: won

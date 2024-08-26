@@ -1,9 +1,0 @@
-User ID: qUlvjWXGDJGW7GrGABK_
-User Name: robot
-Ticket ID: qUlvjWXGDJGW7GrGABK__53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 5400
-Total Earnings: 0
-Profit/Loss: -5400
-
-Breakdown:
-  Bid: 4, Amount: 5400, Payout: 27000, Status: lost

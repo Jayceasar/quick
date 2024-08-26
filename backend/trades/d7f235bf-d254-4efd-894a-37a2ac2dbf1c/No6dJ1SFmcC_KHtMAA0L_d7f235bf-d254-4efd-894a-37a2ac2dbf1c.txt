@@ -1,9 +1,0 @@
-User ID: No6dJ1SFmcC_KHtMAA0L
-User Name: robot
-Ticket ID: No6dJ1SFmcC_KHtMAA0L_d7f235bf-d254-4efd-894a-37a2ac2dbf1c
-Total Bid Amount: 3000
-Total Earnings: 0
-Profit/Loss: -3000
-
-Breakdown:
-  Bid: 6, Amount: 3000, Payout: 15000, Status: lost

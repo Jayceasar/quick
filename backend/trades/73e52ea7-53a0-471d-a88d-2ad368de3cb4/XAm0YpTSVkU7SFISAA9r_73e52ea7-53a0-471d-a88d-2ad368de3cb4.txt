@@ -1,9 +1,0 @@
-User ID: XAm0YpTSVkU7SFISAA9r
-User Name: robot
-Ticket ID: XAm0YpTSVkU7SFISAA9r_73e52ea7-53a0-471d-a88d-2ad368de3cb4
-Total Bid Amount: 7000
-Total Earnings: 0
-Profit/Loss: -7000
-
-Breakdown:
-  Bid: 4, Amount: 7000, Payout: 35000, Status: lost

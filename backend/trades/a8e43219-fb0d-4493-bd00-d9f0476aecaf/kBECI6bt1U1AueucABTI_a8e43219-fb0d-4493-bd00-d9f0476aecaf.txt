@@ -1,9 +1,0 @@
-User ID: kBECI6bt1U1AueucABTI
-User Name: robot
-Ticket ID: kBECI6bt1U1AueucABTI_a8e43219-fb0d-4493-bd00-d9f0476aecaf
-Total Bid Amount: 1700
-Total Earnings: 0
-Profit/Loss: -1700
-
-Breakdown:
-  Bid: 1, Amount: 1700, Payout: 8500, Status: lost

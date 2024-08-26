@@ -1,9 +1,0 @@
-User ID: WXAyJDqpE8wR4qvsABeW
-User Name: robot
-Ticket ID: WXAyJDqpE8wR4qvsABeW_b71afa21-42c7-4762-9e52-e830dc5025da
-Total Bid Amount: 9900
-Total Earnings: 49500
-Profit/Loss: 39600
-
-Breakdown:
-  Bid: 2, Amount: 9900, Payout: 49500, Status: won

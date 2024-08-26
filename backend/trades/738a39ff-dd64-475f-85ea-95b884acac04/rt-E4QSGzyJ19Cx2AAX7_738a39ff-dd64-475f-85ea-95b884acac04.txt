@@ -1,9 +1,0 @@
-User ID: rt-E4QSGzyJ19Cx2AAX7
-User Name: robot
-Ticket ID: rt-E4QSGzyJ19Cx2AAX7_738a39ff-dd64-475f-85ea-95b884acac04
-Total Bid Amount: 6100
-Total Earnings: 0
-Profit/Loss: -6100
-
-Breakdown:
-  Bid: 3, Amount: 6100, Payout: 30500, Status: lost

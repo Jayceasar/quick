@@ -1,9 +1,0 @@
-User ID: piv6H4VHAlrhWPofAAJk
-User Name: robot
-Ticket ID: piv6H4VHAlrhWPofAAJk_3750ca25-a9f1-4278-85de-ccbff503fd45
-Total Bid Amount: 6200
-Total Earnings: 0
-Profit/Loss: -6200
-
-Breakdown:
-  Bid: 4, Amount: 6200, Payout: 31000, Status: lost

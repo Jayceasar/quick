@@ -1,9 +1,0 @@
-User ID: F9iUsWlra4TJ683FAAay
-User Name: robot
-Ticket ID: F9iUsWlra4TJ683FAAay_7a85e992-2509-45aa-84c7-d86854db7bba
-Total Bid Amount: 9200
-Total Earnings: 46000
-Profit/Loss: 36800
-
-Breakdown:
-  Bid: 6, Amount: 9200, Payout: 46000, Status: won

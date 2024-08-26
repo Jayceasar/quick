@@ -1,9 +1,0 @@
-User ID: vB2zT8xz77gcrS9MAA1M
-User Name: robot
-Ticket ID: vB2zT8xz77gcrS9MAA1M_d7f235bf-d254-4efd-894a-37a2ac2dbf1c
-Total Bid Amount: 500
-Total Earnings: 0
-Profit/Loss: -500
-
-Breakdown:
-  Bid: 2, Amount: 500, Payout: 2500, Status: lost

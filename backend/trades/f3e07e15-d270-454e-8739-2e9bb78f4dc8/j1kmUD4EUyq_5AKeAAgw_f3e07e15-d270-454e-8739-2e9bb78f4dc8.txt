@@ -1,9 +1,0 @@
-User ID: j1kmUD4EUyq_5AKeAAgw
-User Name: robot
-Ticket ID: j1kmUD4EUyq_5AKeAAgw_f3e07e15-d270-454e-8739-2e9bb78f4dc8
-Total Bid Amount: 3600
-Total Earnings: 0
-Profit/Loss: -3600
-
-Breakdown:
-  Bid: 1, Amount: 3600, Payout: 18000, Status: lost

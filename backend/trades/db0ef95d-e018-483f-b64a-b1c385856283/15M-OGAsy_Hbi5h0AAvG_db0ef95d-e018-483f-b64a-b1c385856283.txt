@@ -1,9 +1,0 @@
-User ID: 15M-OGAsy_Hbi5h0AAvG
-User Name: robot
-Ticket ID: 15M-OGAsy_Hbi5h0AAvG_db0ef95d-e018-483f-b64a-b1c385856283
-Total Bid Amount: 1600
-Total Earnings: 0
-Profit/Loss: -1600
-
-Breakdown:
-  Bid: 1, Amount: 1600, Payout: 8000, Status: lost

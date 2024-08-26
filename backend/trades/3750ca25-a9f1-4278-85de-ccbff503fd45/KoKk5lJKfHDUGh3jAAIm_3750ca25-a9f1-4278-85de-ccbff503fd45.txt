@@ -1,9 +1,0 @@
-User ID: KoKk5lJKfHDUGh3jAAIm
-User Name: robot
-Ticket ID: KoKk5lJKfHDUGh3jAAIm_3750ca25-a9f1-4278-85de-ccbff503fd45
-Total Bid Amount: 1200
-Total Earnings: 0
-Profit/Loss: -1200
-
-Breakdown:
-  Bid: 2, Amount: 1200, Payout: 6000, Status: lost

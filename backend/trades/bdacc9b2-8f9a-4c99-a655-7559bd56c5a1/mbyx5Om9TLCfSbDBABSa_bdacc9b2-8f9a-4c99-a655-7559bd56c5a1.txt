@@ -1,9 +1,0 @@
-User ID: mbyx5Om9TLCfSbDBABSa
-User Name: robot
-Ticket ID: mbyx5Om9TLCfSbDBABSa_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
-Total Bid Amount: 2700
-Total Earnings: 0
-Profit/Loss: -2700
-
-Breakdown:
-  Bid: 1, Amount: 2700, Payout: 13500, Status: lost

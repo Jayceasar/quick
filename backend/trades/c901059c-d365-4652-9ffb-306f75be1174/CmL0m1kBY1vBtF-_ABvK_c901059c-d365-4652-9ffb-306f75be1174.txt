@@ -1,9 +1,0 @@
-User ID: CmL0m1kBY1vBtF-_ABvK
-User Name: robot
-Ticket ID: CmL0m1kBY1vBtF-_ABvK_c901059c-d365-4652-9ffb-306f75be1174
-Total Bid Amount: 8000
-Total Earnings: 0
-Profit/Loss: -8000
-
-Breakdown:
-  Bid: 6, Amount: 8000, Payout: 40000, Status: lost

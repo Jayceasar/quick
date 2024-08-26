@@ -1,9 +1,0 @@
-User ID: GcgZeNsqn1jtMdXRAA2P
-User Name: robot
-Ticket ID: GcgZeNsqn1jtMdXRAA2P_d05e861f-f27e-4864-af86-257c4b623e47
-Total Bid Amount: 9400
-Total Earnings: 0
-Profit/Loss: -9400
-
-Breakdown:
-  Bid: 5, Amount: 9400, Payout: 47000, Status: lost

@@ -1,9 +1,0 @@
-User ID: hBqigHK-SWO1qus9ACRo
-User Name: robot
-Ticket ID: hBqigHK-SWO1qus9ACRo_e4cc1b2b-9402-4934-9620-372b18b0c77d
-Total Bid Amount: 800
-Total Earnings: 4000
-Profit/Loss: 3200
-
-Breakdown:
-  Bid: 1, Amount: 800, Payout: 4000, Status: won

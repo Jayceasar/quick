@@ -1,9 +1,0 @@
-User ID: 2qIAH3OkzainfvKBAAFP
-User Name: robot
-Ticket ID: 2qIAH3OkzainfvKBAAFP_3750ca25-a9f1-4278-85de-ccbff503fd45
-Total Bid Amount: 1900
-Total Earnings: 0
-Profit/Loss: -1900
-
-Breakdown:
-  Bid: 4, Amount: 1900, Payout: 9500, Status: lost

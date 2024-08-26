@@ -1,9 +1,0 @@
-User ID: -Te1S4ZLRIq4jl2sABe7
-User Name: robot
-Ticket ID: -Te1S4ZLRIq4jl2sABe7_b71afa21-42c7-4762-9e52-e830dc5025da
-Total Bid Amount: 1800
-Total Earnings: 0
-Profit/Loss: -1800
-
-Breakdown:
-  Bid: 5, Amount: 1800, Payout: 9000, Status: lost

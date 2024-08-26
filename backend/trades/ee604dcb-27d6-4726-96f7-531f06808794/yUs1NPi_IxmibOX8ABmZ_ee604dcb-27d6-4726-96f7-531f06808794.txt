@@ -1,9 +1,0 @@
-User ID: yUs1NPi_IxmibOX8ABmZ
-User Name: robot
-Ticket ID: yUs1NPi_IxmibOX8ABmZ_ee604dcb-27d6-4726-96f7-531f06808794
-Total Bid Amount: 3100
-Total Earnings: 0
-Profit/Loss: -3100
-
-Breakdown:
-  Bid: 1, Amount: 3100, Payout: 15500, Status: lost

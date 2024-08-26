@@ -1,9 +1,0 @@
-User ID: mCCq2uTCANg13V9bACKR
-User Name: robot
-Ticket ID: mCCq2uTCANg13V9bACKR_7f17eed6-7359-4dae-af38-f93e4d907ad3
-Total Bid Amount: 600
-Total Earnings: 0
-Profit/Loss: -600
-
-Breakdown:
-  Bid: 2, Amount: 600, Payout: 3000, Status: lost

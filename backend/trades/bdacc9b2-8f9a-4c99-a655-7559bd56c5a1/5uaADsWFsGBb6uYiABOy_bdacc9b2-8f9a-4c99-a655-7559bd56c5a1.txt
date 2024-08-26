@@ -1,9 +1,0 @@
-User ID: 5uaADsWFsGBb6uYiABOy
-User Name: robot
-Ticket ID: 5uaADsWFsGBb6uYiABOy_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
-Total Bid Amount: 6300
-Total Earnings: 31500
-Profit/Loss: 25200
-
-Breakdown:
-  Bid: 3, Amount: 6300, Payout: 31500, Status: won

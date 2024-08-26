@@ -1,9 +1,0 @@
-User ID: yRWQ5fl371tq6DYyAA0j
-User Name: robot
-Ticket ID: yRWQ5fl371tq6DYyAA0j_2064e9d8-c50a-4535-8fb3-112104adabdb
-Total Bid Amount: 7200
-Total Earnings: 0
-Profit/Loss: -7200
-
-Breakdown:
-  Bid: 2, Amount: 7200, Payout: 36000, Status: lost

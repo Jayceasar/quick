@@ -1,9 +1,0 @@
-User ID: c_q4INhb2OPFLfESACKB
-User Name: robot
-Ticket ID: c_q4INhb2OPFLfESACKB_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
-Total Bid Amount: 1300
-Total Earnings: 0
-Profit/Loss: -1300
-
-Breakdown:
-  Bid: 1, Amount: 1300, Payout: 6500, Status: lost

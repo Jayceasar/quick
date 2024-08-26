@@ -1,9 +1,0 @@
-User ID: lzTvMORuxELsPqo2AAXU
-User Name: robot
-Ticket ID: lzTvMORuxELsPqo2AAXU_6640391f-3f12-4ffe-bf47-a458af251c60
-Total Bid Amount: 6300
-Total Earnings: 0
-Profit/Loss: -6300
-
-Breakdown:
-  Bid: 3, Amount: 6300, Payout: 31500, Status: lost

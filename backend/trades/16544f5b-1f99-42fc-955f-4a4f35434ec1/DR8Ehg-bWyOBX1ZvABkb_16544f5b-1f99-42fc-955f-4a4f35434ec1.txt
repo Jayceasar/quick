@@ -1,9 +1,0 @@
-User ID: DR8Ehg-bWyOBX1ZvABkb
-User Name: robot
-Ticket ID: DR8Ehg-bWyOBX1ZvABkb_16544f5b-1f99-42fc-955f-4a4f35434ec1
-Total Bid Amount: 6000
-Total Earnings: 30000
-Profit/Loss: 24000
-
-Breakdown:
-  Bid: 1, Amount: 6000, Payout: 30000, Status: won

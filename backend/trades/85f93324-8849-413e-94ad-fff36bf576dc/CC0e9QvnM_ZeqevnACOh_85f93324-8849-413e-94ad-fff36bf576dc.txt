@@ -1,9 +1,0 @@
-User ID: CC0e9QvnM_ZeqevnACOh
-User Name: robot
-Ticket ID: CC0e9QvnM_ZeqevnACOh_85f93324-8849-413e-94ad-fff36bf576dc
-Total Bid Amount: 500
-Total Earnings: 0
-Profit/Loss: -500
-
-Breakdown:
-  Bid: 6, Amount: 500, Payout: 2500, Status: lost

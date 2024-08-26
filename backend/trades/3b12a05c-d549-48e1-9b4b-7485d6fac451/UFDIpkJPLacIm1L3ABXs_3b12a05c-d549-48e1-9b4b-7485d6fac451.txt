@@ -1,9 +1,0 @@
-User ID: UFDIpkJPLacIm1L3ABXs
-User Name: robot
-Ticket ID: UFDIpkJPLacIm1L3ABXs_3b12a05c-d549-48e1-9b4b-7485d6fac451
-Total Bid Amount: 7100
-Total Earnings: 0
-Profit/Loss: -7100
-
-Breakdown:
-  Bid: 4, Amount: 7100, Payout: 35500, Status: lost

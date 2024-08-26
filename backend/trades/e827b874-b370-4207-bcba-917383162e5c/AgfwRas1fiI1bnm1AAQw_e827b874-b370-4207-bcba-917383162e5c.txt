@@ -1,9 +1,0 @@
-User ID: AgfwRas1fiI1bnm1AAQw
-User Name: robot
-Ticket ID: AgfwRas1fiI1bnm1AAQw_e827b874-b370-4207-bcba-917383162e5c
-Total Bid Amount: 1000
-Total Earnings: 0
-Profit/Loss: -1000
-
-Breakdown:
-  Bid: 1, Amount: 1000, Payout: 5000, Status: lost

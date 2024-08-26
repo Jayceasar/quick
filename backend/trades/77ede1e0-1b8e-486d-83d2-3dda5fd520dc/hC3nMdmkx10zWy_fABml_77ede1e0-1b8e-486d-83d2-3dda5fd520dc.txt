@@ -1,9 +1,0 @@
-User ID: hC3nMdmkx10zWy_fABml
-User Name: robot
-Ticket ID: hC3nMdmkx10zWy_fABml_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
-Total Bid Amount: 1700
-Total Earnings: 0
-Profit/Loss: -1700
-
-Breakdown:
-  Bid: 4, Amount: 1700, Payout: 8500, Status: lost

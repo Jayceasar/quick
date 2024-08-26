@@ -1,9 +1,0 @@
-User ID: NpgLo078XNTRpI43AByo
-User Name: robot
-Ticket ID: NpgLo078XNTRpI43AByo_a295add0-ed87-4739-9946-a802886ede6f
-Total Bid Amount: 3600
-Total Earnings: 0
-Profit/Loss: -3600
-
-Breakdown:
-  Bid: 2, Amount: 3600, Payout: 18000, Status: lost

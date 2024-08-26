@@ -1,9 +1,0 @@
-User ID: FAZEnk19FCdhSLoBACBK
-User Name: robot
-Ticket ID: FAZEnk19FCdhSLoBACBK_07612224-3336-47cc-8c54-187b9f190cab
-Total Bid Amount: 5900
-Total Earnings: 29500
-Profit/Loss: 23600
-
-Breakdown:
-  Bid: 3, Amount: 5900, Payout: 29500, Status: won

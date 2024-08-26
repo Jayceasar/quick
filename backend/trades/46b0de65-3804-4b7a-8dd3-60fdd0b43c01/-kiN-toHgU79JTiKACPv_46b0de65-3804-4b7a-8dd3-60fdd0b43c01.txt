@@ -1,9 +1,0 @@
-User ID: -kiN-toHgU79JTiKACPv
-User Name: robot
-Ticket ID: -kiN-toHgU79JTiKACPv_46b0de65-3804-4b7a-8dd3-60fdd0b43c01
-Total Bid Amount: 300
-Total Earnings: 0
-Profit/Loss: -300
-
-Breakdown:
-  Bid: 1, Amount: 300, Payout: 1500, Status: lost

@@ -1,9 +1,0 @@
-User ID: rf6dL86rcnZ6foy0AA0J
-User Name: robot
-Ticket ID: rf6dL86rcnZ6foy0AA0J_73f2641e-7291-48d5-bf09-a4c52f9004e1
-Total Bid Amount: 3900
-Total Earnings: 19500
-Profit/Loss: 15600
-
-Breakdown:
-  Bid: 2, Amount: 3900, Payout: 19500, Status: won

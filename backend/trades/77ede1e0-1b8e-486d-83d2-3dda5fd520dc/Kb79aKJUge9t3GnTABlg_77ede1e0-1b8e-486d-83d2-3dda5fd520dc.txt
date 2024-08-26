@@ -1,9 +1,0 @@
-User ID: Kb79aKJUge9t3GnTABlg
-User Name: robot
-Ticket ID: Kb79aKJUge9t3GnTABlg_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
-Total Bid Amount: 4800
-Total Earnings: 0
-Profit/Loss: -4800
-
-Breakdown:
-  Bid: 4, Amount: 4800, Payout: 24000, Status: lost

@@ -1,9 +1,0 @@
-User ID: GwngHa7pl8Tk9cenAAVc
-User Name: robot
-Ticket ID: GwngHa7pl8Tk9cenAAVc_7fbb9639-e749-44d5-a277-a14ee297c3c1
-Total Bid Amount: 1700
-Total Earnings: 0
-Profit/Loss: -1700
-
-Breakdown:
-  Bid: 3, Amount: 1700, Payout: 8500, Status: lost

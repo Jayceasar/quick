@@ -1,9 +1,0 @@
-User ID: _7SQnXYDbyKwUrGzAA2z
-User Name: robot
-Ticket ID: _7SQnXYDbyKwUrGzAA2z_4ba02ed2-32dc-4fb6-b96c-0c7d28623e86
-Total Bid Amount: 400
-Total Earnings: 2000
-Profit/Loss: 1600
-
-Breakdown:
-  Bid: 4, Amount: 400, Payout: 2000, Status: won

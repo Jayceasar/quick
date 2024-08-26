@@ -1,9 +1,0 @@
-User ID: M0UcJ1drsCnyR12YAAIQ
-User Name: robot
-Ticket ID: M0UcJ1drsCnyR12YAAIQ_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 9800
-Total Earnings: 0
-Profit/Loss: -9800
-
-Breakdown:
-  Bid: 6, Amount: 9800, Payout: 49000, Status: lost

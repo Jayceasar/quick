@@ -1,9 +1,0 @@
-User ID: gBbu0UeXmARxtAKBAAcD
-User Name: robot
-Ticket ID: gBbu0UeXmARxtAKBAAcD_738a39ff-dd64-475f-85ea-95b884acac04
-Total Bid Amount: 7400
-Total Earnings: 37000
-Profit/Loss: 29600
-
-Breakdown:
-  Bid: 2, Amount: 7400, Payout: 37000, Status: won

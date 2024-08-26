@@ -1,9 +1,0 @@
-User ID: rMB32xKCEeMKlZcWABlX
-User Name: robot
-Ticket ID: rMB32xKCEeMKlZcWABlX_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
-Total Bid Amount: 7800
-Total Earnings: 0
-Profit/Loss: -7800
-
-Breakdown:
-  Bid: 6, Amount: 7800, Payout: 39000, Status: lost

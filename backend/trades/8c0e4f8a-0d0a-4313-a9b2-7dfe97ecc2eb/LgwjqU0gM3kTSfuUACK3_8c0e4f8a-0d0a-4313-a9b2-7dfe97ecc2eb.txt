@@ -1,9 +1,0 @@
-User ID: LgwjqU0gM3kTSfuUACK3
-User Name: robot
-Ticket ID: LgwjqU0gM3kTSfuUACK3_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
-Total Bid Amount: 2400
-Total Earnings: 12000
-Profit/Loss: 9600
-
-Breakdown:
-  Bid: 5, Amount: 2400, Payout: 12000, Status: won

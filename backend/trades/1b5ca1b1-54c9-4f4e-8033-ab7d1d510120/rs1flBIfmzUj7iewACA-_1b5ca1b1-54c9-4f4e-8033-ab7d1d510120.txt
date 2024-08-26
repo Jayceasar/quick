@@ -1,9 +1,0 @@
-User ID: rs1flBIfmzUj7iewACA-
-User Name: robot
-Ticket ID: rs1flBIfmzUj7iewACA-_1b5ca1b1-54c9-4f4e-8033-ab7d1d510120
-Total Bid Amount: 4100
-Total Earnings: 20500
-Profit/Loss: 16400
-
-Breakdown:
-  Bid: 6, Amount: 4100, Payout: 20500, Status: won

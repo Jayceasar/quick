@@ -1,9 +1,0 @@
-User ID: pLcaX2mjTxhnG1xoABdt
-User Name: robot
-Ticket ID: pLcaX2mjTxhnG1xoABdt_b71afa21-42c7-4762-9e52-e830dc5025da
-Total Bid Amount: 700
-Total Earnings: 3500
-Profit/Loss: 2800
-
-Breakdown:
-  Bid: 2, Amount: 700, Payout: 3500, Status: won

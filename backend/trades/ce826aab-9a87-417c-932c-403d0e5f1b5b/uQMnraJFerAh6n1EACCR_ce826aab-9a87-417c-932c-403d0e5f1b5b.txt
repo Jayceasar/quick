@@ -1,9 +1,0 @@
-User ID: uQMnraJFerAh6n1EACCR
-User Name: robot
-Ticket ID: uQMnraJFerAh6n1EACCR_ce826aab-9a87-417c-932c-403d0e5f1b5b
-Total Bid Amount: 8600
-Total Earnings: 0
-Profit/Loss: -8600
-
-Breakdown:
-  Bid: 2, Amount: 8600, Payout: 43000, Status: lost

@@ -1,9 +1,0 @@
-User ID: RcuLh1iIRbt5YD7VAB-n
-User Name: robot
-Ticket ID: RcuLh1iIRbt5YD7VAB-n_ef9d3ae9-a88c-4fb9-930e-c91af760bffa
-Total Bid Amount: 5600
-Total Earnings: 0
-Profit/Loss: -5600
-
-Breakdown:
-  Bid: 1, Amount: 5600, Payout: 28000, Status: lost

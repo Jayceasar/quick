@@ -1,9 +1,0 @@
-User ID: t_2-rkWSOPCmzKNGABSB
-User Name: robot
-Ticket ID: t_2-rkWSOPCmzKNGABSB_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
-Total Bid Amount: 1500
-Total Earnings: 0
-Profit/Loss: -1500
-
-Breakdown:
-  Bid: 6, Amount: 1500, Payout: 7500, Status: lost

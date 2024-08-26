@@ -1,9 +1,0 @@
-User ID: 6ChbSvTGS9CMLiolAAIp
-User Name: robot
-Ticket ID: 6ChbSvTGS9CMLiolAAIp_ad3a8c72-299f-43d4-805f-4646b325aae0
-Total Bid Amount: 8000
-Total Earnings: 0
-Profit/Loss: -8000
-
-Breakdown:
-  Bid: 2, Amount: 8000, Payout: 40000, Status: lost

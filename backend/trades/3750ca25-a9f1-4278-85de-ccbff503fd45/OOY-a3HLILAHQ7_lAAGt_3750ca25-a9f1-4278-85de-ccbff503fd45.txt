@@ -1,9 +1,0 @@
-User ID: OOY-a3HLILAHQ7_lAAGt
-User Name: robot
-Ticket ID: OOY-a3HLILAHQ7_lAAGt_3750ca25-a9f1-4278-85de-ccbff503fd45
-Total Bid Amount: 9800
-Total Earnings: 0
-Profit/Loss: -9800
-
-Breakdown:
-  Bid: 4, Amount: 9800, Payout: 49000, Status: lost

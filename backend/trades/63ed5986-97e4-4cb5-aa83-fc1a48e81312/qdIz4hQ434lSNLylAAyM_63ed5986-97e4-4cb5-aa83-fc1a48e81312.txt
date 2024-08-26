@@ -1,9 +1,0 @@
-User ID: qdIz4hQ434lSNLylAAyM
-User Name: robot
-Ticket ID: qdIz4hQ434lSNLylAAyM_63ed5986-97e4-4cb5-aa83-fc1a48e81312
-Total Bid Amount: 1500
-Total Earnings: 7500
-Profit/Loss: 6000
-
-Breakdown:
-  Bid: 2, Amount: 1500, Payout: 7500, Status: won

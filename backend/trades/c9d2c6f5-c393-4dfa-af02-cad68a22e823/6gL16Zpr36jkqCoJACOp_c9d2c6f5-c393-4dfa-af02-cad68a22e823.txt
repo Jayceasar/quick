@@ -1,9 +1,0 @@
-User ID: 6gL16Zpr36jkqCoJACOp
-User Name: robot
-Ticket ID: 6gL16Zpr36jkqCoJACOp_c9d2c6f5-c393-4dfa-af02-cad68a22e823
-Total Bid Amount: 8100
-Total Earnings: 40500
-Profit/Loss: 32400
-
-Breakdown:
-  Bid: 5, Amount: 8100, Payout: 40500, Status: won

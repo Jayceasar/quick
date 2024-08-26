@@ -1,9 +1,0 @@
-User ID: UOBLpINVTubd7_y0AAKd
-User Name: robot
-Ticket ID: UOBLpINVTubd7_y0AAKd_ad3a8c72-299f-43d4-805f-4646b325aae0
-Total Bid Amount: 5000
-Total Earnings: 0
-Profit/Loss: -5000
-
-Breakdown:
-  Bid: 5, Amount: 5000, Payout: 25000, Status: lost

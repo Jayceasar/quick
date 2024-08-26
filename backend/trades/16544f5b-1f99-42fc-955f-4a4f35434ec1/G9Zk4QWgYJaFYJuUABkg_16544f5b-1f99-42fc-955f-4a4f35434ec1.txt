@@ -1,9 +1,0 @@
-User ID: G9Zk4QWgYJaFYJuUABkg
-User Name: robot
-Ticket ID: G9Zk4QWgYJaFYJuUABkg_16544f5b-1f99-42fc-955f-4a4f35434ec1
-Total Bid Amount: 8000
-Total Earnings: 0
-Profit/Loss: -8000
-
-Breakdown:
-  Bid: 2, Amount: 8000, Payout: 40000, Status: lost

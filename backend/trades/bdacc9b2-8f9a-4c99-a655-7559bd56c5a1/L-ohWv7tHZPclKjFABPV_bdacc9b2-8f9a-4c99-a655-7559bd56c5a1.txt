@@ -1,9 +1,0 @@
-User ID: L-ohWv7tHZPclKjFABPV
-User Name: robot
-Ticket ID: L-ohWv7tHZPclKjFABPV_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
-Total Bid Amount: 5700
-Total Earnings: 0
-Profit/Loss: -5700
-
-Breakdown:
-  Bid: 2, Amount: 5700, Payout: 28500, Status: lost

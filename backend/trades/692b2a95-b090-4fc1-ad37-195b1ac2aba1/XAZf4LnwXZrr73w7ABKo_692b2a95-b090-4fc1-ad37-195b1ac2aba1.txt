@@ -1,9 +1,0 @@
-User ID: XAZf4LnwXZrr73w7ABKo
-User Name: robot
-Ticket ID: XAZf4LnwXZrr73w7ABKo_692b2a95-b090-4fc1-ad37-195b1ac2aba1
-Total Bid Amount: 300
-Total Earnings: 1500
-Profit/Loss: 1200
-
-Breakdown:
-  Bid: 5, Amount: 300, Payout: 1500, Status: won

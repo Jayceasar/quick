@@ -1,9 +1,0 @@
-User ID: uR4W75k25BQNAjIqAAyA
-User Name: robot
-Ticket ID: uR4W75k25BQNAjIqAAyA_d7f235bf-d254-4efd-894a-37a2ac2dbf1c
-Total Bid Amount: 3500
-Total Earnings: 0
-Profit/Loss: -3500
-
-Breakdown:
-  Bid: 1, Amount: 3500, Payout: 17500, Status: lost

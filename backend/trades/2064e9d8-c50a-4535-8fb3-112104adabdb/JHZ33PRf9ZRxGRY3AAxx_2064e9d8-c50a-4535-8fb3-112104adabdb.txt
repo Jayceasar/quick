@@ -1,9 +1,0 @@
-User ID: JHZ33PRf9ZRxGRY3AAxx
-User Name: robot
-Ticket ID: JHZ33PRf9ZRxGRY3AAxx_2064e9d8-c50a-4535-8fb3-112104adabdb
-Total Bid Amount: 3400
-Total Earnings: 0
-Profit/Loss: -3400
-
-Breakdown:
-  Bid: 2, Amount: 3400, Payout: 17000, Status: lost

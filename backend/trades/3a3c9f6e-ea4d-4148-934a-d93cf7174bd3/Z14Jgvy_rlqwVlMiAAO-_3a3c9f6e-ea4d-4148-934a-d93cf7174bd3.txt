@@ -1,9 +1,0 @@
-User ID: Z14Jgvy_rlqwVlMiAAO-
-User Name: robot
-Ticket ID: Z14Jgvy_rlqwVlMiAAO-_3a3c9f6e-ea4d-4148-934a-d93cf7174bd3
-Total Bid Amount: 4400
-Total Earnings: 22000
-Profit/Loss: 17600
-
-Breakdown:
-  Bid: 4, Amount: 4400, Payout: 22000, Status: won

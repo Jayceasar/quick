@@ -1,9 +1,0 @@
-User ID: DsCsgtmHr3s75wF2AAGo
-User Name: robot
-Ticket ID: DsCsgtmHr3s75wF2AAGo_3750ca25-a9f1-4278-85de-ccbff503fd45
-Total Bid Amount: 8000
-Total Earnings: 40000
-Profit/Loss: 32000
-
-Breakdown:
-  Bid: 6, Amount: 8000, Payout: 40000, Status: won

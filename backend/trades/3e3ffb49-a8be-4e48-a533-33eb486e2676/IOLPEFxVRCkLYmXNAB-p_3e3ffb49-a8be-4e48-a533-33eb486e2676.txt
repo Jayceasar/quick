@@ -1,9 +1,0 @@
-User ID: IOLPEFxVRCkLYmXNAB-p
-User Name: robot
-Ticket ID: IOLPEFxVRCkLYmXNAB-p_3e3ffb49-a8be-4e48-a533-33eb486e2676
-Total Bid Amount: 8800
-Total Earnings: 44000
-Profit/Loss: 35200
-
-Breakdown:
-  Bid: 1, Amount: 8800, Payout: 44000, Status: won

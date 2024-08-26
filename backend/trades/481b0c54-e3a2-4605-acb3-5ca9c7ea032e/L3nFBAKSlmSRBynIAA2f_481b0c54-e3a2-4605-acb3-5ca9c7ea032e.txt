@@ -1,9 +1,0 @@
-User ID: L3nFBAKSlmSRBynIAA2f
-User Name: robot
-Ticket ID: L3nFBAKSlmSRBynIAA2f_481b0c54-e3a2-4605-acb3-5ca9c7ea032e
-Total Bid Amount: 5300
-Total Earnings: 0
-Profit/Loss: -5300
-
-Breakdown:
-  Bid: 1, Amount: 5300, Payout: 26500, Status: lost

@@ -1,9 +1,0 @@
-User ID: PevqBP192VYlI7q2AAJV
-User Name: robot
-Ticket ID: PevqBP192VYlI7q2AAJV_ad3a8c72-299f-43d4-805f-4646b325aae0
-Total Bid Amount: 2200
-Total Earnings: 0
-Profit/Loss: -2200
-
-Breakdown:
-  Bid: 3, Amount: 2200, Payout: 11000, Status: lost

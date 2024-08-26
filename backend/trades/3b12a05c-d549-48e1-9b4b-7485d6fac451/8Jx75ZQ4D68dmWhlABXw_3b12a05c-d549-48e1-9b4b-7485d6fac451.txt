@@ -1,9 +1,0 @@
-User ID: 8Jx75ZQ4D68dmWhlABXw
-User Name: robot
-Ticket ID: 8Jx75ZQ4D68dmWhlABXw_3b12a05c-d549-48e1-9b4b-7485d6fac451
-Total Bid Amount: 1900
-Total Earnings: 9500
-Profit/Loss: 7600
-
-Breakdown:
-  Bid: 1, Amount: 1900, Payout: 9500, Status: won

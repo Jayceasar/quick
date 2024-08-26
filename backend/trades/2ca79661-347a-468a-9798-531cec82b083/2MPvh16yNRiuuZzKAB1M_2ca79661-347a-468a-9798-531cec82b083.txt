@@ -1,9 +1,0 @@
-User ID: 2MPvh16yNRiuuZzKAB1M
-User Name: robot
-Ticket ID: 2MPvh16yNRiuuZzKAB1M_2ca79661-347a-468a-9798-531cec82b083
-Total Bid Amount: 9300
-Total Earnings: 0
-Profit/Loss: -9300
-
-Breakdown:
-  Bid: 3, Amount: 9300, Payout: 46500, Status: lost

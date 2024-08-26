@@ -1,9 +1,0 @@
-User ID: 0l7lNs_T_vIGuFhcAAM3
-User Name: robot
-Ticket ID: 0l7lNs_T_vIGuFhcAAM3_c4750aca-f17c-4be6-87a9-33a224b7d999
-Total Bid Amount: 600
-Total Earnings: 0
-Profit/Loss: -600
-
-Breakdown:
-  Bid: 1, Amount: 600, Payout: 3000, Status: lost

@@ -1,9 +1,0 @@
-User ID: XTtEuRzb9dJBUWD4AAjR
-User Name: robot
-Ticket ID: XTtEuRzb9dJBUWD4AAjR_7f98a070-8bf4-4a36-ac88-f1a4a7102cc1
-Total Bid Amount: 2600
-Total Earnings: 0
-Profit/Loss: -2600
-
-Breakdown:
-  Bid: 6, Amount: 2600, Payout: 13000, Status: lost

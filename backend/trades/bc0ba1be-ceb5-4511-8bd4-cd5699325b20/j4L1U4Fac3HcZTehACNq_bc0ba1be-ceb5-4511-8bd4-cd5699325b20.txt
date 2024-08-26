@@ -1,9 +1,0 @@
-User ID: j4L1U4Fac3HcZTehACNq
-User Name: robot
-Ticket ID: j4L1U4Fac3HcZTehACNq_bc0ba1be-ceb5-4511-8bd4-cd5699325b20
-Total Bid Amount: 7000
-Total Earnings: 35000
-Profit/Loss: 28000
-
-Breakdown:
-  Bid: 1, Amount: 7000, Payout: 35000, Status: won

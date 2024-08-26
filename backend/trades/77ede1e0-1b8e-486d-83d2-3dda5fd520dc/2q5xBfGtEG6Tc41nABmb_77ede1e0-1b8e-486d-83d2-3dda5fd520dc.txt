@@ -1,9 +1,0 @@
-User ID: 2q5xBfGtEG6Tc41nABmb
-User Name: robot
-Ticket ID: 2q5xBfGtEG6Tc41nABmb_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
-Total Bid Amount: 9000
-Total Earnings: 0
-Profit/Loss: -9000
-
-Breakdown:
-  Bid: 1, Amount: 9000, Payout: 45000, Status: lost

@@ -1,9 +1,0 @@
-User ID: -e9m-zNbqTa4fCyRAAKM
-User Name: robot
-Ticket ID: -e9m-zNbqTa4fCyRAAKM_c4750aca-f17c-4be6-87a9-33a224b7d999
-Total Bid Amount: 300
-Total Earnings: 0
-Profit/Loss: -300
-
-Breakdown:
-  Bid: 1, Amount: 300, Payout: 1500, Status: lost

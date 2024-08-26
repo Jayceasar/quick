@@ -1,9 +1,0 @@
-User ID: Expb6J9Nx6onia3cABfv
-User Name: robot
-Ticket ID: Expb6J9Nx6onia3cABfv_b71afa21-42c7-4762-9e52-e830dc5025da
-Total Bid Amount: 6300
-Total Earnings: 0
-Profit/Loss: -6300
-
-Breakdown:
-  Bid: 6, Amount: 6300, Payout: 31500, Status: lost

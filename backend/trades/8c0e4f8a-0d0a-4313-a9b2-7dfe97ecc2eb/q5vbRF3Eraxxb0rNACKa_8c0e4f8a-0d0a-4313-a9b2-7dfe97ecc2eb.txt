@@ -1,9 +1,0 @@
-User ID: q5vbRF3Eraxxb0rNACKa
-User Name: robot
-Ticket ID: q5vbRF3Eraxxb0rNACKa_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
-Total Bid Amount: 4000
-Total Earnings: 0
-Profit/Loss: -4000
-
-Breakdown:
-  Bid: 3, Amount: 4000, Payout: 20000, Status: lost

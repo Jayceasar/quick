@@ -1,9 +1,0 @@
-User ID: m9jtb09LyQdPNQZ-ABTR
-User Name: robot
-Ticket ID: m9jtb09LyQdPNQZ-ABTR_8fa77666-9d7f-4032-9eb6-68ecb3f56761
-Total Bid Amount: 2900
-Total Earnings: 14500
-Profit/Loss: 11600
-
-Breakdown:
-  Bid: 5, Amount: 2900, Payout: 14500, Status: won

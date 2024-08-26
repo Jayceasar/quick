@@ -1,9 +1,0 @@
-User ID: c05cDkdsbX0nvAH4AAFC
-User Name: robot
-Ticket ID: c05cDkdsbX0nvAH4AAFC_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 1600
-Total Earnings: 0
-Profit/Loss: -1600
-
-Breakdown:
-  Bid: 4, Amount: 1600, Payout: 8000, Status: lost

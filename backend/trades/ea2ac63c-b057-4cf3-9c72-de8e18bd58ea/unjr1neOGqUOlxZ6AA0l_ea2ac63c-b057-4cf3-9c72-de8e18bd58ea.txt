@@ -1,9 +1,0 @@
-User ID: unjr1neOGqUOlxZ6AA0l
-User Name: robot
-Ticket ID: unjr1neOGqUOlxZ6AA0l_ea2ac63c-b057-4cf3-9c72-de8e18bd58ea
-Total Bid Amount: 6300
-Total Earnings: 0
-Profit/Loss: -6300
-
-Breakdown:
-  Bid: 1, Amount: 6300, Payout: 31500, Status: lost

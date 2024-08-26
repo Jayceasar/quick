@@ -1,9 +1,0 @@
-User ID: RXkFxK3YkcUp01RgABXK
-User Name: robot
-Ticket ID: RXkFxK3YkcUp01RgABXK_a8e43219-fb0d-4493-bd00-d9f0476aecaf
-Total Bid Amount: 6000
-Total Earnings: 0
-Profit/Loss: -6000
-
-Breakdown:
-  Bid: 4, Amount: 6000, Payout: 30000, Status: lost

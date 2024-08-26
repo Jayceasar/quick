@@ -1,9 +1,0 @@
-User ID: JEf1odExJR3wjNOSAAVu
-User Name: robot
-Ticket ID: JEf1odExJR3wjNOSAAVu_e049edef-4ddb-46f3-8994-0da9502a3ab7
-Total Bid Amount: 9200
-Total Earnings: 0
-Profit/Loss: -9200
-
-Breakdown:
-  Bid: 5, Amount: 9200, Payout: 46000, Status: lost

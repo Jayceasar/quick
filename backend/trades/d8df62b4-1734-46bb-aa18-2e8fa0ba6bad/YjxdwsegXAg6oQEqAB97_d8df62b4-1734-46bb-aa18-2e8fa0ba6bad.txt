@@ -1,9 +1,0 @@
-User ID: YjxdwsegXAg6oQEqAB97
-User Name: robot
-Ticket ID: YjxdwsegXAg6oQEqAB97_d8df62b4-1734-46bb-aa18-2e8fa0ba6bad
-Total Bid Amount: 7500
-Total Earnings: 0
-Profit/Loss: -7500
-
-Breakdown:
-  Bid: 3, Amount: 7500, Payout: 37500, Status: lost

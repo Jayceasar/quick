@@ -1,9 +1,0 @@
-User ID: n3Ojx1LwGVZlzzrOACPd
-User Name: robot
-Ticket ID: n3Ojx1LwGVZlzzrOACPd_00ffb90f-d6da-4fb8-81c8-2ccdc7e179df
-Total Bid Amount: 6600
-Total Earnings: 33000
-Profit/Loss: 26400
-
-Breakdown:
-  Bid: 6, Amount: 6600, Payout: 33000, Status: won

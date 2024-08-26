@@ -1,9 +1,0 @@
-User ID: uG-9yMgwKkOCY5O5ABP_
-User Name: robot
-Ticket ID: uG-9yMgwKkOCY5O5ABP__bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
-Total Bid Amount: 300
-Total Earnings: 0
-Profit/Loss: -300
-
-Breakdown:
-  Bid: 5, Amount: 300, Payout: 1500, Status: lost

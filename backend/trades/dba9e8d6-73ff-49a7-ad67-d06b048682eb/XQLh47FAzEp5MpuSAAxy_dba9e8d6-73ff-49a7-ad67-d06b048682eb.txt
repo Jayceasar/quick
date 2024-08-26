@@ -1,9 +1,0 @@
-User ID: XQLh47FAzEp5MpuSAAxy
-User Name: robot
-Ticket ID: XQLh47FAzEp5MpuSAAxy_dba9e8d6-73ff-49a7-ad67-d06b048682eb
-Total Bid Amount: 9400
-Total Earnings: 47000
-Profit/Loss: 37600
-
-Breakdown:
-  Bid: 6, Amount: 9400, Payout: 47000, Status: won

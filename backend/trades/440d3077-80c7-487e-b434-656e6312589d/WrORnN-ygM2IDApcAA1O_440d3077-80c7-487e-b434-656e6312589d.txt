@@ -1,9 +1,0 @@
-User ID: WrORnN-ygM2IDApcAA1O
-User Name: robot
-Ticket ID: WrORnN-ygM2IDApcAA1O_440d3077-80c7-487e-b434-656e6312589d
-Total Bid Amount: 7000
-Total Earnings: 0
-Profit/Loss: -7000
-
-Breakdown:
-  Bid: 5, Amount: 7000, Payout: 35000, Status: lost

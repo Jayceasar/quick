@@ -1,9 +1,0 @@
-User ID: gWCM5rHMdXgjUlwuAA8e
-User Name: robot
-Ticket ID: gWCM5rHMdXgjUlwuAA8e_73e52ea7-53a0-471d-a88d-2ad368de3cb4
-Total Bid Amount: 3000
-Total Earnings: 0
-Profit/Loss: -3000
-
-Breakdown:
-  Bid: 5, Amount: 3000, Payout: 15000, Status: lost

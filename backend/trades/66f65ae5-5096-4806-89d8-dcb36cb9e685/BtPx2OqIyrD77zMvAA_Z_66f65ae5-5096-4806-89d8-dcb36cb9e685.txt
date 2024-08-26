@@ -1,9 +1,0 @@
-User ID: BtPx2OqIyrD77zMvAA_Z
-User Name: robot
-Ticket ID: BtPx2OqIyrD77zMvAA_Z_66f65ae5-5096-4806-89d8-dcb36cb9e685
-Total Bid Amount: 1500
-Total Earnings: 7500
-Profit/Loss: 6000
-
-Breakdown:
-  Bid: 5, Amount: 1500, Payout: 7500, Status: won

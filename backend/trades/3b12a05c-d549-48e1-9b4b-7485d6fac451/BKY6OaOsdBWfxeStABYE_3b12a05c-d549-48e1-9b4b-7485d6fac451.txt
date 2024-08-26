@@ -1,9 +1,0 @@
-User ID: BKY6OaOsdBWfxeStABYE
-User Name: robot
-Ticket ID: BKY6OaOsdBWfxeStABYE_3b12a05c-d549-48e1-9b4b-7485d6fac451
-Total Bid Amount: 8900
-Total Earnings: 0
-Profit/Loss: -8900
-
-Breakdown:
-  Bid: 5, Amount: 8900, Payout: 44500, Status: lost

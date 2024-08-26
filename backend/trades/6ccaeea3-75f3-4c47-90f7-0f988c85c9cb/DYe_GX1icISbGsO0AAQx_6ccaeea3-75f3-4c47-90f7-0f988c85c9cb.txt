@@ -1,9 +1,0 @@
-User ID: DYe_GX1icISbGsO0AAQx
-User Name: robot
-Ticket ID: DYe_GX1icISbGsO0AAQx_6ccaeea3-75f3-4c47-90f7-0f988c85c9cb
-Total Bid Amount: 3500
-Total Earnings: 0
-Profit/Loss: -3500
-
-Breakdown:
-  Bid: 5, Amount: 3500, Payout: 17500, Status: lost

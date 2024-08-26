@@ -1,9 +1,0 @@
-User ID: A6N7bebR1Q4jR0QlABdI
-User Name: robot
-Ticket ID: A6N7bebR1Q4jR0QlABdI_6e56c651-525b-40b4-bdf6-b90e58163806
-Total Bid Amount: 9600
-Total Earnings: 0
-Profit/Loss: -9600
-
-Breakdown:
-  Bid: 5, Amount: 9600, Payout: 48000, Status: lost

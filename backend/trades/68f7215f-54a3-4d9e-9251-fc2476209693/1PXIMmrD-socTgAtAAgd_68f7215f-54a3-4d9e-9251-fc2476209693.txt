@@ -1,9 +1,0 @@
-User ID: 1PXIMmrD-socTgAtAAgd
-User Name: robot
-Ticket ID: 1PXIMmrD-socTgAtAAgd_68f7215f-54a3-4d9e-9251-fc2476209693
-Total Bid Amount: 8300
-Total Earnings: 0
-Profit/Loss: -8300
-
-Breakdown:
-  Bid: 4, Amount: 8300, Payout: 41500, Status: lost

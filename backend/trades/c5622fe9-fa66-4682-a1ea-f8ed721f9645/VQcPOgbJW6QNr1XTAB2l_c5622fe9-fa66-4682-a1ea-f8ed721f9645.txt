@@ -1,9 +1,0 @@
-User ID: VQcPOgbJW6QNr1XTAB2l
-User Name: robot
-Ticket ID: VQcPOgbJW6QNr1XTAB2l_c5622fe9-fa66-4682-a1ea-f8ed721f9645
-Total Bid Amount: 1300
-Total Earnings: 0
-Profit/Loss: -1300
-
-Breakdown:
-  Bid: 2, Amount: 1300, Payout: 6500, Status: lost

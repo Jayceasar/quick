@@ -1,9 +1,0 @@
-User ID: Sonzgj3kPqJuFO_6AAtf
-User Name: robot
-Ticket ID: Sonzgj3kPqJuFO_6AAtf_db0ef95d-e018-483f-b64a-b1c385856283
-Total Bid Amount: 3000
-Total Earnings: 0
-Profit/Loss: -3000
-
-Breakdown:
-  Bid: 2, Amount: 3000, Payout: 15000, Status: lost

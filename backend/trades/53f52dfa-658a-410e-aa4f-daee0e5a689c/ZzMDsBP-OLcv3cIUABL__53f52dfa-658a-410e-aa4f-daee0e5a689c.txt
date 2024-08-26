@@ -1,9 +1,0 @@
-User ID: ZzMDsBP-OLcv3cIUABL_
-User Name: robot
-Ticket ID: ZzMDsBP-OLcv3cIUABL__53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 9700
-Total Earnings: 0
-Profit/Loss: -9700
-
-Breakdown:
-  Bid: 1, Amount: 9700, Payout: 48500, Status: lost

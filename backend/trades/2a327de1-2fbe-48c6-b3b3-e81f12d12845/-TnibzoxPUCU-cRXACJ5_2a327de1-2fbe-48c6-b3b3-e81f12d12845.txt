@@ -1,9 +1,0 @@
-User ID: -TnibzoxPUCU-cRXACJ5
-User Name: robot
-Ticket ID: -TnibzoxPUCU-cRXACJ5_2a327de1-2fbe-48c6-b3b3-e81f12d12845
-Total Bid Amount: 600
-Total Earnings: 0
-Profit/Loss: -600
-
-Breakdown:
-  Bid: 2, Amount: 600, Payout: 3000, Status: lost

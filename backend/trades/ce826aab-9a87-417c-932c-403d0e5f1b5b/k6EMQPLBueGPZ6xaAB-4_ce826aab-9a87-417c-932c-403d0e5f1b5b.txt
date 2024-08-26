@@ -1,9 +1,0 @@
-User ID: k6EMQPLBueGPZ6xaAB-4
-User Name: robot
-Ticket ID: k6EMQPLBueGPZ6xaAB-4_ce826aab-9a87-417c-932c-403d0e5f1b5b
-Total Bid Amount: 5800
-Total Earnings: 29000
-Profit/Loss: 23200
-
-Breakdown:
-  Bid: 5, Amount: 5800, Payout: 29000, Status: won

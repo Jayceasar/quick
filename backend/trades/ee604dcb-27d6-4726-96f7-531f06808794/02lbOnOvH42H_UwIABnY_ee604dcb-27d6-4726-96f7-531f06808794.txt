@@ -1,9 +1,0 @@
-User ID: 02lbOnOvH42H_UwIABnY
-User Name: robot
-Ticket ID: 02lbOnOvH42H_UwIABnY_ee604dcb-27d6-4726-96f7-531f06808794
-Total Bid Amount: 1200
-Total Earnings: 0
-Profit/Loss: -1200
-
-Breakdown:
-  Bid: 6, Amount: 1200, Payout: 6000, Status: lost

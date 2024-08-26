@@ -1,9 +1,0 @@
-User ID: c7FYH0dhb-Se4f5eAAHd
-User Name: robot
-Ticket ID: c7FYH0dhb-Se4f5eAAHd_62b03c19-c2ac-4766-913d-1d50e3d473a4
-Total Bid Amount: 3100
-Total Earnings: 15500
-Profit/Loss: 12400
-
-Breakdown:
-  Bid: 2, Amount: 3100, Payout: 15500, Status: won

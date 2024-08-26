@@ -1,9 +1,0 @@
-User ID: 5ByjysETtswVPWPDAAGf
-User Name: robot
-Ticket ID: 5ByjysETtswVPWPDAAGf_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 700
-Total Earnings: 3500
-Profit/Loss: 2800
-
-Breakdown:
-  Bid: 5, Amount: 700, Payout: 3500, Status: won

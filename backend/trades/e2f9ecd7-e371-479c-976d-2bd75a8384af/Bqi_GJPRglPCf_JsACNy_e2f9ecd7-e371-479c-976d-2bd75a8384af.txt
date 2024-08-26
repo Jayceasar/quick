@@ -1,9 +1,0 @@
-User ID: Bqi_GJPRglPCf_JsACNy
-User Name: robot
-Ticket ID: Bqi_GJPRglPCf_JsACNy_e2f9ecd7-e371-479c-976d-2bd75a8384af
-Total Bid Amount: 3800
-Total Earnings: 0
-Profit/Loss: -3800
-
-Breakdown:
-  Bid: 2, Amount: 3800, Payout: 19000, Status: lost

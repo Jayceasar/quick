@@ -1,9 +1,0 @@
-User ID: FhzEq30J5YI--pRhABnm
-User Name: robot
-Ticket ID: FhzEq30J5YI--pRhABnm_ee604dcb-27d6-4726-96f7-531f06808794
-Total Bid Amount: 2200
-Total Earnings: 0
-Profit/Loss: -2200
-
-Breakdown:
-  Bid: 3, Amount: 2200, Payout: 11000, Status: lost

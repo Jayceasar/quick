@@ -1,9 +1,0 @@
-User ID: 3d4kjnlCdHJpXK-HABMI
-User Name: robot
-Ticket ID: 3d4kjnlCdHJpXK-HABMI_a9db52cd-6733-4195-be60-3550b912c428
-Total Bid Amount: 200
-Total Earnings: 0
-Profit/Loss: -200
-
-Breakdown:
-  Bid: 2, Amount: 200, Payout: 1000, Status: lost

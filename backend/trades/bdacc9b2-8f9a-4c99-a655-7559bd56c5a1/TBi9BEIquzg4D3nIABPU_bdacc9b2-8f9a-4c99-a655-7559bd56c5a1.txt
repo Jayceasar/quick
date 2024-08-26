@@ -1,9 +1,0 @@
-User ID: TBi9BEIquzg4D3nIABPU
-User Name: robot
-Ticket ID: TBi9BEIquzg4D3nIABPU_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
-Total Bid Amount: 3700
-Total Earnings: 18500
-Profit/Loss: 14800
-
-Breakdown:
-  Bid: 3, Amount: 3700, Payout: 18500, Status: won

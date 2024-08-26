@@ -1,9 +1,0 @@
-User ID: szamtDIzLBKhml9sAAMz
-User Name: robot
-Ticket ID: szamtDIzLBKhml9sAAMz_3a3c9f6e-ea4d-4148-934a-d93cf7174bd3
-Total Bid Amount: 8000
-Total Earnings: 0
-Profit/Loss: -8000
-
-Breakdown:
-  Bid: 2, Amount: 8000, Payout: 40000, Status: lost

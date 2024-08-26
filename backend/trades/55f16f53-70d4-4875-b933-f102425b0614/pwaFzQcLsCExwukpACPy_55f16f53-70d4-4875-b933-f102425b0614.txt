@@ -1,9 +1,0 @@
-User ID: pwaFzQcLsCExwukpACPy
-User Name: robot
-Ticket ID: pwaFzQcLsCExwukpACPy_55f16f53-70d4-4875-b933-f102425b0614
-Total Bid Amount: 8600
-Total Earnings: 0
-Profit/Loss: -8600
-
-Breakdown:
-  Bid: 5, Amount: 8600, Payout: 43000, Status: lost

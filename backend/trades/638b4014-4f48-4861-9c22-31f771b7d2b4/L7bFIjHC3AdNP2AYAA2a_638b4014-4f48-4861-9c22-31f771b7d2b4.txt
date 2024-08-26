@@ -1,9 +1,0 @@
-User ID: L7bFIjHC3AdNP2AYAA2a
-User Name: robot
-Ticket ID: L7bFIjHC3AdNP2AYAA2a_638b4014-4f48-4861-9c22-31f771b7d2b4
-Total Bid Amount: 1700
-Total Earnings: 8500
-Profit/Loss: 6800
-
-Breakdown:
-  Bid: 5, Amount: 1700, Payout: 8500, Status: won

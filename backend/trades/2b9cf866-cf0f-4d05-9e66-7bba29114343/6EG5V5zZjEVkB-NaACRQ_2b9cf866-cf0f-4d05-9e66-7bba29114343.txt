@@ -1,9 +1,0 @@
-User ID: 6EG5V5zZjEVkB-NaACRQ
-User Name: robot
-Ticket ID: 6EG5V5zZjEVkB-NaACRQ_2b9cf866-cf0f-4d05-9e66-7bba29114343
-Total Bid Amount: 8500
-Total Earnings: 0
-Profit/Loss: -8500
-
-Breakdown:
-  Bid: 6, Amount: 8500, Payout: 42500, Status: lost

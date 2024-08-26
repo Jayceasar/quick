@@ -1,9 +1,0 @@
-User ID: jITy9_y9LTCrhFU-AAM_
-User Name: robot
-Ticket ID: jITy9_y9LTCrhFU-AAM__d5e53174-b5b5-4e62-9329-20f3aba07f71
-Total Bid Amount: 1200
-Total Earnings: 0
-Profit/Loss: -1200
-
-Breakdown:
-  Bid: 6, Amount: 1200, Payout: 6000, Status: lost

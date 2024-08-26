@@ -1,9 +1,0 @@
-User ID: XwUdzFc43Awcn6ipAA_S
-User Name: robot
-Ticket ID: XwUdzFc43Awcn6ipAA_S_73e52ea7-53a0-471d-a88d-2ad368de3cb4
-Total Bid Amount: 3200
-Total Earnings: 0
-Profit/Loss: -3200
-
-Breakdown:
-  Bid: 6, Amount: 3200, Payout: 16000, Status: lost

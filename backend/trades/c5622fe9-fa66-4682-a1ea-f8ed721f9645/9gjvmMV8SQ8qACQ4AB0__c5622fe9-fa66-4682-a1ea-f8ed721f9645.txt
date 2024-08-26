@@ -1,9 +1,0 @@
-User ID: 9gjvmMV8SQ8qACQ4AB0_
-User Name: robot
-Ticket ID: 9gjvmMV8SQ8qACQ4AB0__c5622fe9-fa66-4682-a1ea-f8ed721f9645
-Total Bid Amount: 300
-Total Earnings: 0
-Profit/Loss: -300
-
-Breakdown:
-  Bid: 1, Amount: 300, Payout: 1500, Status: lost

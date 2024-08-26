@@ -1,9 +1,0 @@
-User ID: anG78bMWXhxRdfkcACRw
-User Name: robot
-Ticket ID: anG78bMWXhxRdfkcACRw_4508540c-24b1-4b4f-8d4c-f0d990720795
-Total Bid Amount: 1900
-Total Earnings: 9500
-Profit/Loss: 7600
-
-Breakdown:
-  Bid: 6, Amount: 1900, Payout: 9500, Status: won

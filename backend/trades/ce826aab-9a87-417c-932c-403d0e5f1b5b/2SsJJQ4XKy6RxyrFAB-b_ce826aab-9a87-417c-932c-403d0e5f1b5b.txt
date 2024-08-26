@@ -1,9 +1,0 @@
-User ID: 2SsJJQ4XKy6RxyrFAB-b
-User Name: robot
-Ticket ID: 2SsJJQ4XKy6RxyrFAB-b_ce826aab-9a87-417c-932c-403d0e5f1b5b
-Total Bid Amount: 3200
-Total Earnings: 0
-Profit/Loss: -3200
-
-Breakdown:
-  Bid: 1, Amount: 3200, Payout: 16000, Status: lost

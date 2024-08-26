@@ -1,9 +1,0 @@
-User ID: Bbw47gBA3Zepu39eAA9e
-User Name: robot
-Ticket ID: Bbw47gBA3Zepu39eAA9e_73e52ea7-53a0-471d-a88d-2ad368de3cb4
-Total Bid Amount: 7300
-Total Earnings: 0
-Profit/Loss: -7300
-
-Breakdown:
-  Bid: 6, Amount: 7300, Payout: 36500, Status: lost

@@ -1,9 +1,0 @@
-User ID: zuqDyZwTa4GGpX39AAMy
-User Name: robot
-Ticket ID: zuqDyZwTa4GGpX39AAMy_37c5d6ff-88c8-4fb6-a9db-bee3fcec589b
-Total Bid Amount: 8700
-Total Earnings: 0
-Profit/Loss: -8700
-
-Breakdown:
-  Bid: 6, Amount: 8700, Payout: 43500, Status: lost

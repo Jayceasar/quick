@@ -1,9 +1,0 @@
-User ID: 1WzJp4QiAkbmZWDsAB2w
-User Name: robot
-Ticket ID: 1WzJp4QiAkbmZWDsAB2w_44666ccb-6626-428d-95d3-f7a7a00e87a7
-Total Bid Amount: 2100
-Total Earnings: 0
-Profit/Loss: -2100
-
-Breakdown:
-  Bid: 1, Amount: 2100, Payout: 10500, Status: lost

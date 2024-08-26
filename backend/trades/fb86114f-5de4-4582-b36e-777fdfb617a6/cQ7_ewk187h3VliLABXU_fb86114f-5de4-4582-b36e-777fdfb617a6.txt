@@ -1,9 +1,0 @@
-User ID: cQ7_ewk187h3VliLABXU
-User Name: robot
-Ticket ID: cQ7_ewk187h3VliLABXU_fb86114f-5de4-4582-b36e-777fdfb617a6
-Total Bid Amount: 6600
-Total Earnings: 33000
-Profit/Loss: 26400
-
-Breakdown:
-  Bid: 5, Amount: 6600, Payout: 33000, Status: won

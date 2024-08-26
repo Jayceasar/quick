@@ -1,9 +1,0 @@
-User ID: Ad6vXnktKp9Yue5jABYP
-User Name: robot
-Ticket ID: Ad6vXnktKp9Yue5jABYP_8fa77666-9d7f-4032-9eb6-68ecb3f56761
-Total Bid Amount: 5800
-Total Earnings: 0
-Profit/Loss: -5800
-
-Breakdown:
-  Bid: 1, Amount: 5800, Payout: 29000, Status: lost

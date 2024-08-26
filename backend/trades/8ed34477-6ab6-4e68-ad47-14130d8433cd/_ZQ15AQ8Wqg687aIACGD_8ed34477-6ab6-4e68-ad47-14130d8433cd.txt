@@ -1,9 +1,0 @@
-User ID: _ZQ15AQ8Wqg687aIACGD
-User Name: robot
-Ticket ID: _ZQ15AQ8Wqg687aIACGD_8ed34477-6ab6-4e68-ad47-14130d8433cd
-Total Bid Amount: 3600
-Total Earnings: 0
-Profit/Loss: -3600
-
-Breakdown:
-  Bid: 1, Amount: 3600, Payout: 18000, Status: lost

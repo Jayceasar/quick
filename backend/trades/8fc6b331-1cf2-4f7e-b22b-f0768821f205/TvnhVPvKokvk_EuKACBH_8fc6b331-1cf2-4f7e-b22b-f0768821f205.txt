@@ -1,9 +1,0 @@
-User ID: TvnhVPvKokvk_EuKACBH
-User Name: robot
-Ticket ID: TvnhVPvKokvk_EuKACBH_8fc6b331-1cf2-4f7e-b22b-f0768821f205
-Total Bid Amount: 4900
-Total Earnings: 0
-Profit/Loss: -4900
-
-Breakdown:
-  Bid: 5, Amount: 4900, Payout: 24500, Status: lost

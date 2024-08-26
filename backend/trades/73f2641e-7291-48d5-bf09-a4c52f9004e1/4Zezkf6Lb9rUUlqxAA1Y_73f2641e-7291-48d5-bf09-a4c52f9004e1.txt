@@ -1,9 +1,0 @@
-User ID: 4Zezkf6Lb9rUUlqxAA1Y
-User Name: robot
-Ticket ID: 4Zezkf6Lb9rUUlqxAA1Y_73f2641e-7291-48d5-bf09-a4c52f9004e1
-Total Bid Amount: 100
-Total Earnings: 0
-Profit/Loss: -100
-
-Breakdown:
-  Bid: 1, Amount: 100, Payout: 500, Status: lost

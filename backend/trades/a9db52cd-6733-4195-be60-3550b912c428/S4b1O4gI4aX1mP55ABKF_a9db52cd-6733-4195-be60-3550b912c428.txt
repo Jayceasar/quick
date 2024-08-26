@@ -1,9 +1,0 @@
-User ID: S4b1O4gI4aX1mP55ABKF
-User Name: robot
-Ticket ID: S4b1O4gI4aX1mP55ABKF_a9db52cd-6733-4195-be60-3550b912c428
-Total Bid Amount: 8500
-Total Earnings: 0
-Profit/Loss: -8500
-
-Breakdown:
-  Bid: 5, Amount: 8500, Payout: 42500, Status: lost

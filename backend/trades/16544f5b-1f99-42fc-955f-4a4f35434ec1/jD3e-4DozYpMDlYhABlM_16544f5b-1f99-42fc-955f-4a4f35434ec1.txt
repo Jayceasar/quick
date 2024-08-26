@@ -1,9 +1,0 @@
-User ID: jD3e-4DozYpMDlYhABlM
-User Name: robot
-Ticket ID: jD3e-4DozYpMDlYhABlM_16544f5b-1f99-42fc-955f-4a4f35434ec1
-Total Bid Amount: 6400
-Total Earnings: 0
-Profit/Loss: -6400
-
-Breakdown:
-  Bid: 4, Amount: 6400, Payout: 32000, Status: lost

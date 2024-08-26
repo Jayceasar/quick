@@ -1,9 +1,0 @@
-User ID: toBOLHwqUaNWTQlBAAMO
-User Name: robot
-Ticket ID: toBOLHwqUaNWTQlBAAMO_a01be9c0-eacd-4aa8-8dee-e617f87a184e
-Total Bid Amount: 3300
-Total Earnings: 0
-Profit/Loss: -3300
-
-Breakdown:
-  Bid: 4, Amount: 3300, Payout: 16500, Status: lost

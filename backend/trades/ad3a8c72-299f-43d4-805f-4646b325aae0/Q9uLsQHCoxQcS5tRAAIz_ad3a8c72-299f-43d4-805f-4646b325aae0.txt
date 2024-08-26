@@ -1,9 +1,0 @@
-User ID: Q9uLsQHCoxQcS5tRAAIz
-User Name: robot
-Ticket ID: Q9uLsQHCoxQcS5tRAAIz_ad3a8c72-299f-43d4-805f-4646b325aae0
-Total Bid Amount: 1100
-Total Earnings: 5500
-Profit/Loss: 4400
-
-Breakdown:
-  Bid: 1, Amount: 1100, Payout: 5500, Status: won

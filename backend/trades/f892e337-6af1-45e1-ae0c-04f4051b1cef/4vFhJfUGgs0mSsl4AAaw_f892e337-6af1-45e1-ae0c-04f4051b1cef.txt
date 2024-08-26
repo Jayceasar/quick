@@ -1,9 +1,0 @@
-User ID: 4vFhJfUGgs0mSsl4AAaw
-User Name: robot
-Ticket ID: 4vFhJfUGgs0mSsl4AAaw_f892e337-6af1-45e1-ae0c-04f4051b1cef
-Total Bid Amount: 6600
-Total Earnings: 33000
-Profit/Loss: 26400
-
-Breakdown:
-  Bid: 4, Amount: 6600, Payout: 33000, Status: won

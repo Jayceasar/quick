@@ -1,9 +1,0 @@
-User ID: gIokQCAEPbZmWBGcACOP
-User Name: robot
-Ticket ID: gIokQCAEPbZmWBGcACOP_353d9a8d-b467-459c-a021-41a8695a27a3
-Total Bid Amount: 4500
-Total Earnings: 0
-Profit/Loss: -4500
-
-Breakdown:
-  Bid: 4, Amount: 4500, Payout: 22500, Status: lost

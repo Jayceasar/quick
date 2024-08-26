@@ -1,9 +1,0 @@
-User ID: bVzdgJZS8dykVl_3ABKt
-User Name: robot
-Ticket ID: bVzdgJZS8dykVl_3ABKt_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 6300
-Total Earnings: 31500
-Profit/Loss: 25200
-
-Breakdown:
-  Bid: 6, Amount: 6300, Payout: 31500, Status: won

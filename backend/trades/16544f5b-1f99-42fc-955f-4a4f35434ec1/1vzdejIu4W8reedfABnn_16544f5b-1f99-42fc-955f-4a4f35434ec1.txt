@@ -1,9 +1,0 @@
-User ID: 1vzdejIu4W8reedfABnn
-User Name: robot
-Ticket ID: 1vzdejIu4W8reedfABnn_16544f5b-1f99-42fc-955f-4a4f35434ec1
-Total Bid Amount: 4500
-Total Earnings: 22500
-Profit/Loss: 18000
-
-Breakdown:
-  Bid: 1, Amount: 4500, Payout: 22500, Status: won

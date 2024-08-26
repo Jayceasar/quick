@@ -1,9 +1,0 @@
-User ID: XRDptkSrXuf4MQlMACRE
-User Name: robot
-Ticket ID: XRDptkSrXuf4MQlMACRE_014a9a18-0da8-4b91-9847-0c9b334bc6ed
-Total Bid Amount: 500
-Total Earnings: 2500
-Profit/Loss: 2000
-
-Breakdown:
-  Bid: 4, Amount: 500, Payout: 2500, Status: won

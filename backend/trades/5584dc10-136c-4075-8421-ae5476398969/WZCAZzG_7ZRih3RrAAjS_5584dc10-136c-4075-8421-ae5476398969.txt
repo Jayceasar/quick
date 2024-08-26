@@ -1,9 +1,0 @@
-User ID: WZCAZzG_7ZRih3RrAAjS
-User Name: robot
-Ticket ID: WZCAZzG_7ZRih3RrAAjS_5584dc10-136c-4075-8421-ae5476398969
-Total Bid Amount: 8800
-Total Earnings: 0
-Profit/Loss: -8800
-
-Breakdown:
-  Bid: 1, Amount: 8800, Payout: 44000, Status: lost

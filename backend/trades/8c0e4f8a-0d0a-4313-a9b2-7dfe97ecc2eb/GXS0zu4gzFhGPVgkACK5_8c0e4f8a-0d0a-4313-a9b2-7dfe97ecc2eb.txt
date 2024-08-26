@@ -1,9 +1,0 @@
-User ID: GXS0zu4gzFhGPVgkACK5
-User Name: robot
-Ticket ID: GXS0zu4gzFhGPVgkACK5_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
-Total Bid Amount: 1900
-Total Earnings: 9500
-Profit/Loss: 7600
-
-Breakdown:
-  Bid: 5, Amount: 1900, Payout: 9500, Status: won

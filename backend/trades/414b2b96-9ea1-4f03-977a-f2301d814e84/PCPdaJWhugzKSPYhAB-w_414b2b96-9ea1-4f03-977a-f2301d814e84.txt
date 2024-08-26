@@ -1,9 +1,0 @@
-User ID: PCPdaJWhugzKSPYhAB-w
-User Name: robot
-Ticket ID: PCPdaJWhugzKSPYhAB-w_414b2b96-9ea1-4f03-977a-f2301d814e84
-Total Bid Amount: 2900
-Total Earnings: 14500
-Profit/Loss: 11600
-
-Breakdown:
-  Bid: 4, Amount: 2900, Payout: 14500, Status: won

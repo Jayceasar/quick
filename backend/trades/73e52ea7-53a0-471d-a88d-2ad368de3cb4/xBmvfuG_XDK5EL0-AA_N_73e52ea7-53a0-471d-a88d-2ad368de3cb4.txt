@@ -1,9 +1,0 @@
-User ID: xBmvfuG_XDK5EL0-AA_N
-User Name: robot
-Ticket ID: xBmvfuG_XDK5EL0-AA_N_73e52ea7-53a0-471d-a88d-2ad368de3cb4
-Total Bid Amount: 900
-Total Earnings: 0
-Profit/Loss: -900
-
-Breakdown:
-  Bid: 3, Amount: 900, Payout: 4500, Status: lost

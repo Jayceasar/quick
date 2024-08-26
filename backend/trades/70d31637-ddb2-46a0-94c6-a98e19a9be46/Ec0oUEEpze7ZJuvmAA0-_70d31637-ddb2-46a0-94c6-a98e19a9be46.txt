@@ -1,9 +1,0 @@
-User ID: Ec0oUEEpze7ZJuvmAA0-
-User Name: robot
-Ticket ID: Ec0oUEEpze7ZJuvmAA0-_70d31637-ddb2-46a0-94c6-a98e19a9be46
-Total Bid Amount: 7200
-Total Earnings: 36000
-Profit/Loss: 28800
-
-Breakdown:
-  Bid: 4, Amount: 7200, Payout: 36000, Status: won

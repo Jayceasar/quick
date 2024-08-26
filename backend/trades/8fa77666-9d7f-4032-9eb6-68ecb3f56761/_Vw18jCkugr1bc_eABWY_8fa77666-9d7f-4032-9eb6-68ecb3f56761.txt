@@ -1,9 +1,0 @@
-User ID: _Vw18jCkugr1bc_eABWY
-User Name: robot
-Ticket ID: _Vw18jCkugr1bc_eABWY_8fa77666-9d7f-4032-9eb6-68ecb3f56761
-Total Bid Amount: 9000
-Total Earnings: 0
-Profit/Loss: -9000
-
-Breakdown:
-  Bid: 3, Amount: 9000, Payout: 45000, Status: lost

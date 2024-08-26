@@ -1,9 +1,0 @@
-User ID: UEhXA2DDGYmyqF7JABmM
-User Name: robot
-Ticket ID: UEhXA2DDGYmyqF7JABmM_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
-Total Bid Amount: 9400
-Total Earnings: 47000
-Profit/Loss: 37600
-
-Breakdown:
-  Bid: 3, Amount: 9400, Payout: 47000, Status: won

@@ -1,9 +1,0 @@
-User ID: yk7J61PZhAE9Wz8_AB_F
-User Name: robot
-Ticket ID: yk7J61PZhAE9Wz8_AB_F_bd93e6f3-05a0-43c5-82c4-72f7106ab6be
-Total Bid Amount: 1800
-Total Earnings: 9000
-Profit/Loss: 7200
-
-Breakdown:
-  Bid: 3, Amount: 1800, Payout: 9000, Status: won

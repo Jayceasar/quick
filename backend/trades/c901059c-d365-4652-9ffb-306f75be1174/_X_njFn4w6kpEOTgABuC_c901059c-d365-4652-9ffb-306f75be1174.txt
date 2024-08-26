@@ -1,9 +1,0 @@
-User ID: _X_njFn4w6kpEOTgABuC
-User Name: robot
-Ticket ID: _X_njFn4w6kpEOTgABuC_c901059c-d365-4652-9ffb-306f75be1174
-Total Bid Amount: 6100
-Total Earnings: 0
-Profit/Loss: -6100
-
-Breakdown:
-  Bid: 6, Amount: 6100, Payout: 30500, Status: lost

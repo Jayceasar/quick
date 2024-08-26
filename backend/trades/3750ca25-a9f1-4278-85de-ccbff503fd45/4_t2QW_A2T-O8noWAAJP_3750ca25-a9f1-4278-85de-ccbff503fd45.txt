@@ -1,9 +1,0 @@
-User ID: 4_t2QW_A2T-O8noWAAJP
-User Name: robot
-Ticket ID: 4_t2QW_A2T-O8noWAAJP_3750ca25-a9f1-4278-85de-ccbff503fd45
-Total Bid Amount: 1400
-Total Earnings: 0
-Profit/Loss: -1400
-
-Breakdown:
-  Bid: 1, Amount: 1400, Payout: 7000, Status: lost

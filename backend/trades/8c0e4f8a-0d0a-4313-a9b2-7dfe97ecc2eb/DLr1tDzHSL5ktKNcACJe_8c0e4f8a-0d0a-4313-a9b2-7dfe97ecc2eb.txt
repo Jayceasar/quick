@@ -1,9 +1,0 @@
-User ID: DLr1tDzHSL5ktKNcACJe
-User Name: robot
-Ticket ID: DLr1tDzHSL5ktKNcACJe_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
-Total Bid Amount: 8900
-Total Earnings: 44500
-Profit/Loss: 35600
-
-Breakdown:
-  Bid: 5, Amount: 8900, Payout: 44500, Status: won

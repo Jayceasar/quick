@@ -1,9 +1,0 @@
-User ID: hqRY5xiQ16KZnc7SABY0
-User Name: robot
-Ticket ID: hqRY5xiQ16KZnc7SABY0_8fa77666-9d7f-4032-9eb6-68ecb3f56761
-Total Bid Amount: 2800
-Total Earnings: 14000
-Profit/Loss: 11200
-
-Breakdown:
-  Bid: 5, Amount: 2800, Payout: 14000, Status: won

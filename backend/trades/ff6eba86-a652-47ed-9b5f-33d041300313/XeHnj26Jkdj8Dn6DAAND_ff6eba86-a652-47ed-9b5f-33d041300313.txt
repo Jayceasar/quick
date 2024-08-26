@@ -1,9 +1,0 @@
-User ID: XeHnj26Jkdj8Dn6DAAND
-User Name: robot
-Ticket ID: XeHnj26Jkdj8Dn6DAAND_ff6eba86-a652-47ed-9b5f-33d041300313
-Total Bid Amount: 9600
-Total Earnings: 0
-Profit/Loss: -9600
-
-Breakdown:
-  Bid: 1, Amount: 9600, Payout: 48000, Status: lost

@@ -1,9 +1,0 @@
-User ID: OSOb2YAAtr-rcb1wAAgZ
-User Name: robot
-Ticket ID: OSOb2YAAtr-rcb1wAAgZ_9e12c48f-b9a9-484b-ab41-5d351c1d1206
-Total Bid Amount: 9100
-Total Earnings: 0
-Profit/Loss: -9100
-
-Breakdown:
-  Bid: 4, Amount: 9100, Payout: 45500, Status: lost

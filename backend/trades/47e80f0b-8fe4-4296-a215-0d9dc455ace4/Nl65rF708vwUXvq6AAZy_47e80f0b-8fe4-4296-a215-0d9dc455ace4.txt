@@ -1,9 +1,0 @@
-User ID: Nl65rF708vwUXvq6AAZy
-User Name: robot
-Ticket ID: Nl65rF708vwUXvq6AAZy_47e80f0b-8fe4-4296-a215-0d9dc455ace4
-Total Bid Amount: 2100
-Total Earnings: 0
-Profit/Loss: -2100
-
-Breakdown:
-  Bid: 3, Amount: 2100, Payout: 10500, Status: lost

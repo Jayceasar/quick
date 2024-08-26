@@ -1,9 +1,0 @@
-User ID: PWVLOf36XNEstndaACGg
-User Name: robot
-Ticket ID: PWVLOf36XNEstndaACGg_56ee4408-3127-4e3c-9837-5f675e19ec5b
-Total Bid Amount: 200
-Total Earnings: 0
-Profit/Loss: -200
-
-Breakdown:
-  Bid: 1, Amount: 200, Payout: 1000, Status: lost

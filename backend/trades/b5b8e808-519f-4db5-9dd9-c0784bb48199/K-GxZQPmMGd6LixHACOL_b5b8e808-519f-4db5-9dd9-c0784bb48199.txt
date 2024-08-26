@@ -1,9 +1,0 @@
-User ID: K-GxZQPmMGd6LixHACOL
-User Name: robot
-Ticket ID: K-GxZQPmMGd6LixHACOL_b5b8e808-519f-4db5-9dd9-c0784bb48199
-Total Bid Amount: 6200
-Total Earnings: 0
-Profit/Loss: -6200
-
-Breakdown:
-  Bid: 3, Amount: 6200, Payout: 31000, Status: lost

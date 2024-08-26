@@ -1,9 +1,0 @@
-User ID: wfPe14MOcJyo9eHoAAQO
-User Name: robot
-Ticket ID: wfPe14MOcJyo9eHoAAQO_c6d2a968-5db3-4fc2-8347-8bed79a745a1
-Total Bid Amount: 1900
-Total Earnings: 9500
-Profit/Loss: 7600
-
-Breakdown:
-  Bid: 2, Amount: 1900, Payout: 9500, Status: won

@@ -1,9 +1,0 @@
-User ID: 7pWG2paLElg2cIDfABJ5
-User Name: robot
-Ticket ID: 7pWG2paLElg2cIDfABJ5_692b2a95-b090-4fc1-ad37-195b1ac2aba1
-Total Bid Amount: 9100
-Total Earnings: 0
-Profit/Loss: -9100
-
-Breakdown:
-  Bid: 4, Amount: 9100, Payout: 45500, Status: lost

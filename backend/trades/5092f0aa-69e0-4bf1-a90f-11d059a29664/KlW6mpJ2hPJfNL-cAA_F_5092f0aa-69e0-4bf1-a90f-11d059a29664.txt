@@ -1,9 +1,0 @@
-User ID: KlW6mpJ2hPJfNL-cAA_F
-User Name: robot
-Ticket ID: KlW6mpJ2hPJfNL-cAA_F_5092f0aa-69e0-4bf1-a90f-11d059a29664
-Total Bid Amount: 1900
-Total Earnings: 0
-Profit/Loss: -1900
-
-Breakdown:
-  Bid: 6, Amount: 1900, Payout: 9500, Status: lost

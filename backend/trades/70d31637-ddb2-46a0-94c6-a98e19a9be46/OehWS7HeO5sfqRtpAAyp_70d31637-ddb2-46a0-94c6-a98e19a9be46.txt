@@ -1,9 +1,0 @@
-User ID: OehWS7HeO5sfqRtpAAyp
-User Name: robot
-Ticket ID: OehWS7HeO5sfqRtpAAyp_70d31637-ddb2-46a0-94c6-a98e19a9be46
-Total Bid Amount: 6900
-Total Earnings: 34500
-Profit/Loss: 27600
-
-Breakdown:
-  Bid: 4, Amount: 6900, Payout: 34500, Status: won

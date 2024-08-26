@@ -1,9 +1,0 @@
-User ID: tT6oEAjGj8GbPaMTABus
-User Name: robot
-Ticket ID: tT6oEAjGj8GbPaMTABus_c901059c-d365-4652-9ffb-306f75be1174
-Total Bid Amount: 700
-Total Earnings: 0
-Profit/Loss: -700
-
-Breakdown:
-  Bid: 4, Amount: 700, Payout: 3500, Status: lost

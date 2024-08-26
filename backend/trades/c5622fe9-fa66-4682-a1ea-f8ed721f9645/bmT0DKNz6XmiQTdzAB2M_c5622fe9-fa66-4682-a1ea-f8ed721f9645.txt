@@ -1,9 +1,0 @@
-User ID: bmT0DKNz6XmiQTdzAB2M
-User Name: robot
-Ticket ID: bmT0DKNz6XmiQTdzAB2M_c5622fe9-fa66-4682-a1ea-f8ed721f9645
-Total Bid Amount: 9000
-Total Earnings: 0
-Profit/Loss: -9000
-
-Breakdown:
-  Bid: 4, Amount: 9000, Payout: 45000, Status: lost

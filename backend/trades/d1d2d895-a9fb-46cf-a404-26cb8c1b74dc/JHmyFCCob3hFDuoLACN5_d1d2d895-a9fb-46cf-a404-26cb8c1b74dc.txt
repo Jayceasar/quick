@@ -1,9 +1,0 @@
-User ID: JHmyFCCob3hFDuoLACN5
-User Name: robot
-Ticket ID: JHmyFCCob3hFDuoLACN5_d1d2d895-a9fb-46cf-a404-26cb8c1b74dc
-Total Bid Amount: 9100
-Total Earnings: 0
-Profit/Loss: -9100
-
-Breakdown:
-  Bid: 2, Amount: 9100, Payout: 45500, Status: lost

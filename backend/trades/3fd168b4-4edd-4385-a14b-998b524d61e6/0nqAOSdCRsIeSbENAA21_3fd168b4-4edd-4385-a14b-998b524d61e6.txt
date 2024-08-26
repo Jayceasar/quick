@@ -1,9 +1,0 @@
-User ID: 0nqAOSdCRsIeSbENAA21
-User Name: robot
-Ticket ID: 0nqAOSdCRsIeSbENAA21_3fd168b4-4edd-4385-a14b-998b524d61e6
-Total Bid Amount: 4500
-Total Earnings: 0
-Profit/Loss: -4500
-
-Breakdown:
-  Bid: 1, Amount: 4500, Payout: 22500, Status: lost

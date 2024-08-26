@@ -1,9 +1,0 @@
-User ID: f4XXMh--wr6wcgCnAB03
-User Name: robot
-Ticket ID: f4XXMh--wr6wcgCnAB03_73cf31f2-8401-4ac4-bb24-a78ee513d5d7
-Total Bid Amount: 8200
-Total Earnings: 41000
-Profit/Loss: 32800
-
-Breakdown:
-  Bid: 3, Amount: 8200, Payout: 41000, Status: won

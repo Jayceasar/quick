@@ -1,9 +1,0 @@
-User ID: xhqES-KpyW2tFoXgABye
-User Name: robot
-Ticket ID: xhqES-KpyW2tFoXgABye_f4e2f866-a36b-41cc-85f2-e7d863ffff69
-Total Bid Amount: 9700
-Total Earnings: 0
-Profit/Loss: -9700
-
-Breakdown:
-  Bid: 2, Amount: 9700, Payout: 48500, Status: lost

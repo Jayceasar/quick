@@ -1,9 +1,0 @@
-User ID: mblxo75mVIUbajN2ABW_
-User Name: robot
-Ticket ID: mblxo75mVIUbajN2ABW__a8e43219-fb0d-4493-bd00-d9f0476aecaf
-Total Bid Amount: 300
-Total Earnings: 0
-Profit/Loss: -300
-
-Breakdown:
-  Bid: 6, Amount: 300, Payout: 1500, Status: lost

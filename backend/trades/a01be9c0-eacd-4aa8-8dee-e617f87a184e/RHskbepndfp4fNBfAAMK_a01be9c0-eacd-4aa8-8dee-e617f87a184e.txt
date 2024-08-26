@@ -1,9 +1,0 @@
-User ID: RHskbepndfp4fNBfAAMK
-User Name: robot
-Ticket ID: RHskbepndfp4fNBfAAMK_a01be9c0-eacd-4aa8-8dee-e617f87a184e
-Total Bid Amount: 3200
-Total Earnings: 16000
-Profit/Loss: 12800
-
-Breakdown:
-  Bid: 2, Amount: 3200, Payout: 16000, Status: won

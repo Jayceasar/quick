@@ -1,9 +1,0 @@
-User ID: Ecr90oj58b051dCHAAgi
-User Name: robot
-Ticket ID: Ecr90oj58b051dCHAAgi_68f7215f-54a3-4d9e-9251-fc2476209693
-Total Bid Amount: 7100
-Total Earnings: 0
-Profit/Loss: -7100
-
-Breakdown:
-  Bid: 6, Amount: 7100, Payout: 35500, Status: lost

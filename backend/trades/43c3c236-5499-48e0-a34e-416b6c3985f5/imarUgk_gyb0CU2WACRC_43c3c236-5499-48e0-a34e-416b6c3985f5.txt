@@ -1,9 +1,0 @@
-User ID: imarUgk_gyb0CU2WACRC
-User Name: robot
-Ticket ID: imarUgk_gyb0CU2WACRC_43c3c236-5499-48e0-a34e-416b6c3985f5
-Total Bid Amount: 8100
-Total Earnings: 0
-Profit/Loss: -8100
-
-Breakdown:
-  Bid: 1, Amount: 8100, Payout: 40500, Status: lost

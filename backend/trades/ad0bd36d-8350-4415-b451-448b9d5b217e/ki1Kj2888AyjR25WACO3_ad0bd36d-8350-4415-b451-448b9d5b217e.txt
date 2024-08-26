@@ -1,9 +1,0 @@
-User ID: ki1Kj2888AyjR25WACO3
-User Name: robot
-Ticket ID: ki1Kj2888AyjR25WACO3_ad0bd36d-8350-4415-b451-448b9d5b217e
-Total Bid Amount: 1400
-Total Earnings: 0
-Profit/Loss: -1400
-
-Breakdown:
-  Bid: 6, Amount: 1400, Payout: 7000, Status: lost

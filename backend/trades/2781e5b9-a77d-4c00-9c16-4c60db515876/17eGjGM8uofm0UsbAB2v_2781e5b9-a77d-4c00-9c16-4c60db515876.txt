@@ -1,9 +1,0 @@
-User ID: 17eGjGM8uofm0UsbAB2v
-User Name: robot
-Ticket ID: 17eGjGM8uofm0UsbAB2v_2781e5b9-a77d-4c00-9c16-4c60db515876
-Total Bid Amount: 1100
-Total Earnings: 0
-Profit/Loss: -1100
-
-Breakdown:
-  Bid: 4, Amount: 1100, Payout: 5500, Status: lost

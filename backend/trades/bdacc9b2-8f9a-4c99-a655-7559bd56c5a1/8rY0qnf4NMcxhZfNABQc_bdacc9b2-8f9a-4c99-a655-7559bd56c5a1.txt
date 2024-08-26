@@ -1,9 +1,0 @@
-User ID: 8rY0qnf4NMcxhZfNABQc
-User Name: robot
-Ticket ID: 8rY0qnf4NMcxhZfNABQc_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
-Total Bid Amount: 7200
-Total Earnings: 36000
-Profit/Loss: 28800
-
-Breakdown:
-  Bid: 3, Amount: 7200, Payout: 36000, Status: won

@@ -1,9 +1,0 @@
-User ID: RuRFJMkRNfCyNriUAAMJ
-User Name: robot
-Ticket ID: RuRFJMkRNfCyNriUAAMJ_6ccaeea3-75f3-4c47-90f7-0f988c85c9cb
-Total Bid Amount: 5300
-Total Earnings: 26500
-Profit/Loss: 21200
-
-Breakdown:
-  Bid: 3, Amount: 5300, Payout: 26500, Status: won

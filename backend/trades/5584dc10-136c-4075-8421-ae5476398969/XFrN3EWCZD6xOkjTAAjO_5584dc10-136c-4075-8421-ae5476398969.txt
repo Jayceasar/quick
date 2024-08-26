@@ -1,9 +1,0 @@
-User ID: XFrN3EWCZD6xOkjTAAjO
-User Name: robot
-Ticket ID: XFrN3EWCZD6xOkjTAAjO_5584dc10-136c-4075-8421-ae5476398969
-Total Bid Amount: 9000
-Total Earnings: 0
-Profit/Loss: -9000
-
-Breakdown:
-  Bid: 4, Amount: 9000, Payout: 45000, Status: lost

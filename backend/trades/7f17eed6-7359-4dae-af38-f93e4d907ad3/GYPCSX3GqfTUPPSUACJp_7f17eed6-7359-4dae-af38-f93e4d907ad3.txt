@@ -1,9 +1,0 @@
-User ID: GYPCSX3GqfTUPPSUACJp
-User Name: robot
-Ticket ID: GYPCSX3GqfTUPPSUACJp_7f17eed6-7359-4dae-af38-f93e4d907ad3
-Total Bid Amount: 5200
-Total Earnings: 26000
-Profit/Loss: 20800
-
-Breakdown:
-  Bid: 3, Amount: 5200, Payout: 26000, Status: won

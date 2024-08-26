@@ -1,9 +1,0 @@
-User ID: V_6qg-WhP1yDqMlLABXz
-User Name: robot
-Ticket ID: V_6qg-WhP1yDqMlLABXz_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
-Total Bid Amount: 200
-Total Earnings: 0
-Profit/Loss: -200
-
-Breakdown:
-  Bid: 6, Amount: 200, Payout: 1000, Status: lost

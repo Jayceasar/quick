@@ -1,9 +1,0 @@
-User ID: TzDyHOYwF599hiLmAAJC
-User Name: robot
-Ticket ID: TzDyHOYwF599hiLmAAJC_3750ca25-a9f1-4278-85de-ccbff503fd45
-Total Bid Amount: 800
-Total Earnings: 0
-Profit/Loss: -800
-
-Breakdown:
-  Bid: 2, Amount: 800, Payout: 4000, Status: lost

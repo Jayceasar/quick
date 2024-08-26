@@ -1,9 +1,0 @@
-User ID: MTwlwTlz2gi3WwUvABXi
-User Name: robot
-Ticket ID: MTwlwTlz2gi3WwUvABXi_8fa77666-9d7f-4032-9eb6-68ecb3f56761
-Total Bid Amount: 3500
-Total Earnings: 0
-Profit/Loss: -3500
-
-Breakdown:
-  Bid: 1, Amount: 3500, Payout: 17500, Status: lost

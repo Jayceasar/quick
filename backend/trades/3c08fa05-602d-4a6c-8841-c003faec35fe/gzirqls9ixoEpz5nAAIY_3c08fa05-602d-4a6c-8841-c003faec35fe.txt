@@ -1,9 +1,0 @@
-User ID: gzirqls9ixoEpz5nAAIY
-User Name: robot
-Ticket ID: gzirqls9ixoEpz5nAAIY_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 100
-Total Earnings: 500
-Profit/Loss: 400
-
-Breakdown:
-  Bid: 5, Amount: 100, Payout: 500, Status: won

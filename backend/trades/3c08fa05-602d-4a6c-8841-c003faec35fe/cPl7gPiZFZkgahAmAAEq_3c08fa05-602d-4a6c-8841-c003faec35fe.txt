@@ -1,9 +1,0 @@
-User ID: cPl7gPiZFZkgahAmAAEq
-User Name: robot
-Ticket ID: cPl7gPiZFZkgahAmAAEq_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 3900
-Total Earnings: 0
-Profit/Loss: -3900
-
-Breakdown:
-  Bid: 4, Amount: 3900, Payout: 19500, Status: lost

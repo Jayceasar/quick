@@ -1,9 +1,0 @@
-User ID: tGypPG1DPnxCdBtkABp8
-User Name: robot
-Ticket ID: tGypPG1DPnxCdBtkABp8_7a1cf374-3b0b-47a8-92f4-370088b1d70d
-Total Bid Amount: 8400
-Total Earnings: 0
-Profit/Loss: -8400
-
-Breakdown:
-  Bid: 1, Amount: 8400, Payout: 42000, Status: lost

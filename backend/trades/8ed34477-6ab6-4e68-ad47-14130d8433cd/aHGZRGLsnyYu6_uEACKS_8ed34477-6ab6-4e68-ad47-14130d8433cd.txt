@@ -1,9 +1,0 @@
-User ID: aHGZRGLsnyYu6_uEACKS
-User Name: robot
-Ticket ID: aHGZRGLsnyYu6_uEACKS_8ed34477-6ab6-4e68-ad47-14130d8433cd
-Total Bid Amount: 8200
-Total Earnings: 0
-Profit/Loss: -8200
-
-Breakdown:
-  Bid: 5, Amount: 8200, Payout: 41000, Status: lost

@@ -1,9 +1,0 @@
-User ID: LMqXoNJ3PQpjR6LnACOk
-User Name: robot
-Ticket ID: LMqXoNJ3PQpjR6LnACOk_a08d6b83-5b7c-47c3-a24d-d856f26168b1
-Total Bid Amount: 2300
-Total Earnings: 0
-Profit/Loss: -2300
-
-Breakdown:
-  Bid: 3, Amount: 2300, Payout: 11500, Status: lost

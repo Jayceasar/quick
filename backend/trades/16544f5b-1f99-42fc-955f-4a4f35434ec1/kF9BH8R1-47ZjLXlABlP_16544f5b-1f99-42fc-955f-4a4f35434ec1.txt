@@ -1,9 +1,0 @@
-User ID: kF9BH8R1-47ZjLXlABlP
-User Name: robot
-Ticket ID: kF9BH8R1-47ZjLXlABlP_16544f5b-1f99-42fc-955f-4a4f35434ec1
-Total Bid Amount: 1900
-Total Earnings: 0
-Profit/Loss: -1900
-
-Breakdown:
-  Bid: 6, Amount: 1900, Payout: 9500, Status: lost

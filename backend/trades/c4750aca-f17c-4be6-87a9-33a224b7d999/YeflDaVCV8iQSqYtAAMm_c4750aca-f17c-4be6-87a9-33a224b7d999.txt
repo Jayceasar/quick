@@ -1,9 +1,0 @@
-User ID: YeflDaVCV8iQSqYtAAMm
-User Name: robot
-Ticket ID: YeflDaVCV8iQSqYtAAMm_c4750aca-f17c-4be6-87a9-33a224b7d999
-Total Bid Amount: 5900
-Total Earnings: 0
-Profit/Loss: -5900
-
-Breakdown:
-  Bid: 3, Amount: 5900, Payout: 29500, Status: lost

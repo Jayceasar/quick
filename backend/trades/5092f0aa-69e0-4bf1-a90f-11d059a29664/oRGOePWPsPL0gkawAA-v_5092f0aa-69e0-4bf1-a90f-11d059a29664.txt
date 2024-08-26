@@ -1,9 +1,0 @@
-User ID: oRGOePWPsPL0gkawAA-v
-User Name: robot
-Ticket ID: oRGOePWPsPL0gkawAA-v_5092f0aa-69e0-4bf1-a90f-11d059a29664
-Total Bid Amount: 5900
-Total Earnings: 29500
-Profit/Loss: 23600
-
-Breakdown:
-  Bid: 1, Amount: 5900, Payout: 29500, Status: won

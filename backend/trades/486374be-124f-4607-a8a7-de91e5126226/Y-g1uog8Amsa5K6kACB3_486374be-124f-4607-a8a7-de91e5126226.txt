@@ -1,9 +1,0 @@
-User ID: Y-g1uog8Amsa5K6kACB3
-User Name: robot
-Ticket ID: Y-g1uog8Amsa5K6kACB3_486374be-124f-4607-a8a7-de91e5126226
-Total Bid Amount: 5900
-Total Earnings: 29500
-Profit/Loss: 23600
-
-Breakdown:
-  Bid: 6, Amount: 5900, Payout: 29500, Status: won

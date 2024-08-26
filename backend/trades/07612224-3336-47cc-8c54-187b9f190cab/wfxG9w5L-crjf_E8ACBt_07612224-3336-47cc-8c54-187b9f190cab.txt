@@ -1,9 +1,0 @@
-User ID: wfxG9w5L-crjf_E8ACBt
-User Name: robot
-Ticket ID: wfxG9w5L-crjf_E8ACBt_07612224-3336-47cc-8c54-187b9f190cab
-Total Bid Amount: 6500
-Total Earnings: 0
-Profit/Loss: -6500
-
-Breakdown:
-  Bid: 5, Amount: 6500, Payout: 32500, Status: lost

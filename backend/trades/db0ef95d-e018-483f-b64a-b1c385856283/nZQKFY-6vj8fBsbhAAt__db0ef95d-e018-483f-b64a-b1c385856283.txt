@@ -1,9 +1,0 @@
-User ID: nZQKFY-6vj8fBsbhAAt_
-User Name: robot
-Ticket ID: nZQKFY-6vj8fBsbhAAt__db0ef95d-e018-483f-b64a-b1c385856283
-Total Bid Amount: 9600
-Total Earnings: 0
-Profit/Loss: -9600
-
-Breakdown:
-  Bid: 5, Amount: 9600, Payout: 48000, Status: lost

@@ -1,9 +1,0 @@
-User ID: tonrIlP4ddTCyFFuABp7
-User Name: robot
-Ticket ID: tonrIlP4ddTCyFFuABp7_c901059c-d365-4652-9ffb-306f75be1174
-Total Bid Amount: 4900
-Total Earnings: 0
-Profit/Loss: -4900
-
-Breakdown:
-  Bid: 6, Amount: 4900, Payout: 24500, Status: lost

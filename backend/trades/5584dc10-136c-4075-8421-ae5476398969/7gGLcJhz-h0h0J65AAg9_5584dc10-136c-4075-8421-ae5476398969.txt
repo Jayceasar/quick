@@ -1,9 +1,0 @@
-User ID: 7gGLcJhz-h0h0J65AAg9
-User Name: robot
-Ticket ID: 7gGLcJhz-h0h0J65AAg9_5584dc10-136c-4075-8421-ae5476398969
-Total Bid Amount: 4200
-Total Earnings: 0
-Profit/Loss: -4200
-
-Breakdown:
-  Bid: 6, Amount: 4200, Payout: 21000, Status: lost

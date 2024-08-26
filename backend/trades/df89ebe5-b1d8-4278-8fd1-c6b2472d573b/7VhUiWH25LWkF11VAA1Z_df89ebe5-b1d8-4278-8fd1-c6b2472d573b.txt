@@ -1,9 +1,0 @@
-User ID: 7VhUiWH25LWkF11VAA1Z
-User Name: robot
-Ticket ID: 7VhUiWH25LWkF11VAA1Z_df89ebe5-b1d8-4278-8fd1-c6b2472d573b
-Total Bid Amount: 2300
-Total Earnings: 0
-Profit/Loss: -2300
-
-Breakdown:
-  Bid: 4, Amount: 2300, Payout: 11500, Status: lost

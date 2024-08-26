@@ -1,9 +1,0 @@
-User ID: oUefekd8R7eKRfk9ABWT
-User Name: robot
-Ticket ID: oUefekd8R7eKRfk9ABWT_8fa77666-9d7f-4032-9eb6-68ecb3f56761
-Total Bid Amount: 1600
-Total Earnings: 0
-Profit/Loss: -1600
-
-Breakdown:
-  Bid: 3, Amount: 1600, Payout: 8000, Status: lost

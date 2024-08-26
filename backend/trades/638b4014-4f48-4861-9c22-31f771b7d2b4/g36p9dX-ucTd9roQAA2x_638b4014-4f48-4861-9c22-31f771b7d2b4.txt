@@ -1,9 +1,0 @@
-User ID: g36p9dX-ucTd9roQAA2x
-User Name: robot
-Ticket ID: g36p9dX-ucTd9roQAA2x_638b4014-4f48-4861-9c22-31f771b7d2b4
-Total Bid Amount: 3800
-Total Earnings: 0
-Profit/Loss: -3800
-
-Breakdown:
-  Bid: 6, Amount: 3800, Payout: 19000, Status: lost

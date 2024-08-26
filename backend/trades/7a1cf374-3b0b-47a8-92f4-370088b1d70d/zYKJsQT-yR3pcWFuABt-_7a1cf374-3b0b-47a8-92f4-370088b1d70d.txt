@@ -1,9 +1,0 @@
-User ID: zYKJsQT-yR3pcWFuABt-
-User Name: robot
-Ticket ID: zYKJsQT-yR3pcWFuABt-_7a1cf374-3b0b-47a8-92f4-370088b1d70d
-Total Bid Amount: 2700
-Total Earnings: 13500
-Profit/Loss: 10800
-
-Breakdown:
-  Bid: 2, Amount: 2700, Payout: 13500, Status: won

@@ -1,9 +1,0 @@
-User ID: FLf0RQeUECXnIpI0ABp5
-User Name: robot
-Ticket ID: FLf0RQeUECXnIpI0ABp5_c901059c-d365-4652-9ffb-306f75be1174
-Total Bid Amount: 2800
-Total Earnings: 14000
-Profit/Loss: 11200
-
-Breakdown:
-  Bid: 1, Amount: 2800, Payout: 14000, Status: won

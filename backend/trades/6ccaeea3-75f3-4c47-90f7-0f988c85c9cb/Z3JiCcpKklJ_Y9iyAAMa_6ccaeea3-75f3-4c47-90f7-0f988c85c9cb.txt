@@ -1,9 +1,0 @@
-User ID: Z3JiCcpKklJ_Y9iyAAMa
-User Name: robot
-Ticket ID: Z3JiCcpKklJ_Y9iyAAMa_6ccaeea3-75f3-4c47-90f7-0f988c85c9cb
-Total Bid Amount: 6300
-Total Earnings: 0
-Profit/Loss: -6300
-
-Breakdown:
-  Bid: 6, Amount: 6300, Payout: 31500, Status: lost

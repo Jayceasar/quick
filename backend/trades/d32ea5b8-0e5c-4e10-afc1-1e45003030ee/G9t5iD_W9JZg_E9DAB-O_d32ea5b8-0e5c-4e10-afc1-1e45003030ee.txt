@@ -1,9 +1,0 @@
-User ID: G9t5iD_W9JZg_E9DAB-O
-User Name: robot
-Ticket ID: G9t5iD_W9JZg_E9DAB-O_d32ea5b8-0e5c-4e10-afc1-1e45003030ee
-Total Bid Amount: 6300
-Total Earnings: 0
-Profit/Loss: -6300
-
-Breakdown:
-  Bid: 4, Amount: 6300, Payout: 31500, Status: lost

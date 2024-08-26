@@ -1,9 +1,0 @@
-User ID: jP9A4l-M8L1TIN6DAAMo
-User Name: robot
-Ticket ID: jP9A4l-M8L1TIN6DAAMo_a01be9c0-eacd-4aa8-8dee-e617f87a184e
-Total Bid Amount: 6800
-Total Earnings: 0
-Profit/Loss: -6800
-
-Breakdown:
-  Bid: 1, Amount: 6800, Payout: 34000, Status: lost

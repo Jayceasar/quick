@@ -1,9 +1,0 @@
-User ID: LCzIuQ2tk3fW7Y85AAPN
-User Name: robot
-Ticket ID: LCzIuQ2tk3fW7Y85AAPN_a01be9c0-eacd-4aa8-8dee-e617f87a184e
-Total Bid Amount: 3700
-Total Earnings: 0
-Profit/Loss: -3700
-
-Breakdown:
-  Bid: 6, Amount: 3700, Payout: 18500, Status: lost

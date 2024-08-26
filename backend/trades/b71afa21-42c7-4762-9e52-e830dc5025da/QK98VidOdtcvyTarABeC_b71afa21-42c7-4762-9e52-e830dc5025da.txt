@@ -1,9 +1,0 @@
-User ID: QK98VidOdtcvyTarABeC
-User Name: robot
-Ticket ID: QK98VidOdtcvyTarABeC_b71afa21-42c7-4762-9e52-e830dc5025da
-Total Bid Amount: 6600
-Total Earnings: 33000
-Profit/Loss: 26400
-
-Breakdown:
-  Bid: 2, Amount: 6600, Payout: 33000, Status: won

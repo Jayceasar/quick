@@ -1,9 +1,0 @@
-User ID: tPqJNNH4lt73ABEjAAhI
-User Name: robot
-Ticket ID: tPqJNNH4lt73ABEjAAhI_68f7215f-54a3-4d9e-9251-fc2476209693
-Total Bid Amount: 8200
-Total Earnings: 0
-Profit/Loss: -8200
-
-Breakdown:
-  Bid: 2, Amount: 8200, Payout: 41000, Status: lost

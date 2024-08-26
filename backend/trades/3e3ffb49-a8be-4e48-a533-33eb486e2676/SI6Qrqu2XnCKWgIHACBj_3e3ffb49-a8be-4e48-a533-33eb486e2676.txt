@@ -1,9 +1,0 @@
-User ID: SI6Qrqu2XnCKWgIHACBj
-User Name: robot
-Ticket ID: SI6Qrqu2XnCKWgIHACBj_3e3ffb49-a8be-4e48-a533-33eb486e2676
-Total Bid Amount: 3000
-Total Earnings: 0
-Profit/Loss: -3000
-
-Breakdown:
-  Bid: 5, Amount: 3000, Payout: 15000, Status: lost

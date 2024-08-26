@@ -1,9 +1,0 @@
-User ID: t5OBI-nW_RN-_Eg4ABYq
-User Name: robot
-Ticket ID: t5OBI-nW_RN-_Eg4ABYq_8fa77666-9d7f-4032-9eb6-68ecb3f56761
-Total Bid Amount: 7800
-Total Earnings: 0
-Profit/Loss: -7800
-
-Breakdown:
-  Bid: 4, Amount: 7800, Payout: 39000, Status: lost

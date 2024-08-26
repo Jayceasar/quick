@@ -1,9 +1,0 @@
-User ID: O5FZghRyWkfCAPTvAAvI
-User Name: robot
-Ticket ID: O5FZghRyWkfCAPTvAAvI_db0ef95d-e018-483f-b64a-b1c385856283
-Total Bid Amount: 3200
-Total Earnings: 0
-Profit/Loss: -3200
-
-Breakdown:
-  Bid: 2, Amount: 3200, Payout: 16000, Status: lost

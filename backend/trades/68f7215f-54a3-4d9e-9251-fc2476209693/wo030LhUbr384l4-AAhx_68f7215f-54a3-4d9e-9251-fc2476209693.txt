@@ -1,9 +1,0 @@
-User ID: wo030LhUbr384l4-AAhx
-User Name: robot
-Ticket ID: wo030LhUbr384l4-AAhx_68f7215f-54a3-4d9e-9251-fc2476209693
-Total Bid Amount: 7900
-Total Earnings: 0
-Profit/Loss: -7900
-
-Breakdown:
-  Bid: 4, Amount: 7900, Payout: 39500, Status: lost

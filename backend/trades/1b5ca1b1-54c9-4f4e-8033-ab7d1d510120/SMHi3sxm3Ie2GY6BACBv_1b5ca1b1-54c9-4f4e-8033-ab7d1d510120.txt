@@ -1,9 +1,0 @@
-User ID: SMHi3sxm3Ie2GY6BACBv
-User Name: robot
-Ticket ID: SMHi3sxm3Ie2GY6BACBv_1b5ca1b1-54c9-4f4e-8033-ab7d1d510120
-Total Bid Amount: 3800
-Total Earnings: 0
-Profit/Loss: -3800
-
-Breakdown:
-  Bid: 3, Amount: 3800, Payout: 19000, Status: lost

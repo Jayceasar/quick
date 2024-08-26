@@ -1,9 +1,0 @@
-User ID: 2RfgkNYkMKfWAFZNABKG
-User Name: robot
-Ticket ID: 2RfgkNYkMKfWAFZNABKG_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 9400
-Total Earnings: 47000
-Profit/Loss: 37600
-
-Breakdown:
-  Bid: 6, Amount: 9400, Payout: 47000, Status: won

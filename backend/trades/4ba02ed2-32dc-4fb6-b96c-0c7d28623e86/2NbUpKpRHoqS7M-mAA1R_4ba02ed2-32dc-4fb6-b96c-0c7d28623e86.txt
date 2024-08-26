@@ -1,9 +1,0 @@
-User ID: 2NbUpKpRHoqS7M-mAA1R
-User Name: robot
-Ticket ID: 2NbUpKpRHoqS7M-mAA1R_4ba02ed2-32dc-4fb6-b96c-0c7d28623e86
-Total Bid Amount: 4900
-Total Earnings: 0
-Profit/Loss: -4900
-
-Breakdown:
-  Bid: 6, Amount: 4900, Payout: 24500, Status: lost

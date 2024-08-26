@@ -1,9 +1,0 @@
-User ID: 74qvkaJW3niYQZjwABKN
-User Name: robot
-Ticket ID: 74qvkaJW3niYQZjwABKN_692b2a95-b090-4fc1-ad37-195b1ac2aba1
-Total Bid Amount: 7100
-Total Earnings: 0
-Profit/Loss: -7100
-
-Breakdown:
-  Bid: 4, Amount: 7100, Payout: 35500, Status: lost

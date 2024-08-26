@@ -1,9 +1,0 @@
-User ID: 7RuVFRbCVYr-V1H7ABe5
-User Name: robot
-Ticket ID: 7RuVFRbCVYr-V1H7ABe5_b71afa21-42c7-4762-9e52-e830dc5025da
-Total Bid Amount: 2000
-Total Earnings: 0
-Profit/Loss: -2000
-
-Breakdown:
-  Bid: 3, Amount: 2000, Payout: 10000, Status: lost

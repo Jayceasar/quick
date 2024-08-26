@@ -1,9 +1,0 @@
-User ID: HmPk_33GWN3X5fEPABx5
-User Name: robot
-Ticket ID: HmPk_33GWN3X5fEPABx5_f4e2f866-a36b-41cc-85f2-e7d863ffff69
-Total Bid Amount: 5300
-Total Earnings: 0
-Profit/Loss: -5300
-
-Breakdown:
-  Bid: 2, Amount: 5300, Payout: 26500, Status: lost

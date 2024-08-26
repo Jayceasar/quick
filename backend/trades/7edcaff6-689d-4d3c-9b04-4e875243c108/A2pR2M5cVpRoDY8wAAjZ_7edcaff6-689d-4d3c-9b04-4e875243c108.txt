@@ -1,9 +1,0 @@
-User ID: A2pR2M5cVpRoDY8wAAjZ
-User Name: robot
-Ticket ID: A2pR2M5cVpRoDY8wAAjZ_7edcaff6-689d-4d3c-9b04-4e875243c108
-Total Bid Amount: 5300
-Total Earnings: 0
-Profit/Loss: -5300
-
-Breakdown:
-  Bid: 5, Amount: 5300, Payout: 26500, Status: lost

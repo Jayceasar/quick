@@ -1,9 +1,0 @@
-User ID: XYwlfIwveQj4SqTMABWu
-User Name: robot
-Ticket ID: XYwlfIwveQj4SqTMABWu_fb86114f-5de4-4582-b36e-777fdfb617a6
-Total Bid Amount: 6600
-Total Earnings: 0
-Profit/Loss: -6600
-
-Breakdown:
-  Bid: 2, Amount: 6600, Payout: 33000, Status: lost

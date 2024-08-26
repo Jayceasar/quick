@@ -1,9 +1,0 @@
-User ID: _YD3cGRjRxmFqusKACK1
-User Name: robot
-Ticket ID: _YD3cGRjRxmFqusKACK1_719ca7d1-8e62-472d-941a-0e34cd466066
-Total Bid Amount: 700
-Total Earnings: 3500
-Profit/Loss: 2800
-
-Breakdown:
-  Bid: 4, Amount: 700, Payout: 3500, Status: won

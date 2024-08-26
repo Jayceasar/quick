@@ -1,9 +1,0 @@
-User ID: IbaB-SaAk8q400g6AAHQ
-User Name: robot
-Ticket ID: IbaB-SaAk8q400g6AAHQ_ad3a8c72-299f-43d4-805f-4646b325aae0
-Total Bid Amount: 3800
-Total Earnings: 19000
-Profit/Loss: 15200
-
-Breakdown:
-  Bid: 1, Amount: 3800, Payout: 19000, Status: won

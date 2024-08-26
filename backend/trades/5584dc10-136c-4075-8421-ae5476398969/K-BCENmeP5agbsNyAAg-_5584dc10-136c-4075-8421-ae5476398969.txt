@@ -1,9 +1,0 @@
-User ID: K-BCENmeP5agbsNyAAg-
-User Name: robot
-Ticket ID: K-BCENmeP5agbsNyAAg-_5584dc10-136c-4075-8421-ae5476398969
-Total Bid Amount: 9500
-Total Earnings: 0
-Profit/Loss: -9500
-
-Breakdown:
-  Bid: 6, Amount: 9500, Payout: 47500, Status: lost

@@ -1,9 +1,0 @@
-User ID: DCJ8RKAB4J3hcoqhAA2R
-User Name: robot
-Ticket ID: DCJ8RKAB4J3hcoqhAA2R_4ba02ed2-32dc-4fb6-b96c-0c7d28623e86
-Total Bid Amount: 9000
-Total Earnings: 0
-Profit/Loss: -9000
-
-Breakdown:
-  Bid: 6, Amount: 9000, Payout: 45000, Status: lost

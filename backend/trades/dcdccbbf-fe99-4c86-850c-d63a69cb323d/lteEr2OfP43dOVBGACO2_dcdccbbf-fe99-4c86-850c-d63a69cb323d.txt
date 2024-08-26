@@ -1,9 +1,0 @@
-User ID: lteEr2OfP43dOVBGACO2
-User Name: robot
-Ticket ID: lteEr2OfP43dOVBGACO2_dcdccbbf-fe99-4c86-850c-d63a69cb323d
-Total Bid Amount: 2300
-Total Earnings: 0
-Profit/Loss: -2300
-
-Breakdown:
-  Bid: 3, Amount: 2300, Payout: 11500, Status: lost

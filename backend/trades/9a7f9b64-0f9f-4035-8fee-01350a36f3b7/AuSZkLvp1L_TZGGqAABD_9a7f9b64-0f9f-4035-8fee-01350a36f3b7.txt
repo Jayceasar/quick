@@ -1,9 +1,0 @@
-User ID: AuSZkLvp1L_TZGGqAABD
-User Name: robot
-Ticket ID: AuSZkLvp1L_TZGGqAABD_9a7f9b64-0f9f-4035-8fee-01350a36f3b7
-Total Bid Amount: 6600
-Total Earnings: 0
-Profit/Loss: -6600
-
-Breakdown:
-  Bid: 2, Amount: 6600, Payout: 33000, Status: lost

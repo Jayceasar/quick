@@ -1,9 +1,0 @@
-User ID: z6N2q-ZkTJuXjM7OAAaB
-User Name: robot
-Ticket ID: z6N2q-ZkTJuXjM7OAAaB_51aaa087-b7d2-477a-9555-272cadfee5a8
-Total Bid Amount: 6500
-Total Earnings: 32500
-Profit/Loss: 26000
-
-Breakdown:
-  Bid: 3, Amount: 6500, Payout: 32500, Status: won

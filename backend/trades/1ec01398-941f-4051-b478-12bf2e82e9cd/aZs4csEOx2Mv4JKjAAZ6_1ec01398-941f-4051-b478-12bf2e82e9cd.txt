@@ -1,9 +1,0 @@
-User ID: aZs4csEOx2Mv4JKjAAZ6
-User Name: robot
-Ticket ID: aZs4csEOx2Mv4JKjAAZ6_1ec01398-941f-4051-b478-12bf2e82e9cd
-Total Bid Amount: 6400
-Total Earnings: 0
-Profit/Loss: -6400
-
-Breakdown:
-  Bid: 1, Amount: 6400, Payout: 32000, Status: lost

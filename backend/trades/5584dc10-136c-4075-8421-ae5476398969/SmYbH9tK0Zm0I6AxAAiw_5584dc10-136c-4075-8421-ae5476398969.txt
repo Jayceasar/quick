@@ -1,9 +1,0 @@
-User ID: SmYbH9tK0Zm0I6AxAAiw
-User Name: robot
-Ticket ID: SmYbH9tK0Zm0I6AxAAiw_5584dc10-136c-4075-8421-ae5476398969
-Total Bid Amount: 100
-Total Earnings: 0
-Profit/Loss: -100
-
-Breakdown:
-  Bid: 1, Amount: 100, Payout: 500, Status: lost

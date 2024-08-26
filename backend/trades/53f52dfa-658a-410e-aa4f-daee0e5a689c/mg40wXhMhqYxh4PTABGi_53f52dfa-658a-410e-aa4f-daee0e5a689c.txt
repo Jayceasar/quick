@@ -1,9 +1,0 @@
-User ID: mg40wXhMhqYxh4PTABGi
-User Name: robot
-Ticket ID: mg40wXhMhqYxh4PTABGi_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 2300
-Total Earnings: 0
-Profit/Loss: -2300
-
-Breakdown:
-  Bid: 1, Amount: 2300, Payout: 11500, Status: lost

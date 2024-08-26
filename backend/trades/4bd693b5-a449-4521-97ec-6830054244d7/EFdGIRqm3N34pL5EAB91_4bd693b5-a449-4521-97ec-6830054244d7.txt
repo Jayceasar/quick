@@ -1,9 +1,0 @@
-User ID: EFdGIRqm3N34pL5EAB91
-User Name: robot
-Ticket ID: EFdGIRqm3N34pL5EAB91_4bd693b5-a449-4521-97ec-6830054244d7
-Total Bid Amount: 7500
-Total Earnings: 0
-Profit/Loss: -7500
-
-Breakdown:
-  Bid: 4, Amount: 7500, Payout: 37500, Status: lost

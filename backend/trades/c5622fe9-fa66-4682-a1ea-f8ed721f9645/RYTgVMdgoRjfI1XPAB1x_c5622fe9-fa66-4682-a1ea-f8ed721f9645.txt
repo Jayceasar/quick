@@ -1,9 +1,0 @@
-User ID: RYTgVMdgoRjfI1XPAB1x
-User Name: robot
-Ticket ID: RYTgVMdgoRjfI1XPAB1x_c5622fe9-fa66-4682-a1ea-f8ed721f9645
-Total Bid Amount: 2900
-Total Earnings: 0
-Profit/Loss: -2900
-
-Breakdown:
-  Bid: 5, Amount: 2900, Payout: 14500, Status: lost

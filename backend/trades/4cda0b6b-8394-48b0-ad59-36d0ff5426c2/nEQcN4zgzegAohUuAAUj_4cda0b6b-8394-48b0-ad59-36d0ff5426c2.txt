@@ -1,9 +1,0 @@
-User ID: nEQcN4zgzegAohUuAAUj
-User Name: robot
-Ticket ID: nEQcN4zgzegAohUuAAUj_4cda0b6b-8394-48b0-ad59-36d0ff5426c2
-Total Bid Amount: 100
-Total Earnings: 500
-Profit/Loss: 400
-
-Breakdown:
-  Bid: 5, Amount: 100, Payout: 500, Status: won

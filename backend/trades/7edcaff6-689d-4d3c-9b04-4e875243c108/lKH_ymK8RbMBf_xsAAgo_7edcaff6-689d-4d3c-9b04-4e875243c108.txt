@@ -1,9 +1,0 @@
-User ID: lKH_ymK8RbMBf_xsAAgo
-User Name: robot
-Ticket ID: lKH_ymK8RbMBf_xsAAgo_7edcaff6-689d-4d3c-9b04-4e875243c108
-Total Bid Amount: 7600
-Total Earnings: 0
-Profit/Loss: -7600
-
-Breakdown:
-  Bid: 5, Amount: 7600, Payout: 38000, Status: lost

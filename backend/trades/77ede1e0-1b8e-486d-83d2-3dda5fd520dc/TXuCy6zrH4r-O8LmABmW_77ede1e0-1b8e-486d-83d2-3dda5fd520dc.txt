@@ -1,9 +1,0 @@
-User ID: TXuCy6zrH4r-O8LmABmW
-User Name: robot
-Ticket ID: TXuCy6zrH4r-O8LmABmW_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
-Total Bid Amount: 300
-Total Earnings: 0
-Profit/Loss: -300
-
-Breakdown:
-  Bid: 1, Amount: 300, Payout: 1500, Status: lost

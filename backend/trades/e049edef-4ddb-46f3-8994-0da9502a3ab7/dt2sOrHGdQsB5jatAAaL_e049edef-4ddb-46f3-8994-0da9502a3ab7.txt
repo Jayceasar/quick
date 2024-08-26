@@ -1,9 +1,0 @@
-User ID: dt2sOrHGdQsB5jatAAaL
-User Name: robot
-Ticket ID: dt2sOrHGdQsB5jatAAaL_e049edef-4ddb-46f3-8994-0da9502a3ab7
-Total Bid Amount: 9500
-Total Earnings: 47500
-Profit/Loss: 38000
-
-Breakdown:
-  Bid: 3, Amount: 9500, Payout: 47500, Status: won

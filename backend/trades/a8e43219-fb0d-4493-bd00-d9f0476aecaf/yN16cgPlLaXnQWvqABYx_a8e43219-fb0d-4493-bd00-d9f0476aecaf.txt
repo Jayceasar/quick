@@ -1,9 +1,0 @@
-User ID: yN16cgPlLaXnQWvqABYx
-User Name: robot
-Ticket ID: yN16cgPlLaXnQWvqABYx_a8e43219-fb0d-4493-bd00-d9f0476aecaf
-Total Bid Amount: 8300
-Total Earnings: 0
-Profit/Loss: -8300
-
-Breakdown:
-  Bid: 3, Amount: 8300, Payout: 41500, Status: lost

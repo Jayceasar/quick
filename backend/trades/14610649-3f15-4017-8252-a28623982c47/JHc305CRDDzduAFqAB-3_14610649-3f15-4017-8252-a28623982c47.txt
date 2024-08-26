@@ -1,9 +1,0 @@
-User ID: JHc305CRDDzduAFqAB-3
-User Name: robot
-Ticket ID: JHc305CRDDzduAFqAB-3_14610649-3f15-4017-8252-a28623982c47
-Total Bid Amount: 3500
-Total Earnings: 0
-Profit/Loss: -3500
-
-Breakdown:
-  Bid: 1, Amount: 3500, Payout: 17500, Status: lost

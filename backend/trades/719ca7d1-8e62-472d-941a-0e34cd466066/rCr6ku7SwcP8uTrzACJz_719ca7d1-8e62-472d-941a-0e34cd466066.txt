@@ -1,9 +1,0 @@
-User ID: rCr6ku7SwcP8uTrzACJz
-User Name: robot
-Ticket ID: rCr6ku7SwcP8uTrzACJz_719ca7d1-8e62-472d-941a-0e34cd466066
-Total Bid Amount: 3000
-Total Earnings: 15000
-Profit/Loss: 12000
-
-Breakdown:
-  Bid: 4, Amount: 3000, Payout: 15000, Status: won

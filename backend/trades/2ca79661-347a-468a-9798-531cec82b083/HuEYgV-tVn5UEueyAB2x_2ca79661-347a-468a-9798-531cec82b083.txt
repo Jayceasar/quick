@@ -1,9 +1,0 @@
-User ID: HuEYgV-tVn5UEueyAB2x
-User Name: robot
-Ticket ID: HuEYgV-tVn5UEueyAB2x_2ca79661-347a-468a-9798-531cec82b083
-Total Bid Amount: 4100
-Total Earnings: 0
-Profit/Loss: -4100
-
-Breakdown:
-  Bid: 5, Amount: 4100, Payout: 20500, Status: lost

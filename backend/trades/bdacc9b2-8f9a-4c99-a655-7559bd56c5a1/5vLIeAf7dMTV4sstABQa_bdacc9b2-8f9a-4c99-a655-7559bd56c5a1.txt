@@ -1,9 +1,0 @@
-User ID: 5vLIeAf7dMTV4sstABQa
-User Name: robot
-Ticket ID: 5vLIeAf7dMTV4sstABQa_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
-Total Bid Amount: 8000
-Total Earnings: 40000
-Profit/Loss: 32000
-
-Breakdown:
-  Bid: 3, Amount: 8000, Payout: 40000, Status: won

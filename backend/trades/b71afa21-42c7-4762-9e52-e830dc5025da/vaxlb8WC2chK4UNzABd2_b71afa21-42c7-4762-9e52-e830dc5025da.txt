@@ -1,9 +1,0 @@
-User ID: vaxlb8WC2chK4UNzABd2
-User Name: robot
-Ticket ID: vaxlb8WC2chK4UNzABd2_b71afa21-42c7-4762-9e52-e830dc5025da
-Total Bid Amount: 1000
-Total Earnings: 0
-Profit/Loss: -1000
-
-Breakdown:
-  Bid: 5, Amount: 1000, Payout: 5000, Status: lost

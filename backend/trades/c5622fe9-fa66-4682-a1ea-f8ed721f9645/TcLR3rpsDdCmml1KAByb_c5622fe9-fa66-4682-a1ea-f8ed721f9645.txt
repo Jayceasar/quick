@@ -1,9 +1,0 @@
-User ID: TcLR3rpsDdCmml1KAByb
-User Name: robot
-Ticket ID: TcLR3rpsDdCmml1KAByb_c5622fe9-fa66-4682-a1ea-f8ed721f9645
-Total Bid Amount: 5400
-Total Earnings: 0
-Profit/Loss: -5400
-
-Breakdown:
-  Bid: 4, Amount: 5400, Payout: 27000, Status: lost

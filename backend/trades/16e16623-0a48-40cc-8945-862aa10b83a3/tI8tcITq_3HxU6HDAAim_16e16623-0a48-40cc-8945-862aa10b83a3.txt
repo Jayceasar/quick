@@ -1,9 +1,0 @@
-User ID: tI8tcITq_3HxU6HDAAim
-User Name: robot
-Ticket ID: tI8tcITq_3HxU6HDAAim_16e16623-0a48-40cc-8945-862aa10b83a3
-Total Bid Amount: 5900
-Total Earnings: 0
-Profit/Loss: -5900
-
-Breakdown:
-  Bid: 5, Amount: 5900, Payout: 29500, Status: lost

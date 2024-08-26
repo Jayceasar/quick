@@ -1,9 +1,0 @@
-User ID: xlOcrpLu0Q8K-LTbAAcC
-User Name: robot
-Ticket ID: xlOcrpLu0Q8K-LTbAAcC_d4866321-57f2-46a1-9e98-4962be1ecf63
-Total Bid Amount: 2900
-Total Earnings: 14500
-Profit/Loss: 11600
-
-Breakdown:
-  Bid: 4, Amount: 2900, Payout: 14500, Status: won

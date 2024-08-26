@@ -1,9 +1,0 @@
-User ID: DjZ9paD-arsyw6yUACKT
-User Name: robot
-Ticket ID: DjZ9paD-arsyw6yUACKT_56ee4408-3127-4e3c-9837-5f675e19ec5b
-Total Bid Amount: 1100
-Total Earnings: 5500
-Profit/Loss: 4400
-
-Breakdown:
-  Bid: 2, Amount: 1100, Payout: 5500, Status: won

@@ -1,9 +1,0 @@
-User ID: maIOWwvWD4hsToSVAA0U
-User Name: robot
-Ticket ID: maIOWwvWD4hsToSVAA0U_481b0c54-e3a2-4605-acb3-5ca9c7ea032e
-Total Bid Amount: 1100
-Total Earnings: 0
-Profit/Loss: -1100
-
-Breakdown:
-  Bid: 1, Amount: 1100, Payout: 5500, Status: lost

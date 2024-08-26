@@ -1,9 +1,0 @@
-User ID: af5sOHR7YZNME5IhACKM
-User Name: robot
-Ticket ID: af5sOHR7YZNME5IhACKM_baae20bc-bbdc-4a0c-addb-c4a83365506c
-Total Bid Amount: 9600
-Total Earnings: 0
-Profit/Loss: -9600
-
-Breakdown:
-  Bid: 4, Amount: 9600, Payout: 48000, Status: lost

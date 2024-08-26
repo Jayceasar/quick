@@ -1,9 +1,0 @@
-User ID: wqnz2iBZqhu0w3dwAB-j
-User Name: robot
-Ticket ID: wqnz2iBZqhu0w3dwAB-j_486374be-124f-4607-a8a7-de91e5126226
-Total Bid Amount: 6800
-Total Earnings: 0
-Profit/Loss: -6800
-
-Breakdown:
-  Bid: 2, Amount: 6800, Payout: 34000, Status: lost

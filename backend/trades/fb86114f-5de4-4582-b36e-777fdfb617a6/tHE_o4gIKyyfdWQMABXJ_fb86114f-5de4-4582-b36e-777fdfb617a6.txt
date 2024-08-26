@@ -1,9 +1,0 @@
-User ID: tHE_o4gIKyyfdWQMABXJ
-User Name: robot
-Ticket ID: tHE_o4gIKyyfdWQMABXJ_fb86114f-5de4-4582-b36e-777fdfb617a6
-Total Bid Amount: 2300
-Total Earnings: 11500
-Profit/Loss: 9200
-
-Breakdown:
-  Bid: 5, Amount: 2300, Payout: 11500, Status: won

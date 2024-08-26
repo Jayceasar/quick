@@ -1,9 +1,0 @@
-User ID: BBgOElfr3MG0vvmEAAh-
-User Name: robot
-Ticket ID: BBgOElfr3MG0vvmEAAh-_f3e07e15-d270-454e-8739-2e9bb78f4dc8
-Total Bid Amount: 3700
-Total Earnings: 0
-Profit/Loss: -3700
-
-Breakdown:
-  Bid: 5, Amount: 3700, Payout: 18500, Status: lost

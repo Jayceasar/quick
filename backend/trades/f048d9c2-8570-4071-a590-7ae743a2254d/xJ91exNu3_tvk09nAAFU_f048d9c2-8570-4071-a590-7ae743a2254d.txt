@@ -1,9 +1,0 @@
-User ID: xJ91exNu3_tvk09nAAFU
-User Name: robot
-Ticket ID: xJ91exNu3_tvk09nAAFU_f048d9c2-8570-4071-a590-7ae743a2254d
-Total Bid Amount: 6400
-Total Earnings: 0
-Profit/Loss: -6400
-
-Breakdown:
-  Bid: 1, Amount: 6400, Payout: 32000, Status: lost

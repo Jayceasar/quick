@@ -1,9 +1,0 @@
-User ID: mrc8PwfkvZWbCzgdAAVK
-User Name: robot
-Ticket ID: mrc8PwfkvZWbCzgdAAVK_e2b54825-fe1f-4019-ab68-0ac20cf73b19
-Total Bid Amount: 2500
-Total Earnings: 0
-Profit/Loss: -2500
-
-Breakdown:
-  Bid: 4, Amount: 2500, Payout: 12500, Status: lost

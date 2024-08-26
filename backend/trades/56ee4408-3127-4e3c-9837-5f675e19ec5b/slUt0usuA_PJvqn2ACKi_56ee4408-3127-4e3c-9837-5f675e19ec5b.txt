@@ -1,9 +1,0 @@
-User ID: slUt0usuA_PJvqn2ACKi
-User Name: robot
-Ticket ID: slUt0usuA_PJvqn2ACKi_56ee4408-3127-4e3c-9837-5f675e19ec5b
-Total Bid Amount: 2300
-Total Earnings: 0
-Profit/Loss: -2300
-
-Breakdown:
-  Bid: 6, Amount: 2300, Payout: 11500, Status: lost

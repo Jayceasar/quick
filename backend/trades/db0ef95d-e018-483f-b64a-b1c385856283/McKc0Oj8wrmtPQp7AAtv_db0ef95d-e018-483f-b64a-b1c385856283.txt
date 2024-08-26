@@ -1,9 +1,0 @@
-User ID: McKc0Oj8wrmtPQp7AAtv
-User Name: robot
-Ticket ID: McKc0Oj8wrmtPQp7AAtv_db0ef95d-e018-483f-b64a-b1c385856283
-Total Bid Amount: 8500
-Total Earnings: 0
-Profit/Loss: -8500
-
-Breakdown:
-  Bid: 4, Amount: 8500, Payout: 42500, Status: lost

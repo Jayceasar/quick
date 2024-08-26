@@ -1,9 +1,0 @@
-User ID: 5jNkgAWI_8MH3VvfAAXB
-User Name: robot
-Ticket ID: 5jNkgAWI_8MH3VvfAAXB_ca7e4dec-4d85-462c-9ca8-f41f30346fc3
-Total Bid Amount: 1800
-Total Earnings: 0
-Profit/Loss: -1800
-
-Breakdown:
-  Bid: 5, Amount: 1800, Payout: 9000, Status: lost

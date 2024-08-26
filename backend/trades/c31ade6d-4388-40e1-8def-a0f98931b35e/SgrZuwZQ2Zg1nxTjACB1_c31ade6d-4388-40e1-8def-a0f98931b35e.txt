@@ -1,9 +1,0 @@
-User ID: SgrZuwZQ2Zg1nxTjACB1
-User Name: robot
-Ticket ID: SgrZuwZQ2Zg1nxTjACB1_c31ade6d-4388-40e1-8def-a0f98931b35e
-Total Bid Amount: 8500
-Total Earnings: 0
-Profit/Loss: -8500
-
-Breakdown:
-  Bid: 2, Amount: 8500, Payout: 42500, Status: lost

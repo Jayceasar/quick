@@ -1,9 +1,0 @@
-User ID: djvsonoqCwlFY7gFAAa8
-User Name: robot
-Ticket ID: djvsonoqCwlFY7gFAAa8_16dbb20f-ee67-4703-97c7-ea4e74cadf8f
-Total Bid Amount: 6800
-Total Earnings: 34000
-Profit/Loss: 27200
-
-Breakdown:
-  Bid: 2, Amount: 6800, Payout: 34000, Status: won

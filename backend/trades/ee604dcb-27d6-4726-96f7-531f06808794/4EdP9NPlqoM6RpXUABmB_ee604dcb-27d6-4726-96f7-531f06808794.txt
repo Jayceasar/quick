@@ -1,9 +1,0 @@
-User ID: 4EdP9NPlqoM6RpXUABmB
-User Name: robot
-Ticket ID: 4EdP9NPlqoM6RpXUABmB_ee604dcb-27d6-4726-96f7-531f06808794
-Total Bid Amount: 800
-Total Earnings: 0
-Profit/Loss: -800
-
-Breakdown:
-  Bid: 3, Amount: 800, Payout: 4000, Status: lost

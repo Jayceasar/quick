@@ -1,9 +1,0 @@
-User ID: tCyuBs-Lu0pIxb-uAAhZ
-User Name: robot
-Ticket ID: tCyuBs-Lu0pIxb-uAAhZ_68f7215f-54a3-4d9e-9251-fc2476209693
-Total Bid Amount: 7700
-Total Earnings: 0
-Profit/Loss: -7700
-
-Breakdown:
-  Bid: 4, Amount: 7700, Payout: 38500, Status: lost

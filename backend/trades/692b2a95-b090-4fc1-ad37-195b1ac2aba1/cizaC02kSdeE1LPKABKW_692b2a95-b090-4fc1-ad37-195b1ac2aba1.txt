@@ -1,9 +1,0 @@
-User ID: cizaC02kSdeE1LPKABKW
-User Name: robot
-Ticket ID: cizaC02kSdeE1LPKABKW_692b2a95-b090-4fc1-ad37-195b1ac2aba1
-Total Bid Amount: 600
-Total Earnings: 3000
-Profit/Loss: 2400
-
-Breakdown:
-  Bid: 5, Amount: 600, Payout: 3000, Status: won

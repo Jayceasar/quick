@@ -1,9 +1,0 @@
-User ID: zHeBgfRmlCLX0owsACBG
-User Name: robot
-Ticket ID: zHeBgfRmlCLX0owsACBG_ce826aab-9a87-417c-932c-403d0e5f1b5b
-Total Bid Amount: 2500
-Total Earnings: 12500
-Profit/Loss: 10000
-
-Breakdown:
-  Bid: 5, Amount: 2500, Payout: 12500, Status: won

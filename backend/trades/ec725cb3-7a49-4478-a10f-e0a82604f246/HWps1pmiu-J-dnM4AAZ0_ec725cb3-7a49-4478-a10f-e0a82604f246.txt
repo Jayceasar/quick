@@ -1,9 +1,0 @@
-User ID: HWps1pmiu-J-dnM4AAZ0
-User Name: robot
-Ticket ID: HWps1pmiu-J-dnM4AAZ0_ec725cb3-7a49-4478-a10f-e0a82604f246
-Total Bid Amount: 2100
-Total Earnings: 0
-Profit/Loss: -2100
-
-Breakdown:
-  Bid: 4, Amount: 2100, Payout: 10500, Status: lost

@@ -1,9 +1,0 @@
-User ID: 9ZQp6WpSe-As7QPIABx9
-User Name: robot
-Ticket ID: 9ZQp6WpSe-As7QPIABx9_4e590ac0-442e-4e7c-bb69-b3985af4acef
-Total Bid Amount: 4700
-Total Earnings: 23500
-Profit/Loss: 18800
-
-Breakdown:
-  Bid: 2, Amount: 4700, Payout: 23500, Status: won

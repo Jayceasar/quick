@@ -1,9 +1,0 @@
-User ID: IlgYxowj7aJo9nnoABLh
-User Name: robot
-Ticket ID: IlgYxowj7aJo9nnoABLh_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 9300
-Total Earnings: 0
-Profit/Loss: -9300
-
-Breakdown:
-  Bid: 5, Amount: 9300, Payout: 46500, Status: lost

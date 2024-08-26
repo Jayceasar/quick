@@ -1,9 +1,0 @@
-User ID: x0PycyV9SCVZBxmvAAx-
-User Name: robot
-Ticket ID: x0PycyV9SCVZBxmvAAx-_9145baa4-fbb4-4c77-91ac-79451b8a8424
-Total Bid Amount: 8600
-Total Earnings: 0
-Profit/Loss: -8600
-
-Breakdown:
-  Bid: 1, Amount: 8600, Payout: 43000, Status: lost

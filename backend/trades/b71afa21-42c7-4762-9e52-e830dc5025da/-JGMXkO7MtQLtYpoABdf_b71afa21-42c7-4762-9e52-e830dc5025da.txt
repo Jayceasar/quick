@@ -1,9 +1,0 @@
-User ID: -JGMXkO7MtQLtYpoABdf
-User Name: robot
-Ticket ID: -JGMXkO7MtQLtYpoABdf_b71afa21-42c7-4762-9e52-e830dc5025da
-Total Bid Amount: 200
-Total Earnings: 1000
-Profit/Loss: 800
-
-Breakdown:
-  Bid: 2, Amount: 200, Payout: 1000, Status: won

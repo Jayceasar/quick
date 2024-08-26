@@ -1,9 +1,0 @@
-User ID: UrpFGr0QZAEZ7TwgAAQ3
-User Name: robot
-Ticket ID: UrpFGr0QZAEZ7TwgAAQ3_3a3c9f6e-ea4d-4148-934a-d93cf7174bd3
-Total Bid Amount: 1700
-Total Earnings: 8500
-Profit/Loss: 6800
-
-Breakdown:
-  Bid: 4, Amount: 1700, Payout: 8500, Status: won

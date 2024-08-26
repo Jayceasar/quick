@@ -1,9 +1,0 @@
-User ID: Uy3o5yhoMI09XEQSACPb
-User Name: robot
-Ticket ID: Uy3o5yhoMI09XEQSACPb_2b9cf866-cf0f-4d05-9e66-7bba29114343
-Total Bid Amount: 6200
-Total Earnings: 0
-Profit/Loss: -6200
-
-Breakdown:
-  Bid: 1, Amount: 6200, Payout: 31000, Status: lost

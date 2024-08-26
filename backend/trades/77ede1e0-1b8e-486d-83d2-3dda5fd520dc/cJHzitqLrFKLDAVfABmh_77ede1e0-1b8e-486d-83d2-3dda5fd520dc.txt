@@ -1,9 +1,0 @@
-User ID: cJHzitqLrFKLDAVfABmh
-User Name: robot
-Ticket ID: cJHzitqLrFKLDAVfABmh_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
-Total Bid Amount: 3400
-Total Earnings: 0
-Profit/Loss: -3400
-
-Breakdown:
-  Bid: 2, Amount: 3400, Payout: 17000, Status: lost

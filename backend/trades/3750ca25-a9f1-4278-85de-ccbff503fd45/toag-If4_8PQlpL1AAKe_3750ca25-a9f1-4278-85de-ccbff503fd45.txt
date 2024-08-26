@@ -1,9 +1,0 @@
-User ID: toag-If4_8PQlpL1AAKe
-User Name: robot
-Ticket ID: toag-If4_8PQlpL1AAKe_3750ca25-a9f1-4278-85de-ccbff503fd45
-Total Bid Amount: 2800
-Total Earnings: 0
-Profit/Loss: -2800
-
-Breakdown:
-  Bid: 4, Amount: 2800, Payout: 14000, Status: lost

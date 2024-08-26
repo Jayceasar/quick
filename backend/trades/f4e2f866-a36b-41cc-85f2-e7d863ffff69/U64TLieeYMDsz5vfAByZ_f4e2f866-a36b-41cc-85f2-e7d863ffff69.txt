@@ -1,9 +1,0 @@
-User ID: U64TLieeYMDsz5vfAByZ
-User Name: robot
-Ticket ID: U64TLieeYMDsz5vfAByZ_f4e2f866-a36b-41cc-85f2-e7d863ffff69
-Total Bid Amount: 100
-Total Earnings: 0
-Profit/Loss: -100
-
-Breakdown:
-  Bid: 2, Amount: 100, Payout: 500, Status: lost

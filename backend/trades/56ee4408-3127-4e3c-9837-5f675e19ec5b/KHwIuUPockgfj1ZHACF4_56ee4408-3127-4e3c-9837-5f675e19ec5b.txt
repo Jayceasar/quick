@@ -1,9 +1,0 @@
-User ID: KHwIuUPockgfj1ZHACF4
-User Name: robot
-Ticket ID: KHwIuUPockgfj1ZHACF4_56ee4408-3127-4e3c-9837-5f675e19ec5b
-Total Bid Amount: 6000
-Total Earnings: 0
-Profit/Loss: -6000
-
-Breakdown:
-  Bid: 1, Amount: 6000, Payout: 30000, Status: lost

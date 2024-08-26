@@ -1,9 +1,0 @@
-User ID: hROk7IG5h1_3VEOwABmU
-User Name: robot
-Ticket ID: hROk7IG5h1_3VEOwABmU_ee604dcb-27d6-4726-96f7-531f06808794
-Total Bid Amount: 5400
-Total Earnings: 27000
-Profit/Loss: 21600
-
-Breakdown:
-  Bid: 4, Amount: 5400, Payout: 27000, Status: won

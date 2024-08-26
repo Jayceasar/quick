@@ -1,9 +1,0 @@
-User ID: 2-G7zrfiH31WHDyTAAaS
-User Name: robot
-Ticket ID: 2-G7zrfiH31WHDyTAAaS_ec725cb3-7a49-4478-a10f-e0a82604f246
-Total Bid Amount: 6100
-Total Earnings: 0
-Profit/Loss: -6100
-
-Breakdown:
-  Bid: 3, Amount: 6100, Payout: 30500, Status: lost

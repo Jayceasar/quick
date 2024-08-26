@@ -1,9 +1,0 @@
-User ID: hIgKEg27Fpr1iOhjAAIW
-User Name: robot
-Ticket ID: hIgKEg27Fpr1iOhjAAIW_62b03c19-c2ac-4766-913d-1d50e3d473a4
-Total Bid Amount: 2300
-Total Earnings: 11500
-Profit/Loss: 9200
-
-Breakdown:
-  Bid: 2, Amount: 2300, Payout: 11500, Status: won

@@ -1,9 +1,0 @@
-User ID: vGGE0JMcNFF-8r9FACQz
-User Name: robot
-Ticket ID: vGGE0JMcNFF-8r9FACQz_69d923c9-96c5-4adb-abe5-ca14ce4bb409
-Total Bid Amount: 9500
-Total Earnings: 0
-Profit/Loss: -9500
-
-Breakdown:
-  Bid: 4, Amount: 9500, Payout: 47500, Status: lost

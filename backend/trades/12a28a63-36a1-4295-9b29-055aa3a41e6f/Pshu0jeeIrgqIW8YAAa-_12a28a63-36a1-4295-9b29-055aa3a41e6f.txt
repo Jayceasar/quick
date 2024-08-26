@@ -1,9 +1,0 @@
-User ID: Pshu0jeeIrgqIW8YAAa-
-User Name: robot
-Ticket ID: Pshu0jeeIrgqIW8YAAa-_12a28a63-36a1-4295-9b29-055aa3a41e6f
-Total Bid Amount: 8100
-Total Earnings: 0
-Profit/Loss: -8100
-
-Breakdown:
-  Bid: 1, Amount: 8100, Payout: 40500, Status: lost

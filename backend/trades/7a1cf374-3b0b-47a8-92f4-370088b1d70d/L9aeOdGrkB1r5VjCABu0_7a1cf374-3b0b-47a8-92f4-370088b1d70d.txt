@@ -1,9 +1,0 @@
-User ID: L9aeOdGrkB1r5VjCABu0
-User Name: robot
-Ticket ID: L9aeOdGrkB1r5VjCABu0_7a1cf374-3b0b-47a8-92f4-370088b1d70d
-Total Bid Amount: 5100
-Total Earnings: 0
-Profit/Loss: -5100
-
-Breakdown:
-  Bid: 4, Amount: 5100, Payout: 25500, Status: lost

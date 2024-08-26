@@ -1,9 +1,0 @@
-User ID: nEDXDuURyiUr5peKAB-D
-User Name: robot
-Ticket ID: nEDXDuURyiUr5peKAB-D_8fc6b331-1cf2-4f7e-b22b-f0768821f205
-Total Bid Amount: 6300
-Total Earnings: 0
-Profit/Loss: -6300
-
-Breakdown:
-  Bid: 4, Amount: 6300, Payout: 31500, Status: lost

@@ -1,9 +1,0 @@
-User ID: 0sbELJkZjMbUSQ4kAAIb
-User Name: robot
-Ticket ID: 0sbELJkZjMbUSQ4kAAIb_62b03c19-c2ac-4766-913d-1d50e3d473a4
-Total Bid Amount: 9100
-Total Earnings: 45500
-Profit/Loss: 36400
-
-Breakdown:
-  Bid: 2, Amount: 9100, Payout: 45500, Status: won

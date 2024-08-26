@@ -1,9 +1,0 @@
-User ID: BZoEI2CUMS_E93kPAAYB
-User Name: robot
-Ticket ID: BZoEI2CUMS_E93kPAAYB_21d39602-8afc-46e7-aeb0-e79f363e1d3a
-Total Bid Amount: 6400
-Total Earnings: 0
-Profit/Loss: -6400
-
-Breakdown:
-  Bid: 4, Amount: 6400, Payout: 32000, Status: lost

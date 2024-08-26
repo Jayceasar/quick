@@ -1,9 +1,0 @@
-User ID: YzSfI-lY8U8gpprRABSA
-User Name: robot
-Ticket ID: YzSfI-lY8U8gpprRABSA_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
-Total Bid Amount: 1900
-Total Earnings: 0
-Profit/Loss: -1900
-
-Breakdown:
-  Bid: 1, Amount: 1900, Payout: 9500, Status: lost

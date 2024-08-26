@@ -1,9 +1,0 @@
-User ID: M39bC17A0_ZgGcoAAAG7
-User Name: robot
-Ticket ID: M39bC17A0_ZgGcoAAAG7_bb5e3028-8c52-4b98-a381-0c2c68383464
-Total Bid Amount: 2200
-Total Earnings: 0
-Profit/Loss: -2200
-
-Breakdown:
-  Bid: 3, Amount: 2200, Payout: 11000, Status: lost

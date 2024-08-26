@@ -1,9 +1,0 @@
-User ID: Ot9zZLmL185QkahUAAVk
-User Name: robot
-Ticket ID: Ot9zZLmL185QkahUAAVk_738a39ff-dd64-475f-85ea-95b884acac04
-Total Bid Amount: 4300
-Total Earnings: 0
-Profit/Loss: -4300
-
-Breakdown:
-  Bid: 5, Amount: 4300, Payout: 21500, Status: lost

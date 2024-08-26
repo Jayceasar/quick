@@ -1,9 +1,0 @@
-User ID: 7R9ml8DR1xTy-FJPABJ6
-User Name: robot
-Ticket ID: 7R9ml8DR1xTy-FJPABJ6_a9db52cd-6733-4195-be60-3550b912c428
-Total Bid Amount: 6600
-Total Earnings: 0
-Profit/Loss: -6600
-
-Breakdown:
-  Bid: 5, Amount: 6600, Payout: 33000, Status: lost

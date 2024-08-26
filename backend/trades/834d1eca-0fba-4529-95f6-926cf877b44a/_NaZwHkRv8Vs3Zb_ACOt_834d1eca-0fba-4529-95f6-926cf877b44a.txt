@@ -1,9 +1,0 @@
-User ID: _NaZwHkRv8Vs3Zb_ACOt
-User Name: robot
-Ticket ID: _NaZwHkRv8Vs3Zb_ACOt_834d1eca-0fba-4529-95f6-926cf877b44a
-Total Bid Amount: 6200
-Total Earnings: 0
-Profit/Loss: -6200
-
-Breakdown:
-  Bid: 4, Amount: 6200, Payout: 31000, Status: lost

@@ -1,9 +1,0 @@
-User ID: A109lsP00op2LVEWAB2t
-User Name: robot
-Ticket ID: A109lsP00op2LVEWAB2t_2781e5b9-a77d-4c00-9c16-4c60db515876
-Total Bid Amount: 500
-Total Earnings: 0
-Profit/Loss: -500
-
-Breakdown:
-  Bid: 4, Amount: 500, Payout: 2500, Status: lost

@@ -1,9 +1,0 @@
-User ID: GhvW-bav3r_cZVQSAB2F
-User Name: robot
-Ticket ID: GhvW-bav3r_cZVQSAB2F_a295add0-ed87-4739-9946-a802886ede6f
-Total Bid Amount: 9600
-Total Earnings: 0
-Profit/Loss: -9600
-
-Breakdown:
-  Bid: 2, Amount: 9600, Payout: 48000, Status: lost

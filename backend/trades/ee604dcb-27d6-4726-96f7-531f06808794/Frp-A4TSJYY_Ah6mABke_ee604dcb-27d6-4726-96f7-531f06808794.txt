@@ -1,9 +1,0 @@
-User ID: Frp-A4TSJYY_Ah6mABke
-User Name: robot
-Ticket ID: Frp-A4TSJYY_Ah6mABke_ee604dcb-27d6-4726-96f7-531f06808794
-Total Bid Amount: 2200
-Total Earnings: 0
-Profit/Loss: -2200
-
-Breakdown:
-  Bid: 1, Amount: 2200, Payout: 11000, Status: lost

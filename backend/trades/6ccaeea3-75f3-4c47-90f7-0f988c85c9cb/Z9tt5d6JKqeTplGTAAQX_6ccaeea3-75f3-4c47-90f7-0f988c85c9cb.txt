@@ -1,9 +1,0 @@
-User ID: Z9tt5d6JKqeTplGTAAQX
-User Name: robot
-Ticket ID: Z9tt5d6JKqeTplGTAAQX_6ccaeea3-75f3-4c47-90f7-0f988c85c9cb
-Total Bid Amount: 1300
-Total Earnings: 0
-Profit/Loss: -1300
-
-Breakdown:
-  Bid: 5, Amount: 1300, Payout: 6500, Status: lost

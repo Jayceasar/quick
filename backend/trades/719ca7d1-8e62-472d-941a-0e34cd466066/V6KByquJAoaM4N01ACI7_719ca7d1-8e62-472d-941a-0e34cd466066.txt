@@ -1,9 +1,0 @@
-User ID: V6KByquJAoaM4N01ACI7
-User Name: robot
-Ticket ID: V6KByquJAoaM4N01ACI7_719ca7d1-8e62-472d-941a-0e34cd466066
-Total Bid Amount: 8200
-Total Earnings: 41000
-Profit/Loss: 32800
-
-Breakdown:
-  Bid: 4, Amount: 8200, Payout: 41000, Status: won

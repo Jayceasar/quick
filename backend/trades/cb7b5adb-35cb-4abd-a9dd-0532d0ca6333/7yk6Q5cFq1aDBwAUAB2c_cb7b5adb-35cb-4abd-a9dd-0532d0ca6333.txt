@@ -1,9 +1,0 @@
-User ID: 7yk6Q5cFq1aDBwAUAB2c
-User Name: robot
-Ticket ID: 7yk6Q5cFq1aDBwAUAB2c_cb7b5adb-35cb-4abd-a9dd-0532d0ca6333
-Total Bid Amount: 3100
-Total Earnings: 0
-Profit/Loss: -3100
-
-Breakdown:
-  Bid: 6, Amount: 3100, Payout: 15500, Status: lost

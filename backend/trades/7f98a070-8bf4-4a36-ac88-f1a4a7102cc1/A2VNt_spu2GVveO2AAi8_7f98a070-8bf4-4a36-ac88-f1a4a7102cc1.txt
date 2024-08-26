@@ -1,9 +1,0 @@
-User ID: A2VNt_spu2GVveO2AAi8
-User Name: robot
-Ticket ID: A2VNt_spu2GVveO2AAi8_7f98a070-8bf4-4a36-ac88-f1a4a7102cc1
-Total Bid Amount: 1600
-Total Earnings: 0
-Profit/Loss: -1600
-
-Breakdown:
-  Bid: 2, Amount: 1600, Payout: 8000, Status: lost

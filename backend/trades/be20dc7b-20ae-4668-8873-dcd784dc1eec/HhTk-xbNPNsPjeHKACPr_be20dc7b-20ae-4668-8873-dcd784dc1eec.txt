@@ -1,9 +1,0 @@
-User ID: HhTk-xbNPNsPjeHKACPr
-User Name: robot
-Ticket ID: HhTk-xbNPNsPjeHKACPr_be20dc7b-20ae-4668-8873-dcd784dc1eec
-Total Bid Amount: 500
-Total Earnings: 0
-Profit/Loss: -500
-
-Breakdown:
-  Bid: 4, Amount: 500, Payout: 2500, Status: lost

@@ -1,9 +1,0 @@
-User ID: 9t81_L_SEPG9Uiz5ABG0
-User Name: robot
-Ticket ID: 9t81_L_SEPG9Uiz5ABG0_692b2a95-b090-4fc1-ad37-195b1ac2aba1
-Total Bid Amount: 10000
-Total Earnings: 50000
-Profit/Loss: 40000
-
-Breakdown:
-  Bid: 5, Amount: 10000, Payout: 50000, Status: won

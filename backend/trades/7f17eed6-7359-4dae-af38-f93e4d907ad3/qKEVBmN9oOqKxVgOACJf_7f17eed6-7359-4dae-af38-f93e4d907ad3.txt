@@ -1,9 +1,0 @@
-User ID: qKEVBmN9oOqKxVgOACJf
-User Name: robot
-Ticket ID: qKEVBmN9oOqKxVgOACJf_7f17eed6-7359-4dae-af38-f93e4d907ad3
-Total Bid Amount: 1000
-Total Earnings: 0
-Profit/Loss: -1000
-
-Breakdown:
-  Bid: 6, Amount: 1000, Payout: 5000, Status: lost

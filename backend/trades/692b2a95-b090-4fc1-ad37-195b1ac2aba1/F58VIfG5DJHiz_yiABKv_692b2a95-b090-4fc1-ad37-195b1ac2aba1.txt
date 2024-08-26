@@ -1,9 +1,0 @@
-User ID: F58VIfG5DJHiz_yiABKv
-User Name: robot
-Ticket ID: F58VIfG5DJHiz_yiABKv_692b2a95-b090-4fc1-ad37-195b1ac2aba1
-Total Bid Amount: 7900
-Total Earnings: 0
-Profit/Loss: -7900
-
-Breakdown:
-  Bid: 1, Amount: 7900, Payout: 39500, Status: lost

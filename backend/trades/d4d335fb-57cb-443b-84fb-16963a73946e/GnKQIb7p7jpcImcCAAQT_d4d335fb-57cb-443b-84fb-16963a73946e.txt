@@ -1,9 +1,0 @@
-User ID: GnKQIb7p7jpcImcCAAQT
-User Name: robot
-Ticket ID: GnKQIb7p7jpcImcCAAQT_d4d335fb-57cb-443b-84fb-16963a73946e
-Total Bid Amount: 6400
-Total Earnings: 0
-Profit/Loss: -6400
-
-Breakdown:
-  Bid: 5, Amount: 6400, Payout: 32000, Status: lost

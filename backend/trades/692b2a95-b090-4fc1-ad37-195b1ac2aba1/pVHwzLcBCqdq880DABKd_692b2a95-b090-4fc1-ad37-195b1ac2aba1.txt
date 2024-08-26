@@ -1,9 +1,0 @@
-User ID: pVHwzLcBCqdq880DABKd
-User Name: robot
-Ticket ID: pVHwzLcBCqdq880DABKd_692b2a95-b090-4fc1-ad37-195b1ac2aba1
-Total Bid Amount: 400
-Total Earnings: 0
-Profit/Loss: -400
-
-Breakdown:
-  Bid: 6, Amount: 400, Payout: 2000, Status: lost

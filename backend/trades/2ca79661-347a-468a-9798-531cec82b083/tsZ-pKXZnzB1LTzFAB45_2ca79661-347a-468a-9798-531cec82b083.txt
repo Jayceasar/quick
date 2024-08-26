@@ -1,9 +1,0 @@
-User ID: tsZ-pKXZnzB1LTzFAB45
-User Name: robot
-Ticket ID: tsZ-pKXZnzB1LTzFAB45_2ca79661-347a-468a-9798-531cec82b083
-Total Bid Amount: 3300
-Total Earnings: 0
-Profit/Loss: -3300
-
-Breakdown:
-  Bid: 2, Amount: 3300, Payout: 16500, Status: lost

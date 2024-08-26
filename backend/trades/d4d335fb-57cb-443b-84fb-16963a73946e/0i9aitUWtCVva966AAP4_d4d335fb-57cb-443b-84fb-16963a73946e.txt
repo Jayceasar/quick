@@ -1,9 +1,0 @@
-User ID: 0i9aitUWtCVva966AAP4
-User Name: robot
-Ticket ID: 0i9aitUWtCVva966AAP4_d4d335fb-57cb-443b-84fb-16963a73946e
-Total Bid Amount: 6600
-Total Earnings: 0
-Profit/Loss: -6600
-
-Breakdown:
-  Bid: 5, Amount: 6600, Payout: 33000, Status: lost

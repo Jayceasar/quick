@@ -1,9 +1,0 @@
-User ID: fn-_IEJK1WzzNPOWAAa5
-User Name: robot
-Ticket ID: fn-_IEJK1WzzNPOWAAa5_f4cf4c3f-d9ae-4795-8b4a-b94bad6521aa
-Total Bid Amount: 8000
-Total Earnings: 0
-Profit/Loss: -8000
-
-Breakdown:
-  Bid: 6, Amount: 8000, Payout: 40000, Status: lost

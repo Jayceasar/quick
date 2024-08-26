@@ -1,9 +1,0 @@
-User ID: Y3SdvahjmXhsRKUMAAiU
-User Name: robot
-Ticket ID: Y3SdvahjmXhsRKUMAAiU_7f98a070-8bf4-4a36-ac88-f1a4a7102cc1
-Total Bid Amount: 8800
-Total Earnings: 0
-Profit/Loss: -8800
-
-Breakdown:
-  Bid: 2, Amount: 8800, Payout: 44000, Status: lost

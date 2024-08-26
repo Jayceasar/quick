@@ -1,9 +1,0 @@
-User ID: WMiNvUwI3gnQdckpAAKQ
-User Name: robot
-Ticket ID: WMiNvUwI3gnQdckpAAKQ_f048d9c2-8570-4071-a590-7ae743a2254d
-Total Bid Amount: 8000
-Total Earnings: 0
-Profit/Loss: -8000
-
-Breakdown:
-  Bid: 4, Amount: 8000, Payout: 40000, Status: lost

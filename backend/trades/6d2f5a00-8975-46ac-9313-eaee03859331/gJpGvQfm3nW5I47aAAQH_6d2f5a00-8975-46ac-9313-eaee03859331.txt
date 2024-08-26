@@ -1,9 +1,0 @@
-User ID: gJpGvQfm3nW5I47aAAQH
-User Name: robot
-Ticket ID: gJpGvQfm3nW5I47aAAQH_6d2f5a00-8975-46ac-9313-eaee03859331
-Total Bid Amount: 3800
-Total Earnings: 19000
-Profit/Loss: 15200
-
-Breakdown:
-  Bid: 2, Amount: 3800, Payout: 19000, Status: won

@@ -1,9 +1,0 @@
-User ID: FBt9l0b3u1EgbVG9ACBc
-User Name: robot
-Ticket ID: FBt9l0b3u1EgbVG9ACBc_1ef77e2e-c546-4d3b-9792-199e225f9210
-Total Bid Amount: 4600
-Total Earnings: 0
-Profit/Loss: -4600
-
-Breakdown:
-  Bid: 6, Amount: 4600, Payout: 23000, Status: lost

@@ -1,9 +1,0 @@
-User ID: Jcv39y0-GgHkb1bvAA1C
-User Name: robot
-Ticket ID: Jcv39y0-GgHkb1bvAA1C_2f29ff1d-157f-4672-8a4d-f540db984810
-Total Bid Amount: 2800
-Total Earnings: 0
-Profit/Loss: -2800
-
-Breakdown:
-  Bid: 3, Amount: 2800, Payout: 14000, Status: lost

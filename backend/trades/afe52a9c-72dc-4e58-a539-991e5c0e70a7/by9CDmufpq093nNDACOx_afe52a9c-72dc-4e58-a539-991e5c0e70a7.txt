@@ -1,9 +1,0 @@
-User ID: by9CDmufpq093nNDACOx
-User Name: robot
-Ticket ID: by9CDmufpq093nNDACOx_afe52a9c-72dc-4e58-a539-991e5c0e70a7
-Total Bid Amount: 500
-Total Earnings: 0
-Profit/Loss: -500
-
-Breakdown:
-  Bid: 4, Amount: 500, Payout: 2500, Status: lost

@@ -1,9 +1,0 @@
-User ID: gZDpW3IAdwzTAzJhAAKs
-User Name: robot
-Ticket ID: gZDpW3IAdwzTAzJhAAKs_ad3a8c72-299f-43d4-805f-4646b325aae0
-Total Bid Amount: 1600
-Total Earnings: 0
-Profit/Loss: -1600
-
-Breakdown:
-  Bid: 2, Amount: 1600, Payout: 8000, Status: lost

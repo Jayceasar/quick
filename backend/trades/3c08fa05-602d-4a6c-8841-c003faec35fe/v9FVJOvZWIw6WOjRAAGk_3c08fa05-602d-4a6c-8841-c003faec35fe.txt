@@ -1,9 +1,0 @@
-User ID: v9FVJOvZWIw6WOjRAAGk
-User Name: robot
-Ticket ID: v9FVJOvZWIw6WOjRAAGk_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 1000
-Total Earnings: 5000
-Profit/Loss: 4000
-
-Breakdown:
-  Bid: 5, Amount: 1000, Payout: 5000, Status: won

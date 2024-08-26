@@ -1,9 +1,0 @@
-User ID: DLk_8OABW5WY6mfjAAZ7
-User Name: robot
-Ticket ID: DLk_8OABW5WY6mfjAAZ7_51aaa087-b7d2-477a-9555-272cadfee5a8
-Total Bid Amount: 5800
-Total Earnings: 0
-Profit/Loss: -5800
-
-Breakdown:
-  Bid: 5, Amount: 5800, Payout: 29000, Status: lost

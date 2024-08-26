@@ -1,9 +1,0 @@
-User ID: c4vKt0aRnvhBjgeBABPX
-User Name: robot
-Ticket ID: c4vKt0aRnvhBjgeBABPX_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
-Total Bid Amount: 1200
-Total Earnings: 0
-Profit/Loss: -1200
-
-Breakdown:
-  Bid: 5, Amount: 1200, Payout: 6000, Status: lost

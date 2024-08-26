@@ -1,9 +1,0 @@
-User ID: -yXEFm3H8ib6snZ1ACFp
-User Name: robot
-Ticket ID: -yXEFm3H8ib6snZ1ACFp_2a327de1-2fbe-48c6-b3b3-e81f12d12845
-Total Bid Amount: 2200
-Total Earnings: 0
-Profit/Loss: -2200
-
-Breakdown:
-  Bid: 6, Amount: 2200, Payout: 11000, Status: lost

@@ -1,9 +1,0 @@
-User ID: vbNQ_JT63sWSwNnQAAKX
-User Name: robot
-Ticket ID: vbNQ_JT63sWSwNnQAAKX_62b03c19-c2ac-4766-913d-1d50e3d473a4
-Total Bid Amount: 7600
-Total Earnings: 0
-Profit/Loss: -7600
-
-Breakdown:
-  Bid: 1, Amount: 7600, Payout: 38000, Status: lost

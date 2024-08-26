@@ -1,9 +1,0 @@
-User ID: E6Jhsf4wUMYQktbvAB2o
-User Name: robot
-Ticket ID: E6Jhsf4wUMYQktbvAB2o_a5318a37-9f3b-4e0f-afd9-4ce9b649cb5f
-Total Bid Amount: 4400
-Total Earnings: 0
-Profit/Loss: -4400
-
-Breakdown:
-  Bid: 6, Amount: 4400, Payout: 22000, Status: lost

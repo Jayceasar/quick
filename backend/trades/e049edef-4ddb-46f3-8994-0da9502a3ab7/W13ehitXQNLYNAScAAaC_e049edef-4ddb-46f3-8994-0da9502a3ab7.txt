@@ -1,9 +1,0 @@
-User ID: W13ehitXQNLYNAScAAaC
-User Name: robot
-Ticket ID: W13ehitXQNLYNAScAAaC_e049edef-4ddb-46f3-8994-0da9502a3ab7
-Total Bid Amount: 5400
-Total Earnings: 0
-Profit/Loss: -5400
-
-Breakdown:
-  Bid: 4, Amount: 5400, Payout: 27000, Status: lost

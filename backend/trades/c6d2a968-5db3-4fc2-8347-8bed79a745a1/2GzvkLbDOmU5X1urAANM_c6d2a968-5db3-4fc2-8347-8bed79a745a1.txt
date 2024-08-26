@@ -1,9 +1,0 @@
-User ID: 2GzvkLbDOmU5X1urAANM
-User Name: robot
-Ticket ID: 2GzvkLbDOmU5X1urAANM_c6d2a968-5db3-4fc2-8347-8bed79a745a1
-Total Bid Amount: 1600
-Total Earnings: 0
-Profit/Loss: -1600
-
-Breakdown:
-  Bid: 4, Amount: 1600, Payout: 8000, Status: lost

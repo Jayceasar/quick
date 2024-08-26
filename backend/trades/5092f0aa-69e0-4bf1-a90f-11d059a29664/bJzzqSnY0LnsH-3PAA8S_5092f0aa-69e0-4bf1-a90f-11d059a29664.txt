@@ -1,9 +1,0 @@
-User ID: bJzzqSnY0LnsH-3PAA8S
-User Name: robot
-Ticket ID: bJzzqSnY0LnsH-3PAA8S_5092f0aa-69e0-4bf1-a90f-11d059a29664
-Total Bid Amount: 8800
-Total Earnings: 0
-Profit/Loss: -8800
-
-Breakdown:
-  Bid: 3, Amount: 8800, Payout: 44000, Status: lost

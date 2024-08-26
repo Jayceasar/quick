@@ -1,9 +1,0 @@
-User ID: 0HdeI6hvZt0TU9__AAMg
-User Name: robot
-Ticket ID: 0HdeI6hvZt0TU9__AAMg_37c5d6ff-88c8-4fb6-a9db-bee3fcec589b
-Total Bid Amount: 100
-Total Earnings: 0
-Profit/Loss: -100
-
-Breakdown:
-  Bid: 6, Amount: 100, Payout: 500, Status: lost

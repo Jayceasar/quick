@@ -1,9 +1,0 @@
-User ID: VxLrrtBhMQl0ei97AAhe
-User Name: robot
-Ticket ID: VxLrrtBhMQl0ei97AAhe_7f98a070-8bf4-4a36-ac88-f1a4a7102cc1
-Total Bid Amount: 100
-Total Earnings: 0
-Profit/Loss: -100
-
-Breakdown:
-  Bid: 1, Amount: 100, Payout: 500, Status: lost

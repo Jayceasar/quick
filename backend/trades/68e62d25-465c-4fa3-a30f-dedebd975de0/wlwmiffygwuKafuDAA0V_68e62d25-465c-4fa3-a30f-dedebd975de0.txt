@@ -1,9 +1,0 @@
-User ID: wlwmiffygwuKafuDAA0V
-User Name: robot
-Ticket ID: wlwmiffygwuKafuDAA0V_68e62d25-465c-4fa3-a30f-dedebd975de0
-Total Bid Amount: 300
-Total Earnings: 1500
-Profit/Loss: 1200
-
-Breakdown:
-  Bid: 5, Amount: 300, Payout: 1500, Status: won

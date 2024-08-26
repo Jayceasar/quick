@@ -1,9 +1,0 @@
-User ID: UpFQPVYuq7z5uV7hAAG9
-User Name: robot
-Ticket ID: UpFQPVYuq7z5uV7hAAG9_4e9bd619-44c7-44be-b455-d4e16a0cafb6
-Total Bid Amount: 800
-Total Earnings: 0
-Profit/Loss: -800
-
-Breakdown:
-  Bid: 6, Amount: 800, Payout: 4000, Status: lost

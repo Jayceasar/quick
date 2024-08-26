@@ -1,9 +1,0 @@
-User ID: NIidIq1eOMq7Vu-TAAhA
-User Name: robot
-Ticket ID: NIidIq1eOMq7Vu-TAAhA_f3e07e15-d270-454e-8739-2e9bb78f4dc8
-Total Bid Amount: 2000
-Total Earnings: 0
-Profit/Loss: -2000
-
-Breakdown:
-  Bid: 3, Amount: 2000, Payout: 10000, Status: lost

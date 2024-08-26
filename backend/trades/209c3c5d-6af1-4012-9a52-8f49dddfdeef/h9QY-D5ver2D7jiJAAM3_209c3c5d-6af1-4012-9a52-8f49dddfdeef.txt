@@ -1,9 +1,0 @@
-User ID: h9QY-D5ver2D7jiJAAM3
-User Name: robot
-Ticket ID: h9QY-D5ver2D7jiJAAM3_209c3c5d-6af1-4012-9a52-8f49dddfdeef
-Total Bid Amount: 1000
-Total Earnings: 0
-Profit/Loss: -1000
-
-Breakdown:
-  Bid: 4, Amount: 1000, Payout: 5000, Status: lost

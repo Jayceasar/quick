@@ -1,9 +1,0 @@
-User ID: IjuNw5z50NPN3IQdABLd
-User Name: robot
-Ticket ID: IjuNw5z50NPN3IQdABLd_a9db52cd-6733-4195-be60-3550b912c428
-Total Bid Amount: 6500
-Total Earnings: 0
-Profit/Loss: -6500
-
-Breakdown:
-  Bid: 6, Amount: 6500, Payout: 32500, Status: lost

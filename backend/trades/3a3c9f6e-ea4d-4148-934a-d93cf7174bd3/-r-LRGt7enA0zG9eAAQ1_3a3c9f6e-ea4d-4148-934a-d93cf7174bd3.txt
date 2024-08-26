@@ -1,9 +1,0 @@
-User ID: -r-LRGt7enA0zG9eAAQ1
-User Name: robot
-Ticket ID: -r-LRGt7enA0zG9eAAQ1_3a3c9f6e-ea4d-4148-934a-d93cf7174bd3
-Total Bid Amount: 1300
-Total Earnings: 0
-Profit/Loss: -1300
-
-Breakdown:
-  Bid: 2, Amount: 1300, Payout: 6500, Status: lost

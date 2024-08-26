@@ -1,9 +1,0 @@
-User ID: 4J1VVsL_1IxUZ5o5ABl3
-User Name: robot
-Ticket ID: 4J1VVsL_1IxUZ5o5ABl3_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
-Total Bid Amount: 5400
-Total Earnings: 0
-Profit/Loss: -5400
-
-Breakdown:
-  Bid: 5, Amount: 5400, Payout: 27000, Status: lost

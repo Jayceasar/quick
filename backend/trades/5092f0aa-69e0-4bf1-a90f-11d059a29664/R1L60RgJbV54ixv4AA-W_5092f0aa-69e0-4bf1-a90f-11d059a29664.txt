@@ -1,9 +1,0 @@
-User ID: R1L60RgJbV54ixv4AA-W
-User Name: robot
-Ticket ID: R1L60RgJbV54ixv4AA-W_5092f0aa-69e0-4bf1-a90f-11d059a29664
-Total Bid Amount: 6700
-Total Earnings: 0
-Profit/Loss: -6700
-
-Breakdown:
-  Bid: 6, Amount: 6700, Payout: 33500, Status: lost

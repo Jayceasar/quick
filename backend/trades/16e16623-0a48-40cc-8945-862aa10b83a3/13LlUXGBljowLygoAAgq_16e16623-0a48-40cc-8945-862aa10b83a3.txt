@@ -1,9 +1,0 @@
-User ID: 13LlUXGBljowLygoAAgq
-User Name: robot
-Ticket ID: 13LlUXGBljowLygoAAgq_16e16623-0a48-40cc-8945-862aa10b83a3
-Total Bid Amount: 2200
-Total Earnings: 0
-Profit/Loss: -2200
-
-Breakdown:
-  Bid: 6, Amount: 2200, Payout: 11000, Status: lost

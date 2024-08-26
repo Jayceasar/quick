@@ -1,9 +1,0 @@
-User ID: yvgex1UvE5OuXZYwAAus
-User Name: robot
-Ticket ID: yvgex1UvE5OuXZYwAAus_db0ef95d-e018-483f-b64a-b1c385856283
-Total Bid Amount: 3300
-Total Earnings: 16500
-Profit/Loss: 13200
-
-Breakdown:
-  Bid: 3, Amount: 3300, Payout: 16500, Status: won

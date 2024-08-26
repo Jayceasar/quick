@@ -1,9 +1,0 @@
-User ID: DFdoyebkWkbaWetKAAKS
-User Name: robot
-Ticket ID: DFdoyebkWkbaWetKAAKS_f048d9c2-8570-4071-a590-7ae743a2254d
-Total Bid Amount: 900
-Total Earnings: 0
-Profit/Loss: -900
-
-Breakdown:
-  Bid: 5, Amount: 900, Payout: 4500, Status: lost

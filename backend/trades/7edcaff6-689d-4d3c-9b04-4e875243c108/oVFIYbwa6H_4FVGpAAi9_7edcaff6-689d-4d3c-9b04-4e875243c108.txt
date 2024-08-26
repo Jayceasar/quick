@@ -1,9 +1,0 @@
-User ID: oVFIYbwa6H_4FVGpAAi9
-User Name: robot
-Ticket ID: oVFIYbwa6H_4FVGpAAi9_7edcaff6-689d-4d3c-9b04-4e875243c108
-Total Bid Amount: 200
-Total Earnings: 1000
-Profit/Loss: 800
-
-Breakdown:
-  Bid: 2, Amount: 200, Payout: 1000, Status: won

@@ -1,9 +1,0 @@
-User ID: twcqesidlbFBiP1GAANV
-User Name: robot
-Ticket ID: twcqesidlbFBiP1GAANV_37c5d6ff-88c8-4fb6-a9db-bee3fcec589b
-Total Bid Amount: 4100
-Total Earnings: 20500
-Profit/Loss: 16400
-
-Breakdown:
-  Bid: 4, Amount: 4100, Payout: 20500, Status: won

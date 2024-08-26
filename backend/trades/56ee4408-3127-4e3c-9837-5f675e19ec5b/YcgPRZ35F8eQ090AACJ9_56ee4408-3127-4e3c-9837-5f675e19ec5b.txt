@@ -1,9 +1,0 @@
-User ID: YcgPRZ35F8eQ090AACJ9
-User Name: robot
-Ticket ID: YcgPRZ35F8eQ090AACJ9_56ee4408-3127-4e3c-9837-5f675e19ec5b
-Total Bid Amount: 3700
-Total Earnings: 0
-Profit/Loss: -3700
-
-Breakdown:
-  Bid: 6, Amount: 3700, Payout: 18500, Status: lost

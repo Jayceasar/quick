@@ -1,9 +1,0 @@
-User ID: th_0C-RR7LY2QLkPAA2T
-User Name: robot
-Ticket ID: th_0C-RR7LY2QLkPAA2T_d7f235bf-d254-4efd-894a-37a2ac2dbf1c
-Total Bid Amount: 100
-Total Earnings: 500
-Profit/Loss: 400
-
-Breakdown:
-  Bid: 4, Amount: 100, Payout: 500, Status: won

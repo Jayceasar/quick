@@ -1,9 +1,0 @@
-User ID: G7KDpjE7TBJ_RUr7AB-_
-User Name: robot
-Ticket ID: G7KDpjE7TBJ_RUr7AB-__b139540f-748f-4ef4-96bf-eba631dd2ec8
-Total Bid Amount: 4400
-Total Earnings: 0
-Profit/Loss: -4400
-
-Breakdown:
-  Bid: 4, Amount: 4400, Payout: 22000, Status: lost

@@ -1,9 +1,0 @@
-User ID: 7iFUk0jJURzyuuNxAA0i
-User Name: robot
-Ticket ID: 7iFUk0jJURzyuuNxAA0i_ea2ac63c-b057-4cf3-9c72-de8e18bd58ea
-Total Bid Amount: 9500
-Total Earnings: 0
-Profit/Loss: -9500
-
-Breakdown:
-  Bid: 1, Amount: 9500, Payout: 47500, Status: lost

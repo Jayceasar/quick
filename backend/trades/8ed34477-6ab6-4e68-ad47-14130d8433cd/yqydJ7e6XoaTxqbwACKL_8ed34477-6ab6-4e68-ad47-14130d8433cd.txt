@@ -1,9 +1,0 @@
-User ID: yqydJ7e6XoaTxqbwACKL
-User Name: robot
-Ticket ID: yqydJ7e6XoaTxqbwACKL_8ed34477-6ab6-4e68-ad47-14130d8433cd
-Total Bid Amount: 500
-Total Earnings: 0
-Profit/Loss: -500
-
-Breakdown:
-  Bid: 5, Amount: 500, Payout: 2500, Status: lost

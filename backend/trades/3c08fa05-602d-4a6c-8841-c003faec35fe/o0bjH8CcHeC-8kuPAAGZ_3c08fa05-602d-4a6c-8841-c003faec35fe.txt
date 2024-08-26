@@ -1,9 +1,0 @@
-User ID: o0bjH8CcHeC-8kuPAAGZ
-User Name: robot
-Ticket ID: o0bjH8CcHeC-8kuPAAGZ_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 6000
-Total Earnings: 30000
-Profit/Loss: 24000
-
-Breakdown:
-  Bid: 5, Amount: 6000, Payout: 30000, Status: won

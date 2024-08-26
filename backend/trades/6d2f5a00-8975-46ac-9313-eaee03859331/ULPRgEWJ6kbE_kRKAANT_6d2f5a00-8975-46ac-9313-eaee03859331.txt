@@ -1,9 +1,0 @@
-User ID: ULPRgEWJ6kbE_kRKAANT
-User Name: robot
-Ticket ID: ULPRgEWJ6kbE_kRKAANT_6d2f5a00-8975-46ac-9313-eaee03859331
-Total Bid Amount: 2500
-Total Earnings: 0
-Profit/Loss: -2500
-
-Breakdown:
-  Bid: 4, Amount: 2500, Payout: 12500, Status: lost

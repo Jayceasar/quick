@@ -1,9 +1,0 @@
-User ID: bf47KSYp4F0i3_c-ABuv
-User Name: robot
-Ticket ID: bf47KSYp4F0i3_c-ABuv_7a1cf374-3b0b-47a8-92f4-370088b1d70d
-Total Bid Amount: 2000
-Total Earnings: 0
-Profit/Loss: -2000
-
-Breakdown:
-  Bid: 1, Amount: 2000, Payout: 10000, Status: lost

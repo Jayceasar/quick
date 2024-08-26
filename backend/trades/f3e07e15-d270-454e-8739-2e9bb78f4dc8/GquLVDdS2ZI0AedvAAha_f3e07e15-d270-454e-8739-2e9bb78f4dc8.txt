@@ -1,9 +1,0 @@
-User ID: GquLVDdS2ZI0AedvAAha
-User Name: robot
-Ticket ID: GquLVDdS2ZI0AedvAAha_f3e07e15-d270-454e-8739-2e9bb78f4dc8
-Total Bid Amount: 7700
-Total Earnings: 0
-Profit/Loss: -7700
-
-Breakdown:
-  Bid: 5, Amount: 7700, Payout: 38500, Status: lost

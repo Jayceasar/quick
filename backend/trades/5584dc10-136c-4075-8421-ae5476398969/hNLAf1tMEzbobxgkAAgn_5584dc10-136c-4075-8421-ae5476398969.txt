@@ -1,9 +1,0 @@
-User ID: hNLAf1tMEzbobxgkAAgn
-User Name: robot
-Ticket ID: hNLAf1tMEzbobxgkAAgn_5584dc10-136c-4075-8421-ae5476398969
-Total Bid Amount: 6300
-Total Earnings: 0
-Profit/Loss: -6300
-
-Breakdown:
-  Bid: 5, Amount: 6300, Payout: 31500, Status: lost

@@ -1,9 +1,0 @@
-User ID: MHdHjcr3jvsgMC7CABGb
-User Name: robot
-Ticket ID: MHdHjcr3jvsgMC7CABGb_a9db52cd-6733-4195-be60-3550b912c428
-Total Bid Amount: 3600
-Total Earnings: 0
-Profit/Loss: -3600
-
-Breakdown:
-  Bid: 5, Amount: 3600, Payout: 18000, Status: lost

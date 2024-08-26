@@ -1,9 +1,0 @@
-User ID: 9-Uti2tU4fvEMH1HACRG
-User Name: robot
-Ticket ID: 9-Uti2tU4fvEMH1HACRG_dae14f69-3f67-457b-8673-ca273cbd7cdd
-Total Bid Amount: 3400
-Total Earnings: 17000
-Profit/Loss: 13600
-
-Breakdown:
-  Bid: 3, Amount: 3400, Payout: 17000, Status: won

@@ -1,9 +1,0 @@
-User ID: VEwryRUrcdusKp5IABlB
-User Name: robot
-Ticket ID: VEwryRUrcdusKp5IABlB_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
-Total Bid Amount: 4100
-Total Earnings: 20500
-Profit/Loss: 16400
-
-Breakdown:
-  Bid: 3, Amount: 4100, Payout: 20500, Status: won

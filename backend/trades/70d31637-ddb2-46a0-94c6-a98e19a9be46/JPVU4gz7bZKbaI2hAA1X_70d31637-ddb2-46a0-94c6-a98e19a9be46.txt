@@ -1,9 +1,0 @@
-User ID: JPVU4gz7bZKbaI2hAA1X
-User Name: robot
-Ticket ID: JPVU4gz7bZKbaI2hAA1X_70d31637-ddb2-46a0-94c6-a98e19a9be46
-Total Bid Amount: 2700
-Total Earnings: 0
-Profit/Loss: -2700
-
-Breakdown:
-  Bid: 5, Amount: 2700, Payout: 13500, Status: lost

@@ -1,9 +1,0 @@
-User ID: pfdJexnOAazIfg4wAA9T
-User Name: robot
-Ticket ID: pfdJexnOAazIfg4wAA9T_66f65ae5-5096-4806-89d8-dcb36cb9e685
-Total Bid Amount: 5200
-Total Earnings: 0
-Profit/Loss: -5200
-
-Breakdown:
-  Bid: 4, Amount: 5200, Payout: 26000, Status: lost

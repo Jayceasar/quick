@@ -1,9 +1,0 @@
-User ID: ZwCxwaitDdBE9lzEABu-
-User Name: robot
-Ticket ID: ZwCxwaitDdBE9lzEABu-_c901059c-d365-4652-9ffb-306f75be1174
-Total Bid Amount: 300
-Total Earnings: 1500
-Profit/Loss: 1200
-
-Breakdown:
-  Bid: 1, Amount: 300, Payout: 1500, Status: won

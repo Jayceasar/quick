@@ -1,9 +1,0 @@
-User ID: TbitQBzaV4r004h0AA9s
-User Name: robot
-Ticket ID: TbitQBzaV4r004h0AA9s_5092f0aa-69e0-4bf1-a90f-11d059a29664
-Total Bid Amount: 7900
-Total Earnings: 0
-Profit/Loss: -7900
-
-Breakdown:
-  Bid: 2, Amount: 7900, Payout: 39500, Status: lost

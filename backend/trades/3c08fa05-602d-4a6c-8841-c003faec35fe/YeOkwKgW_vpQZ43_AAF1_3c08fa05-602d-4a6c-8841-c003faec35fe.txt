@@ -1,9 +1,0 @@
-User ID: YeOkwKgW_vpQZ43_AAF1
-User Name: robot
-Ticket ID: YeOkwKgW_vpQZ43_AAF1_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 3600
-Total Earnings: 0
-Profit/Loss: -3600
-
-Breakdown:
-  Bid: 3, Amount: 3600, Payout: 18000, Status: lost

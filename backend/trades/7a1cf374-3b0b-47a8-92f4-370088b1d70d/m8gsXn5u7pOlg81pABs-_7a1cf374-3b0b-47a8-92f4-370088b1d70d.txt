@@ -1,9 +1,0 @@
-User ID: m8gsXn5u7pOlg81pABs-
-User Name: robot
-Ticket ID: m8gsXn5u7pOlg81pABs-_7a1cf374-3b0b-47a8-92f4-370088b1d70d
-Total Bid Amount: 7800
-Total Earnings: 39000
-Profit/Loss: 31200
-
-Breakdown:
-  Bid: 2, Amount: 7800, Payout: 39000, Status: won

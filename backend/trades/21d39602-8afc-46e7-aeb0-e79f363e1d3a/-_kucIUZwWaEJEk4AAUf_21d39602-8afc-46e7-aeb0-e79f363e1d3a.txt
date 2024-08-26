@@ -1,9 +1,0 @@
-User ID: -_kucIUZwWaEJEk4AAUf
-User Name: robot
-Ticket ID: -_kucIUZwWaEJEk4AAUf_21d39602-8afc-46e7-aeb0-e79f363e1d3a
-Total Bid Amount: 8200
-Total Earnings: 0
-Profit/Loss: -8200
-
-Breakdown:
-  Bid: 6, Amount: 8200, Payout: 41000, Status: lost

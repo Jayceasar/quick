@@ -1,9 +1,0 @@
-User ID: QVhBH9KaBqieSiMEABYp
-User Name: robot
-Ticket ID: QVhBH9KaBqieSiMEABYp_8fa77666-9d7f-4032-9eb6-68ecb3f56761
-Total Bid Amount: 5400
-Total Earnings: 27000
-Profit/Loss: 21600
-
-Breakdown:
-  Bid: 5, Amount: 5400, Payout: 27000, Status: won

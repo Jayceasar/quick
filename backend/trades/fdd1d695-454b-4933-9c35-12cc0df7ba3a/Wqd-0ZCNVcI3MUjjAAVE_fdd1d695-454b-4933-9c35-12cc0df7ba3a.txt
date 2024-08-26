@@ -1,9 +1,0 @@
-User ID: Wqd-0ZCNVcI3MUjjAAVE
-User Name: robot
-Ticket ID: Wqd-0ZCNVcI3MUjjAAVE_fdd1d695-454b-4933-9c35-12cc0df7ba3a
-Total Bid Amount: 8200
-Total Earnings: 0
-Profit/Loss: -8200
-
-Breakdown:
-  Bid: 1, Amount: 8200, Payout: 41000, Status: lost

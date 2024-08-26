@@ -1,9 +1,0 @@
-User ID: JkFzdg9agBYU3w_wABk-
-User Name: robot
-Ticket ID: JkFzdg9agBYU3w_wABk-_ee604dcb-27d6-4726-96f7-531f06808794
-Total Bid Amount: 300
-Total Earnings: 0
-Profit/Loss: -300
-
-Breakdown:
-  Bid: 2, Amount: 300, Payout: 1500, Status: lost

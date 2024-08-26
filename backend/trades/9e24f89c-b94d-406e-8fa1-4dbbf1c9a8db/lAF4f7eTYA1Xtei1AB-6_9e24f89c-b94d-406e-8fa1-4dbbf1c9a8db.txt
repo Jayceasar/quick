@@ -1,9 +1,0 @@
-User ID: lAF4f7eTYA1Xtei1AB-6
-User Name: robot
-Ticket ID: lAF4f7eTYA1Xtei1AB-6_9e24f89c-b94d-406e-8fa1-4dbbf1c9a8db
-Total Bid Amount: 7900
-Total Earnings: 39500
-Profit/Loss: 31600
-
-Breakdown:
-  Bid: 1, Amount: 7900, Payout: 39500, Status: won

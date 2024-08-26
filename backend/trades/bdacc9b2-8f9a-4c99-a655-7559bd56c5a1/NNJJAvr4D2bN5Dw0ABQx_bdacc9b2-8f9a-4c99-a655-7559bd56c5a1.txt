@@ -1,9 +1,0 @@
-User ID: NNJJAvr4D2bN5Dw0ABQx
-User Name: robot
-Ticket ID: NNJJAvr4D2bN5Dw0ABQx_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
-Total Bid Amount: 2200
-Total Earnings: 11000
-Profit/Loss: 8800
-
-Breakdown:
-  Bid: 3, Amount: 2200, Payout: 11000, Status: won

@@ -1,9 +1,0 @@
-User ID: FxrzGQM-j1vUEfr3AAu0
-User Name: robot
-Ticket ID: FxrzGQM-j1vUEfr3AAu0_db0ef95d-e018-483f-b64a-b1c385856283
-Total Bid Amount: 4900
-Total Earnings: 0
-Profit/Loss: -4900
-
-Breakdown:
-  Bid: 5, Amount: 4900, Payout: 24500, Status: lost

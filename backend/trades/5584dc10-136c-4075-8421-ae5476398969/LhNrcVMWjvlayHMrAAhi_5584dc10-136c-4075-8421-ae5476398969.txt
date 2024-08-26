@@ -1,9 +1,0 @@
-User ID: LhNrcVMWjvlayHMrAAhi
-User Name: robot
-Ticket ID: LhNrcVMWjvlayHMrAAhi_5584dc10-136c-4075-8421-ae5476398969
-Total Bid Amount: 8100
-Total Earnings: 0
-Profit/Loss: -8100
-
-Breakdown:
-  Bid: 5, Amount: 8100, Payout: 40500, Status: lost

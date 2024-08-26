@@ -1,9 +1,0 @@
-User ID: GnKQIb7p7jpcImcCAAQT
-User Name: robot
-Ticket ID: GnKQIb7p7jpcImcCAAQT_37c5d6ff-88c8-4fb6-a9db-bee3fcec589b
-Total Bid Amount: 7000
-Total Earnings: 35000
-Profit/Loss: 28000
-
-Breakdown:
-  Bid: 4, Amount: 7000, Payout: 35000, Status: won

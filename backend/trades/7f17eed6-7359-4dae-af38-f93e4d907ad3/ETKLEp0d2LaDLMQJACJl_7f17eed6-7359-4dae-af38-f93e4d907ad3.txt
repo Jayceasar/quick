@@ -1,9 +1,0 @@
-User ID: ETKLEp0d2LaDLMQJACJl
-User Name: robot
-Ticket ID: ETKLEp0d2LaDLMQJACJl_7f17eed6-7359-4dae-af38-f93e4d907ad3
-Total Bid Amount: 9200
-Total Earnings: 0
-Profit/Loss: -9200
-
-Breakdown:
-  Bid: 6, Amount: 9200, Payout: 46000, Status: lost

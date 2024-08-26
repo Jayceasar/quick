@@ -1,9 +1,0 @@
-User ID: VHEqdt7CTVsYcvTTAB05
-User Name: robot
-Ticket ID: VHEqdt7CTVsYcvTTAB05_01af48cf-5a07-4b4a-b906-5b1c32c765d1
-Total Bid Amount: 3400
-Total Earnings: 0
-Profit/Loss: -3400
-
-Breakdown:
-  Bid: 5, Amount: 3400, Payout: 17000, Status: lost

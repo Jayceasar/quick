@@ -1,9 +1,0 @@
-User ID: k2KdnVSOarVwvnMCAAbA
-User Name: robot
-Ticket ID: k2KdnVSOarVwvnMCAAbA_ac39253e-389b-40af-bf23-283e69c7f92d
-Total Bid Amount: 8900
-Total Earnings: 0
-Profit/Loss: -8900
-
-Breakdown:
-  Bid: 2, Amount: 8900, Payout: 44500, Status: lost

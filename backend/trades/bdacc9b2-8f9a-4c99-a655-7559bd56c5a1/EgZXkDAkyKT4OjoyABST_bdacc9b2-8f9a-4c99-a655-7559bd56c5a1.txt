@@ -1,9 +1,0 @@
-User ID: EgZXkDAkyKT4OjoyABST
-User Name: robot
-Ticket ID: EgZXkDAkyKT4OjoyABST_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
-Total Bid Amount: 6000
-Total Earnings: 0
-Profit/Loss: -6000
-
-Breakdown:
-  Bid: 5, Amount: 6000, Payout: 30000, Status: lost

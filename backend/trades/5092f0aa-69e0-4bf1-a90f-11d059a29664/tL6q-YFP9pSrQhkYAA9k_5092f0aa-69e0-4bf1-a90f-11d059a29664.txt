@@ -1,9 +1,0 @@
-User ID: tL6q-YFP9pSrQhkYAA9k
-User Name: robot
-Ticket ID: tL6q-YFP9pSrQhkYAA9k_5092f0aa-69e0-4bf1-a90f-11d059a29664
-Total Bid Amount: 1600
-Total Earnings: 8000
-Profit/Loss: 6400
-
-Breakdown:
-  Bid: 1, Amount: 1600, Payout: 8000, Status: won

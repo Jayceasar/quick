@@ -1,9 +1,0 @@
-User ID: PGzfSwVxNtuqsZB9AB2O
-User Name: robot
-Ticket ID: PGzfSwVxNtuqsZB9AB2O_4e590ac0-442e-4e7c-bb69-b3985af4acef
-Total Bid Amount: 100
-Total Earnings: 0
-Profit/Loss: -100
-
-Breakdown:
-  Bid: 5, Amount: 100, Payout: 500, Status: lost

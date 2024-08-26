@@ -1,9 +1,0 @@
-User ID: yQQwuf7c8bE0US70AB1n
-User Name: robot
-Ticket ID: yQQwuf7c8bE0US70AB1n_73cf31f2-8401-4ac4-bb24-a78ee513d5d7
-Total Bid Amount: 7800
-Total Earnings: 0
-Profit/Loss: -7800
-
-Breakdown:
-  Bid: 6, Amount: 7800, Payout: 39000, Status: lost

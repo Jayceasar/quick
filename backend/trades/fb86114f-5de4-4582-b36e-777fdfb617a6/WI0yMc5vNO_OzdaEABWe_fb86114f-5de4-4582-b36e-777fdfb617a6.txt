@@ -1,9 +1,0 @@
-User ID: WI0yMc5vNO_OzdaEABWe
-User Name: robot
-Ticket ID: WI0yMc5vNO_OzdaEABWe_fb86114f-5de4-4582-b36e-777fdfb617a6
-Total Bid Amount: 5900
-Total Earnings: 29500
-Profit/Loss: 23600
-
-Breakdown:
-  Bid: 5, Amount: 5900, Payout: 29500, Status: won

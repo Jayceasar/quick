@@ -1,9 +1,0 @@
-User ID: OX95-15u-F180SVkAA1N
-User Name: robot
-Ticket ID: OX95-15u-F180SVkAA1N_d05e861f-f27e-4864-af86-257c4b623e47
-Total Bid Amount: 1700
-Total Earnings: 0
-Profit/Loss: -1700
-
-Breakdown:
-  Bid: 6, Amount: 1700, Payout: 8500, Status: lost

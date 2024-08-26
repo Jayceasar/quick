@@ -1,9 +1,0 @@
-User ID: k13otg6WAVr-_OjAABQu
-User Name: robot
-Ticket ID: k13otg6WAVr-_OjAABQu_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
-Total Bid Amount: 3400
-Total Earnings: 17000
-Profit/Loss: 13600
-
-Breakdown:
-  Bid: 3, Amount: 3400, Payout: 17000, Status: won

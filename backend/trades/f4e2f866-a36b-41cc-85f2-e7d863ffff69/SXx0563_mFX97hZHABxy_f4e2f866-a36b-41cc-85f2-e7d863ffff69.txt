@@ -1,9 +1,0 @@
-User ID: SXx0563_mFX97hZHABxy
-User Name: robot
-Ticket ID: SXx0563_mFX97hZHABxy_f4e2f866-a36b-41cc-85f2-e7d863ffff69
-Total Bid Amount: 3500
-Total Earnings: 0
-Profit/Loss: -3500
-
-Breakdown:
-  Bid: 5, Amount: 3500, Payout: 17500, Status: lost

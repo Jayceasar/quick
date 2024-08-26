@@ -1,9 +1,0 @@
-User ID: xDthhjKzyzBdCKJvABKE
-User Name: robot
-Ticket ID: xDthhjKzyzBdCKJvABKE_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 1600
-Total Earnings: 8000
-Profit/Loss: 6400
-
-Breakdown:
-  Bid: 6, Amount: 1600, Payout: 8000, Status: won

@@ -1,9 +1,0 @@
-User ID: 3ZmwGWw4KUpPVVIYACBw
-User Name: robot
-Ticket ID: 3ZmwGWw4KUpPVVIYACBw_8fc6b331-1cf2-4f7e-b22b-f0768821f205
-Total Bid Amount: 6600
-Total Earnings: 33000
-Profit/Loss: 26400
-
-Breakdown:
-  Bid: 6, Amount: 6600, Payout: 33000, Status: won

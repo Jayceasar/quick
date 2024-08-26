@@ -1,9 +1,0 @@
-User ID: pEioPwY3EfaQhvL4ABJf
-User Name: robot
-Ticket ID: pEioPwY3EfaQhvL4ABJf_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 9700
-Total Earnings: 0
-Profit/Loss: -9700
-
-Breakdown:
-  Bid: 5, Amount: 9700, Payout: 48500, Status: lost

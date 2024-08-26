@@ -1,9 +1,0 @@
-User ID: tgABdK_JpH-vMvIWABY7
-User Name: robot
-Ticket ID: tgABdK_JpH-vMvIWABY7_8fa77666-9d7f-4032-9eb6-68ecb3f56761
-Total Bid Amount: 8300
-Total Earnings: 0
-Profit/Loss: -8300
-
-Breakdown:
-  Bid: 3, Amount: 8300, Payout: 41500, Status: lost

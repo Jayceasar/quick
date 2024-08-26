@@ -1,9 +1,0 @@
-User ID: yPTaFaNny9M9WEe0ACKX
-User Name: robot
-Ticket ID: yPTaFaNny9M9WEe0ACKX_2a327de1-2fbe-48c6-b3b3-e81f12d12845
-Total Bid Amount: 2400
-Total Earnings: 0
-Profit/Loss: -2400
-
-Breakdown:
-  Bid: 4, Amount: 2400, Payout: 12000, Status: lost

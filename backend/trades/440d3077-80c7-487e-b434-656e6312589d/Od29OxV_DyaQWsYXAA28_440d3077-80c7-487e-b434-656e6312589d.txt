@@ -1,9 +1,0 @@
-User ID: Od29OxV_DyaQWsYXAA28
-User Name: robot
-Ticket ID: Od29OxV_DyaQWsYXAA28_440d3077-80c7-487e-b434-656e6312589d
-Total Bid Amount: 5300
-Total Earnings: 26500
-Profit/Loss: 21200
-
-Breakdown:
-  Bid: 1, Amount: 5300, Payout: 26500, Status: won

@@ -1,9 +1,0 @@
-User ID: J2TTZEtb3VJ3U04EABYn
-User Name: robot
-Ticket ID: J2TTZEtb3VJ3U04EABYn_8fa77666-9d7f-4032-9eb6-68ecb3f56761
-Total Bid Amount: 4200
-Total Earnings: 0
-Profit/Loss: -4200
-
-Breakdown:
-  Bid: 1, Amount: 4200, Payout: 21000, Status: lost

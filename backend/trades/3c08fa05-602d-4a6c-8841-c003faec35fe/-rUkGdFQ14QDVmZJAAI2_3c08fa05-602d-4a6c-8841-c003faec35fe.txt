@@ -1,9 +1,0 @@
-User ID: -rUkGdFQ14QDVmZJAAI2
-User Name: robot
-Ticket ID: -rUkGdFQ14QDVmZJAAI2_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 4700
-Total Earnings: 0
-Profit/Loss: -4700
-
-Breakdown:
-  Bid: 1, Amount: 4700, Payout: 23500, Status: lost

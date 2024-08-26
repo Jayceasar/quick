@@ -1,9 +1,0 @@
-User ID: ZYWOmeGDKQETa-6PABJz
-User Name: robot
-Ticket ID: ZYWOmeGDKQETa-6PABJz_a9db52cd-6733-4195-be60-3550b912c428
-Total Bid Amount: 8600
-Total Earnings: 43000
-Profit/Loss: 34400
-
-Breakdown:
-  Bid: 1, Amount: 8600, Payout: 43000, Status: won

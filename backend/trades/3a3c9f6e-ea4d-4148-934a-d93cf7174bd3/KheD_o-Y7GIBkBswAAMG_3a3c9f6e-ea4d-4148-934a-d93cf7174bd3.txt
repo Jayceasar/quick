@@ -1,9 +1,0 @@
-User ID: KheD_o-Y7GIBkBswAAMG
-User Name: robot
-Ticket ID: KheD_o-Y7GIBkBswAAMG_3a3c9f6e-ea4d-4148-934a-d93cf7174bd3
-Total Bid Amount: 4800
-Total Earnings: 24000
-Profit/Loss: 19200
-
-Breakdown:
-  Bid: 4, Amount: 4800, Payout: 24000, Status: won

@@ -1,9 +1,0 @@
-User ID: M0FYNVEC9j4OWeevACJQ
-User Name: robot
-Ticket ID: M0FYNVEC9j4OWeevACJQ_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
-Total Bid Amount: 100
-Total Earnings: 0
-Profit/Loss: -100
-
-Breakdown:
-  Bid: 6, Amount: 100, Payout: 500, Status: lost

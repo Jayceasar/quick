@@ -1,9 +1,0 @@
-User ID: oC0UbNLaQlh2I1ygABPn
-User Name: robot
-Ticket ID: oC0UbNLaQlh2I1ygABPn_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
-Total Bid Amount: 500
-Total Earnings: 0
-Profit/Loss: -500
-
-Breakdown:
-  Bid: 1, Amount: 500, Payout: 2500, Status: lost

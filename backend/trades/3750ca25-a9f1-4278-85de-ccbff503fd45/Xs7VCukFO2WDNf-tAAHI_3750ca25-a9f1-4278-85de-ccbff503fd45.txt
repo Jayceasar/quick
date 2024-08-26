@@ -1,9 +1,0 @@
-User ID: Xs7VCukFO2WDNf-tAAHI
-User Name: robot
-Ticket ID: Xs7VCukFO2WDNf-tAAHI_3750ca25-a9f1-4278-85de-ccbff503fd45
-Total Bid Amount: 8700
-Total Earnings: 0
-Profit/Loss: -8700
-
-Breakdown:
-  Bid: 1, Amount: 8700, Payout: 43500, Status: lost

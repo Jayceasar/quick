@@ -1,9 +1,0 @@
-User ID: -prApQ5vWrWbH93nAAHR
-User Name: robot
-Ticket ID: -prApQ5vWrWbH93nAAHR_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 5800
-Total Earnings: 0
-Profit/Loss: -5800
-
-Breakdown:
-  Bid: 2, Amount: 5800, Payout: 29000, Status: lost

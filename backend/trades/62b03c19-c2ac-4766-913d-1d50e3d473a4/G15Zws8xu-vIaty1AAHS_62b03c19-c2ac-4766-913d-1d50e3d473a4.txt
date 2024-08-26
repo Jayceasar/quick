@@ -1,9 +1,0 @@
-User ID: G15Zws8xu-vIaty1AAHS
-User Name: robot
-Ticket ID: G15Zws8xu-vIaty1AAHS_62b03c19-c2ac-4766-913d-1d50e3d473a4
-Total Bid Amount: 6000
-Total Earnings: 0
-Profit/Loss: -6000
-
-Breakdown:
-  Bid: 1, Amount: 6000, Payout: 30000, Status: lost

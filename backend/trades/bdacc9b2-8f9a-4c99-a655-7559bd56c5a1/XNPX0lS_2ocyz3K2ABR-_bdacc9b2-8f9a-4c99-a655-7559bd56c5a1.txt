@@ -1,9 +1,0 @@
-User ID: XNPX0lS_2ocyz3K2ABR-
-User Name: robot
-Ticket ID: XNPX0lS_2ocyz3K2ABR-_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
-Total Bid Amount: 9200
-Total Earnings: 0
-Profit/Loss: -9200
-
-Breakdown:
-  Bid: 2, Amount: 9200, Payout: 46000, Status: lost

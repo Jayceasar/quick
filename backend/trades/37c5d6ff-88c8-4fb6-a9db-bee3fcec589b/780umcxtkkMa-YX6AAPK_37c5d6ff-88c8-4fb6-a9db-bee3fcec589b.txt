@@ -1,9 +1,0 @@
-User ID: 780umcxtkkMa-YX6AAPK
-User Name: robot
-Ticket ID: 780umcxtkkMa-YX6AAPK_37c5d6ff-88c8-4fb6-a9db-bee3fcec589b
-Total Bid Amount: 200
-Total Earnings: 0
-Profit/Loss: -200
-
-Breakdown:
-  Bid: 3, Amount: 200, Payout: 1000, Status: lost

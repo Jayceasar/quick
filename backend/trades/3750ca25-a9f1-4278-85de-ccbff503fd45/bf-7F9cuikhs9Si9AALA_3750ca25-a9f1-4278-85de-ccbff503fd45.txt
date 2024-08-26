@@ -1,9 +1,0 @@
-User ID: bf-7F9cuikhs9Si9AALA
-User Name: robot
-Ticket ID: bf-7F9cuikhs9Si9AALA_3750ca25-a9f1-4278-85de-ccbff503fd45
-Total Bid Amount: 2100
-Total Earnings: 0
-Profit/Loss: -2100
-
-Breakdown:
-  Bid: 4, Amount: 2100, Payout: 10500, Status: lost

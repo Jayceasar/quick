@@ -1,9 +1,0 @@
-User ID: y2dyLexwuD39IfCWAA-A
-User Name: robot
-Ticket ID: y2dyLexwuD39IfCWAA-A_66f65ae5-5096-4806-89d8-dcb36cb9e685
-Total Bid Amount: 6600
-Total Earnings: 0
-Profit/Loss: -6600
-
-Breakdown:
-  Bid: 3, Amount: 6600, Payout: 33000, Status: lost

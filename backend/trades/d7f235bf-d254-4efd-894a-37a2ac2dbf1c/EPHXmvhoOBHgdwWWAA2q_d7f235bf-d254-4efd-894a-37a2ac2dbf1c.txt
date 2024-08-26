@@ -1,9 +1,0 @@
-User ID: EPHXmvhoOBHgdwWWAA2q
-User Name: robot
-Ticket ID: EPHXmvhoOBHgdwWWAA2q_d7f235bf-d254-4efd-894a-37a2ac2dbf1c
-Total Bid Amount: 8900
-Total Earnings: 0
-Profit/Loss: -8900
-
-Breakdown:
-  Bid: 5, Amount: 8900, Payout: 44500, Status: lost

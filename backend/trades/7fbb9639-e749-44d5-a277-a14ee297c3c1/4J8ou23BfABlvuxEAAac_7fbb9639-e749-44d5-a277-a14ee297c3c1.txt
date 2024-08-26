@@ -1,9 +1,0 @@
-User ID: 4J8ou23BfABlvuxEAAac
-User Name: robot
-Ticket ID: 4J8ou23BfABlvuxEAAac_7fbb9639-e749-44d5-a277-a14ee297c3c1
-Total Bid Amount: 8300
-Total Earnings: 41500
-Profit/Loss: 33200
-
-Breakdown:
-  Bid: 1, Amount: 8300, Payout: 41500, Status: won

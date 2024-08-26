@@ -1,9 +1,0 @@
-User ID: VANz69E6UFavIW4_ACBi
-User Name: robot
-Ticket ID: VANz69E6UFavIW4_ACBi_08a5c846-9e25-4cd7-810c-2809d6eecf3d
-Total Bid Amount: 7400
-Total Earnings: 0
-Profit/Loss: -7400
-
-Breakdown:
-  Bid: 5, Amount: 7400, Payout: 37000, Status: lost

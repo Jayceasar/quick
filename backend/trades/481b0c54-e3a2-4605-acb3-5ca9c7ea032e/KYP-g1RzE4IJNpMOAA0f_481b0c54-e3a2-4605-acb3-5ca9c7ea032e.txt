@@ -1,9 +1,0 @@
-User ID: KYP-g1RzE4IJNpMOAA0f
-User Name: robot
-Ticket ID: KYP-g1RzE4IJNpMOAA0f_481b0c54-e3a2-4605-acb3-5ca9c7ea032e
-Total Bid Amount: 5000
-Total Earnings: 0
-Profit/Loss: -5000
-
-Breakdown:
-  Bid: 4, Amount: 5000, Payout: 25000, Status: lost

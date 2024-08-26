@@ -1,9 +1,0 @@
-User ID: JPii8WunpyAfs9TTAAjf
-User Name: robot
-Ticket ID: JPii8WunpyAfs9TTAAjf_f3e07e15-d270-454e-8739-2e9bb78f4dc8
-Total Bid Amount: 300
-Total Earnings: 0
-Profit/Loss: -300
-
-Breakdown:
-  Bid: 1, Amount: 300, Payout: 1500, Status: lost

@@ -1,9 +1,0 @@
-User ID: iD5r-2oU2CZ1S3htABkd
-User Name: robot
-Ticket ID: iD5r-2oU2CZ1S3htABkd_ee604dcb-27d6-4726-96f7-531f06808794
-Total Bid Amount: 200
-Total Earnings: 0
-Profit/Loss: -200
-
-Breakdown:
-  Bid: 3, Amount: 200, Payout: 1000, Status: lost

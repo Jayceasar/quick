@@ -1,9 +1,0 @@
-User ID: P6dRjfTJvVYO512lAAQ4
-User Name: robot
-Ticket ID: P6dRjfTJvVYO512lAAQ4_6ccaeea3-75f3-4c47-90f7-0f988c85c9cb
-Total Bid Amount: 9300
-Total Earnings: 0
-Profit/Loss: -9300
-
-Breakdown:
-  Bid: 4, Amount: 9300, Payout: 46500, Status: lost

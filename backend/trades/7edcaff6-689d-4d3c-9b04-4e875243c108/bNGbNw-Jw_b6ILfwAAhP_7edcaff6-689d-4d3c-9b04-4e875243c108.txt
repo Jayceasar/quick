@@ -1,9 +1,0 @@
-User ID: bNGbNw-Jw_b6ILfwAAhP
-User Name: robot
-Ticket ID: bNGbNw-Jw_b6ILfwAAhP_7edcaff6-689d-4d3c-9b04-4e875243c108
-Total Bid Amount: 8500
-Total Earnings: 0
-Profit/Loss: -8500
-
-Breakdown:
-  Bid: 4, Amount: 8500, Payout: 42500, Status: lost

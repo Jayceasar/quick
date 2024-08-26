@@ -1,9 +1,0 @@
-User ID: UI-r1coEc4OLVySSAAOL
-User Name: robot
-Ticket ID: UI-r1coEc4OLVySSAAOL_6d2f5a00-8975-46ac-9313-eaee03859331
-Total Bid Amount: 8600
-Total Earnings: 0
-Profit/Loss: -8600
-
-Breakdown:
-  Bid: 1, Amount: 8600, Payout: 43000, Status: lost

@@ -1,9 +1,0 @@
-User ID: Fkgin04agbv2lgLSAA-k
-User Name: robot
-Ticket ID: Fkgin04agbv2lgLSAA-k_73e52ea7-53a0-471d-a88d-2ad368de3cb4
-Total Bid Amount: 4500
-Total Earnings: 0
-Profit/Loss: -4500
-
-Breakdown:
-  Bid: 6, Amount: 4500, Payout: 22500, Status: lost

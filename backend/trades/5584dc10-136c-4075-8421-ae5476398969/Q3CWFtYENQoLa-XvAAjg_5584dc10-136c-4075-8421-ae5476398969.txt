@@ -1,9 +1,0 @@
-User ID: Q3CWFtYENQoLa-XvAAjg
-User Name: robot
-Ticket ID: Q3CWFtYENQoLa-XvAAjg_5584dc10-136c-4075-8421-ae5476398969
-Total Bid Amount: 1100
-Total Earnings: 0
-Profit/Loss: -1100
-
-Breakdown:
-  Bid: 6, Amount: 1100, Payout: 5500, Status: lost

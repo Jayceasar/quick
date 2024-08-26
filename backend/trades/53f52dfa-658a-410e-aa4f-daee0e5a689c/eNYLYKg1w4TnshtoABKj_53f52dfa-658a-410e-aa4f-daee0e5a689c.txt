@@ -1,9 +1,0 @@
-User ID: eNYLYKg1w4TnshtoABKj
-User Name: robot
-Ticket ID: eNYLYKg1w4TnshtoABKj_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 800
-Total Earnings: 0
-Profit/Loss: -800
-
-Breakdown:
-  Bid: 2, Amount: 800, Payout: 4000, Status: lost

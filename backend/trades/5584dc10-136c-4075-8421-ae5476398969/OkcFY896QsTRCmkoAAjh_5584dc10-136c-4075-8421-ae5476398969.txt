@@ -1,9 +1,0 @@
-User ID: OkcFY896QsTRCmkoAAjh
-User Name: robot
-Ticket ID: OkcFY896QsTRCmkoAAjh_5584dc10-136c-4075-8421-ae5476398969
-Total Bid Amount: 7500
-Total Earnings: 0
-Profit/Loss: -7500
-
-Breakdown:
-  Bid: 3, Amount: 7500, Payout: 37500, Status: lost

@@ -1,9 +1,0 @@
-User ID: HiUizQjMm58GIs1gAAiq
-User Name: robot
-Ticket ID: HiUizQjMm58GIs1gAAiq_9e12c48f-b9a9-484b-ab41-5d351c1d1206
-Total Bid Amount: 4200
-Total Earnings: 0
-Profit/Loss: -4200
-
-Breakdown:
-  Bid: 4, Amount: 4200, Payout: 21000, Status: lost

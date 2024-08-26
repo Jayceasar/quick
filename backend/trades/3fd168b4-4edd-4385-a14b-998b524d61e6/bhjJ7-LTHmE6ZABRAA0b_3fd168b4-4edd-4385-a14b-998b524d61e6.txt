@@ -1,9 +1,0 @@
-User ID: bhjJ7-LTHmE6ZABRAA0b
-User Name: robot
-Ticket ID: bhjJ7-LTHmE6ZABRAA0b_3fd168b4-4edd-4385-a14b-998b524d61e6
-Total Bid Amount: 5100
-Total Earnings: 0
-Profit/Loss: -5100
-
-Breakdown:
-  Bid: 5, Amount: 5100, Payout: 25500, Status: lost

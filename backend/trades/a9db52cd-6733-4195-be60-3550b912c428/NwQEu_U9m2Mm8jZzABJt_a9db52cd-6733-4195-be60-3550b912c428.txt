@@ -1,9 +1,0 @@
-User ID: NwQEu_U9m2Mm8jZzABJt
-User Name: robot
-Ticket ID: NwQEu_U9m2Mm8jZzABJt_a9db52cd-6733-4195-be60-3550b912c428
-Total Bid Amount: 1700
-Total Earnings: 0
-Profit/Loss: -1700
-
-Breakdown:
-  Bid: 6, Amount: 1700, Payout: 8500, Status: lost

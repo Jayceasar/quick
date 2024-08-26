@@ -1,9 +1,0 @@
-User ID: 8CSyMPAVZblbGGr4AByN
-User Name: robot
-Ticket ID: 8CSyMPAVZblbGGr4AByN_c5622fe9-fa66-4682-a1ea-f8ed721f9645
-Total Bid Amount: 3300
-Total Earnings: 16500
-Profit/Loss: 13200
-
-Breakdown:
-  Bid: 3, Amount: 3300, Payout: 16500, Status: won

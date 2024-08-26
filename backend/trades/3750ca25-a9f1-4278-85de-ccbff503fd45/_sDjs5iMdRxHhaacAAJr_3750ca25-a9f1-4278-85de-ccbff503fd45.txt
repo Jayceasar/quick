@@ -1,9 +1,0 @@
-User ID: _sDjs5iMdRxHhaacAAJr
-User Name: robot
-Ticket ID: _sDjs5iMdRxHhaacAAJr_3750ca25-a9f1-4278-85de-ccbff503fd45
-Total Bid Amount: 7800
-Total Earnings: 0
-Profit/Loss: -7800
-
-Breakdown:
-  Bid: 2, Amount: 7800, Payout: 39000, Status: lost

@@ -1,9 +1,0 @@
-User ID: QpLJnE8wrjXkdF4sAA0t
-User Name: robot
-Ticket ID: QpLJnE8wrjXkdF4sAA0t_9145baa4-fbb4-4c77-91ac-79451b8a8424
-Total Bid Amount: 2000
-Total Earnings: 0
-Profit/Loss: -2000
-
-Breakdown:
-  Bid: 4, Amount: 2000, Payout: 10000, Status: lost

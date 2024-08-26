@@ -1,9 +1,0 @@
-User ID: d7_n5TQ8cAf9GKSNAA0a
-User Name: robot
-Ticket ID: d7_n5TQ8cAf9GKSNAA0a_70d31637-ddb2-46a0-94c6-a98e19a9be46
-Total Bid Amount: 3300
-Total Earnings: 0
-Profit/Loss: -3300
-
-Breakdown:
-  Bid: 1, Amount: 3300, Payout: 16500, Status: lost

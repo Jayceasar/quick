@@ -1,9 +1,0 @@
-User ID: 57n-IoOCV4vmJ02nAA07
-User Name: robot
-Ticket ID: 57n-IoOCV4vmJ02nAA07_ea2ac63c-b057-4cf3-9c72-de8e18bd58ea
-Total Bid Amount: 2400
-Total Earnings: 0
-Profit/Loss: -2400
-
-Breakdown:
-  Bid: 6, Amount: 2400, Payout: 12000, Status: lost

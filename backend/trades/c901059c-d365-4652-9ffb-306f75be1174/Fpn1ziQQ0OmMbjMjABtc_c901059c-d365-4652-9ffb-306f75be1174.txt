@@ -1,9 +1,0 @@
-User ID: Fpn1ziQQ0OmMbjMjABtc
-User Name: robot
-Ticket ID: Fpn1ziQQ0OmMbjMjABtc_c901059c-d365-4652-9ffb-306f75be1174
-Total Bid Amount: 7400
-Total Earnings: 0
-Profit/Loss: -7400
-
-Breakdown:
-  Bid: 5, Amount: 7400, Payout: 37000, Status: lost

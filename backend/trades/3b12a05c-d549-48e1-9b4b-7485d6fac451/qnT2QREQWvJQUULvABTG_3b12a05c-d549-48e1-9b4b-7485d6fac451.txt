@@ -1,9 +1,0 @@
-User ID: qnT2QREQWvJQUULvABTG
-User Name: robot
-Ticket ID: qnT2QREQWvJQUULvABTG_3b12a05c-d549-48e1-9b4b-7485d6fac451
-Total Bid Amount: 9400
-Total Earnings: 0
-Profit/Loss: -9400
-
-Breakdown:
-  Bid: 4, Amount: 9400, Payout: 47000, Status: lost

@@ -1,9 +1,0 @@
-User ID: 7NzJzvGwr3MUmPU3AAaM
-User Name: robot
-Ticket ID: 7NzJzvGwr3MUmPU3AAaM_7a671b83-81fa-4264-86f6-18f1ae111b2b
-Total Bid Amount: 900
-Total Earnings: 0
-Profit/Loss: -900
-
-Breakdown:
-  Bid: 5, Amount: 900, Payout: 4500, Status: lost

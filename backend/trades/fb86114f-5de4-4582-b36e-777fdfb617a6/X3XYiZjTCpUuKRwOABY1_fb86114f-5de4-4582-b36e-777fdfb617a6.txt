@@ -1,9 +1,0 @@
-User ID: X3XYiZjTCpUuKRwOABY1
-User Name: robot
-Ticket ID: X3XYiZjTCpUuKRwOABY1_fb86114f-5de4-4582-b36e-777fdfb617a6
-Total Bid Amount: 4300
-Total Earnings: 0
-Profit/Loss: -4300
-
-Breakdown:
-  Bid: 2, Amount: 4300, Payout: 21500, Status: lost

@@ -1,9 +1,0 @@
-User ID: fQGPoOXUKP88bL_ZAByK
-User Name: robot
-Ticket ID: fQGPoOXUKP88bL_ZAByK_c5622fe9-fa66-4682-a1ea-f8ed721f9645
-Total Bid Amount: 3500
-Total Earnings: 0
-Profit/Loss: -3500
-
-Breakdown:
-  Bid: 4, Amount: 3500, Payout: 17500, Status: lost

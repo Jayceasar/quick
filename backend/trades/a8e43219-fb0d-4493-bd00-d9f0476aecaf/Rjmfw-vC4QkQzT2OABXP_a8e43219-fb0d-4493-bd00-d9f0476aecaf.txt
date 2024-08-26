@@ -1,9 +1,0 @@
-User ID: Rjmfw-vC4QkQzT2OABXP
-User Name: robot
-Ticket ID: Rjmfw-vC4QkQzT2OABXP_a8e43219-fb0d-4493-bd00-d9f0476aecaf
-Total Bid Amount: 1100
-Total Earnings: 0
-Profit/Loss: -1100
-
-Breakdown:
-  Bid: 2, Amount: 1100, Payout: 5500, Status: lost

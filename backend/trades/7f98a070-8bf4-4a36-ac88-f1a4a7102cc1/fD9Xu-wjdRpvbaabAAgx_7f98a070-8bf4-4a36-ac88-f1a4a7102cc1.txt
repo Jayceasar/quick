@@ -1,9 +1,0 @@
-User ID: fD9Xu-wjdRpvbaabAAgx
-User Name: robot
-Ticket ID: fD9Xu-wjdRpvbaabAAgx_7f98a070-8bf4-4a36-ac88-f1a4a7102cc1
-Total Bid Amount: 2300
-Total Earnings: 0
-Profit/Loss: -2300
-
-Breakdown:
-  Bid: 2, Amount: 2300, Payout: 11500, Status: lost

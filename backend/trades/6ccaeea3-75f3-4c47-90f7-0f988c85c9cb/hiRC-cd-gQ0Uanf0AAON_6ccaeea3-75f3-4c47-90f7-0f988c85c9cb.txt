@@ -1,9 +1,0 @@
-User ID: hiRC-cd-gQ0Uanf0AAON
-User Name: robot
-Ticket ID: hiRC-cd-gQ0Uanf0AAON_6ccaeea3-75f3-4c47-90f7-0f988c85c9cb
-Total Bid Amount: 9500
-Total Earnings: 0
-Profit/Loss: -9500
-
-Breakdown:
-  Bid: 1, Amount: 9500, Payout: 47500, Status: lost

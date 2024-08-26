@@ -1,9 +1,0 @@
-User ID: mQM5s0O0kUrz1Y2tABXX
-User Name: robot
-Ticket ID: mQM5s0O0kUrz1Y2tABXX_8fa77666-9d7f-4032-9eb6-68ecb3f56761
-Total Bid Amount: 4300
-Total Earnings: 0
-Profit/Loss: -4300
-
-Breakdown:
-  Bid: 2, Amount: 4300, Payout: 21500, Status: lost

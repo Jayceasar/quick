@@ -1,9 +1,0 @@
-User ID: l3ThrCW4Ao1ykp2JAAtM
-User Name: robot
-Ticket ID: l3ThrCW4Ao1ykp2JAAtM_db0ef95d-e018-483f-b64a-b1c385856283
-Total Bid Amount: 2400
-Total Earnings: 0
-Profit/Loss: -2400
-
-Breakdown:
-  Bid: 4, Amount: 2400, Payout: 12000, Status: lost

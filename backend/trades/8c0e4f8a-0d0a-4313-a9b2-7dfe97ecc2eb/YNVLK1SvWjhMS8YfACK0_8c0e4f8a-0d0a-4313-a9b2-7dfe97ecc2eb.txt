@@ -1,9 +1,0 @@
-User ID: YNVLK1SvWjhMS8YfACK0
-User Name: robot
-Ticket ID: YNVLK1SvWjhMS8YfACK0_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
-Total Bid Amount: 2900
-Total Earnings: 0
-Profit/Loss: -2900
-
-Breakdown:
-  Bid: 2, Amount: 2900, Payout: 14500, Status: lost

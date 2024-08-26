@@ -1,9 +1,0 @@
-User ID: CHO7c20l7ZTQA1fLAA1B
-User Name: robot
-Ticket ID: CHO7c20l7ZTQA1fLAA1B_2f29ff1d-157f-4672-8a4d-f540db984810
-Total Bid Amount: 6400
-Total Earnings: 0
-Profit/Loss: -6400
-
-Breakdown:
-  Bid: 4, Amount: 6400, Payout: 32000, Status: lost

@@ -1,9 +1,0 @@
-User ID: HktwiUsHS_WChwGFAAKt
-User Name: robot
-Ticket ID: HktwiUsHS_WChwGFAAKt_ad3a8c72-299f-43d4-805f-4646b325aae0
-Total Bid Amount: 3100
-Total Earnings: 0
-Profit/Loss: -3100
-
-Breakdown:
-  Bid: 5, Amount: 3100, Payout: 15500, Status: lost

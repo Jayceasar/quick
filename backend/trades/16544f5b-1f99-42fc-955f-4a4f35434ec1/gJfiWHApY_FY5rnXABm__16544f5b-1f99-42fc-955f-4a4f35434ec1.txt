@@ -1,9 +1,0 @@
-User ID: gJfiWHApY_FY5rnXABm_
-User Name: robot
-Ticket ID: gJfiWHApY_FY5rnXABm__16544f5b-1f99-42fc-955f-4a4f35434ec1
-Total Bid Amount: 5300
-Total Earnings: 0
-Profit/Loss: -5300
-
-Breakdown:
-  Bid: 2, Amount: 5300, Payout: 26500, Status: lost

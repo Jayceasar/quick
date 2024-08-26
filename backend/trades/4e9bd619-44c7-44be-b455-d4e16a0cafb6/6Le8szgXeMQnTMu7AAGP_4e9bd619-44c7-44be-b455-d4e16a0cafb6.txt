@@ -1,9 +1,0 @@
-User ID: 6Le8szgXeMQnTMu7AAGP
-User Name: robot
-Ticket ID: 6Le8szgXeMQnTMu7AAGP_4e9bd619-44c7-44be-b455-d4e16a0cafb6
-Total Bid Amount: 7800
-Total Earnings: 0
-Profit/Loss: -7800
-
-Breakdown:
-  Bid: 1, Amount: 7800, Payout: 39000, Status: lost

@@ -1,9 +1,0 @@
-User ID: JUe7Wo7-Llbyr_HnAAad
-User Name: robot
-Ticket ID: JUe7Wo7-Llbyr_HnAAad_e049edef-4ddb-46f3-8994-0da9502a3ab7
-Total Bid Amount: 3000
-Total Earnings: 0
-Profit/Loss: -3000
-
-Breakdown:
-  Bid: 6, Amount: 3000, Payout: 15000, Status: lost

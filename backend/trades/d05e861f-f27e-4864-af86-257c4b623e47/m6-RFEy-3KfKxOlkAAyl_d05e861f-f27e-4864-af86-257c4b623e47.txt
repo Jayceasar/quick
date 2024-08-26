@@ -1,9 +1,0 @@
-User ID: m6-RFEy-3KfKxOlkAAyl
-User Name: robot
-Ticket ID: m6-RFEy-3KfKxOlkAAyl_d05e861f-f27e-4864-af86-257c4b623e47
-Total Bid Amount: 3800
-Total Earnings: 0
-Profit/Loss: -3800
-
-Breakdown:
-  Bid: 1, Amount: 3800, Payout: 19000, Status: lost

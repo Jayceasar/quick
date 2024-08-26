@@ -1,9 +1,0 @@
-User ID: FKXupj-zD58WhEgXABkl
-User Name: robot
-Ticket ID: FKXupj-zD58WhEgXABkl_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
-Total Bid Amount: 4800
-Total Earnings: 0
-Profit/Loss: -4800
-
-Breakdown:
-  Bid: 1, Amount: 4800, Payout: 24000, Status: lost

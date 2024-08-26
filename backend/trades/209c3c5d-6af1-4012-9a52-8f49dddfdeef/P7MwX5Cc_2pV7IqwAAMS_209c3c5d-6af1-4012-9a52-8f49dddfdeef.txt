@@ -1,9 +1,0 @@
-User ID: P7MwX5Cc_2pV7IqwAAMS
-User Name: robot
-Ticket ID: P7MwX5Cc_2pV7IqwAAMS_209c3c5d-6af1-4012-9a52-8f49dddfdeef
-Total Bid Amount: 2900
-Total Earnings: 0
-Profit/Loss: -2900
-
-Breakdown:
-  Bid: 4, Amount: 2900, Payout: 14500, Status: lost

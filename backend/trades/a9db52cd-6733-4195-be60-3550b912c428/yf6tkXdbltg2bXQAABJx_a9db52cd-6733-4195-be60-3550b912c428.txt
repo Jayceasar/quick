@@ -1,9 +1,0 @@
-User ID: yf6tkXdbltg2bXQAABJx
-User Name: robot
-Ticket ID: yf6tkXdbltg2bXQAABJx_a9db52cd-6733-4195-be60-3550b912c428
-Total Bid Amount: 9500
-Total Earnings: 0
-Profit/Loss: -9500
-
-Breakdown:
-  Bid: 2, Amount: 9500, Payout: 47500, Status: lost

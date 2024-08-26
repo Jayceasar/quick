@@ -1,9 +1,0 @@
-User ID: fUiz2rSEOL9ljVMOAAgz
-User Name: robot
-Ticket ID: fUiz2rSEOL9ljVMOAAgz_16e16623-0a48-40cc-8945-862aa10b83a3
-Total Bid Amount: 700
-Total Earnings: 0
-Profit/Loss: -700
-
-Breakdown:
-  Bid: 6, Amount: 700, Payout: 3500, Status: lost

@@ -1,9 +1,0 @@
-User ID: daCFFjKkiVLcIncDAA1V
-User Name: robot
-Ticket ID: daCFFjKkiVLcIncDAA1V_63ed5986-97e4-4cb5-aa83-fc1a48e81312
-Total Bid Amount: 8200
-Total Earnings: 41000
-Profit/Loss: 32800
-
-Breakdown:
-  Bid: 2, Amount: 8200, Payout: 41000, Status: won

@@ -1,9 +1,0 @@
-User ID: sU8Pa1OlYulwjSHMAAP2
-User Name: robot
-Ticket ID: sU8Pa1OlYulwjSHMAAP2_6ccaeea3-75f3-4c47-90f7-0f988c85c9cb
-Total Bid Amount: 200
-Total Earnings: 1000
-Profit/Loss: 800
-
-Breakdown:
-  Bid: 3, Amount: 200, Payout: 1000, Status: won

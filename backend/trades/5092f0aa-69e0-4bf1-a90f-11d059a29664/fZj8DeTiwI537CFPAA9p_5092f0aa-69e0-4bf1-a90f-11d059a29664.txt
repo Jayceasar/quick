@@ -1,9 +1,0 @@
-User ID: fZj8DeTiwI537CFPAA9p
-User Name: robot
-Ticket ID: fZj8DeTiwI537CFPAA9p_5092f0aa-69e0-4bf1-a90f-11d059a29664
-Total Bid Amount: 5600
-Total Earnings: 0
-Profit/Loss: -5600
-
-Breakdown:
-  Bid: 3, Amount: 5600, Payout: 28000, Status: lost

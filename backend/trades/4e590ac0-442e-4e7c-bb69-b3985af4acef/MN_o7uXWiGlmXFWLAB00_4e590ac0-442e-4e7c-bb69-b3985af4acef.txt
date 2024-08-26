@@ -1,9 +1,0 @@
-User ID: MN_o7uXWiGlmXFWLAB00
-User Name: robot
-Ticket ID: MN_o7uXWiGlmXFWLAB00_4e590ac0-442e-4e7c-bb69-b3985af4acef
-Total Bid Amount: 5300
-Total Earnings: 26500
-Profit/Loss: 21200
-
-Breakdown:
-  Bid: 2, Amount: 5300, Payout: 26500, Status: won

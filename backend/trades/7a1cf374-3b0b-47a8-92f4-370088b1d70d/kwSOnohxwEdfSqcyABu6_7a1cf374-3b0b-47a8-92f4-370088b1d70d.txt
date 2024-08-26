@@ -1,9 +1,0 @@
-User ID: kwSOnohxwEdfSqcyABu6
-User Name: robot
-Ticket ID: kwSOnohxwEdfSqcyABu6_7a1cf374-3b0b-47a8-92f4-370088b1d70d
-Total Bid Amount: 1300
-Total Earnings: 6500
-Profit/Loss: 5200
-
-Breakdown:
-  Bid: 2, Amount: 1300, Payout: 6500, Status: won

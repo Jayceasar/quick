@@ -1,9 +1,0 @@
-User ID: hw1wnZIktMra6JCDACI5
-User Name: robot
-Ticket ID: hw1wnZIktMra6JCDACI5_7f17eed6-7359-4dae-af38-f93e4d907ad3
-Total Bid Amount: 1900
-Total Earnings: 0
-Profit/Loss: -1900
-
-Breakdown:
-  Bid: 4, Amount: 1900, Payout: 9500, Status: lost

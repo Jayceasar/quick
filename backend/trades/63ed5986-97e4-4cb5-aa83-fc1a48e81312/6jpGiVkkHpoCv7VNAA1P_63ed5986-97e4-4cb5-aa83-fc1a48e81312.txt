@@ -1,9 +1,0 @@
-User ID: 6jpGiVkkHpoCv7VNAA1P
-User Name: robot
-Ticket ID: 6jpGiVkkHpoCv7VNAA1P_63ed5986-97e4-4cb5-aa83-fc1a48e81312
-Total Bid Amount: 8100
-Total Earnings: 40500
-Profit/Loss: 32400
-
-Breakdown:
-  Bid: 2, Amount: 8100, Payout: 40500, Status: won

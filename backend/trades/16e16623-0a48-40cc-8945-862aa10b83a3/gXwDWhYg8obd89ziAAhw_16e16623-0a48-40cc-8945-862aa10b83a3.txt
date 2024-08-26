@@ -1,9 +1,0 @@
-User ID: gXwDWhYg8obd89ziAAhw
-User Name: robot
-Ticket ID: gXwDWhYg8obd89ziAAhw_16e16623-0a48-40cc-8945-862aa10b83a3
-Total Bid Amount: 200
-Total Earnings: 0
-Profit/Loss: -200
-
-Breakdown:
-  Bid: 4, Amount: 200, Payout: 1000, Status: lost

@@ -1,9 +1,0 @@
-User ID: W9An48la57vUH4wAABJp
-User Name: robot
-Ticket ID: W9An48la57vUH4wAABJp_a9db52cd-6733-4195-be60-3550b912c428
-Total Bid Amount: 6100
-Total Earnings: 0
-Profit/Loss: -6100
-
-Breakdown:
-  Bid: 6, Amount: 6100, Payout: 30500, Status: lost

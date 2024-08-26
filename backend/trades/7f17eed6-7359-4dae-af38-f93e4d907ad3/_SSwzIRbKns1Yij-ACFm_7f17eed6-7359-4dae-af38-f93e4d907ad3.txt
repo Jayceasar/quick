@@ -1,9 +1,0 @@
-User ID: _SSwzIRbKns1Yij-ACFm
-User Name: robot
-Ticket ID: _SSwzIRbKns1Yij-ACFm_7f17eed6-7359-4dae-af38-f93e4d907ad3
-Total Bid Amount: 8800
-Total Earnings: 0
-Profit/Loss: -8800
-
-Breakdown:
-  Bid: 5, Amount: 8800, Payout: 44000, Status: lost

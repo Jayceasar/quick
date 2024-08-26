@@ -1,9 +1,0 @@
-User ID: PwmPQPKXOUnDPzOIACBJ
-User Name: robot
-Ticket ID: PwmPQPKXOUnDPzOIACBJ_c31ade6d-4388-40e1-8def-a0f98931b35e
-Total Bid Amount: 6600
-Total Earnings: 0
-Profit/Loss: -6600
-
-Breakdown:
-  Bid: 6, Amount: 6600, Payout: 33000, Status: lost

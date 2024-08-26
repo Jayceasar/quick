@@ -1,9 +1,0 @@
-User ID: njJHukjfhDi5yGX1ABTP
-User Name: robot
-Ticket ID: njJHukjfhDi5yGX1ABTP_8fa77666-9d7f-4032-9eb6-68ecb3f56761
-Total Bid Amount: 3000
-Total Earnings: 0
-Profit/Loss: -3000
-
-Breakdown:
-  Bid: 6, Amount: 3000, Payout: 15000, Status: lost

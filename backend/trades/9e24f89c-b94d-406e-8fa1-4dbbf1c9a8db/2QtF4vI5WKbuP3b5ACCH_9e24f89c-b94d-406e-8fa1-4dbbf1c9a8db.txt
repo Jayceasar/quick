@@ -1,9 +1,0 @@
-User ID: 2QtF4vI5WKbuP3b5ACCH
-User Name: robot
-Ticket ID: 2QtF4vI5WKbuP3b5ACCH_9e24f89c-b94d-406e-8fa1-4dbbf1c9a8db
-Total Bid Amount: 3700
-Total Earnings: 0
-Profit/Loss: -3700
-
-Breakdown:
-  Bid: 5, Amount: 3700, Payout: 18500, Status: lost

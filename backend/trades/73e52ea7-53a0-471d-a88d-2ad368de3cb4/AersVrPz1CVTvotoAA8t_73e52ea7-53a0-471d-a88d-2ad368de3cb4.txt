@@ -1,9 +1,0 @@
-User ID: AersVrPz1CVTvotoAA8t
-User Name: robot
-Ticket ID: AersVrPz1CVTvotoAA8t_73e52ea7-53a0-471d-a88d-2ad368de3cb4
-Total Bid Amount: 8900
-Total Earnings: 0
-Profit/Loss: -8900
-
-Breakdown:
-  Bid: 6, Amount: 8900, Payout: 44500, Status: lost

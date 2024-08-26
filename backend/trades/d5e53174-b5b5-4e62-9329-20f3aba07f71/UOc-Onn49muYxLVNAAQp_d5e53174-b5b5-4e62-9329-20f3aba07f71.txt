@@ -1,9 +1,0 @@
-User ID: UOc-Onn49muYxLVNAAQp
-User Name: robot
-Ticket ID: UOc-Onn49muYxLVNAAQp_d5e53174-b5b5-4e62-9329-20f3aba07f71
-Total Bid Amount: 400
-Total Earnings: 0
-Profit/Loss: -400
-
-Breakdown:
-  Bid: 3, Amount: 400, Payout: 2000, Status: lost

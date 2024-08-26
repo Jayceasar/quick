@@ -1,9 +1,0 @@
-User ID: MQUmdMbjhUcrJroJAAb-
-User Name: robot
-Ticket ID: MQUmdMbjhUcrJroJAAb-_ed17dce3-517e-47c2-a522-ca0bfdecb52d
-Total Bid Amount: 1100
-Total Earnings: 0
-Profit/Loss: -1100
-
-Breakdown:
-  Bid: 1, Amount: 1100, Payout: 5500, Status: lost

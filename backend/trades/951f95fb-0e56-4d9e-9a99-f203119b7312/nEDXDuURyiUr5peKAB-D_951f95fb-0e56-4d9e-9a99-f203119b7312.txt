@@ -1,9 +1,0 @@
-User ID: nEDXDuURyiUr5peKAB-D
-User Name: robot
-Ticket ID: nEDXDuURyiUr5peKAB-D_951f95fb-0e56-4d9e-9a99-f203119b7312
-Total Bid Amount: 1500
-Total Earnings: 0
-Profit/Loss: -1500
-
-Breakdown:
-  Bid: 1, Amount: 1500, Payout: 7500, Status: lost

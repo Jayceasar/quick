@@ -1,9 +1,0 @@
-User ID: luTqRjSDCkTcLaL9ACBE
-User Name: robot
-Ticket ID: luTqRjSDCkTcLaL9ACBE_b139540f-748f-4ef4-96bf-eba631dd2ec8
-Total Bid Amount: 6300
-Total Earnings: 31500
-Profit/Loss: 25200
-
-Breakdown:
-  Bid: 2, Amount: 6300, Payout: 31500, Status: won

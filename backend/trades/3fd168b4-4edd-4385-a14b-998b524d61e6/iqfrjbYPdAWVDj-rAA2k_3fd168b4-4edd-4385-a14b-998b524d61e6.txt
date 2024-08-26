@@ -1,9 +1,0 @@
-User ID: iqfrjbYPdAWVDj-rAA2k
-User Name: robot
-Ticket ID: iqfrjbYPdAWVDj-rAA2k_3fd168b4-4edd-4385-a14b-998b524d61e6
-Total Bid Amount: 8500
-Total Earnings: 0
-Profit/Loss: -8500
-
-Breakdown:
-  Bid: 6, Amount: 8500, Payout: 42500, Status: lost

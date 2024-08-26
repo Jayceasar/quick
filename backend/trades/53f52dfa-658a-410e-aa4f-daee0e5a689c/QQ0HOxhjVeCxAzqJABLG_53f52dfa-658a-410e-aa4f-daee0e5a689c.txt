@@ -1,9 +1,0 @@
-User ID: QQ0HOxhjVeCxAzqJABLG
-User Name: robot
-Ticket ID: QQ0HOxhjVeCxAzqJABLG_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 9300
-Total Earnings: 46500
-Profit/Loss: 37200
-
-Breakdown:
-  Bid: 6, Amount: 9300, Payout: 46500, Status: won

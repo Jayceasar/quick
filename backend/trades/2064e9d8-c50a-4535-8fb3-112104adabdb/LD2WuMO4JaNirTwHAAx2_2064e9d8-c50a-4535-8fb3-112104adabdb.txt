@@ -1,9 +1,0 @@
-User ID: LD2WuMO4JaNirTwHAAx2
-User Name: robot
-Ticket ID: LD2WuMO4JaNirTwHAAx2_2064e9d8-c50a-4535-8fb3-112104adabdb
-Total Bid Amount: 4800
-Total Earnings: 24000
-Profit/Loss: 19200
-
-Breakdown:
-  Bid: 5, Amount: 4800, Payout: 24000, Status: won

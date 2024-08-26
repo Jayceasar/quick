@@ -1,9 +1,0 @@
-User ID: fe-GAII4vkTEkR47ABLI
-User Name: robot
-Ticket ID: fe-GAII4vkTEkR47ABLI_a9db52cd-6733-4195-be60-3550b912c428
-Total Bid Amount: 6800
-Total Earnings: 0
-Profit/Loss: -6800
-
-Breakdown:
-  Bid: 5, Amount: 6800, Payout: 34000, Status: lost

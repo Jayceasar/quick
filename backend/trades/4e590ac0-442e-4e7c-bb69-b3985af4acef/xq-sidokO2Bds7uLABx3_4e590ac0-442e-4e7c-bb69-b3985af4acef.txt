@@ -1,9 +1,0 @@
-User ID: xq-sidokO2Bds7uLABx3
-User Name: robot
-Ticket ID: xq-sidokO2Bds7uLABx3_4e590ac0-442e-4e7c-bb69-b3985af4acef
-Total Bid Amount: 8400
-Total Earnings: 0
-Profit/Loss: -8400
-
-Breakdown:
-  Bid: 3, Amount: 8400, Payout: 42000, Status: lost

@@ -1,9 +1,0 @@
-User ID: P9ZIsnwa0FuYhzjZABYi
-User Name: robot
-Ticket ID: P9ZIsnwa0FuYhzjZABYi_8fa77666-9d7f-4032-9eb6-68ecb3f56761
-Total Bid Amount: 800
-Total Earnings: 0
-Profit/Loss: -800
-
-Breakdown:
-  Bid: 6, Amount: 800, Payout: 4000, Status: lost

@@ -1,9 +1,0 @@
-User ID: GaD2x0836VuRO4waAB18
-User Name: robot
-Ticket ID: GaD2x0836VuRO4waAB18_44666ccb-6626-428d-95d3-f7a7a00e87a7
-Total Bid Amount: 3900
-Total Earnings: 0
-Profit/Loss: -3900
-
-Breakdown:
-  Bid: 2, Amount: 3900, Payout: 19500, Status: lost

@@ -1,9 +1,0 @@
-User ID: x_DPuYjNjp_tQrCbACKk
-User Name: robot
-Ticket ID: x_DPuYjNjp_tQrCbACKk_56ee4408-3127-4e3c-9837-5f675e19ec5b
-Total Bid Amount: 7700
-Total Earnings: 0
-Profit/Loss: -7700
-
-Breakdown:
-  Bid: 5, Amount: 7700, Payout: 38500, Status: lost

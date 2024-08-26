@@ -1,9 +1,0 @@
-User ID: -vPwHn3bVHACN6opAANQ
-User Name: robot
-Ticket ID: -vPwHn3bVHACN6opAANQ_a01be9c0-eacd-4aa8-8dee-e617f87a184e
-Total Bid Amount: 700
-Total Earnings: 3500
-Profit/Loss: 2800
-
-Breakdown:
-  Bid: 2, Amount: 700, Payout: 3500, Status: won

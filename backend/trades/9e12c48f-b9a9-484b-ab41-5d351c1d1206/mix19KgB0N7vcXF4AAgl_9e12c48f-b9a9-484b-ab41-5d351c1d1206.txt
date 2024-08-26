@@ -1,9 +1,0 @@
-User ID: mix19KgB0N7vcXF4AAgl
-User Name: robot
-Ticket ID: mix19KgB0N7vcXF4AAgl_9e12c48f-b9a9-484b-ab41-5d351c1d1206
-Total Bid Amount: 5300
-Total Earnings: 0
-Profit/Loss: -5300
-
-Breakdown:
-  Bid: 4, Amount: 5300, Payout: 26500, Status: lost

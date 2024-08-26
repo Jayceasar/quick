@@ -1,9 +1,0 @@
-User ID: 09c55CLD_Ex82NLDABma
-User Name: robot
-Ticket ID: 09c55CLD_Ex82NLDABma_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
-Total Bid Amount: 7200
-Total Earnings: 0
-Profit/Loss: -7200
-
-Breakdown:
-  Bid: 1, Amount: 7200, Payout: 36000, Status: lost

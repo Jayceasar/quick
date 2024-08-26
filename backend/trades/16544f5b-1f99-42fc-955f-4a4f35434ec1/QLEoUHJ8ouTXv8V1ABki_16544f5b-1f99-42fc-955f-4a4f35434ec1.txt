@@ -1,9 +1,0 @@
-User ID: QLEoUHJ8ouTXv8V1ABki
-User Name: robot
-Ticket ID: QLEoUHJ8ouTXv8V1ABki_16544f5b-1f99-42fc-955f-4a4f35434ec1
-Total Bid Amount: 9300
-Total Earnings: 46500
-Profit/Loss: 37200
-
-Breakdown:
-  Bid: 1, Amount: 9300, Payout: 46500, Status: won

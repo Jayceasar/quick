@@ -1,9 +1,0 @@
-User ID: voEFH3wfJjmQZ-qXAAFG
-User Name: robot
-Ticket ID: voEFH3wfJjmQZ-qXAAFG_62b03c19-c2ac-4766-913d-1d50e3d473a4
-Total Bid Amount: 3100
-Total Earnings: 0
-Profit/Loss: -3100
-
-Breakdown:
-  Bid: 6, Amount: 3100, Payout: 15500, Status: lost

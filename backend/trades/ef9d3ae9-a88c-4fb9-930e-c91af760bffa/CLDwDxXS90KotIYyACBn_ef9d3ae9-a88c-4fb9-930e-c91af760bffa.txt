@@ -1,9 +1,0 @@
-User ID: CLDwDxXS90KotIYyACBn
-User Name: robot
-Ticket ID: CLDwDxXS90KotIYyACBn_ef9d3ae9-a88c-4fb9-930e-c91af760bffa
-Total Bid Amount: 4600
-Total Earnings: 23000
-Profit/Loss: 18400
-
-Breakdown:
-  Bid: 4, Amount: 4600, Payout: 23000, Status: won

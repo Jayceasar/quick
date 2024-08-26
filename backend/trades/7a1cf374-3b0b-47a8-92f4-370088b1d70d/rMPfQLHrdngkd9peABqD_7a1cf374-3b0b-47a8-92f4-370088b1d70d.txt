@@ -1,9 +1,0 @@
-User ID: rMPfQLHrdngkd9peABqD
-User Name: robot
-Ticket ID: rMPfQLHrdngkd9peABqD_7a1cf374-3b0b-47a8-92f4-370088b1d70d
-Total Bid Amount: 2100
-Total Earnings: 0
-Profit/Loss: -2100
-
-Breakdown:
-  Bid: 5, Amount: 2100, Payout: 10500, Status: lost

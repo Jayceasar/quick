@@ -1,9 +1,0 @@
-User ID: vN5ZOYVfchizKcqdAB2f
-User Name: robot
-Ticket ID: vN5ZOYVfchizKcqdAB2f_c5622fe9-fa66-4682-a1ea-f8ed721f9645
-Total Bid Amount: 2500
-Total Earnings: 0
-Profit/Loss: -2500
-
-Breakdown:
-  Bid: 6, Amount: 2500, Payout: 12500, Status: lost

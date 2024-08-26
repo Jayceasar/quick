@@ -1,9 +1,0 @@
-User ID: KLU73Zx2cHLKTnslAAjH
-User Name: robot
-Ticket ID: KLU73Zx2cHLKTnslAAjH_7edcaff6-689d-4d3c-9b04-4e875243c108
-Total Bid Amount: 9200
-Total Earnings: 0
-Profit/Loss: -9200
-
-Breakdown:
-  Bid: 3, Amount: 9200, Payout: 46000, Status: lost

@@ -1,9 +1,0 @@
-User ID: cLqP8YbzRJLXxuyAACO_
-User Name: robot
-Ticket ID: cLqP8YbzRJLXxuyAACO__fa7d9f6f-c80b-46ec-9a5b-617fd6799868
-Total Bid Amount: 100
-Total Earnings: 500
-Profit/Loss: 400
-
-Breakdown:
-  Bid: 2, Amount: 100, Payout: 500, Status: won

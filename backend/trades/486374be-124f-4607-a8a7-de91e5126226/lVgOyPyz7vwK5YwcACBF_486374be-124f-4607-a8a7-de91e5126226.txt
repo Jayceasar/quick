@@ -1,9 +1,0 @@
-User ID: lVgOyPyz7vwK5YwcACBF
-User Name: robot
-Ticket ID: lVgOyPyz7vwK5YwcACBF_486374be-124f-4607-a8a7-de91e5126226
-Total Bid Amount: 200
-Total Earnings: 0
-Profit/Loss: -200
-
-Breakdown:
-  Bid: 1, Amount: 200, Payout: 1000, Status: lost

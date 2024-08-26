@@ -1,9 +1,0 @@
-User ID: DQZhIwq0dSzE6CKlABvN
-User Name: robot
-Ticket ID: DQZhIwq0dSzE6CKlABvN_7a1cf374-3b0b-47a8-92f4-370088b1d70d
-Total Bid Amount: 3500
-Total Earnings: 0
-Profit/Loss: -3500
-
-Breakdown:
-  Bid: 4, Amount: 3500, Payout: 17500, Status: lost

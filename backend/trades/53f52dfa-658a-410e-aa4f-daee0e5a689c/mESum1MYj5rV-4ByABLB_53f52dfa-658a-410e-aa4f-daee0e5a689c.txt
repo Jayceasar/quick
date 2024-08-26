@@ -1,9 +1,0 @@
-User ID: mESum1MYj5rV-4ByABLB
-User Name: robot
-Ticket ID: mESum1MYj5rV-4ByABLB_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 2500
-Total Earnings: 0
-Profit/Loss: -2500
-
-Breakdown:
-  Bid: 2, Amount: 2500, Payout: 12500, Status: lost

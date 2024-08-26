@@ -1,9 +1,0 @@
-User ID: Ngz5TBn05t_Npf4kAByP
-User Name: robot
-Ticket ID: Ngz5TBn05t_Npf4kAByP_73cf31f2-8401-4ac4-bb24-a78ee513d5d7
-Total Bid Amount: 1700
-Total Earnings: 0
-Profit/Loss: -1700
-
-Breakdown:
-  Bid: 1, Amount: 1700, Payout: 8500, Status: lost

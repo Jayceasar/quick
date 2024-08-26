@@ -1,9 +1,0 @@
-User ID: fgQcnTrpwHF3ScSgAANG
-User Name: robot
-Ticket ID: fgQcnTrpwHF3ScSgAANG_3a3c9f6e-ea4d-4148-934a-d93cf7174bd3
-Total Bid Amount: 7900
-Total Earnings: 0
-Profit/Loss: -7900
-
-Breakdown:
-  Bid: 1, Amount: 7900, Payout: 39500, Status: lost

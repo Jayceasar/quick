@@ -1,9 +1,0 @@
-User ID: af5sOHR7YZNME5IhACKM
-User Name: robot
-Ticket ID: af5sOHR7YZNME5IhACKM_56ee4408-3127-4e3c-9837-5f675e19ec5b
-Total Bid Amount: 2600
-Total Earnings: 13000
-Profit/Loss: 10400
-
-Breakdown:
-  Bid: 2, Amount: 2600, Payout: 13000, Status: won

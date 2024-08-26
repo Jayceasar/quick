@@ -1,9 +1,0 @@
-User ID: _EQYdlx3smCyVtMkAAcO
-User Name: robot
-Ticket ID: _EQYdlx3smCyVtMkAAcO_47e80f0b-8fe4-4296-a215-0d9dc455ace4
-Total Bid Amount: 3200
-Total Earnings: 0
-Profit/Loss: -3200
-
-Breakdown:
-  Bid: 5, Amount: 3200, Payout: 16000, Status: lost

@@ -1,9 +1,0 @@
-User ID: KpAKJwwKeLjyxRl3AAJx
-User Name: robot
-Ticket ID: KpAKJwwKeLjyxRl3AAJx_ad3a8c72-299f-43d4-805f-4646b325aae0
-Total Bid Amount: 8600
-Total Earnings: 43000
-Profit/Loss: 34400
-
-Breakdown:
-  Bid: 1, Amount: 8600, Payout: 43000, Status: won

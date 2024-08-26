@@ -1,9 +1,0 @@
-User ID: Y0DzmxZ4LqVrp3cHAANu
-User Name: robot
-Ticket ID: Y0DzmxZ4LqVrp3cHAANu_209c3c5d-6af1-4012-9a52-8f49dddfdeef
-Total Bid Amount: 7000
-Total Earnings: 35000
-Profit/Loss: 28000
-
-Breakdown:
-  Bid: 5, Amount: 7000, Payout: 35000, Status: won

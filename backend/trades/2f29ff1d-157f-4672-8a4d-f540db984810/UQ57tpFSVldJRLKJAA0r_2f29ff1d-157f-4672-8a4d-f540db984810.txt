@@ -1,9 +1,0 @@
-User ID: UQ57tpFSVldJRLKJAA0r
-User Name: robot
-Ticket ID: UQ57tpFSVldJRLKJAA0r_2f29ff1d-157f-4672-8a4d-f540db984810
-Total Bid Amount: 6800
-Total Earnings: 0
-Profit/Loss: -6800
-
-Breakdown:
-  Bid: 3, Amount: 6800, Payout: 34000, Status: lost

@@ -1,9 +1,0 @@
-User ID: dQl5TtNe4u4-RgFbAAP1
-User Name: robot
-Ticket ID: dQl5TtNe4u4-RgFbAAP1_b7702871-94c5-4aa2-a465-bc5c183e2b58
-Total Bid Amount: 1600
-Total Earnings: 0
-Profit/Loss: -1600
-
-Breakdown:
-  Bid: 1, Amount: 1600, Payout: 8000, Status: lost

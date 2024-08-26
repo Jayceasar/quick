@@ -1,9 +1,0 @@
-User ID: IJRH5Hc1qV66gMn6ABKJ
-User Name: robot
-Ticket ID: IJRH5Hc1qV66gMn6ABKJ_a9db52cd-6733-4195-be60-3550b912c428
-Total Bid Amount: 6900
-Total Earnings: 0
-Profit/Loss: -6900
-
-Breakdown:
-  Bid: 4, Amount: 6900, Payout: 34500, Status: lost

@@ -1,9 +1,0 @@
-User ID: 1dcTu4FaYpuxBfMTAAx8
-User Name: robot
-Ticket ID: 1dcTu4FaYpuxBfMTAAx8_2064e9d8-c50a-4535-8fb3-112104adabdb
-Total Bid Amount: 8200
-Total Earnings: 0
-Profit/Loss: -8200
-
-Breakdown:
-  Bid: 4, Amount: 8200, Payout: 41000, Status: lost

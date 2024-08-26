@@ -1,9 +1,0 @@
-User ID: rpNhxXi_4nM2xH5tABG2
-User Name: robot
-Ticket ID: rpNhxXi_4nM2xH5tABG2_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 5500
-Total Earnings: 0
-Profit/Loss: -5500
-
-Breakdown:
-  Bid: 1, Amount: 5500, Payout: 27500, Status: lost

@@ -1,9 +1,0 @@
-User ID: f9rQst7ZpExZ-AZpABTD
-User Name: robot
-Ticket ID: f9rQst7ZpExZ-AZpABTD_fb86114f-5de4-4582-b36e-777fdfb617a6
-Total Bid Amount: 10000
-Total Earnings: 0
-Profit/Loss: -10000
-
-Breakdown:
-  Bid: 1, Amount: 10000, Payout: 50000, Status: lost

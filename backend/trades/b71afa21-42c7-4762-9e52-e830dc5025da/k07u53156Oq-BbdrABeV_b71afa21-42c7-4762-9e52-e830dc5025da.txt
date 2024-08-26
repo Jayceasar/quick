@@ -1,9 +1,0 @@
-User ID: k07u53156Oq-BbdrABeV
-User Name: robot
-Ticket ID: k07u53156Oq-BbdrABeV_b71afa21-42c7-4762-9e52-e830dc5025da
-Total Bid Amount: 9500
-Total Earnings: 0
-Profit/Loss: -9500
-
-Breakdown:
-  Bid: 1, Amount: 9500, Payout: 47500, Status: lost

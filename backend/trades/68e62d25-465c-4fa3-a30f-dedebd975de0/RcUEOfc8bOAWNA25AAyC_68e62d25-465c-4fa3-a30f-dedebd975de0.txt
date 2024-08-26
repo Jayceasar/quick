@@ -1,9 +1,0 @@
-User ID: RcUEOfc8bOAWNA25AAyC
-User Name: robot
-Ticket ID: RcUEOfc8bOAWNA25AAyC_68e62d25-465c-4fa3-a30f-dedebd975de0
-Total Bid Amount: 7000
-Total Earnings: 35000
-Profit/Loss: 28000
-
-Breakdown:
-  Bid: 5, Amount: 7000, Payout: 35000, Status: won

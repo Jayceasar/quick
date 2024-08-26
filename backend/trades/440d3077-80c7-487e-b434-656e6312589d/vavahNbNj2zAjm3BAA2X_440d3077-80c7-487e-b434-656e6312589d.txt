@@ -1,9 +1,0 @@
-User ID: vavahNbNj2zAjm3BAA2X
-User Name: robot
-Ticket ID: vavahNbNj2zAjm3BAA2X_440d3077-80c7-487e-b434-656e6312589d
-Total Bid Amount: 5000
-Total Earnings: 0
-Profit/Loss: -5000
-
-Breakdown:
-  Bid: 3, Amount: 5000, Payout: 25000, Status: lost

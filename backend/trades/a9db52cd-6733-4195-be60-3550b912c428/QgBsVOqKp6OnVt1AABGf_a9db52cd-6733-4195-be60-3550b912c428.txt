@@ -1,9 +1,0 @@
-User ID: QgBsVOqKp6OnVt1AABGf
-User Name: robot
-Ticket ID: QgBsVOqKp6OnVt1AABGf_a9db52cd-6733-4195-be60-3550b912c428
-Total Bid Amount: 5600
-Total Earnings: 0
-Profit/Loss: -5600
-
-Breakdown:
-  Bid: 6, Amount: 5600, Payout: 28000, Status: lost

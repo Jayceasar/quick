@@ -1,9 +1,0 @@
-User ID: YrpvFQsrOBYot6_IAA_W
-User Name: robot
-Ticket ID: YrpvFQsrOBYot6_IAA_W_66f65ae5-5096-4806-89d8-dcb36cb9e685
-Total Bid Amount: 2500
-Total Earnings: 0
-Profit/Loss: -2500
-
-Breakdown:
-  Bid: 6, Amount: 2500, Payout: 12500, Status: lost

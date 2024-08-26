@@ -1,9 +1,0 @@
-User ID: _lbsaZGiagQ_dvwiAAQs
-User Name: robot
-Ticket ID: _lbsaZGiagQ_dvwiAAQs_209c3c5d-6af1-4012-9a52-8f49dddfdeef
-Total Bid Amount: 6900
-Total Earnings: 0
-Profit/Loss: -6900
-
-Breakdown:
-  Bid: 1, Amount: 6900, Payout: 34500, Status: lost

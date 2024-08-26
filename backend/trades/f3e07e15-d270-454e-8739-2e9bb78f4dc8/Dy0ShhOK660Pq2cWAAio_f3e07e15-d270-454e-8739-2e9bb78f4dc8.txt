@@ -1,9 +1,0 @@
-User ID: Dy0ShhOK660Pq2cWAAio
-User Name: robot
-Ticket ID: Dy0ShhOK660Pq2cWAAio_f3e07e15-d270-454e-8739-2e9bb78f4dc8
-Total Bid Amount: 7500
-Total Earnings: 0
-Profit/Loss: -7500
-
-Breakdown:
-  Bid: 5, Amount: 7500, Payout: 37500, Status: lost

@@ -1,9 +1,0 @@
-User ID: uFXCClsDJkaU0qa4AAyU
-User Name: robot
-Ticket ID: uFXCClsDJkaU0qa4AAyU_ea2ac63c-b057-4cf3-9c72-de8e18bd58ea
-Total Bid Amount: 1600
-Total Earnings: 0
-Profit/Loss: -1600
-
-Breakdown:
-  Bid: 6, Amount: 1600, Payout: 8000, Status: lost

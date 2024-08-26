@@ -1,9 +1,0 @@
-User ID: z6p18jUFgs4rs496AAyG
-User Name: robot
-Ticket ID: z6p18jUFgs4rs496AAyG_481b0c54-e3a2-4605-acb3-5ca9c7ea032e
-Total Bid Amount: 5800
-Total Earnings: 0
-Profit/Loss: -5800
-
-Breakdown:
-  Bid: 4, Amount: 5800, Payout: 29000, Status: lost

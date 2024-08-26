@@ -1,9 +1,0 @@
-User ID: YXzzt6gdPXq5QQhPAANN
-User Name: robot
-Ticket ID: YXzzt6gdPXq5QQhPAANN_209c3c5d-6af1-4012-9a52-8f49dddfdeef
-Total Bid Amount: 5800
-Total Earnings: 29000
-Profit/Loss: 23200
-
-Breakdown:
-  Bid: 5, Amount: 5800, Payout: 29000, Status: won

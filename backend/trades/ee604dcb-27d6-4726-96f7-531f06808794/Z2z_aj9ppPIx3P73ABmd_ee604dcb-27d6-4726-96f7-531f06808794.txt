@@ -1,9 +1,0 @@
-User ID: Z2z_aj9ppPIx3P73ABmd
-User Name: robot
-Ticket ID: Z2z_aj9ppPIx3P73ABmd_ee604dcb-27d6-4726-96f7-531f06808794
-Total Bid Amount: 2900
-Total Earnings: 0
-Profit/Loss: -2900
-
-Breakdown:
-  Bid: 6, Amount: 2900, Payout: 14500, Status: lost

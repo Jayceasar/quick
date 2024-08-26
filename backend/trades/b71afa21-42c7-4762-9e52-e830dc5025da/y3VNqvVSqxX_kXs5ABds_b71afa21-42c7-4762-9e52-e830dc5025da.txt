@@ -1,9 +1,0 @@
-User ID: y3VNqvVSqxX_kXs5ABds
-User Name: robot
-Ticket ID: y3VNqvVSqxX_kXs5ABds_b71afa21-42c7-4762-9e52-e830dc5025da
-Total Bid Amount: 800
-Total Earnings: 0
-Profit/Loss: -800
-
-Breakdown:
-  Bid: 6, Amount: 800, Payout: 4000, Status: lost

@@ -1,9 +1,0 @@
-User ID: xONw1lJZyfn7PSPWABaC
-User Name: robot
-Ticket ID: xONw1lJZyfn7PSPWABaC_6e56c651-525b-40b4-bdf6-b90e58163806
-Total Bid Amount: 9700
-Total Earnings: 0
-Profit/Loss: -9700
-
-Breakdown:
-  Bid: 2, Amount: 9700, Payout: 48500, Status: lost

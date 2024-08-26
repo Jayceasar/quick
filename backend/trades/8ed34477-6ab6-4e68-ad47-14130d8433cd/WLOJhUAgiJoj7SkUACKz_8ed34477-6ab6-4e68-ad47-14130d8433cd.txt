@@ -1,9 +1,0 @@
-User ID: WLOJhUAgiJoj7SkUACKz
-User Name: robot
-Ticket ID: WLOJhUAgiJoj7SkUACKz_8ed34477-6ab6-4e68-ad47-14130d8433cd
-Total Bid Amount: 7600
-Total Earnings: 0
-Profit/Loss: -7600
-
-Breakdown:
-  Bid: 3, Amount: 7600, Payout: 38000, Status: lost

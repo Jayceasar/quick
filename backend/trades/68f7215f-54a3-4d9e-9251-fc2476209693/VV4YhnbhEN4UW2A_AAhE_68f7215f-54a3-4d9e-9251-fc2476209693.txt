@@ -1,9 +1,0 @@
-User ID: VV4YhnbhEN4UW2A_AAhE
-User Name: robot
-Ticket ID: VV4YhnbhEN4UW2A_AAhE_68f7215f-54a3-4d9e-9251-fc2476209693
-Total Bid Amount: 3300
-Total Earnings: 0
-Profit/Loss: -3300
-
-Breakdown:
-  Bid: 2, Amount: 3300, Payout: 16500, Status: lost

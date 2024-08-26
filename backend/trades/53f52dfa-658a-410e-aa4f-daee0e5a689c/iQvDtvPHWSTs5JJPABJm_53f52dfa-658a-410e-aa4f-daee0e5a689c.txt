@@ -1,9 +1,0 @@
-User ID: iQvDtvPHWSTs5JJPABJm
-User Name: robot
-Ticket ID: iQvDtvPHWSTs5JJPABJm_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 5700
-Total Earnings: 0
-Profit/Loss: -5700
-
-Breakdown:
-  Bid: 4, Amount: 5700, Payout: 28500, Status: lost

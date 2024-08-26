@@ -1,9 +1,0 @@
-User ID: MEUhGWY0c9RT0CL8AANO
-User Name: robot
-Ticket ID: MEUhGWY0c9RT0CL8AANO_37c5d6ff-88c8-4fb6-a9db-bee3fcec589b
-Total Bid Amount: 6300
-Total Earnings: 0
-Profit/Loss: -6300
-
-Breakdown:
-  Bid: 2, Amount: 6300, Payout: 31500, Status: lost

@@ -1,9 +1,0 @@
-User ID: gJ7OIMMZrrsE_mp1AByR
-User Name: robot
-Ticket ID: gJ7OIMMZrrsE_mp1AByR_4e590ac0-442e-4e7c-bb69-b3985af4acef
-Total Bid Amount: 5800
-Total Earnings: 29000
-Profit/Loss: 23200
-
-Breakdown:
-  Bid: 2, Amount: 5800, Payout: 29000, Status: won

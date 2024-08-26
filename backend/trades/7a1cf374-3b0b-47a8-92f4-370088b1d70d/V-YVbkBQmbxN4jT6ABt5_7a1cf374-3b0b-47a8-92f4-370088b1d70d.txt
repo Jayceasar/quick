@@ -1,9 +1,0 @@
-User ID: V-YVbkBQmbxN4jT6ABt5
-User Name: robot
-Ticket ID: V-YVbkBQmbxN4jT6ABt5_7a1cf374-3b0b-47a8-92f4-370088b1d70d
-Total Bid Amount: 3200
-Total Earnings: 0
-Profit/Loss: -3200
-
-Breakdown:
-  Bid: 3, Amount: 3200, Payout: 16000, Status: lost

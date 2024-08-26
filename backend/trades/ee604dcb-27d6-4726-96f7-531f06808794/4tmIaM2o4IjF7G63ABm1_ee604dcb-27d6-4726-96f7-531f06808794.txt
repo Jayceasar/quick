@@ -1,9 +1,0 @@
-User ID: 4tmIaM2o4IjF7G63ABm1
-User Name: robot
-Ticket ID: 4tmIaM2o4IjF7G63ABm1_ee604dcb-27d6-4726-96f7-531f06808794
-Total Bid Amount: 3400
-Total Earnings: 0
-Profit/Loss: -3400
-
-Breakdown:
-  Bid: 5, Amount: 3400, Payout: 17000, Status: lost

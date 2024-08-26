@@ -1,9 +1,0 @@
-User ID: Y9BWCp-ewcuy2T5lAAaA
-User Name: robot
-Ticket ID: Y9BWCp-ewcuy2T5lAAaA_21d39602-8afc-46e7-aeb0-e79f363e1d3a
-Total Bid Amount: 3700
-Total Earnings: 0
-Profit/Loss: -3700
-
-Breakdown:
-  Bid: 3, Amount: 3700, Payout: 18500, Status: lost

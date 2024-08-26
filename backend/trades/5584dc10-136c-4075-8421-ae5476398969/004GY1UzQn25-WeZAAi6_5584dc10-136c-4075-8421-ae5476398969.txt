@@ -1,9 +1,0 @@
-User ID: 004GY1UzQn25-WeZAAi6
-User Name: robot
-Ticket ID: 004GY1UzQn25-WeZAAi6_5584dc10-136c-4075-8421-ae5476398969
-Total Bid Amount: 500
-Total Earnings: 0
-Profit/Loss: -500
-
-Breakdown:
-  Bid: 5, Amount: 500, Payout: 2500, Status: lost

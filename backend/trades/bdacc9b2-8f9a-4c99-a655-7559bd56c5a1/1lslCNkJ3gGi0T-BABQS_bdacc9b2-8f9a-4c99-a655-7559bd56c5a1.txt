@@ -1,9 +1,0 @@
-User ID: 1lslCNkJ3gGi0T-BABQS
-User Name: robot
-Ticket ID: 1lslCNkJ3gGi0T-BABQS_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
-Total Bid Amount: 7100
-Total Earnings: 35500
-Profit/Loss: 28400
-
-Breakdown:
-  Bid: 3, Amount: 7100, Payout: 35500, Status: won

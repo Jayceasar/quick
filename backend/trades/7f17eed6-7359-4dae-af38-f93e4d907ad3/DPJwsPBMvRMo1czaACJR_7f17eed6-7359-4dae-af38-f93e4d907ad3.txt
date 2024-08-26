@@ -1,9 +1,0 @@
-User ID: DPJwsPBMvRMo1czaACJR
-User Name: robot
-Ticket ID: DPJwsPBMvRMo1czaACJR_7f17eed6-7359-4dae-af38-f93e4d907ad3
-Total Bid Amount: 2300
-Total Earnings: 0
-Profit/Loss: -2300
-
-Breakdown:
-  Bid: 4, Amount: 2300, Payout: 11500, Status: lost

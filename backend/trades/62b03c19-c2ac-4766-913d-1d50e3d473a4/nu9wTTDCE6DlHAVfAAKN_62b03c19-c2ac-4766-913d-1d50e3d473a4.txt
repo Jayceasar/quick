@@ -1,9 +1,0 @@
-User ID: nu9wTTDCE6DlHAVfAAKN
-User Name: robot
-Ticket ID: nu9wTTDCE6DlHAVfAAKN_62b03c19-c2ac-4766-913d-1d50e3d473a4
-Total Bid Amount: 7800
-Total Earnings: 0
-Profit/Loss: -7800
-
-Breakdown:
-  Bid: 4, Amount: 7800, Payout: 39000, Status: lost

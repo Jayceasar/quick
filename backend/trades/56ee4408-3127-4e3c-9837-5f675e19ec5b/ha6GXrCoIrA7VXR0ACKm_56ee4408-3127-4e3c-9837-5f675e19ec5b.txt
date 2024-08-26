@@ -1,9 +1,0 @@
-User ID: ha6GXrCoIrA7VXR0ACKm
-User Name: robot
-Ticket ID: ha6GXrCoIrA7VXR0ACKm_56ee4408-3127-4e3c-9837-5f675e19ec5b
-Total Bid Amount: 8800
-Total Earnings: 0
-Profit/Loss: -8800
-
-Breakdown:
-  Bid: 1, Amount: 8800, Payout: 44000, Status: lost

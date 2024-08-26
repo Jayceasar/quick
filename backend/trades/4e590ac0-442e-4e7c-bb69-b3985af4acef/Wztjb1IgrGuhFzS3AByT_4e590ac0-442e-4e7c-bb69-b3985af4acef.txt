@@ -1,9 +1,0 @@
-User ID: Wztjb1IgrGuhFzS3AByT
-User Name: robot
-Ticket ID: Wztjb1IgrGuhFzS3AByT_4e590ac0-442e-4e7c-bb69-b3985af4acef
-Total Bid Amount: 6700
-Total Earnings: 33500
-Profit/Loss: 26800
-
-Breakdown:
-  Bid: 2, Amount: 6700, Payout: 33500, Status: won

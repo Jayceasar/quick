@@ -1,9 +1,0 @@
-User ID: h2YpuBpIec6Q6Tc9AByG
-User Name: robot
-Ticket ID: h2YpuBpIec6Q6Tc9AByG_01af48cf-5a07-4b4a-b906-5b1c32c765d1
-Total Bid Amount: 9600
-Total Earnings: 0
-Profit/Loss: -9600
-
-Breakdown:
-  Bid: 5, Amount: 9600, Payout: 48000, Status: lost

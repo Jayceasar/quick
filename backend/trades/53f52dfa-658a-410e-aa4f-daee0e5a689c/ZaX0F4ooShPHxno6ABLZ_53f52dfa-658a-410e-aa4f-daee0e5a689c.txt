@@ -1,9 +1,0 @@
-User ID: ZaX0F4ooShPHxno6ABLZ
-User Name: robot
-Ticket ID: ZaX0F4ooShPHxno6ABLZ_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 8300
-Total Earnings: 0
-Profit/Loss: -8300
-
-Breakdown:
-  Bid: 1, Amount: 8300, Payout: 41500, Status: lost

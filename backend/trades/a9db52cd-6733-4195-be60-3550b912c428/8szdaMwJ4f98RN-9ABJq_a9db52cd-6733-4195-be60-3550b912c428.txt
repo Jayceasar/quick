@@ -1,9 +1,0 @@
-User ID: 8szdaMwJ4f98RN-9ABJq
-User Name: robot
-Ticket ID: 8szdaMwJ4f98RN-9ABJq_a9db52cd-6733-4195-be60-3550b912c428
-Total Bid Amount: 1200
-Total Earnings: 0
-Profit/Loss: -1200
-
-Breakdown:
-  Bid: 6, Amount: 1200, Payout: 6000, Status: lost

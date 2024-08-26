@@ -1,9 +1,0 @@
-User ID: blmjNQZ2hFY_-a1WACGE
-User Name: robot
-Ticket ID: blmjNQZ2hFY_-a1WACGE_56ee4408-3127-4e3c-9837-5f675e19ec5b
-Total Bid Amount: 9300
-Total Earnings: 0
-Profit/Loss: -9300
-
-Breakdown:
-  Bid: 6, Amount: 9300, Payout: 46500, Status: lost

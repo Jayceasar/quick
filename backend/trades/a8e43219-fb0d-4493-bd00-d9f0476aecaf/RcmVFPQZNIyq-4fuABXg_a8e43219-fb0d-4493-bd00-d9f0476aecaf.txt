@@ -1,9 +1,0 @@
-User ID: RcmVFPQZNIyq-4fuABXg
-User Name: robot
-Ticket ID: RcmVFPQZNIyq-4fuABXg_a8e43219-fb0d-4493-bd00-d9f0476aecaf
-Total Bid Amount: 1000
-Total Earnings: 0
-Profit/Loss: -1000
-
-Breakdown:
-  Bid: 2, Amount: 1000, Payout: 5000, Status: lost

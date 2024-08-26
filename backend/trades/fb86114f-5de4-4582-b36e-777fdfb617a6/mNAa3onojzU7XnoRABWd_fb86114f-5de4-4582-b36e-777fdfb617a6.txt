@@ -1,9 +1,0 @@
-User ID: mNAa3onojzU7XnoRABWd
-User Name: robot
-Ticket ID: mNAa3onojzU7XnoRABWd_fb86114f-5de4-4582-b36e-777fdfb617a6
-Total Bid Amount: 7500
-Total Earnings: 0
-Profit/Loss: -7500
-
-Breakdown:
-  Bid: 2, Amount: 7500, Payout: 37500, Status: lost

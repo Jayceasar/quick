@@ -1,9 +1,0 @@
-User ID: ogwdCCUqaH8whn-NABYj
-User Name: robot
-Ticket ID: ogwdCCUqaH8whn-NABYj_fb86114f-5de4-4582-b36e-777fdfb617a6
-Total Bid Amount: 5300
-Total Earnings: 26500
-Profit/Loss: 21200
-
-Breakdown:
-  Bid: 5, Amount: 5300, Payout: 26500, Status: won

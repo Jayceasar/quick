@@ -1,9 +1,0 @@
-User ID: caf4mOILGuB2-WAQAAFi
-User Name: robot
-Ticket ID: caf4mOILGuB2-WAQAAFi_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 2300
-Total Earnings: 0
-Profit/Loss: -2300
-
-Breakdown:
-  Bid: 6, Amount: 2300, Payout: 11500, Status: lost

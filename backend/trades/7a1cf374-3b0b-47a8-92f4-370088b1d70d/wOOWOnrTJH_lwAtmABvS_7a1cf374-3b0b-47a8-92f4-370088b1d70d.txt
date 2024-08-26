@@ -1,9 +1,0 @@
-User ID: wOOWOnrTJH_lwAtmABvS
-User Name: robot
-Ticket ID: wOOWOnrTJH_lwAtmABvS_7a1cf374-3b0b-47a8-92f4-370088b1d70d
-Total Bid Amount: 6500
-Total Earnings: 0
-Profit/Loss: -6500
-
-Breakdown:
-  Bid: 3, Amount: 6500, Payout: 32500, Status: lost

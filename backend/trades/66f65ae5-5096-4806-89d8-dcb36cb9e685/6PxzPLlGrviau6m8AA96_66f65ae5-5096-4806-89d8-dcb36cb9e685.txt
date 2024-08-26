@@ -1,9 +1,0 @@
-User ID: 6PxzPLlGrviau6m8AA96
-User Name: robot
-Ticket ID: 6PxzPLlGrviau6m8AA96_66f65ae5-5096-4806-89d8-dcb36cb9e685
-Total Bid Amount: 1000
-Total Earnings: 0
-Profit/Loss: -1000
-
-Breakdown:
-  Bid: 1, Amount: 1000, Payout: 5000, Status: lost

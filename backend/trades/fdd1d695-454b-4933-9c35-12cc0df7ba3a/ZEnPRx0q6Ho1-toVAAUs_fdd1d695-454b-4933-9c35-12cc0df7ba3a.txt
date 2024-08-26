@@ -1,9 +1,0 @@
-User ID: ZEnPRx0q6Ho1-toVAAUs
-User Name: robot
-Ticket ID: ZEnPRx0q6Ho1-toVAAUs_fdd1d695-454b-4933-9c35-12cc0df7ba3a
-Total Bid Amount: 3900
-Total Earnings: 0
-Profit/Loss: -3900
-
-Breakdown:
-  Bid: 5, Amount: 3900, Payout: 19500, Status: lost

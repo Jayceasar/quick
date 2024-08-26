@@ -1,9 +1,0 @@
-User ID: UxJ9uOJnBDW-jdJuABls
-User Name: robot
-Ticket ID: UxJ9uOJnBDW-jdJuABls_ee604dcb-27d6-4726-96f7-531f06808794
-Total Bid Amount: 3700
-Total Earnings: 0
-Profit/Loss: -3700
-
-Breakdown:
-  Bid: 3, Amount: 3700, Payout: 18500, Status: lost

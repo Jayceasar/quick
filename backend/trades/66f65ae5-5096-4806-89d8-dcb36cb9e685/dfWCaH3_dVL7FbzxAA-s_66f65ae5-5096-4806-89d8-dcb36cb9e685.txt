@@ -1,9 +1,0 @@
-User ID: dfWCaH3_dVL7FbzxAA-s
-User Name: robot
-Ticket ID: dfWCaH3_dVL7FbzxAA-s_66f65ae5-5096-4806-89d8-dcb36cb9e685
-Total Bid Amount: 8100
-Total Earnings: 0
-Profit/Loss: -8100
-
-Breakdown:
-  Bid: 1, Amount: 8100, Payout: 40500, Status: lost

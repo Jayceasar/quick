@@ -1,9 +1,0 @@
-User ID: wspHuuVWOUDuFZzyACI2
-User Name: robot
-Ticket ID: wspHuuVWOUDuFZzyACI2_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
-Total Bid Amount: 9400
-Total Earnings: 0
-Profit/Loss: -9400
-
-Breakdown:
-  Bid: 4, Amount: 9400, Payout: 47000, Status: lost

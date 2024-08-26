@@ -1,9 +1,0 @@
-User ID: ZcjmiIq_CXAdBI5hACBI
-User Name: robot
-Ticket ID: ZcjmiIq_CXAdBI5hACBI_414b2b96-9ea1-4f03-977a-f2301d814e84
-Total Bid Amount: 800
-Total Earnings: 4000
-Profit/Loss: 3200
-
-Breakdown:
-  Bid: 4, Amount: 800, Payout: 4000, Status: won

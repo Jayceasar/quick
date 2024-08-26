@@ -1,9 +1,0 @@
-User ID: GPkwF-WK9V-twwiFABhf
-User Name: robot
-Ticket ID: GPkwF-WK9V-twwiFABhf_ee604dcb-27d6-4726-96f7-531f06808794
-Total Bid Amount: 8300
-Total Earnings: 0
-Profit/Loss: -8300
-
-Breakdown:
-  Bid: 1, Amount: 8300, Payout: 41500, Status: lost

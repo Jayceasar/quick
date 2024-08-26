@@ -1,9 +1,0 @@
-User ID: IAOlGeoCTAAzUEIMAB-q
-User Name: robot
-Ticket ID: IAOlGeoCTAAzUEIMAB-q_414b2b96-9ea1-4f03-977a-f2301d814e84
-Total Bid Amount: 4700
-Total Earnings: 23500
-Profit/Loss: 18800
-
-Breakdown:
-  Bid: 4, Amount: 4700, Payout: 23500, Status: won

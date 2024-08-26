@@ -1,9 +1,0 @@
-User ID: ZaQFYlL6CcdEvQxTAAiZ
-User Name: robot
-Ticket ID: ZaQFYlL6CcdEvQxTAAiZ_f3e07e15-d270-454e-8739-2e9bb78f4dc8
-Total Bid Amount: 300
-Total Earnings: 1500
-Profit/Loss: 1200
-
-Breakdown:
-  Bid: 2, Amount: 300, Payout: 1500, Status: won

@@ -1,9 +1,0 @@
-User ID: _osGz9djXLzZgexuABx0
-User Name: robot
-Ticket ID: _osGz9djXLzZgexuABx0_4e590ac0-442e-4e7c-bb69-b3985af4acef
-Total Bid Amount: 7800
-Total Earnings: 0
-Profit/Loss: -7800
-
-Breakdown:
-  Bid: 3, Amount: 7800, Payout: 39000, Status: lost

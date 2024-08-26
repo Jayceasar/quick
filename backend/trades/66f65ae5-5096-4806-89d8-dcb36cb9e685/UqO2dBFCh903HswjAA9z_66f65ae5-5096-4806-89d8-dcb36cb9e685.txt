@@ -1,9 +1,0 @@
-User ID: UqO2dBFCh903HswjAA9z
-User Name: robot
-Ticket ID: UqO2dBFCh903HswjAA9z_66f65ae5-5096-4806-89d8-dcb36cb9e685
-Total Bid Amount: 4900
-Total Earnings: 0
-Profit/Loss: -4900
-
-Breakdown:
-  Bid: 2, Amount: 4900, Payout: 24500, Status: lost

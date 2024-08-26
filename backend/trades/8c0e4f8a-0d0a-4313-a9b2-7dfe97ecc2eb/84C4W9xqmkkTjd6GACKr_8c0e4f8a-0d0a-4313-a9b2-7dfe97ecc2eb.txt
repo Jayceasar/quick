@@ -1,9 +1,0 @@
-User ID: 84C4W9xqmkkTjd6GACKr
-User Name: robot
-Ticket ID: 84C4W9xqmkkTjd6GACKr_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
-Total Bid Amount: 9700
-Total Earnings: 0
-Profit/Loss: -9700
-
-Breakdown:
-  Bid: 6, Amount: 9700, Payout: 48500, Status: lost

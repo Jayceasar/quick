@@ -1,9 +1,0 @@
-User ID: Q_J4pGDFTqP3oNfbAAyc
-User Name: robot
-Ticket ID: Q_J4pGDFTqP3oNfbAAyc_dba9e8d6-73ff-49a7-ad67-d06b048682eb
-Total Bid Amount: 7000
-Total Earnings: 0
-Profit/Loss: -7000
-
-Breakdown:
-  Bid: 3, Amount: 7000, Payout: 35000, Status: lost

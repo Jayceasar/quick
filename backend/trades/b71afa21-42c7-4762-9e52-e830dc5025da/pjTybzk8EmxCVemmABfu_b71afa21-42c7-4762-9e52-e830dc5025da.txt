@@ -1,9 +1,0 @@
-User ID: pjTybzk8EmxCVemmABfu
-User Name: robot
-Ticket ID: pjTybzk8EmxCVemmABfu_b71afa21-42c7-4762-9e52-e830dc5025da
-Total Bid Amount: 8200
-Total Earnings: 41000
-Profit/Loss: 32800
-
-Breakdown:
-  Bid: 2, Amount: 8200, Payout: 41000, Status: won

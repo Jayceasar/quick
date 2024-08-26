@@ -1,9 +1,0 @@
-User ID: taFJeTi4fkym1RREAAgv
-User Name: robot
-Ticket ID: taFJeTi4fkym1RREAAgv_16e16623-0a48-40cc-8945-862aa10b83a3
-Total Bid Amount: 5600
-Total Earnings: 0
-Profit/Loss: -5600
-
-Breakdown:
-  Bid: 1, Amount: 5600, Payout: 28000, Status: lost

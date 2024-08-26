@@ -1,9 +1,0 @@
-User ID: d9mRlLNzfhlmeyvFAAaq
-User Name: robot
-Ticket ID: d9mRlLNzfhlmeyvFAAaq_16dbb20f-ee67-4703-97c7-ea4e74cadf8f
-Total Bid Amount: 1600
-Total Earnings: 8000
-Profit/Loss: 6400
-
-Breakdown:
-  Bid: 2, Amount: 1600, Payout: 8000, Status: won

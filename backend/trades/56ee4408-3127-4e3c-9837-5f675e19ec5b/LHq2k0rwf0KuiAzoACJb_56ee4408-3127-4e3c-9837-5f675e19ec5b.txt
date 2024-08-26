@@ -1,9 +1,0 @@
-User ID: LHq2k0rwf0KuiAzoACJb
-User Name: robot
-Ticket ID: LHq2k0rwf0KuiAzoACJb_56ee4408-3127-4e3c-9837-5f675e19ec5b
-Total Bid Amount: 1200
-Total Earnings: 0
-Profit/Loss: -1200
-
-Breakdown:
-  Bid: 5, Amount: 1200, Payout: 6000, Status: lost

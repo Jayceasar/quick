@@ -1,9 +1,0 @@
-User ID: 05f_YtWRmYjMXsmYABKR
-User Name: robot
-Ticket ID: 05f_YtWRmYjMXsmYABKR_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 2900
-Total Earnings: 0
-Profit/Loss: -2900
-
-Breakdown:
-  Bid: 5, Amount: 2900, Payout: 14500, Status: lost

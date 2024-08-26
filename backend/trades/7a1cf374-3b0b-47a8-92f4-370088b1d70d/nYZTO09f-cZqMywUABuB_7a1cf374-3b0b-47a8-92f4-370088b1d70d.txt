@@ -1,9 +1,0 @@
-User ID: nYZTO09f-cZqMywUABuB
-User Name: robot
-Ticket ID: nYZTO09f-cZqMywUABuB_7a1cf374-3b0b-47a8-92f4-370088b1d70d
-Total Bid Amount: 4800
-Total Earnings: 24000
-Profit/Loss: 19200
-
-Breakdown:
-  Bid: 2, Amount: 4800, Payout: 24000, Status: won

@@ -1,9 +1,0 @@
-User ID: tkIKuBgulYJ0-h7TAB2B
-User Name: robot
-Ticket ID: tkIKuBgulYJ0-h7TAB2B_a5318a37-9f3b-4e0f-afd9-4ce9b649cb5f
-Total Bid Amount: 7800
-Total Earnings: 39000
-Profit/Loss: 31200
-
-Breakdown:
-  Bid: 2, Amount: 7800, Payout: 39000, Status: won

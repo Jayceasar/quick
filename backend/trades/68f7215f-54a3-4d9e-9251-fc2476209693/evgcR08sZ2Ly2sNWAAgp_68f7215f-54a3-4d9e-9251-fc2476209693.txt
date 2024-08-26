@@ -1,9 +1,0 @@
-User ID: evgcR08sZ2Ly2sNWAAgp
-User Name: robot
-Ticket ID: evgcR08sZ2Ly2sNWAAgp_68f7215f-54a3-4d9e-9251-fc2476209693
-Total Bid Amount: 3800
-Total Earnings: 0
-Profit/Loss: -3800
-
-Breakdown:
-  Bid: 3, Amount: 3800, Payout: 19000, Status: lost

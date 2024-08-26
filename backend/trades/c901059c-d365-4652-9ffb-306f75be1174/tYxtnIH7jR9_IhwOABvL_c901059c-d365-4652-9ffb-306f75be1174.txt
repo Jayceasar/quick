@@ -1,9 +1,0 @@
-User ID: tYxtnIH7jR9_IhwOABvL
-User Name: robot
-Ticket ID: tYxtnIH7jR9_IhwOABvL_c901059c-d365-4652-9ffb-306f75be1174
-Total Bid Amount: 9400
-Total Earnings: 47000
-Profit/Loss: 37600
-
-Breakdown:
-  Bid: 1, Amount: 9400, Payout: 47000, Status: won

@@ -1,9 +1,0 @@
-User ID: ZkRbbdhx0XTI79pzACJ8
-User Name: robot
-Ticket ID: ZkRbbdhx0XTI79pzACJ8_baae20bc-bbdc-4a0c-addb-c4a83365506c
-Total Bid Amount: 8300
-Total Earnings: 0
-Profit/Loss: -8300
-
-Breakdown:
-  Bid: 5, Amount: 8300, Payout: 41500, Status: lost

@@ -1,9 +1,0 @@
-User ID: WH_ZS2z3pdsoiENgAAMe
-User Name: robot
-Ticket ID: WH_ZS2z3pdsoiENgAAMe_209c3c5d-6af1-4012-9a52-8f49dddfdeef
-Total Bid Amount: 4600
-Total Earnings: 0
-Profit/Loss: -4600
-
-Breakdown:
-  Bid: 6, Amount: 4600, Payout: 23000, Status: lost

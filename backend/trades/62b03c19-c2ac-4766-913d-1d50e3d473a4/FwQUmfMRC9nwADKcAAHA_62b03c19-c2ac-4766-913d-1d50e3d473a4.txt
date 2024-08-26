@@ -1,9 +1,0 @@
-User ID: FwQUmfMRC9nwADKcAAHA
-User Name: robot
-Ticket ID: FwQUmfMRC9nwADKcAAHA_62b03c19-c2ac-4766-913d-1d50e3d473a4
-Total Bid Amount: 9700
-Total Earnings: 0
-Profit/Loss: -9700
-
-Breakdown:
-  Bid: 4, Amount: 9700, Payout: 48500, Status: lost

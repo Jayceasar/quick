@@ -1,9 +1,0 @@
-User ID: 051sVwEDiVmeXWZ2AAGs
-User Name: robot
-Ticket ID: 051sVwEDiVmeXWZ2AAGs_bb5e3028-8c52-4b98-a381-0c2c68383464
-Total Bid Amount: 6100
-Total Earnings: 0
-Profit/Loss: -6100
-
-Breakdown:
-  Bid: 1, Amount: 6100, Payout: 30500, Status: lost

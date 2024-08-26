@@ -1,9 +1,0 @@
-User ID: N7hm6bPIrEpsW1VjAB_X
-User Name: robot
-Ticket ID: N7hm6bPIrEpsW1VjAB_X_48e48b91-a7f3-42a9-b98a-e8d202ad406b
-Total Bid Amount: 1900
-Total Earnings: 0
-Profit/Loss: -1900
-
-Breakdown:
-  Bid: 6, Amount: 1900, Payout: 9500, Status: lost

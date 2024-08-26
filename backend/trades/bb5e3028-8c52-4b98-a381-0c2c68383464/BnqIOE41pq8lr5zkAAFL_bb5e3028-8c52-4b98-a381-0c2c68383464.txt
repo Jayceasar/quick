@@ -1,9 +1,0 @@
-User ID: BnqIOE41pq8lr5zkAAFL
-User Name: robot
-Ticket ID: BnqIOE41pq8lr5zkAAFL_bb5e3028-8c52-4b98-a381-0c2c68383464
-Total Bid Amount: 800
-Total Earnings: 0
-Profit/Loss: -800
-
-Breakdown:
-  Bid: 4, Amount: 800, Payout: 4000, Status: lost

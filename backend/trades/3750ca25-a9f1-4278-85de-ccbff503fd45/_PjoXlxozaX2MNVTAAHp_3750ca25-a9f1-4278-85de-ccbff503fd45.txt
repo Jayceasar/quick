@@ -1,9 +1,0 @@
-User ID: _PjoXlxozaX2MNVTAAHp
-User Name: robot
-Ticket ID: _PjoXlxozaX2MNVTAAHp_3750ca25-a9f1-4278-85de-ccbff503fd45
-Total Bid Amount: 5100
-Total Earnings: 0
-Profit/Loss: -5100
-
-Breakdown:
-  Bid: 5, Amount: 5100, Payout: 25500, Status: lost

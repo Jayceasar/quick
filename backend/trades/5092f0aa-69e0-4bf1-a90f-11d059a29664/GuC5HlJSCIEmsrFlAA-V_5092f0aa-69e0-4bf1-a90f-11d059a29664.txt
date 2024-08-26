@@ -1,9 +1,0 @@
-User ID: GuC5HlJSCIEmsrFlAA-V
-User Name: robot
-Ticket ID: GuC5HlJSCIEmsrFlAA-V_5092f0aa-69e0-4bf1-a90f-11d059a29664
-Total Bid Amount: 4800
-Total Earnings: 0
-Profit/Loss: -4800
-
-Breakdown:
-  Bid: 5, Amount: 4800, Payout: 24000, Status: lost

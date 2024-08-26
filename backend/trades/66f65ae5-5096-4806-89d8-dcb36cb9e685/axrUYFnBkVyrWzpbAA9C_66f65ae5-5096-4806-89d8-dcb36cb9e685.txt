@@ -1,9 +1,0 @@
-User ID: axrUYFnBkVyrWzpbAA9C
-User Name: robot
-Ticket ID: axrUYFnBkVyrWzpbAA9C_66f65ae5-5096-4806-89d8-dcb36cb9e685
-Total Bid Amount: 3900
-Total Earnings: 19500
-Profit/Loss: 15600
-
-Breakdown:
-  Bid: 5, Amount: 3900, Payout: 19500, Status: won

@@ -1,9 +1,0 @@
-User ID: XHW3HTLm0OZrs4Z0AAiW
-User Name: robot
-Ticket ID: XHW3HTLm0OZrs4Z0AAiW_5584dc10-136c-4075-8421-ae5476398969
-Total Bid Amount: 7500
-Total Earnings: 37500
-Profit/Loss: 30000
-
-Breakdown:
-  Bid: 2, Amount: 7500, Payout: 37500, Status: won

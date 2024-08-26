@@ -1,9 +1,0 @@
-User ID: c1UiHRbQfeA8yL94AAlW
-User Name: robot
-Ticket ID: c1UiHRbQfeA8yL94AAlW_d970b8db-846a-4e9c-a7a6-33cc8b792735
-Total Bid Amount: 400
-Total Earnings: 0
-Profit/Loss: -400
-
-Breakdown:
-  Bid: 2, Amount: 400, Payout: 2000, Status: lost

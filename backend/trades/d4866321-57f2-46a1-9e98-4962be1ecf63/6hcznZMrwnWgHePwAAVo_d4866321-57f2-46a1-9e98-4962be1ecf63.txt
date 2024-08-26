@@ -1,9 +1,0 @@
-User ID: 6hcznZMrwnWgHePwAAVo
-User Name: robot
-Ticket ID: 6hcznZMrwnWgHePwAAVo_d4866321-57f2-46a1-9e98-4962be1ecf63
-Total Bid Amount: 100
-Total Earnings: 0
-Profit/Loss: -100
-
-Breakdown:
-  Bid: 5, Amount: 100, Payout: 500, Status: lost

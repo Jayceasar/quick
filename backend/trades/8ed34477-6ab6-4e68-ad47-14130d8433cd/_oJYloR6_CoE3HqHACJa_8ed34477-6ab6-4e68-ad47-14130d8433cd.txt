@@ -1,9 +1,0 @@
-User ID: _oJYloR6_CoE3HqHACJa
-User Name: robot
-Ticket ID: _oJYloR6_CoE3HqHACJa_8ed34477-6ab6-4e68-ad47-14130d8433cd
-Total Bid Amount: 2900
-Total Earnings: 14500
-Profit/Loss: 11600
-
-Breakdown:
-  Bid: 2, Amount: 2900, Payout: 14500, Status: won

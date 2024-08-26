@@ -1,9 +1,0 @@
-User ID: ih-4pN6CNYnhrxw8ABhs
-User Name: robot
-Ticket ID: ih-4pN6CNYnhrxw8ABhs_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
-Total Bid Amount: 3900
-Total Earnings: 0
-Profit/Loss: -3900
-
-Breakdown:
-  Bid: 2, Amount: 3900, Payout: 19500, Status: lost

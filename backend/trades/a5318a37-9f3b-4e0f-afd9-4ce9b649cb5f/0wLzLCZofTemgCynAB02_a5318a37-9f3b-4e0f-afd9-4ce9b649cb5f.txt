@@ -1,9 +1,0 @@
-User ID: 0wLzLCZofTemgCynAB02
-User Name: robot
-Ticket ID: 0wLzLCZofTemgCynAB02_a5318a37-9f3b-4e0f-afd9-4ce9b649cb5f
-Total Bid Amount: 2900
-Total Earnings: 0
-Profit/Loss: -2900
-
-Breakdown:
-  Bid: 5, Amount: 2900, Payout: 14500, Status: lost

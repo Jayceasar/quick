@@ -1,9 +1,0 @@
-User ID: Ewx1GQSafln_953rABTO
-User Name: robot
-Ticket ID: Ewx1GQSafln_953rABTO_a8e43219-fb0d-4493-bd00-d9f0476aecaf
-Total Bid Amount: 9600
-Total Earnings: 0
-Profit/Loss: -9600
-
-Breakdown:
-  Bid: 4, Amount: 9600, Payout: 48000, Status: lost

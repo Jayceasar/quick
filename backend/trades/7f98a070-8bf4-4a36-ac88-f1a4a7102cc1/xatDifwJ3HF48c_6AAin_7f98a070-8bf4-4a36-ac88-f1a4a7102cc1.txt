@@ -1,9 +1,0 @@
-User ID: xatDifwJ3HF48c_6AAin
-User Name: robot
-Ticket ID: xatDifwJ3HF48c_6AAin_7f98a070-8bf4-4a36-ac88-f1a4a7102cc1
-Total Bid Amount: 4500
-Total Earnings: 0
-Profit/Loss: -4500
-
-Breakdown:
-  Bid: 3, Amount: 4500, Payout: 22500, Status: lost

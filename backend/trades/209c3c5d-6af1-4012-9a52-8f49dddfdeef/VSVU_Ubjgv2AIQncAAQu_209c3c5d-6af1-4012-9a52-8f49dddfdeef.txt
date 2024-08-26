@@ -1,9 +1,0 @@
-User ID: VSVU_Ubjgv2AIQncAAQu
-User Name: robot
-Ticket ID: VSVU_Ubjgv2AIQncAAQu_209c3c5d-6af1-4012-9a52-8f49dddfdeef
-Total Bid Amount: 5400
-Total Earnings: 0
-Profit/Loss: -5400
-
-Breakdown:
-  Bid: 1, Amount: 5400, Payout: 27000, Status: lost

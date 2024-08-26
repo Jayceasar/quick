@@ -1,9 +1,0 @@
-User ID: MfCcsNTnaH8lP_MAACBZ
-User Name: robot
-Ticket ID: MfCcsNTnaH8lP_MAACBZ_951f95fb-0e56-4d9e-9a99-f203119b7312
-Total Bid Amount: 5300
-Total Earnings: 0
-Profit/Loss: -5300
-
-Breakdown:
-  Bid: 4, Amount: 5300, Payout: 26500, Status: lost

@@ -1,9 +1,0 @@
-User ID: PG7E71oQjIghkYiEAByA
-User Name: robot
-Ticket ID: PG7E71oQjIghkYiEAByA_2ca79661-347a-468a-9798-531cec82b083
-Total Bid Amount: 6500
-Total Earnings: 0
-Profit/Loss: -6500
-
-Breakdown:
-  Bid: 6, Amount: 6500, Payout: 32500, Status: lost

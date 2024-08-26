@@ -1,9 +1,0 @@
-User ID: BB3_pYdeb1xNxFsVAAFQ
-User Name: robot
-Ticket ID: BB3_pYdeb1xNxFsVAAFQ_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 7200
-Total Earnings: 0
-Profit/Loss: -7200
-
-Breakdown:
-  Bid: 6, Amount: 7200, Payout: 36000, Status: lost

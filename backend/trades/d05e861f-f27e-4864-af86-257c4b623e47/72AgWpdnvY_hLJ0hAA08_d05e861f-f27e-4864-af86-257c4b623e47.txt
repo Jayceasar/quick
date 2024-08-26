@@ -1,9 +1,0 @@
-User ID: 72AgWpdnvY_hLJ0hAA08
-User Name: robot
-Ticket ID: 72AgWpdnvY_hLJ0hAA08_d05e861f-f27e-4864-af86-257c4b623e47
-Total Bid Amount: 10000
-Total Earnings: 50000
-Profit/Loss: 40000
-
-Breakdown:
-  Bid: 3, Amount: 10000, Payout: 50000, Status: won

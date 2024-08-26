@@ -1,9 +1,0 @@
-User ID: 6ubBAm9bB0tsyepEABYu
-User Name: robot
-Ticket ID: 6ubBAm9bB0tsyepEABYu_fb86114f-5de4-4582-b36e-777fdfb617a6
-Total Bid Amount: 8000
-Total Earnings: 0
-Profit/Loss: -8000
-
-Breakdown:
-  Bid: 4, Amount: 8000, Payout: 40000, Status: lost

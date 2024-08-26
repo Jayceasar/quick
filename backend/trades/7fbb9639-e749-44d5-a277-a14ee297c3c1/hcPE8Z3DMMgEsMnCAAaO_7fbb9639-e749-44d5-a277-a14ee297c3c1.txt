@@ -1,9 +1,0 @@
-User ID: hcPE8Z3DMMgEsMnCAAaO
-User Name: robot
-Ticket ID: hcPE8Z3DMMgEsMnCAAaO_7fbb9639-e749-44d5-a277-a14ee297c3c1
-Total Bid Amount: 200
-Total Earnings: 0
-Profit/Loss: -200
-
-Breakdown:
-  Bid: 4, Amount: 200, Payout: 1000, Status: lost

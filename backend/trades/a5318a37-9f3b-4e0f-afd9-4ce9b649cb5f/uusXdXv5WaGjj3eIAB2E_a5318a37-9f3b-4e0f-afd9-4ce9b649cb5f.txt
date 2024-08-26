@@ -1,9 +1,0 @@
-User ID: uusXdXv5WaGjj3eIAB2E
-User Name: robot
-Ticket ID: uusXdXv5WaGjj3eIAB2E_a5318a37-9f3b-4e0f-afd9-4ce9b649cb5f
-Total Bid Amount: 5900
-Total Earnings: 0
-Profit/Loss: -5900
-
-Breakdown:
-  Bid: 5, Amount: 5900, Payout: 29500, Status: lost

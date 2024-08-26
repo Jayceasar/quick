@@ -1,9 +1,0 @@
-User ID: A_ctvdfjHh7on9eyABQT
-User Name: robot
-Ticket ID: A_ctvdfjHh7on9eyABQT_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
-Total Bid Amount: 2300
-Total Earnings: 0
-Profit/Loss: -2300
-
-Breakdown:
-  Bid: 1, Amount: 2300, Payout: 11500, Status: lost

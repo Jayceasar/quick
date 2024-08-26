@@ -1,9 +1,0 @@
-User ID: ELjdDP6haD09n_IbAA86
-User Name: robot
-Ticket ID: ELjdDP6haD09n_IbAA86_73e52ea7-53a0-471d-a88d-2ad368de3cb4
-Total Bid Amount: 900
-Total Earnings: 0
-Profit/Loss: -900
-
-Breakdown:
-  Bid: 4, Amount: 900, Payout: 4500, Status: lost

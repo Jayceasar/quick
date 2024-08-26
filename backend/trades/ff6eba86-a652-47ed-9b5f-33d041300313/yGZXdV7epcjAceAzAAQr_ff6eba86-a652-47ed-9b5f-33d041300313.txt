@@ -1,9 +1,0 @@
-User ID: yGZXdV7epcjAceAzAAQr
-User Name: robot
-Ticket ID: yGZXdV7epcjAceAzAAQr_ff6eba86-a652-47ed-9b5f-33d041300313
-Total Bid Amount: 3000
-Total Earnings: 0
-Profit/Loss: -3000
-
-Breakdown:
-  Bid: 5, Amount: 3000, Payout: 15000, Status: lost

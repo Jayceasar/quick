@@ -1,9 +1,0 @@
-User ID: leMij_6qRjqtlBvzAAUY
-User Name: robot
-Ticket ID: leMij_6qRjqtlBvzAAUY_41f66e63-46da-4d74-8154-5daefd756864
-Total Bid Amount: 7500
-Total Earnings: 37500
-Profit/Loss: 30000
-
-Breakdown:
-  Bid: 6, Amount: 7500, Payout: 37500, Status: won

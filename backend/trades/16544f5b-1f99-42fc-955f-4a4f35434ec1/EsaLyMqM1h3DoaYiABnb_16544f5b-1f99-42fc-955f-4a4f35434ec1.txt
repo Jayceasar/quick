@@ -1,9 +1,0 @@
-User ID: EsaLyMqM1h3DoaYiABnb
-User Name: robot
-Ticket ID: EsaLyMqM1h3DoaYiABnb_16544f5b-1f99-42fc-955f-4a4f35434ec1
-Total Bid Amount: 8700
-Total Earnings: 43500
-Profit/Loss: 34800
-
-Breakdown:
-  Bid: 1, Amount: 8700, Payout: 43500, Status: won

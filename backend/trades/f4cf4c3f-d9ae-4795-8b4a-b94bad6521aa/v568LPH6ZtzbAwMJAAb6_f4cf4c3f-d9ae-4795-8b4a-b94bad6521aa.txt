@@ -1,9 +1,0 @@
-User ID: v568LPH6ZtzbAwMJAAb6
-User Name: robot
-Ticket ID: v568LPH6ZtzbAwMJAAb6_f4cf4c3f-d9ae-4795-8b4a-b94bad6521aa
-Total Bid Amount: 7500
-Total Earnings: 0
-Profit/Loss: -7500
-
-Breakdown:
-  Bid: 5, Amount: 7500, Payout: 37500, Status: lost

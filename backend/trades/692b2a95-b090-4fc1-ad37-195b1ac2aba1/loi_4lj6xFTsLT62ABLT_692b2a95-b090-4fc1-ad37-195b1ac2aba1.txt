@@ -1,9 +1,0 @@
-User ID: loi_4lj6xFTsLT62ABLT
-User Name: robot
-Ticket ID: loi_4lj6xFTsLT62ABLT_692b2a95-b090-4fc1-ad37-195b1ac2aba1
-Total Bid Amount: 2600
-Total Earnings: 13000
-Profit/Loss: 10400
-
-Breakdown:
-  Bid: 5, Amount: 2600, Payout: 13000, Status: won

@@ -1,9 +1,0 @@
-User ID: yWwuPIcpusS7MLusAAHh
-User Name: robot
-Ticket ID: yWwuPIcpusS7MLusAAHh_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 8300
-Total Earnings: 41500
-Profit/Loss: 33200
-
-Breakdown:
-  Bid: 5, Amount: 8300, Payout: 41500, Status: won

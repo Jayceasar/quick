@@ -1,9 +1,0 @@
-User ID: oyVkBkOPUDTz0E9YABXy
-User Name: robot
-Ticket ID: oyVkBkOPUDTz0E9YABXy_fb86114f-5de4-4582-b36e-777fdfb617a6
-Total Bid Amount: 7800
-Total Earnings: 39000
-Profit/Loss: 31200
-
-Breakdown:
-  Bid: 5, Amount: 7800, Payout: 39000, Status: won

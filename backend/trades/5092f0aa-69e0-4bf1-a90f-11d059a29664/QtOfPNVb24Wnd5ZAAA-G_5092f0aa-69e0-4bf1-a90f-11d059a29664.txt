@@ -1,9 +1,0 @@
-User ID: QtOfPNVb24Wnd5ZAAA-G
-User Name: robot
-Ticket ID: QtOfPNVb24Wnd5ZAAA-G_5092f0aa-69e0-4bf1-a90f-11d059a29664
-Total Bid Amount: 3000
-Total Earnings: 0
-Profit/Loss: -3000
-
-Breakdown:
-  Bid: 5, Amount: 3000, Payout: 15000, Status: lost

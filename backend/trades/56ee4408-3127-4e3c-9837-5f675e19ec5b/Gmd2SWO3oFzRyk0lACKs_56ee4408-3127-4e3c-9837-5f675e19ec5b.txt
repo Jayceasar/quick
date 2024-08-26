@@ -1,9 +1,0 @@
-User ID: Gmd2SWO3oFzRyk0lACKs
-User Name: robot
-Ticket ID: Gmd2SWO3oFzRyk0lACKs_56ee4408-3127-4e3c-9837-5f675e19ec5b
-Total Bid Amount: 8300
-Total Earnings: 41500
-Profit/Loss: 33200
-
-Breakdown:
-  Bid: 2, Amount: 8300, Payout: 41500, Status: won

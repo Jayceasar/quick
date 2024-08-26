@@ -1,9 +1,0 @@
-User ID: apbCwwEfKWIzYnAQACKy
-User Name: robot
-Ticket ID: apbCwwEfKWIzYnAQACKy_7f17eed6-7359-4dae-af38-f93e4d907ad3
-Total Bid Amount: 8200
-Total Earnings: 0
-Profit/Loss: -8200
-
-Breakdown:
-  Bid: 1, Amount: 8200, Payout: 41000, Status: lost

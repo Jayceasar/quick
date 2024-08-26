@@ -1,9 +1,0 @@
-User ID: t0QsZV-HvFyyu7T7AAOV
-User Name: robot
-Ticket ID: t0QsZV-HvFyyu7T7AAOV_ff6eba86-a652-47ed-9b5f-33d041300313
-Total Bid Amount: 7000
-Total Earnings: 0
-Profit/Loss: -7000
-
-Breakdown:
-  Bid: 6, Amount: 7000, Payout: 35000, Status: lost

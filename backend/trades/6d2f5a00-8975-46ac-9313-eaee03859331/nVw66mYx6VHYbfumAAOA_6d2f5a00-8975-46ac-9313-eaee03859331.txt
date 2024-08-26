@@ -1,9 +1,0 @@
-User ID: nVw66mYx6VHYbfumAAOA
-User Name: robot
-Ticket ID: nVw66mYx6VHYbfumAAOA_6d2f5a00-8975-46ac-9313-eaee03859331
-Total Bid Amount: 10000
-Total Earnings: 50000
-Profit/Loss: 40000
-
-Breakdown:
-  Bid: 2, Amount: 10000, Payout: 50000, Status: won

@@ -1,9 +1,0 @@
-User ID: 67NOf8Mvh05OY9yYABLx
-User Name: robot
-Ticket ID: 67NOf8Mvh05OY9yYABLx_692b2a95-b090-4fc1-ad37-195b1ac2aba1
-Total Bid Amount: 4900
-Total Earnings: 24500
-Profit/Loss: 19600
-
-Breakdown:
-  Bid: 5, Amount: 4900, Payout: 24500, Status: won

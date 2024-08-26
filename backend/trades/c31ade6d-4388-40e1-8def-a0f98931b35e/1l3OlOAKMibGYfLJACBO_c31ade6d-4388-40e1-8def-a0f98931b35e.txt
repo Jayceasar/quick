@@ -1,9 +1,0 @@
-User ID: 1l3OlOAKMibGYfLJACBO
-User Name: robot
-Ticket ID: 1l3OlOAKMibGYfLJACBO_c31ade6d-4388-40e1-8def-a0f98931b35e
-Total Bid Amount: 8400
-Total Earnings: 0
-Profit/Loss: -8400
-
-Breakdown:
-  Bid: 2, Amount: 8400, Payout: 42000, Status: lost

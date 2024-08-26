@@ -1,9 +1,0 @@
-User ID: VgAArsdfyekRa9juACKw
-User Name: robot
-Ticket ID: VgAArsdfyekRa9juACKw_7a619b2b-f9f3-4d8c-b8d2-8f2288186f49
-Total Bid Amount: 9500
-Total Earnings: 0
-Profit/Loss: -9500
-
-Breakdown:
-  Bid: 6, Amount: 9500, Payout: 47500, Status: lost

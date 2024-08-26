@@ -1,9 +1,0 @@
-User ID: OsvTLq5cDMcTvYcyABZ-
-User Name: robot
-Ticket ID: OsvTLq5cDMcTvYcyABZ-_6e56c651-525b-40b4-bdf6-b90e58163806
-Total Bid Amount: 3500
-Total Earnings: 0
-Profit/Loss: -3500
-
-Breakdown:
-  Bid: 4, Amount: 3500, Payout: 17500, Status: lost

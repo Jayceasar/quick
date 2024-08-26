@@ -1,9 +1,0 @@
-User ID: d-Ycg9jIQmLA2o0mACBq
-User Name: robot
-Ticket ID: d-Ycg9jIQmLA2o0mACBq_486374be-124f-4607-a8a7-de91e5126226
-Total Bid Amount: 9200
-Total Earnings: 0
-Profit/Loss: -9200
-
-Breakdown:
-  Bid: 5, Amount: 9200, Payout: 46000, Status: lost

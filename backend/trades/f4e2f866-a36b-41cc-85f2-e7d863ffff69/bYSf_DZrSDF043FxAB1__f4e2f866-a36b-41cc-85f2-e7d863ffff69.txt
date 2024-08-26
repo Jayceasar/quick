@@ -1,9 +1,0 @@
-User ID: bYSf_DZrSDF043FxAB1_
-User Name: robot
-Ticket ID: bYSf_DZrSDF043FxAB1__f4e2f866-a36b-41cc-85f2-e7d863ffff69
-Total Bid Amount: 6300
-Total Earnings: 0
-Profit/Loss: -6300
-
-Breakdown:
-  Bid: 3, Amount: 6300, Payout: 31500, Status: lost

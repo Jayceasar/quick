@@ -1,9 +1,0 @@
-User ID: -Mro-JpmGN5wvMFuAAHc
-User Name: robot
-Ticket ID: -Mro-JpmGN5wvMFuAAHc_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 5900
-Total Earnings: 0
-Profit/Loss: -5900
-
-Breakdown:
-  Bid: 6, Amount: 5900, Payout: 29500, Status: lost

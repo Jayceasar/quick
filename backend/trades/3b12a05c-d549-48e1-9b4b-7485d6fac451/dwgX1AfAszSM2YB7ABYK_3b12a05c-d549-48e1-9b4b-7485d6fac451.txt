@@ -1,9 +1,0 @@
-User ID: dwgX1AfAszSM2YB7ABYK
-User Name: robot
-Ticket ID: dwgX1AfAszSM2YB7ABYK_3b12a05c-d549-48e1-9b4b-7485d6fac451
-Total Bid Amount: 8800
-Total Earnings: 44000
-Profit/Loss: 35200
-
-Breakdown:
-  Bid: 1, Amount: 8800, Payout: 44000, Status: won

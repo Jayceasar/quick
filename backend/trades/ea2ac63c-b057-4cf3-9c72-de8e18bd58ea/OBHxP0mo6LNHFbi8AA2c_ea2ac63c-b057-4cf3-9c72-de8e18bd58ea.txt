@@ -1,9 +1,0 @@
-User ID: OBHxP0mo6LNHFbi8AA2c
-User Name: robot
-Ticket ID: OBHxP0mo6LNHFbi8AA2c_ea2ac63c-b057-4cf3-9c72-de8e18bd58ea
-Total Bid Amount: 1900
-Total Earnings: 0
-Profit/Loss: -1900
-
-Breakdown:
-  Bid: 4, Amount: 1900, Payout: 9500, Status: lost

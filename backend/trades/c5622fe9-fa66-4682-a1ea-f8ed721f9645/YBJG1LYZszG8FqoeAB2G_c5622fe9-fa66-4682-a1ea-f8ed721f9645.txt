@@ -1,9 +1,0 @@
-User ID: YBJG1LYZszG8FqoeAB2G
-User Name: robot
-Ticket ID: YBJG1LYZszG8FqoeAB2G_c5622fe9-fa66-4682-a1ea-f8ed721f9645
-Total Bid Amount: 7600
-Total Earnings: 38000
-Profit/Loss: 30400
-
-Breakdown:
-  Bid: 3, Amount: 7600, Payout: 38000, Status: won

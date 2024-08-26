@@ -1,9 +1,0 @@
-User ID: n473Dj1_VHE9v_wGAA26
-User Name: robot
-Ticket ID: n473Dj1_VHE9v_wGAA26_2f29ff1d-157f-4672-8a4d-f540db984810
-Total Bid Amount: 300
-Total Earnings: 1500
-Profit/Loss: 1200
-
-Breakdown:
-  Bid: 1, Amount: 300, Payout: 1500, Status: won

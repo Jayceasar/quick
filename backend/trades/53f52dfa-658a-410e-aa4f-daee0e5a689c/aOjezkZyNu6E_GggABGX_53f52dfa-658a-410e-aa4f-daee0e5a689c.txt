@@ -1,9 +1,0 @@
-User ID: aOjezkZyNu6E_GggABGX
-User Name: robot
-Ticket ID: aOjezkZyNu6E_GggABGX_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 9000
-Total Earnings: 0
-Profit/Loss: -9000
-
-Breakdown:
-  Bid: 3, Amount: 9000, Payout: 45000, Status: lost

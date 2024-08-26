@@ -1,9 +1,0 @@
-User ID: NsmDrD2qelEBTunDABhe
-User Name: robot
-Ticket ID: NsmDrD2qelEBTunDABhe_16544f5b-1f99-42fc-955f-4a4f35434ec1
-Total Bid Amount: 4600
-Total Earnings: 23000
-Profit/Loss: 18400
-
-Breakdown:
-  Bid: 1, Amount: 4600, Payout: 23000, Status: won

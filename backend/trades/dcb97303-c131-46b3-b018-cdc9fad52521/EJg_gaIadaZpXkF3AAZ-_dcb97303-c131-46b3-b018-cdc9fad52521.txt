@@ -1,9 +1,0 @@
-User ID: EJg_gaIadaZpXkF3AAZ-
-User Name: robot
-Ticket ID: EJg_gaIadaZpXkF3AAZ-_dcb97303-c131-46b3-b018-cdc9fad52521
-Total Bid Amount: 1700
-Total Earnings: 0
-Profit/Loss: -1700
-
-Breakdown:
-  Bid: 1, Amount: 1700, Payout: 8500, Status: lost

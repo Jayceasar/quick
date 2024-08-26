@@ -1,9 +1,0 @@
-User ID: c4dflMi-lXP-O7S6ACJu
-User Name: robot
-Ticket ID: c4dflMi-lXP-O7S6ACJu_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
-Total Bid Amount: 1600
-Total Earnings: 0
-Profit/Loss: -1600
-
-Breakdown:
-  Bid: 6, Amount: 1600, Payout: 8000, Status: lost

@@ -1,9 +1,0 @@
-User ID: m9MT0Hd50U1Ex_drABL0
-User Name: robot
-Ticket ID: m9MT0Hd50U1Ex_drABL0_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 9400
-Total Earnings: 0
-Profit/Loss: -9400
-
-Breakdown:
-  Bid: 4, Amount: 9400, Payout: 47000, Status: lost

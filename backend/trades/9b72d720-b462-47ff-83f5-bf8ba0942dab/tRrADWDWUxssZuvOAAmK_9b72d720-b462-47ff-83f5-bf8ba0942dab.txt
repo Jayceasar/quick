@@ -1,9 +1,0 @@
-User ID: tRrADWDWUxssZuvOAAmK
-User Name: robot
-Ticket ID: tRrADWDWUxssZuvOAAmK_9b72d720-b462-47ff-83f5-bf8ba0942dab
-Total Bid Amount: 600
-Total Earnings: 0
-Profit/Loss: -600
-
-Breakdown:
-  Bid: 2, Amount: 600, Payout: 3000, Status: lost

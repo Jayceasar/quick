@@ -1,9 +1,0 @@
-User ID: 4Kr8HQAIatTdGtWEAAO_
-User Name: robot
-Ticket ID: 4Kr8HQAIatTdGtWEAAO__ff6eba86-a652-47ed-9b5f-33d041300313
-Total Bid Amount: 5600
-Total Earnings: 28000
-Profit/Loss: 22400
-
-Breakdown:
-  Bid: 2, Amount: 5600, Payout: 28000, Status: won

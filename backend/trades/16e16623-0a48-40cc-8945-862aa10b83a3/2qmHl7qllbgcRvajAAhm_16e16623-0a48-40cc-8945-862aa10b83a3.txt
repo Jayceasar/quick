@@ -1,9 +1,0 @@
-User ID: 2qmHl7qllbgcRvajAAhm
-User Name: robot
-Ticket ID: 2qmHl7qllbgcRvajAAhm_16e16623-0a48-40cc-8945-862aa10b83a3
-Total Bid Amount: 8600
-Total Earnings: 43000
-Profit/Loss: 34400
-
-Breakdown:
-  Bid: 3, Amount: 8600, Payout: 43000, Status: won

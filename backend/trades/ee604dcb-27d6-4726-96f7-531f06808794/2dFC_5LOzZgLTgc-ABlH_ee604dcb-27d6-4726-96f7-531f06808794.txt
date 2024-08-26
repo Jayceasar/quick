@@ -1,9 +1,0 @@
-User ID: 2dFC_5LOzZgLTgc-ABlH
-User Name: robot
-Ticket ID: 2dFC_5LOzZgLTgc-ABlH_ee604dcb-27d6-4726-96f7-531f06808794
-Total Bid Amount: 5600
-Total Earnings: 28000
-Profit/Loss: 22400
-
-Breakdown:
-  Bid: 4, Amount: 5600, Payout: 28000, Status: won

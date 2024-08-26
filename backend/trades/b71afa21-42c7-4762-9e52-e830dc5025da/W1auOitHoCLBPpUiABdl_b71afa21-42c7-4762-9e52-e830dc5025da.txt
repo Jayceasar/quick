@@ -1,9 +1,0 @@
-User ID: W1auOitHoCLBPpUiABdl
-User Name: robot
-Ticket ID: W1auOitHoCLBPpUiABdl_b71afa21-42c7-4762-9e52-e830dc5025da
-Total Bid Amount: 8500
-Total Earnings: 0
-Profit/Loss: -8500
-
-Breakdown:
-  Bid: 3, Amount: 8500, Payout: 42500, Status: lost

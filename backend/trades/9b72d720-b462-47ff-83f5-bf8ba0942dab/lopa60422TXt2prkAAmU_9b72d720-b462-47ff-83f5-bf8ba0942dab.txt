@@ -1,9 +1,0 @@
-User ID: lopa60422TXt2prkAAmU
-User Name: robot
-Ticket ID: lopa60422TXt2prkAAmU_9b72d720-b462-47ff-83f5-bf8ba0942dab
-Total Bid Amount: 4900
-Total Earnings: 0
-Profit/Loss: -4900
-
-Breakdown:
-  Bid: 4, Amount: 4900, Payout: 24500, Status: lost

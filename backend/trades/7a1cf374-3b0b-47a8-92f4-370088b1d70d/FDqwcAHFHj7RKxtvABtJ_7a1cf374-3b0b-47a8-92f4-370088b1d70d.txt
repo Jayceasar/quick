@@ -1,9 +1,0 @@
-User ID: FDqwcAHFHj7RKxtvABtJ
-User Name: robot
-Ticket ID: FDqwcAHFHj7RKxtvABtJ_7a1cf374-3b0b-47a8-92f4-370088b1d70d
-Total Bid Amount: 8300
-Total Earnings: 41500
-Profit/Loss: 33200
-
-Breakdown:
-  Bid: 2, Amount: 8300, Payout: 41500, Status: won

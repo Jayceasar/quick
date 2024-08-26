@@ -1,9 +1,0 @@
-User ID: 61QiivW1_oD8iAGeAAM8
-User Name: robot
-Ticket ID: 61QiivW1_oD8iAGeAAM8_d4d335fb-57cb-443b-84fb-16963a73946e
-Total Bid Amount: 9900
-Total Earnings: 0
-Profit/Loss: -9900
-
-Breakdown:
-  Bid: 1, Amount: 9900, Payout: 49500, Status: lost

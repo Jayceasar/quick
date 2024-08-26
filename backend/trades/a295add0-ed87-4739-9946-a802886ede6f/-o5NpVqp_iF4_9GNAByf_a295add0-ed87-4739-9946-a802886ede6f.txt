@@ -1,9 +1,0 @@
-User ID: -o5NpVqp_iF4_9GNAByf
-User Name: robot
-Ticket ID: -o5NpVqp_iF4_9GNAByf_a295add0-ed87-4739-9946-a802886ede6f
-Total Bid Amount: 7500
-Total Earnings: 0
-Profit/Loss: -7500
-
-Breakdown:
-  Bid: 6, Amount: 7500, Payout: 37500, Status: lost

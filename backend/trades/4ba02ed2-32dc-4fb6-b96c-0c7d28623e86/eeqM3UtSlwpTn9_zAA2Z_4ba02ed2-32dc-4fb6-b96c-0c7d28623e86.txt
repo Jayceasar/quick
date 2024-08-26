@@ -1,9 +1,0 @@
-User ID: eeqM3UtSlwpTn9_zAA2Z
-User Name: robot
-Ticket ID: eeqM3UtSlwpTn9_zAA2Z_4ba02ed2-32dc-4fb6-b96c-0c7d28623e86
-Total Bid Amount: 3000
-Total Earnings: 15000
-Profit/Loss: 12000
-
-Breakdown:
-  Bid: 4, Amount: 3000, Payout: 15000, Status: won

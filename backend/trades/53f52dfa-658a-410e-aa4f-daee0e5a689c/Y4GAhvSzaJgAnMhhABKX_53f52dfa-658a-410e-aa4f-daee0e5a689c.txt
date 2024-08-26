@@ -1,9 +1,0 @@
-User ID: Y4GAhvSzaJgAnMhhABKX
-User Name: robot
-Ticket ID: Y4GAhvSzaJgAnMhhABKX_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 8300
-Total Earnings: 0
-Profit/Loss: -8300
-
-Breakdown:
-  Bid: 5, Amount: 8300, Payout: 41500, Status: lost

@@ -1,9 +1,0 @@
-User ID: 78sQ2aES6NqGj-6TAAjb
-User Name: robot
-Ticket ID: 78sQ2aES6NqGj-6TAAjb_16e16623-0a48-40cc-8945-862aa10b83a3
-Total Bid Amount: 1300
-Total Earnings: 0
-Profit/Loss: -1300
-
-Breakdown:
-  Bid: 5, Amount: 1300, Payout: 6500, Status: lost

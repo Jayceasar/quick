@@ -1,9 +1,0 @@
-User ID: pQuJuZmt2h7SAo1GACBV
-User Name: robot
-Ticket ID: pQuJuZmt2h7SAo1GACBV_3e3ffb49-a8be-4e48-a533-33eb486e2676
-Total Bid Amount: 1700
-Total Earnings: 0
-Profit/Loss: -1700
-
-Breakdown:
-  Bid: 3, Amount: 1700, Payout: 8500, Status: lost

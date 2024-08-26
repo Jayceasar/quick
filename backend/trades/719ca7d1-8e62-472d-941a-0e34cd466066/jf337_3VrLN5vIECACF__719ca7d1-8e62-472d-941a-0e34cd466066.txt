@@ -1,9 +1,0 @@
-User ID: jf337_3VrLN5vIECACF_
-User Name: robot
-Ticket ID: jf337_3VrLN5vIECACF__719ca7d1-8e62-472d-941a-0e34cd466066
-Total Bid Amount: 7000
-Total Earnings: 0
-Profit/Loss: -7000
-
-Breakdown:
-  Bid: 1, Amount: 7000, Payout: 35000, Status: lost

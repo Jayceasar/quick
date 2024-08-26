@@ -1,9 +1,0 @@
-User ID: IEmhwVFsE1GYjyUcACFz
-User Name: robot
-Ticket ID: IEmhwVFsE1GYjyUcACFz_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
-Total Bid Amount: 2400
-Total Earnings: 0
-Profit/Loss: -2400
-
-Breakdown:
-  Bid: 2, Amount: 2400, Payout: 12000, Status: lost

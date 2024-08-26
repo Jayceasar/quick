@@ -1,9 +1,0 @@
-User ID: EgAqhvszJ6-gSsJzABYw
-User Name: robot
-Ticket ID: EgAqhvszJ6-gSsJzABYw_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
-Total Bid Amount: 3700
-Total Earnings: 0
-Profit/Loss: -3700
-
-Breakdown:
-  Bid: 5, Amount: 3700, Payout: 18500, Status: lost

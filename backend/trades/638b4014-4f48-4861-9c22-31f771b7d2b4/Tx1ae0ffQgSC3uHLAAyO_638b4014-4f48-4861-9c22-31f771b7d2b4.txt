@@ -1,9 +1,0 @@
-User ID: Tx1ae0ffQgSC3uHLAAyO
-User Name: robot
-Ticket ID: Tx1ae0ffQgSC3uHLAAyO_638b4014-4f48-4861-9c22-31f771b7d2b4
-Total Bid Amount: 1100
-Total Earnings: 0
-Profit/Loss: -1100
-
-Breakdown:
-  Bid: 1, Amount: 1100, Payout: 5500, Status: lost

@@ -1,9 +1,0 @@
-User ID: fKCvkPeLLBWpczHCAAHA
-User Name: robot
-Ticket ID: fKCvkPeLLBWpczHCAAHA_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 3400
-Total Earnings: 17000
-Profit/Loss: 13600
-
-Breakdown:
-  Bid: 5, Amount: 3400, Payout: 17000, Status: won

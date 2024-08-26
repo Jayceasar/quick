@@ -1,9 +1,0 @@
-User ID: j6ksniBBvvjfC-SGACCA
-User Name: robot
-Ticket ID: j6ksniBBvvjfC-SGACCA_414b2b96-9ea1-4f03-977a-f2301d814e84
-Total Bid Amount: 4800
-Total Earnings: 24000
-Profit/Loss: 19200
-
-Breakdown:
-  Bid: 4, Amount: 4800, Payout: 24000, Status: won

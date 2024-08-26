@@ -1,9 +1,0 @@
-User ID: BAr85lske-7gIKFFAAjC
-User Name: robot
-Ticket ID: BAr85lske-7gIKFFAAjC_5584dc10-136c-4075-8421-ae5476398969
-Total Bid Amount: 2400
-Total Earnings: 0
-Profit/Loss: -2400
-
-Breakdown:
-  Bid: 3, Amount: 2400, Payout: 12000, Status: lost

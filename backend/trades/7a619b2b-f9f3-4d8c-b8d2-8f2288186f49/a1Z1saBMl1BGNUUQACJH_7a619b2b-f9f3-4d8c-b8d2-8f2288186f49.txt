@@ -1,9 +1,0 @@
-User ID: a1Z1saBMl1BGNUUQACJH
-User Name: robot
-Ticket ID: a1Z1saBMl1BGNUUQACJH_7a619b2b-f9f3-4d8c-b8d2-8f2288186f49
-Total Bid Amount: 8500
-Total Earnings: 0
-Profit/Loss: -8500
-
-Breakdown:
-  Bid: 2, Amount: 8500, Payout: 42500, Status: lost

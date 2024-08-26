@@ -1,9 +1,0 @@
-User ID: qAm9KxtY5FNrndCjAAg7
-User Name: robot
-Ticket ID: qAm9KxtY5FNrndCjAAg7_9e12c48f-b9a9-484b-ab41-5d351c1d1206
-Total Bid Amount: 7800
-Total Earnings: 0
-Profit/Loss: -7800
-
-Breakdown:
-  Bid: 4, Amount: 7800, Payout: 39000, Status: lost

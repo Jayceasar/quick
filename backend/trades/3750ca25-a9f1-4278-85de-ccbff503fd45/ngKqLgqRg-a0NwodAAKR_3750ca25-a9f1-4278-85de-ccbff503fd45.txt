@@ -1,9 +1,0 @@
-User ID: ngKqLgqRg-a0NwodAAKR
-User Name: robot
-Ticket ID: ngKqLgqRg-a0NwodAAKR_3750ca25-a9f1-4278-85de-ccbff503fd45
-Total Bid Amount: 5800
-Total Earnings: 0
-Profit/Loss: -5800
-
-Breakdown:
-  Bid: 4, Amount: 5800, Payout: 29000, Status: lost

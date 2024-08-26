@@ -1,9 +1,0 @@
-User ID: 0pxVLkfsAVHXN5x5AANk
-User Name: robot
-Ticket ID: 0pxVLkfsAVHXN5x5AANk_209c3c5d-6af1-4012-9a52-8f49dddfdeef
-Total Bid Amount: 2100
-Total Earnings: 0
-Profit/Loss: -2100
-
-Breakdown:
-  Bid: 4, Amount: 2100, Payout: 10500, Status: lost

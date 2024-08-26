@@ -1,9 +1,0 @@
-User ID: nAoX2jS8ZaPYWgWdACGf
-User Name: robot
-Ticket ID: nAoX2jS8ZaPYWgWdACGf_7f17eed6-7359-4dae-af38-f93e4d907ad3
-Total Bid Amount: 6400
-Total Earnings: 0
-Profit/Loss: -6400
-
-Breakdown:
-  Bid: 4, Amount: 6400, Payout: 32000, Status: lost

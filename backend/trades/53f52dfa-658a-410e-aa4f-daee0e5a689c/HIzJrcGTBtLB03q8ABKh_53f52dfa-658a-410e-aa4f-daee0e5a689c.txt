@@ -1,9 +1,0 @@
-User ID: HIzJrcGTBtLB03q8ABKh
-User Name: robot
-Ticket ID: HIzJrcGTBtLB03q8ABKh_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 5300
-Total Earnings: 26500
-Profit/Loss: 21200
-
-Breakdown:
-  Bid: 6, Amount: 5300, Payout: 26500, Status: won

@@ -1,9 +1,0 @@
-User ID: BauCPEpvqruI7nbMAB2n
-User Name: robot
-Ticket ID: BauCPEpvqruI7nbMAB2n_a5318a37-9f3b-4e0f-afd9-4ce9b649cb5f
-Total Bid Amount: 6900
-Total Earnings: 0
-Profit/Loss: -6900
-
-Breakdown:
-  Bid: 1, Amount: 6900, Payout: 34500, Status: lost

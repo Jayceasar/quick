@@ -1,9 +1,0 @@
-User ID: CJWH7zP-OYZNPZfTAA9Q
-User Name: robot
-Ticket ID: CJWH7zP-OYZNPZfTAA9Q_5092f0aa-69e0-4bf1-a90f-11d059a29664
-Total Bid Amount: 8600
-Total Earnings: 43000
-Profit/Loss: 34400
-
-Breakdown:
-  Bid: 1, Amount: 8600, Payout: 43000, Status: won

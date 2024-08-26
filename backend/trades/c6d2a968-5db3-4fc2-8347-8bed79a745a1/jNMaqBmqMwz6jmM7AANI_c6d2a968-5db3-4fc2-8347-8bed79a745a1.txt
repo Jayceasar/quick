@@ -1,9 +1,0 @@
-User ID: jNMaqBmqMwz6jmM7AANI
-User Name: robot
-Ticket ID: jNMaqBmqMwz6jmM7AANI_c6d2a968-5db3-4fc2-8347-8bed79a745a1
-Total Bid Amount: 5900
-Total Earnings: 29500
-Profit/Loss: 23600
-
-Breakdown:
-  Bid: 2, Amount: 5900, Payout: 29500, Status: won

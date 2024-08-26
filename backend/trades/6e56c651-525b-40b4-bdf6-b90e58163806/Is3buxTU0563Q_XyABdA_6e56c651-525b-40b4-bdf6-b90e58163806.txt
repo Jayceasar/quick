@@ -1,9 +1,0 @@
-User ID: Is3buxTU0563Q_XyABdA
-User Name: robot
-Ticket ID: Is3buxTU0563Q_XyABdA_6e56c651-525b-40b4-bdf6-b90e58163806
-Total Bid Amount: 1200
-Total Earnings: 6000
-Profit/Loss: 4800
-
-Breakdown:
-  Bid: 3, Amount: 1200, Payout: 6000, Status: won

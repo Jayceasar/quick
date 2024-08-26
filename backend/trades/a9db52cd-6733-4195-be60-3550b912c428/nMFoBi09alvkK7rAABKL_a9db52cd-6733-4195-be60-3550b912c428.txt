@@ -1,9 +1,0 @@
-User ID: nMFoBi09alvkK7rAABKL
-User Name: robot
-Ticket ID: nMFoBi09alvkK7rAABKL_a9db52cd-6733-4195-be60-3550b912c428
-Total Bid Amount: 9000
-Total Earnings: 0
-Profit/Loss: -9000
-
-Breakdown:
-  Bid: 6, Amount: 9000, Payout: 45000, Status: lost

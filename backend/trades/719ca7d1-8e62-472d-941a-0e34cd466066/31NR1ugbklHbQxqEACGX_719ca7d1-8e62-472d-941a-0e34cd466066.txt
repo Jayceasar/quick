@@ -1,9 +1,0 @@
-User ID: 31NR1ugbklHbQxqEACGX
-User Name: robot
-Ticket ID: 31NR1ugbklHbQxqEACGX_719ca7d1-8e62-472d-941a-0e34cd466066
-Total Bid Amount: 9500
-Total Earnings: 47500
-Profit/Loss: 38000
-
-Breakdown:
-  Bid: 4, Amount: 9500, Payout: 47500, Status: won

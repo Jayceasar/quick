@@ -1,9 +1,0 @@
-User ID: 2kUxuagTy5mmQy1gACN_
-User Name: robot
-Ticket ID: 2kUxuagTy5mmQy1gACN__2b9cf866-cf0f-4d05-9e66-7bba29114343
-Total Bid Amount: 9400
-Total Earnings: 0
-Profit/Loss: -9400
-
-Breakdown:
-  Bid: 6, Amount: 9400, Payout: 47000, Status: lost

@@ -1,9 +1,0 @@
-User ID: ETxqBxsbVsHahD0tAA-5
-User Name: robot
-Ticket ID: ETxqBxsbVsHahD0tAA-5_73e52ea7-53a0-471d-a88d-2ad368de3cb4
-Total Bid Amount: 5300
-Total Earnings: 0
-Profit/Loss: -5300
-
-Breakdown:
-  Bid: 4, Amount: 5300, Payout: 26500, Status: lost

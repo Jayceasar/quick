@@ -1,9 +1,0 @@
-User ID: sqjpwz39s8TTgHoMAB-7
-User Name: robot
-Ticket ID: sqjpwz39s8TTgHoMAB-7_d8df62b4-1734-46bb-aa18-2e8fa0ba6bad
-Total Bid Amount: 9600
-Total Earnings: 0
-Profit/Loss: -9600
-
-Breakdown:
-  Bid: 3, Amount: 9600, Payout: 48000, Status: lost

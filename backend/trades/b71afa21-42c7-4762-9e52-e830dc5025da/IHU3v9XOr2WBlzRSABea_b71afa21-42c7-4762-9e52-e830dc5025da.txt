@@ -1,9 +1,0 @@
-User ID: IHU3v9XOr2WBlzRSABea
-User Name: robot
-Ticket ID: IHU3v9XOr2WBlzRSABea_b71afa21-42c7-4762-9e52-e830dc5025da
-Total Bid Amount: 5600
-Total Earnings: 28000
-Profit/Loss: 22400
-
-Breakdown:
-  Bid: 2, Amount: 5600, Payout: 28000, Status: won

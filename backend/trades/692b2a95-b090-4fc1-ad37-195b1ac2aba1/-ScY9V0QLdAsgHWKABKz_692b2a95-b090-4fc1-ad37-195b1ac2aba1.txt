@@ -1,9 +1,0 @@
-User ID: -ScY9V0QLdAsgHWKABKz
-User Name: robot
-Ticket ID: -ScY9V0QLdAsgHWKABKz_692b2a95-b090-4fc1-ad37-195b1ac2aba1
-Total Bid Amount: 9300
-Total Earnings: 46500
-Profit/Loss: 37200
-
-Breakdown:
-  Bid: 5, Amount: 9300, Payout: 46500, Status: won

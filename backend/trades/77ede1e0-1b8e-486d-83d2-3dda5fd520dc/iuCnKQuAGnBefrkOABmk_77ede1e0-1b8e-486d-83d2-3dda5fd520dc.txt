@@ -1,9 +1,0 @@
-User ID: iuCnKQuAGnBefrkOABmk
-User Name: robot
-Ticket ID: iuCnKQuAGnBefrkOABmk_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
-Total Bid Amount: 4100
-Total Earnings: 0
-Profit/Loss: -4100
-
-Breakdown:
-  Bid: 2, Amount: 4100, Payout: 20500, Status: lost

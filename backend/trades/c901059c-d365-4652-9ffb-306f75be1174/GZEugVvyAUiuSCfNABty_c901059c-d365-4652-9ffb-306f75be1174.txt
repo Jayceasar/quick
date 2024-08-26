@@ -1,9 +1,0 @@
-User ID: GZEugVvyAUiuSCfNABty
-User Name: robot
-Ticket ID: GZEugVvyAUiuSCfNABty_c901059c-d365-4652-9ffb-306f75be1174
-Total Bid Amount: 6600
-Total Earnings: 0
-Profit/Loss: -6600
-
-Breakdown:
-  Bid: 5, Amount: 6600, Payout: 33000, Status: lost

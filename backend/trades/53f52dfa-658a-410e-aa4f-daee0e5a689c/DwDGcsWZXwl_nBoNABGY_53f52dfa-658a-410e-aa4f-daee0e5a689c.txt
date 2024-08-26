@@ -1,9 +1,0 @@
-User ID: DwDGcsWZXwl_nBoNABGY
-User Name: robot
-Ticket ID: DwDGcsWZXwl_nBoNABGY_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 7600
-Total Earnings: 38000
-Profit/Loss: 30400
-
-Breakdown:
-  Bid: 6, Amount: 7600, Payout: 38000, Status: won

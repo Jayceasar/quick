@@ -1,9 +1,0 @@
-User ID: NBBUBFYupMpesbyAAAtz
-User Name: robot
-Ticket ID: NBBUBFYupMpesbyAAAtz_db0ef95d-e018-483f-b64a-b1c385856283
-Total Bid Amount: 6500
-Total Earnings: 32500
-Profit/Loss: 26000
-
-Breakdown:
-  Bid: 3, Amount: 6500, Payout: 32500, Status: won

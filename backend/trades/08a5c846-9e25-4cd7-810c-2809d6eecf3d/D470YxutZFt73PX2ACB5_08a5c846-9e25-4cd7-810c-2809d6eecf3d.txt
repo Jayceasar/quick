@@ -1,9 +1,0 @@
-User ID: D470YxutZFt73PX2ACB5
-User Name: robot
-Ticket ID: D470YxutZFt73PX2ACB5_08a5c846-9e25-4cd7-810c-2809d6eecf3d
-Total Bid Amount: 9100
-Total Earnings: 0
-Profit/Loss: -9100
-
-Breakdown:
-  Bid: 5, Amount: 9100, Payout: 45500, Status: lost

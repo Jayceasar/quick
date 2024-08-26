@@ -1,9 +1,0 @@
-User ID: Gw-h5w0ISJXJ_M_xAAun
-User Name: robot
-Ticket ID: Gw-h5w0ISJXJ_M_xAAun_db0ef95d-e018-483f-b64a-b1c385856283
-Total Bid Amount: 6400
-Total Earnings: 0
-Profit/Loss: -6400
-
-Breakdown:
-  Bid: 2, Amount: 6400, Payout: 32000, Status: lost

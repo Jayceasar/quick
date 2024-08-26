@@ -1,9 +1,0 @@
-User ID: rxHBPTZWSRmkhhxsABKZ
-User Name: robot
-Ticket ID: rxHBPTZWSRmkhhxsABKZ_692b2a95-b090-4fc1-ad37-195b1ac2aba1
-Total Bid Amount: 6300
-Total Earnings: 31500
-Profit/Loss: 25200
-
-Breakdown:
-  Bid: 5, Amount: 6300, Payout: 31500, Status: won

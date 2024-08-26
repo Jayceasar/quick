@@ -1,9 +1,0 @@
-User ID: Gh7KW0zorLNCYtiYAA9t
-User Name: robot
-Ticket ID: Gh7KW0zorLNCYtiYAA9t_73e52ea7-53a0-471d-a88d-2ad368de3cb4
-Total Bid Amount: 9100
-Total Earnings: 45500
-Profit/Loss: 36400
-
-Breakdown:
-  Bid: 2, Amount: 9100, Payout: 45500, Status: won

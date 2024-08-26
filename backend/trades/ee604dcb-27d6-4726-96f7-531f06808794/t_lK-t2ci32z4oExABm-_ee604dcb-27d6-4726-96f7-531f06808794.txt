@@ -1,9 +1,0 @@
-User ID: t_lK-t2ci32z4oExABm-
-User Name: robot
-Ticket ID: t_lK-t2ci32z4oExABm-_ee604dcb-27d6-4726-96f7-531f06808794
-Total Bid Amount: 1600
-Total Earnings: 0
-Profit/Loss: -1600
-
-Breakdown:
-  Bid: 6, Amount: 1600, Payout: 8000, Status: lost

@@ -1,9 +1,0 @@
-User ID: U3ecKaUMINTIjiPkAAjN
-User Name: robot
-Ticket ID: U3ecKaUMINTIjiPkAAjN_16e16623-0a48-40cc-8945-862aa10b83a3
-Total Bid Amount: 6900
-Total Earnings: 0
-Profit/Loss: -6900
-
-Breakdown:
-  Bid: 2, Amount: 6900, Payout: 34500, Status: lost

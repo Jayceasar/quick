@@ -1,9 +1,0 @@
-User ID: rz0lxYhpQuFSrLE-AAbE
-User Name: robot
-Ticket ID: rz0lxYhpQuFSrLE-AAbE_d4866321-57f2-46a1-9e98-4962be1ecf63
-Total Bid Amount: 800
-Total Earnings: 4000
-Profit/Loss: 3200
-
-Breakdown:
-  Bid: 4, Amount: 800, Payout: 4000, Status: won

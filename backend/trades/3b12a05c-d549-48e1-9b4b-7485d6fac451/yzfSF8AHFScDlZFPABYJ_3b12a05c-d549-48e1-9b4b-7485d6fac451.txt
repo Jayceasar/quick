@@ -1,9 +1,0 @@
-User ID: yzfSF8AHFScDlZFPABYJ
-User Name: robot
-Ticket ID: yzfSF8AHFScDlZFPABYJ_3b12a05c-d549-48e1-9b4b-7485d6fac451
-Total Bid Amount: 9500
-Total Earnings: 0
-Profit/Loss: -9500
-
-Breakdown:
-  Bid: 6, Amount: 9500, Payout: 47500, Status: lost

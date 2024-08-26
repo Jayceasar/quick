@@ -1,9 +1,0 @@
-User ID: B0zw67nPOC91na9fAAt2
-User Name: robot
-Ticket ID: B0zw67nPOC91na9fAAt2_db0ef95d-e018-483f-b64a-b1c385856283
-Total Bid Amount: 3900
-Total Earnings: 0
-Profit/Loss: -3900
-
-Breakdown:
-  Bid: 1, Amount: 3900, Payout: 19500, Status: lost

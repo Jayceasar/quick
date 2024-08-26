@@ -1,9 +1,0 @@
-User ID: QkmrNaOhDFIZUDQoAAKr
-User Name: robot
-Ticket ID: QkmrNaOhDFIZUDQoAAKr_ad3a8c72-299f-43d4-805f-4646b325aae0
-Total Bid Amount: 7400
-Total Earnings: 0
-Profit/Loss: -7400
-
-Breakdown:
-  Bid: 5, Amount: 7400, Payout: 37000, Status: lost

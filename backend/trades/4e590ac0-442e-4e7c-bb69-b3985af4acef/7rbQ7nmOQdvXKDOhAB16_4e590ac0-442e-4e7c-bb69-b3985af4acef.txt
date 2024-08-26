@@ -1,9 +1,0 @@
-User ID: 7rbQ7nmOQdvXKDOhAB16
-User Name: robot
-Ticket ID: 7rbQ7nmOQdvXKDOhAB16_4e590ac0-442e-4e7c-bb69-b3985af4acef
-Total Bid Amount: 1800
-Total Earnings: 9000
-Profit/Loss: 7200
-
-Breakdown:
-  Bid: 2, Amount: 1800, Payout: 9000, Status: won

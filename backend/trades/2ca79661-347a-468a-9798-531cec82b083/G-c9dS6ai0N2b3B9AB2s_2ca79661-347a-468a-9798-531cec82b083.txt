@@ -1,9 +1,0 @@
-User ID: G-c9dS6ai0N2b3B9AB2s
-User Name: robot
-Ticket ID: G-c9dS6ai0N2b3B9AB2s_2ca79661-347a-468a-9798-531cec82b083
-Total Bid Amount: 7500
-Total Earnings: 0
-Profit/Loss: -7500
-
-Breakdown:
-  Bid: 5, Amount: 7500, Payout: 37500, Status: lost

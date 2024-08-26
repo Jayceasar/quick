@@ -1,9 +1,0 @@
-User ID: Rrzs-N8Vmj00mUrfACKb
-User Name: robot
-Ticket ID: Rrzs-N8Vmj00mUrfACKb_7f17eed6-7359-4dae-af38-f93e4d907ad3
-Total Bid Amount: 9800
-Total Earnings: 0
-Profit/Loss: -9800
-
-Breakdown:
-  Bid: 2, Amount: 9800, Payout: 49000, Status: lost

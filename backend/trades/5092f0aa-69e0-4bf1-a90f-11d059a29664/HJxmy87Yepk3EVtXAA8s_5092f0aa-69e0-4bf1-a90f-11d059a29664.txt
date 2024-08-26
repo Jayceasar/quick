@@ -1,9 +1,0 @@
-User ID: HJxmy87Yepk3EVtXAA8s
-User Name: robot
-Ticket ID: HJxmy87Yepk3EVtXAA8s_5092f0aa-69e0-4bf1-a90f-11d059a29664
-Total Bid Amount: 5400
-Total Earnings: 0
-Profit/Loss: -5400
-
-Breakdown:
-  Bid: 3, Amount: 5400, Payout: 27000, Status: lost

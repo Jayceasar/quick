@@ -1,9 +1,0 @@
-User ID: IaB881rLQy_4CofPAB1b
-User Name: robot
-Ticket ID: IaB881rLQy_4CofPAB1b_c5622fe9-fa66-4682-a1ea-f8ed721f9645
-Total Bid Amount: 7300
-Total Earnings: 0
-Profit/Loss: -7300
-
-Breakdown:
-  Bid: 5, Amount: 7300, Payout: 36500, Status: lost

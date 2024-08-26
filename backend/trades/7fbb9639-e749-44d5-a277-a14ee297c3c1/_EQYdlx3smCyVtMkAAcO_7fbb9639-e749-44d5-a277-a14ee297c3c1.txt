@@ -1,9 +1,0 @@
-User ID: _EQYdlx3smCyVtMkAAcO
-User Name: robot
-Ticket ID: _EQYdlx3smCyVtMkAAcO_7fbb9639-e749-44d5-a277-a14ee297c3c1
-Total Bid Amount: 2100
-Total Earnings: 0
-Profit/Loss: -2100
-
-Breakdown:
-  Bid: 5, Amount: 2100, Payout: 10500, Status: lost

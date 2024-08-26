@@ -1,9 +1,0 @@
-User ID: fEdoGpT2rR3HgrQAAB-J
-User Name: robot
-Ticket ID: fEdoGpT2rR3HgrQAAB-J_1b5ca1b1-54c9-4f4e-8033-ab7d1d510120
-Total Bid Amount: 1900
-Total Earnings: 0
-Profit/Loss: -1900
-
-Breakdown:
-  Bid: 1, Amount: 1900, Payout: 9500, Status: lost

@@ -1,9 +1,0 @@
-User ID: lJ-m5xDp7so8ggweABW4
-User Name: robot
-Ticket ID: lJ-m5xDp7so8ggweABW4_8fa77666-9d7f-4032-9eb6-68ecb3f56761
-Total Bid Amount: 5400
-Total Earnings: 0
-Profit/Loss: -5400
-
-Breakdown:
-  Bid: 4, Amount: 5400, Payout: 27000, Status: lost

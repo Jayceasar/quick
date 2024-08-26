@@ -1,9 +1,0 @@
-User ID: etzEvssu6tRYsIXWABtP
-User Name: robot
-Ticket ID: etzEvssu6tRYsIXWABtP_c901059c-d365-4652-9ffb-306f75be1174
-Total Bid Amount: 7400
-Total Earnings: 37000
-Profit/Loss: 29600
-
-Breakdown:
-  Bid: 1, Amount: 7400, Payout: 37000, Status: won

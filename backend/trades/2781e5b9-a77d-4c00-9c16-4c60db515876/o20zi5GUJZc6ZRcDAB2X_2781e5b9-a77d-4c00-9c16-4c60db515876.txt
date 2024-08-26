@@ -1,9 +1,0 @@
-User ID: o20zi5GUJZc6ZRcDAB2X
-User Name: robot
-Ticket ID: o20zi5GUJZc6ZRcDAB2X_2781e5b9-a77d-4c00-9c16-4c60db515876
-Total Bid Amount: 5000
-Total Earnings: 0
-Profit/Loss: -5000
-
-Breakdown:
-  Bid: 5, Amount: 5000, Payout: 25000, Status: lost

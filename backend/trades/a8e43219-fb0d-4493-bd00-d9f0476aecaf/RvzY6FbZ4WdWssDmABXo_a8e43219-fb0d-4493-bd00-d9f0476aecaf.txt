@@ -1,9 +1,0 @@
-User ID: RvzY6FbZ4WdWssDmABXo
-User Name: robot
-Ticket ID: RvzY6FbZ4WdWssDmABXo_a8e43219-fb0d-4493-bd00-d9f0476aecaf
-Total Bid Amount: 7700
-Total Earnings: 0
-Profit/Loss: -7700
-
-Breakdown:
-  Bid: 6, Amount: 7700, Payout: 38500, Status: lost

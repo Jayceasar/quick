@@ -1,9 +1,0 @@
-User ID: md3LuvgWGcWGCoj7ABL6
-User Name: robot
-Ticket ID: md3LuvgWGcWGCoj7ABL6_692b2a95-b090-4fc1-ad37-195b1ac2aba1
-Total Bid Amount: 7200
-Total Earnings: 0
-Profit/Loss: -7200
-
-Breakdown:
-  Bid: 1, Amount: 7200, Payout: 36000, Status: lost

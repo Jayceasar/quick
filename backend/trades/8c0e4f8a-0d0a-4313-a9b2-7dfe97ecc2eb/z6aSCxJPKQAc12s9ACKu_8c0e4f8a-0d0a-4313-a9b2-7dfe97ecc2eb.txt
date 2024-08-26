@@ -1,9 +1,0 @@
-User ID: z6aSCxJPKQAc12s9ACKu
-User Name: robot
-Ticket ID: z6aSCxJPKQAc12s9ACKu_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
-Total Bid Amount: 9600
-Total Earnings: 0
-Profit/Loss: -9600
-
-Breakdown:
-  Bid: 1, Amount: 9600, Payout: 48000, Status: lost

@@ -1,9 +1,0 @@
-User ID: f9K4C4hZEU4xTnpyAAiS
-User Name: robot
-Ticket ID: f9K4C4hZEU4xTnpyAAiS_7edcaff6-689d-4d3c-9b04-4e875243c108
-Total Bid Amount: 2700
-Total Earnings: 0
-Profit/Loss: -2700
-
-Breakdown:
-  Bid: 3, Amount: 2700, Payout: 13500, Status: lost

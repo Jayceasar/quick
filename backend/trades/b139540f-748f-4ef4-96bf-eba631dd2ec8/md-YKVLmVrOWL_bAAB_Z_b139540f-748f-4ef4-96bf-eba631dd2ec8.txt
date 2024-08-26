@@ -1,9 +1,0 @@
-User ID: md-YKVLmVrOWL_bAAB_Z
-User Name: robot
-Ticket ID: md-YKVLmVrOWL_bAAB_Z_b139540f-748f-4ef4-96bf-eba631dd2ec8
-Total Bid Amount: 3300
-Total Earnings: 0
-Profit/Loss: -3300
-
-Breakdown:
-  Bid: 3, Amount: 3300, Payout: 16500, Status: lost

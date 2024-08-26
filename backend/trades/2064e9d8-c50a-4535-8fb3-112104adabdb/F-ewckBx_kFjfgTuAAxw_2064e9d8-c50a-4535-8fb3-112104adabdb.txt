@@ -1,9 +1,0 @@
-User ID: F-ewckBx_kFjfgTuAAxw
-User Name: robot
-Ticket ID: F-ewckBx_kFjfgTuAAxw_2064e9d8-c50a-4535-8fb3-112104adabdb
-Total Bid Amount: 7500
-Total Earnings: 0
-Profit/Loss: -7500
-
-Breakdown:
-  Bid: 6, Amount: 7500, Payout: 37500, Status: lost

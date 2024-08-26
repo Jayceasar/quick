@@ -1,9 +1,0 @@
-User ID: q0sUt3V2aTWmphFNAAOp
-User Name: robot
-Ticket ID: q0sUt3V2aTWmphFNAAOp_d4d335fb-57cb-443b-84fb-16963a73946e
-Total Bid Amount: 4200
-Total Earnings: 0
-Profit/Loss: -4200
-
-Breakdown:
-  Bid: 6, Amount: 4200, Payout: 21000, Status: lost

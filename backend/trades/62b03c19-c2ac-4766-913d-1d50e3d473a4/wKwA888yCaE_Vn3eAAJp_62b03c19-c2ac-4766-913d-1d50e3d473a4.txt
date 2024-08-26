@@ -1,9 +1,0 @@
-User ID: wKwA888yCaE_Vn3eAAJp
-User Name: robot
-Ticket ID: wKwA888yCaE_Vn3eAAJp_62b03c19-c2ac-4766-913d-1d50e3d473a4
-Total Bid Amount: 9300
-Total Earnings: 46500
-Profit/Loss: 37200
-
-Breakdown:
-  Bid: 2, Amount: 9300, Payout: 46500, Status: won

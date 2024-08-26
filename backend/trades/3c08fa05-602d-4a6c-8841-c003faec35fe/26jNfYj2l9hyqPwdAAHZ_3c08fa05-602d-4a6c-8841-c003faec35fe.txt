@@ -1,9 +1,0 @@
-User ID: 26jNfYj2l9hyqPwdAAHZ
-User Name: robot
-Ticket ID: 26jNfYj2l9hyqPwdAAHZ_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 300
-Total Earnings: 1500
-Profit/Loss: 1200
-
-Breakdown:
-  Bid: 5, Amount: 300, Payout: 1500, Status: won

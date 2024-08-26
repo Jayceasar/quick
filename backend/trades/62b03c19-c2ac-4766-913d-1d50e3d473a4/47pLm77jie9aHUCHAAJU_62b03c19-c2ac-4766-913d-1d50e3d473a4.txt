@@ -1,9 +1,0 @@
-User ID: 47pLm77jie9aHUCHAAJU
-User Name: robot
-Ticket ID: 47pLm77jie9aHUCHAAJU_62b03c19-c2ac-4766-913d-1d50e3d473a4
-Total Bid Amount: 9200
-Total Earnings: 0
-Profit/Loss: -9200
-
-Breakdown:
-  Bid: 1, Amount: 9200, Payout: 46000, Status: lost

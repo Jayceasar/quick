@@ -1,9 +1,0 @@
-User ID: kvWNBuhZXV05zXEAABLX
-User Name: robot
-Ticket ID: kvWNBuhZXV05zXEAABLX_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 4300
-Total Earnings: 0
-Profit/Loss: -4300
-
-Breakdown:
-  Bid: 2, Amount: 4300, Payout: 21500, Status: lost

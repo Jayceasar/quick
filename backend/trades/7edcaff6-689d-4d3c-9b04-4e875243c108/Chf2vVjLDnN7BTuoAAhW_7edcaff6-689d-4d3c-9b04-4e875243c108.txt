@@ -1,9 +1,0 @@
-User ID: Chf2vVjLDnN7BTuoAAhW
-User Name: robot
-Ticket ID: Chf2vVjLDnN7BTuoAAhW_7edcaff6-689d-4d3c-9b04-4e875243c108
-Total Bid Amount: 8900
-Total Earnings: 0
-Profit/Loss: -8900
-
-Breakdown:
-  Bid: 5, Amount: 8900, Payout: 44500, Status: lost

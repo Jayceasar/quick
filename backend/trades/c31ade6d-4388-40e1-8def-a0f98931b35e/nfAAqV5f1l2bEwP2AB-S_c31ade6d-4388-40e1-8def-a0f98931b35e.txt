@@ -1,9 +1,0 @@
-User ID: nfAAqV5f1l2bEwP2AB-S
-User Name: robot
-Ticket ID: nfAAqV5f1l2bEwP2AB-S_c31ade6d-4388-40e1-8def-a0f98931b35e
-Total Bid Amount: 7800
-Total Earnings: 0
-Profit/Loss: -7800
-
-Breakdown:
-  Bid: 1, Amount: 7800, Payout: 39000, Status: lost

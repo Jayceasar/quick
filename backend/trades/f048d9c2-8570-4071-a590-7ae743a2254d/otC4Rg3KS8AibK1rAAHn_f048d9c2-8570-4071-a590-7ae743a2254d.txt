@@ -1,9 +1,0 @@
-User ID: otC4Rg3KS8AibK1rAAHn
-User Name: robot
-Ticket ID: otC4Rg3KS8AibK1rAAHn_f048d9c2-8570-4071-a590-7ae743a2254d
-Total Bid Amount: 1300
-Total Earnings: 0
-Profit/Loss: -1300
-
-Breakdown:
-  Bid: 5, Amount: 1300, Payout: 6500, Status: lost

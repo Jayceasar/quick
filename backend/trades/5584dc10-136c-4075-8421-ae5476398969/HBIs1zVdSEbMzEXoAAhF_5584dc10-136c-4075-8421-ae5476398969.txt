@@ -1,9 +1,0 @@
-User ID: HBIs1zVdSEbMzEXoAAhF
-User Name: robot
-Ticket ID: HBIs1zVdSEbMzEXoAAhF_5584dc10-136c-4075-8421-ae5476398969
-Total Bid Amount: 5600
-Total Earnings: 28000
-Profit/Loss: 22400
-
-Breakdown:
-  Bid: 2, Amount: 5600, Payout: 28000, Status: won

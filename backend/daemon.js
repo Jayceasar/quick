@@ -219,43 +219,43 @@ function updateGame() {
   console.log(`Generated tickets for ${tickets.length} users who placed bets`);
 
   // Start a new worker thread to handle file operations
-  const worker = new Worker("./workers/fileWorker.js", {
-    workerData: {
-      sessionId: SESSION_UNIQUE_ID,
-      tickets,
-      sessionSummary: {
-        totalBids: allBidsData.length,
-        totalAmount,
-        profit,
-        sessionId: SESSION_UNIQUE_ID,
-        payout: closestPayout,
-        winningNumber: newNumber,
-        totalWinningUsers: totalWinningUsers.size,
-        totalLosingUsers: totalLosingUsers.size,
-        totalWinningTickets,
-        totalLosingTickets,
-      },
-    },
-  });
+  // const worker = new Worker("./workers/fileWorker.js", {
+  //   workerData: {
+  //     sessionId: SESSION_UNIQUE_ID,
+  //     tickets,
+  //     sessionSummary: {
+  //       totalBids: allBidsData.length,
+  //       totalAmount,
+  //       profit,
+  //       sessionId: SESSION_UNIQUE_ID,
+  //       payout: closestPayout,
+  //       winningNumber: newNumber,
+  //       totalWinningUsers: totalWinningUsers.size,
+  //       totalLosingUsers: totalLosingUsers.size,
+  //       totalWinningTickets,
+  //       totalLosingTickets,
+  //     },
+  //   },
+  // });
 
-  worker.on("error", (err) => {
-    console.error("Worker error:", err);
-  });
+  // worker.on("error", (err) => {
+  //   console.error("Worker error:", err);
+  // });
 
-  worker.on("exit", (code) => {
-    if (code !== 0) {
-      console.error(`Worker stopped with exit code ${code}`);
-    } else {
-      console.log("Worker completed successfully");
-    }
-  });
+  // worker.on("exit", (code) => {
+  //   if (code !== 0) {
+  //     console.error(`Worker stopped with exit code ${code}`);
+  //   } else {
+  //     console.log("Worker completed successfully");
+  //   }
+  // });
 
-  updateFinancials(totalAmount, closestPayout);
+  // updateFinancials(totalAmount, closestPayout);
 
   // Push financials report to all clients
-  getFinancialsReport().then((report) => {
-    io.emit("financials", report);
-  });
+  // getFinancialsReport().then((report) => {
+  //   io.emit("financials", report);
+  // });
 
   // Reset unique user sets for next session
   allBidsData = [];

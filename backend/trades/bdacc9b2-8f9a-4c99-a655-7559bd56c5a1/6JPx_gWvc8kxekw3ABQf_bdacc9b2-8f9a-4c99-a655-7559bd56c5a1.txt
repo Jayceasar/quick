@@ -1,9 +1,0 @@
-User ID: 6JPx_gWvc8kxekw3ABQf
-User Name: robot
-Ticket ID: 6JPx_gWvc8kxekw3ABQf_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
-Total Bid Amount: 700
-Total Earnings: 0
-Profit/Loss: -700
-
-Breakdown:
-  Bid: 1, Amount: 700, Payout: 3500, Status: lost

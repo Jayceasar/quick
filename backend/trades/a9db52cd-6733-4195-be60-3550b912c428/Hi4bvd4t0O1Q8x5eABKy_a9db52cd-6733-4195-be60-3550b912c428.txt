@@ -1,9 +1,0 @@
-User ID: Hi4bvd4t0O1Q8x5eABKy
-User Name: robot
-Ticket ID: Hi4bvd4t0O1Q8x5eABKy_a9db52cd-6733-4195-be60-3550b912c428
-Total Bid Amount: 10000
-Total Earnings: 50000
-Profit/Loss: 40000
-
-Breakdown:
-  Bid: 1, Amount: 10000, Payout: 50000, Status: won

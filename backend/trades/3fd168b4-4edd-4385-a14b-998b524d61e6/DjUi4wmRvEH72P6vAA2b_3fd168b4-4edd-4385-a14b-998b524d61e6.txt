@@ -1,9 +1,0 @@
-User ID: DjUi4wmRvEH72P6vAA2b
-User Name: robot
-Ticket ID: DjUi4wmRvEH72P6vAA2b_3fd168b4-4edd-4385-a14b-998b524d61e6
-Total Bid Amount: 6400
-Total Earnings: 0
-Profit/Loss: -6400
-
-Breakdown:
-  Bid: 6, Amount: 6400, Payout: 32000, Status: lost

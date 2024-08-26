@@ -1,9 +1,0 @@
-User ID: FU-tF9FmpNSrD7PJAByi
-User Name: robot
-Ticket ID: FU-tF9FmpNSrD7PJAByi_c5622fe9-fa66-4682-a1ea-f8ed721f9645
-Total Bid Amount: 4400
-Total Earnings: 0
-Profit/Loss: -4400
-
-Breakdown:
-  Bid: 4, Amount: 4400, Payout: 22000, Status: lost

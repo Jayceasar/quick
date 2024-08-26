@@ -1,9 +1,0 @@
-User ID: gSgbniTgIbbbZ82gAANP
-User Name: robot
-Ticket ID: gSgbniTgIbbbZ82gAANP_c6d2a968-5db3-4fc2-8347-8bed79a745a1
-Total Bid Amount: 5200
-Total Earnings: 0
-Profit/Loss: -5200
-
-Breakdown:
-  Bid: 4, Amount: 5200, Payout: 26000, Status: lost

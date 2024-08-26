@@ -1,9 +1,0 @@
-User ID: mFSG1JDOdfSC-3RFAANd
-User Name: robot
-Ticket ID: mFSG1JDOdfSC-3RFAANd_c6d2a968-5db3-4fc2-8347-8bed79a745a1
-Total Bid Amount: 10000
-Total Earnings: 0
-Profit/Loss: -10000
-
-Breakdown:
-  Bid: 5, Amount: 10000, Payout: 50000, Status: lost

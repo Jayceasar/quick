@@ -1,9 +1,0 @@
-User ID: I7-7duxvpFpegd6GAAGB
-User Name: robot
-Ticket ID: I7-7duxvpFpegd6GAAGB_bb5e3028-8c52-4b98-a381-0c2c68383464
-Total Bid Amount: 4800
-Total Earnings: 0
-Profit/Loss: -4800
-
-Breakdown:
-  Bid: 1, Amount: 4800, Payout: 24000, Status: lost

@@ -1,9 +1,0 @@
-User ID: SUCWhXVm_XyZAmCTAAJJ
-User Name: robot
-Ticket ID: SUCWhXVm_XyZAmCTAAJJ_3750ca25-a9f1-4278-85de-ccbff503fd45
-Total Bid Amount: 3700
-Total Earnings: 18500
-Profit/Loss: 14800
-
-Breakdown:
-  Bid: 6, Amount: 3700, Payout: 18500, Status: won

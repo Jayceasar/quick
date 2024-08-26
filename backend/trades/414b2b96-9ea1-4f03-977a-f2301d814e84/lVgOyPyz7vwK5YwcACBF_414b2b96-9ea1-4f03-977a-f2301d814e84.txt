@@ -1,9 +1,0 @@
-User ID: lVgOyPyz7vwK5YwcACBF
-User Name: robot
-Ticket ID: lVgOyPyz7vwK5YwcACBF_414b2b96-9ea1-4f03-977a-f2301d814e84
-Total Bid Amount: 1700
-Total Earnings: 0
-Profit/Loss: -1700
-
-Breakdown:
-  Bid: 6, Amount: 1700, Payout: 8500, Status: lost

@@ -1,9 +1,0 @@
-User ID: kiLutYXnDsyhghhJABJg
-User Name: robot
-Ticket ID: kiLutYXnDsyhghhJABJg_692b2a95-b090-4fc1-ad37-195b1ac2aba1
-Total Bid Amount: 5800
-Total Earnings: 0
-Profit/Loss: -5800
-
-Breakdown:
-  Bid: 2, Amount: 5800, Payout: 29000, Status: lost

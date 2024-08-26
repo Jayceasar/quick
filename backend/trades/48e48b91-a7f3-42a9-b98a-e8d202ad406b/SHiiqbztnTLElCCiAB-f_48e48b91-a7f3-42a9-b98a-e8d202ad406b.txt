@@ -1,9 +1,0 @@
-User ID: SHiiqbztnTLElCCiAB-f
-User Name: robot
-Ticket ID: SHiiqbztnTLElCCiAB-f_48e48b91-a7f3-42a9-b98a-e8d202ad406b
-Total Bid Amount: 800
-Total Earnings: 4000
-Profit/Loss: 3200
-
-Breakdown:
-  Bid: 5, Amount: 800, Payout: 4000, Status: won

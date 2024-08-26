@@ -1,9 +1,0 @@
-User ID: lvYawdz-bkdt1C8WABkk
-User Name: robot
-Ticket ID: lvYawdz-bkdt1C8WABkk_ee604dcb-27d6-4726-96f7-531f06808794
-Total Bid Amount: 3800
-Total Earnings: 0
-Profit/Loss: -3800
-
-Breakdown:
-  Bid: 5, Amount: 3800, Payout: 19000, Status: lost

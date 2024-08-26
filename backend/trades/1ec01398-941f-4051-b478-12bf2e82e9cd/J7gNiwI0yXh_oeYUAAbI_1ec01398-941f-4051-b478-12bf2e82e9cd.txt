@@ -1,9 +1,0 @@
-User ID: J7gNiwI0yXh_oeYUAAbI
-User Name: robot
-Ticket ID: J7gNiwI0yXh_oeYUAAbI_1ec01398-941f-4051-b478-12bf2e82e9cd
-Total Bid Amount: 2300
-Total Earnings: 11500
-Profit/Loss: 9200
-
-Breakdown:
-  Bid: 3, Amount: 2300, Payout: 11500, Status: won

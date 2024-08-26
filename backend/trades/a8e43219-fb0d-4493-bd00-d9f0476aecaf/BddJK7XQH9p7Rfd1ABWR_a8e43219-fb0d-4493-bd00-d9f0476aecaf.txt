@@ -1,9 +1,0 @@
-User ID: BddJK7XQH9p7Rfd1ABWR
-User Name: robot
-Ticket ID: BddJK7XQH9p7Rfd1ABWR_a8e43219-fb0d-4493-bd00-d9f0476aecaf
-Total Bid Amount: 3100
-Total Earnings: 15500
-Profit/Loss: 12400
-
-Breakdown:
-  Bid: 5, Amount: 3100, Payout: 15500, Status: won

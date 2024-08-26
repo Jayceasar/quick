@@ -1,9 +1,0 @@
-User ID: kkFpijlzyiZ3VYkKAAKv
-User Name: robot
-Ticket ID: kkFpijlzyiZ3VYkKAAKv_ad3a8c72-299f-43d4-805f-4646b325aae0
-Total Bid Amount: 4000
-Total Earnings: 0
-Profit/Loss: -4000
-
-Breakdown:
-  Bid: 4, Amount: 4000, Payout: 20000, Status: lost

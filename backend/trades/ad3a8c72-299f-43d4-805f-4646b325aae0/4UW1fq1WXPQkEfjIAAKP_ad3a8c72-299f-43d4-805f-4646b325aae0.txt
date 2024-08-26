@@ -1,9 +1,0 @@
-User ID: 4UW1fq1WXPQkEfjIAAKP
-User Name: robot
-Ticket ID: 4UW1fq1WXPQkEfjIAAKP_ad3a8c72-299f-43d4-805f-4646b325aae0
-Total Bid Amount: 200
-Total Earnings: 0
-Profit/Loss: -200
-
-Breakdown:
-  Bid: 5, Amount: 200, Payout: 1000, Status: lost

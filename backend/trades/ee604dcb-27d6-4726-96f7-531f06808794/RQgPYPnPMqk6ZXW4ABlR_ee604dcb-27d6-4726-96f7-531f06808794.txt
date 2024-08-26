@@ -1,9 +1,0 @@
-User ID: RQgPYPnPMqk6ZXW4ABlR
-User Name: robot
-Ticket ID: RQgPYPnPMqk6ZXW4ABlR_ee604dcb-27d6-4726-96f7-531f06808794
-Total Bid Amount: 600
-Total Earnings: 3000
-Profit/Loss: 2400
-
-Breakdown:
-  Bid: 4, Amount: 600, Payout: 3000, Status: won

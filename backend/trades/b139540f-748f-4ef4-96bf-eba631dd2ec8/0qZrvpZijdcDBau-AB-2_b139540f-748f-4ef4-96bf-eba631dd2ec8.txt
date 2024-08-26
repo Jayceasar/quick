@@ -1,9 +1,0 @@
-User ID: 0qZrvpZijdcDBau-AB-2
-User Name: robot
-Ticket ID: 0qZrvpZijdcDBau-AB-2_b139540f-748f-4ef4-96bf-eba631dd2ec8
-Total Bid Amount: 1600
-Total Earnings: 0
-Profit/Loss: -1600
-
-Breakdown:
-  Bid: 5, Amount: 1600, Payout: 8000, Status: lost

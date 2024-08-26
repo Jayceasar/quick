@@ -1,9 +1,0 @@
-User ID: IClM-yHN8D1MixDSABlT
-User Name: robot
-Ticket ID: IClM-yHN8D1MixDSABlT_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
-Total Bid Amount: 4200
-Total Earnings: 0
-Profit/Loss: -4200
-
-Breakdown:
-  Bid: 1, Amount: 4200, Payout: 21000, Status: lost

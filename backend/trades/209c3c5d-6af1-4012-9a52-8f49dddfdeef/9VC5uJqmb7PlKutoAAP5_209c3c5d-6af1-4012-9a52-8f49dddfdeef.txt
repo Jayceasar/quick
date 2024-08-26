@@ -1,9 +1,0 @@
-User ID: 9VC5uJqmb7PlKutoAAP5
-User Name: robot
-Ticket ID: 9VC5uJqmb7PlKutoAAP5_209c3c5d-6af1-4012-9a52-8f49dddfdeef
-Total Bid Amount: 1000
-Total Earnings: 0
-Profit/Loss: -1000
-
-Breakdown:
-  Bid: 3, Amount: 1000, Payout: 5000, Status: lost

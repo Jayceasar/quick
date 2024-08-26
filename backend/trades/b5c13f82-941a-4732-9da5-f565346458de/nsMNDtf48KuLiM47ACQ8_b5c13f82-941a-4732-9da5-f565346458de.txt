@@ -1,9 +1,0 @@
-User ID: nsMNDtf48KuLiM47ACQ8
-User Name: robot
-Ticket ID: nsMNDtf48KuLiM47ACQ8_b5c13f82-941a-4732-9da5-f565346458de
-Total Bid Amount: 6500
-Total Earnings: 0
-Profit/Loss: -6500
-
-Breakdown:
-  Bid: 1, Amount: 6500, Payout: 32500, Status: lost

@@ -1,9 +1,0 @@
-User ID: 8Eis6WTUeqF7WdINAAyo
-User Name: robot
-Ticket ID: 8Eis6WTUeqF7WdINAAyo_73f2641e-7291-48d5-bf09-a4c52f9004e1
-Total Bid Amount: 2000
-Total Earnings: 10000
-Profit/Loss: 8000
-
-Breakdown:
-  Bid: 2, Amount: 2000, Payout: 10000, Status: won

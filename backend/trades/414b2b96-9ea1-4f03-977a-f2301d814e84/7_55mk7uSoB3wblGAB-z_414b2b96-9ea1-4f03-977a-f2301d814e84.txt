@@ -1,9 +1,0 @@
-User ID: 7_55mk7uSoB3wblGAB-z
-User Name: robot
-Ticket ID: 7_55mk7uSoB3wblGAB-z_414b2b96-9ea1-4f03-977a-f2301d814e84
-Total Bid Amount: 8900
-Total Earnings: 0
-Profit/Loss: -8900
-
-Breakdown:
-  Bid: 2, Amount: 8900, Payout: 44500, Status: lost

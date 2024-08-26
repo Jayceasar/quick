@@ -1,9 +1,0 @@
-User ID: F-LSBhHMfPNTpoRRABt1
-User Name: robot
-Ticket ID: F-LSBhHMfPNTpoRRABt1_7a1cf374-3b0b-47a8-92f4-370088b1d70d
-Total Bid Amount: 4900
-Total Earnings: 0
-Profit/Loss: -4900
-
-Breakdown:
-  Bid: 1, Amount: 4900, Payout: 24500, Status: lost

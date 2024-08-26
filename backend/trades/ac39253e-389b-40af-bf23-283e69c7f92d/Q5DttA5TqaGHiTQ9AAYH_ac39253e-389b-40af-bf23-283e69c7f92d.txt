@@ -1,9 +1,0 @@
-User ID: Q5DttA5TqaGHiTQ9AAYH
-User Name: robot
-Ticket ID: Q5DttA5TqaGHiTQ9AAYH_ac39253e-389b-40af-bf23-283e69c7f92d
-Total Bid Amount: 9700
-Total Earnings: 0
-Profit/Loss: -9700
-
-Breakdown:
-  Bid: 5, Amount: 9700, Payout: 48500, Status: lost

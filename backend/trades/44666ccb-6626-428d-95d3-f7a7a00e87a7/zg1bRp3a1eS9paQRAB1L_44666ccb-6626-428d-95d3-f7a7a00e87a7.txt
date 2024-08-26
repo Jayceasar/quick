@@ -1,9 +1,0 @@
-User ID: zg1bRp3a1eS9paQRAB1L
-User Name: robot
-Ticket ID: zg1bRp3a1eS9paQRAB1L_44666ccb-6626-428d-95d3-f7a7a00e87a7
-Total Bid Amount: 8600
-Total Earnings: 43000
-Profit/Loss: 34400
-
-Breakdown:
-  Bid: 6, Amount: 8600, Payout: 43000, Status: won

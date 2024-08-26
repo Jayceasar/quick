@@ -1,9 +1,0 @@
-User ID: LGik4Dcw4nG1Zvr6AAQQ
-User Name: robot
-Ticket ID: LGik4Dcw4nG1Zvr6AAQQ_6d2f5a00-8975-46ac-9313-eaee03859331
-Total Bid Amount: 3000
-Total Earnings: 0
-Profit/Loss: -3000
-
-Breakdown:
-  Bid: 3, Amount: 3000, Payout: 15000, Status: lost

@@ -1,9 +1,0 @@
-User ID: dUkTNGvWUkGSbDH8AB29
-User Name: robot
-Ticket ID: dUkTNGvWUkGSbDH8AB29_a5318a37-9f3b-4e0f-afd9-4ce9b649cb5f
-Total Bid Amount: 5600
-Total Earnings: 0
-Profit/Loss: -5600
-
-Breakdown:
-  Bid: 4, Amount: 5600, Payout: 28000, Status: lost

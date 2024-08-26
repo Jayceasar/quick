@@ -1,9 +1,0 @@
-User ID: Ugtw1Xeo6LYltcg8ABLm
-User Name: robot
-Ticket ID: Ugtw1Xeo6LYltcg8ABLm_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 8000
-Total Earnings: 0
-Profit/Loss: -8000
-
-Breakdown:
-  Bid: 5, Amount: 8000, Payout: 40000, Status: lost

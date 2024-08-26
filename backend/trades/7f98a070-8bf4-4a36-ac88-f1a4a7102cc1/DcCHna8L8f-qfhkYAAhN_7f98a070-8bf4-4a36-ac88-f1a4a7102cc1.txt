@@ -1,9 +1,0 @@
-User ID: DcCHna8L8f-qfhkYAAhN
-User Name: robot
-Ticket ID: DcCHna8L8f-qfhkYAAhN_7f98a070-8bf4-4a36-ac88-f1a4a7102cc1
-Total Bid Amount: 3600
-Total Earnings: 18000
-Profit/Loss: 14400
-
-Breakdown:
-  Bid: 5, Amount: 3600, Payout: 18000, Status: won

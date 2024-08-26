@@ -1,9 +1,0 @@
-User ID: GqfTnIYhSC3_d-l1ACFq
-User Name: robot
-Ticket ID: GqfTnIYhSC3_d-l1ACFq_7a619b2b-f9f3-4d8c-b8d2-8f2288186f49
-Total Bid Amount: 1600
-Total Earnings: 8000
-Profit/Loss: 6400
-
-Breakdown:
-  Bid: 5, Amount: 1600, Payout: 8000, Status: won

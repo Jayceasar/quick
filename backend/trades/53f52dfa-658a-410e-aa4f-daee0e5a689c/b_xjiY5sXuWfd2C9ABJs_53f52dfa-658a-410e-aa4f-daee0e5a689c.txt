@@ -1,9 +1,0 @@
-User ID: b_xjiY5sXuWfd2C9ABJs
-User Name: robot
-Ticket ID: b_xjiY5sXuWfd2C9ABJs_53f52dfa-658a-410e-aa4f-daee0e5a689c
-Total Bid Amount: 3700
-Total Earnings: 0
-Profit/Loss: -3700
-
-Breakdown:
-  Bid: 1, Amount: 3700, Payout: 18500, Status: lost

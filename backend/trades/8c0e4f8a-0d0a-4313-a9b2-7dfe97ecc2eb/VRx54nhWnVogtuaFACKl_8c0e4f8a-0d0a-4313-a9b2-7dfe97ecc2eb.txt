@@ -1,9 +1,0 @@
-User ID: VRx54nhWnVogtuaFACKl
-User Name: robot
-Ticket ID: VRx54nhWnVogtuaFACKl_8c0e4f8a-0d0a-4313-a9b2-7dfe97ecc2eb
-Total Bid Amount: 3400
-Total Earnings: 0
-Profit/Loss: -3400
-
-Breakdown:
-  Bid: 1, Amount: 3400, Payout: 17000, Status: lost

@@ -1,9 +1,0 @@
-User ID: MDm-aOKo5BTdekLiABTK
-User Name: robot
-Ticket ID: MDm-aOKo5BTdekLiABTK_8fa77666-9d7f-4032-9eb6-68ecb3f56761
-Total Bid Amount: 200
-Total Earnings: 0
-Profit/Loss: -200
-
-Breakdown:
-  Bid: 2, Amount: 200, Payout: 1000, Status: lost

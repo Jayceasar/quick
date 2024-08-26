@@ -1,9 +1,0 @@
-User ID: f_c1zqQ6fxHGlfXeAAF0
-User Name: robot
-Ticket ID: f_c1zqQ6fxHGlfXeAAF0_3c08fa05-602d-4a6c-8841-c003faec35fe
-Total Bid Amount: 200
-Total Earnings: 0
-Profit/Loss: -200
-
-Breakdown:
-  Bid: 4, Amount: 200, Payout: 1000, Status: lost

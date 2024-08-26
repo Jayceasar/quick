@@ -1,9 +1,0 @@
-User ID: XX1IblTSDYGRp39_ABL1
-User Name: robot
-Ticket ID: XX1IblTSDYGRp39_ABL1_a9db52cd-6733-4195-be60-3550b912c428
-Total Bid Amount: 3500
-Total Earnings: 0
-Profit/Loss: -3500
-
-Breakdown:
-  Bid: 3, Amount: 3500, Payout: 17500, Status: lost

@@ -1,9 +1,0 @@
-User ID: oRE-2iJDTdnZylL3AB-W
-User Name: robot
-Ticket ID: oRE-2iJDTdnZylL3AB-W_d32ea5b8-0e5c-4e10-afc1-1e45003030ee
-Total Bid Amount: 2600
-Total Earnings: 0
-Profit/Loss: -2600
-
-Breakdown:
-  Bid: 3, Amount: 2600, Payout: 13000, Status: lost

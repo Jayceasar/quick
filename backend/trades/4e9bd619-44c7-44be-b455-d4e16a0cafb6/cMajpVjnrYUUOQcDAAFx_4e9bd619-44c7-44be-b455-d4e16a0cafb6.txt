@@ -1,9 +1,0 @@
-User ID: cMajpVjnrYUUOQcDAAFx
-User Name: robot
-Ticket ID: cMajpVjnrYUUOQcDAAFx_4e9bd619-44c7-44be-b455-d4e16a0cafb6
-Total Bid Amount: 7500
-Total Earnings: 0
-Profit/Loss: -7500
-
-Breakdown:
-  Bid: 5, Amount: 7500, Payout: 37500, Status: lost

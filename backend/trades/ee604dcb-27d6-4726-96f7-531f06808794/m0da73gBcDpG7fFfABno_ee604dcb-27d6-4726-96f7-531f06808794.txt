@@ -1,9 +1,0 @@
-User ID: m0da73gBcDpG7fFfABno
-User Name: robot
-Ticket ID: m0da73gBcDpG7fFfABno_ee604dcb-27d6-4726-96f7-531f06808794
-Total Bid Amount: 8100
-Total Earnings: 0
-Profit/Loss: -8100
-
-Breakdown:
-  Bid: 5, Amount: 8100, Payout: 40500, Status: lost

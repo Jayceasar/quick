@@ -1,9 +1,0 @@
-User ID: KUq3W7gvCqaMLOeCABdr
-User Name: robot
-Ticket ID: KUq3W7gvCqaMLOeCABdr_b71afa21-42c7-4762-9e52-e830dc5025da
-Total Bid Amount: 4900
-Total Earnings: 0
-Profit/Loss: -4900
-
-Breakdown:
-  Bid: 1, Amount: 4900, Payout: 24500, Status: lost

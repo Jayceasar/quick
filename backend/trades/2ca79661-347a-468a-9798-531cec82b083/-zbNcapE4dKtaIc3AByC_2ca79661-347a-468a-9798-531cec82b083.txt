@@ -1,9 +1,0 @@
-User ID: -zbNcapE4dKtaIc3AByC
-User Name: robot
-Ticket ID: -zbNcapE4dKtaIc3AByC_2ca79661-347a-468a-9798-531cec82b083
-Total Bid Amount: 7700
-Total Earnings: 0
-Profit/Loss: -7700
-
-Breakdown:
-  Bid: 5, Amount: 7700, Payout: 38500, Status: lost

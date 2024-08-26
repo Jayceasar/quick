@@ -1,9 +1,0 @@
-User ID: 9BMSbkwTIHpgRSHSAANS
-User Name: robot
-Ticket ID: 9BMSbkwTIHpgRSHSAANS_c6d2a968-5db3-4fc2-8347-8bed79a745a1
-Total Bid Amount: 4800
-Total Earnings: 24000
-Profit/Loss: 19200
-
-Breakdown:
-  Bid: 2, Amount: 4800, Payout: 24000, Status: won

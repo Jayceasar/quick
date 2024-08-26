@@ -1,9 +1,0 @@
-User ID: MhmKaSD7AT6uqbEOABvD
-User Name: robot
-Ticket ID: MhmKaSD7AT6uqbEOABvD_7a1cf374-3b0b-47a8-92f4-370088b1d70d
-Total Bid Amount: 5600
-Total Earnings: 0
-Profit/Loss: -5600
-
-Breakdown:
-  Bid: 4, Amount: 5600, Payout: 28000, Status: lost

@@ -1,9 +1,0 @@
-User ID: c1THlQe99-kDOG5kAAQL
-User Name: robot
-Ticket ID: c1THlQe99-kDOG5kAAQL_6ccaeea3-75f3-4c47-90f7-0f988c85c9cb
-Total Bid Amount: 8000
-Total Earnings: 0
-Profit/Loss: -8000
-
-Breakdown:
-  Bid: 2, Amount: 8000, Payout: 40000, Status: lost

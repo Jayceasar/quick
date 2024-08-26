@@ -1,9 +1,0 @@
-User ID: 0IqyZApETM5kGRDRAAb2
-User Name: robot
-Ticket ID: 0IqyZApETM5kGRDRAAb2_e5c8435f-e1c9-4163-99e8-aa0c1b077786
-Total Bid Amount: 5000
-Total Earnings: 25000
-Profit/Loss: 20000
-
-Breakdown:
-  Bid: 5, Amount: 5000, Payout: 25000, Status: won

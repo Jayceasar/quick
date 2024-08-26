@@ -1,9 +1,0 @@
-User ID: ipeK8-i41lHYzVXQAAOt
-User Name: robot
-Ticket ID: ipeK8-i41lHYzVXQAAOt_209c3c5d-6af1-4012-9a52-8f49dddfdeef
-Total Bid Amount: 1500
-Total Earnings: 0
-Profit/Loss: -1500
-
-Breakdown:
-  Bid: 4, Amount: 1500, Payout: 7500, Status: lost

@@ -1,9 +1,0 @@
-User ID: RmWyjvjgOlvEovVKACCL
-User Name: robot
-Ticket ID: RmWyjvjgOlvEovVKACCL_3e3ffb49-a8be-4e48-a533-33eb486e2676
-Total Bid Amount: 9600
-Total Earnings: 0
-Profit/Loss: -9600
-
-Breakdown:
-  Bid: 3, Amount: 9600, Payout: 48000, Status: lost

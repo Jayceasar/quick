@@ -1,9 +1,0 @@
-User ID: G9t5iD_W9JZg_E9DAB-O
-User Name: robot
-Ticket ID: G9t5iD_W9JZg_E9DAB-O_ce826aab-9a87-417c-932c-403d0e5f1b5b
-Total Bid Amount: 1900
-Total Earnings: 0
-Profit/Loss: -1900
-
-Breakdown:
-  Bid: 4, Amount: 1900, Payout: 9500, Status: lost

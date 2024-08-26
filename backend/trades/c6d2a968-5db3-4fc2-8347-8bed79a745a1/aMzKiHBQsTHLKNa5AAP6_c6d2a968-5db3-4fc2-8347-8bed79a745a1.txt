@@ -1,9 +1,0 @@
-User ID: aMzKiHBQsTHLKNa5AAP6
-User Name: robot
-Ticket ID: aMzKiHBQsTHLKNa5AAP6_c6d2a968-5db3-4fc2-8347-8bed79a745a1
-Total Bid Amount: 5600
-Total Earnings: 28000
-Profit/Loss: 22400
-
-Breakdown:
-  Bid: 2, Amount: 5600, Payout: 28000, Status: won

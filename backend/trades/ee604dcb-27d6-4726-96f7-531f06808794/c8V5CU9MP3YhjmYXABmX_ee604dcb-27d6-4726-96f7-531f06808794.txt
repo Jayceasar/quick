@@ -1,9 +1,0 @@
-User ID: c8V5CU9MP3YhjmYXABmX
-User Name: robot
-Ticket ID: c8V5CU9MP3YhjmYXABmX_ee604dcb-27d6-4726-96f7-531f06808794
-Total Bid Amount: 1500
-Total Earnings: 0
-Profit/Loss: -1500
-
-Breakdown:
-  Bid: 6, Amount: 1500, Payout: 7500, Status: lost

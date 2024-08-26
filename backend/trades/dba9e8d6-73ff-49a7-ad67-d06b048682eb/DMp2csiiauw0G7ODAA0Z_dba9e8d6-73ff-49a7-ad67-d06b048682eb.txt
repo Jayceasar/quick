@@ -1,9 +1,0 @@
-User ID: DMp2csiiauw0G7ODAA0Z
-User Name: robot
-Ticket ID: DMp2csiiauw0G7ODAA0Z_dba9e8d6-73ff-49a7-ad67-d06b048682eb
-Total Bid Amount: 7200
-Total Earnings: 36000
-Profit/Loss: 28800
-
-Breakdown:
-  Bid: 6, Amount: 7200, Payout: 36000, Status: won

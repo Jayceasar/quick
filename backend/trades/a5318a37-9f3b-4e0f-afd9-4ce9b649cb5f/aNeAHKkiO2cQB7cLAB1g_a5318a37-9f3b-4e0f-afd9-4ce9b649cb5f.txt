@@ -1,9 +1,0 @@
-User ID: aNeAHKkiO2cQB7cLAB1g
-User Name: robot
-Ticket ID: aNeAHKkiO2cQB7cLAB1g_a5318a37-9f3b-4e0f-afd9-4ce9b649cb5f
-Total Bid Amount: 6800
-Total Earnings: 34000
-Profit/Loss: 27200
-
-Breakdown:
-  Bid: 2, Amount: 6800, Payout: 34000, Status: won

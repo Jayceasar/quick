@@ -1,9 +1,0 @@
-User ID: u2nXZt-W5S0whHlHABng
-User Name: robot
-Ticket ID: u2nXZt-W5S0whHlHABng_16544f5b-1f99-42fc-955f-4a4f35434ec1
-Total Bid Amount: 9700
-Total Earnings: 48500
-Profit/Loss: 38800
-
-Breakdown:
-  Bid: 1, Amount: 9700, Payout: 48500, Status: won

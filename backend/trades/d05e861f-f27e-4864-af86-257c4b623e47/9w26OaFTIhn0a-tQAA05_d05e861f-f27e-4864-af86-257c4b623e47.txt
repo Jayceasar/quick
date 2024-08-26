@@ -1,9 +1,0 @@
-User ID: 9w26OaFTIhn0a-tQAA05
-User Name: robot
-Ticket ID: 9w26OaFTIhn0a-tQAA05_d05e861f-f27e-4864-af86-257c4b623e47
-Total Bid Amount: 7600
-Total Earnings: 38000
-Profit/Loss: 30400
-
-Breakdown:
-  Bid: 3, Amount: 7600, Payout: 38000, Status: won

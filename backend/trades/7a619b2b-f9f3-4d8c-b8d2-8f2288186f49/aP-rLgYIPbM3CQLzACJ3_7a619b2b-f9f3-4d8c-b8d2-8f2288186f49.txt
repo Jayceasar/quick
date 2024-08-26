@@ -1,9 +1,0 @@
-User ID: aP-rLgYIPbM3CQLzACJ3
-User Name: robot
-Ticket ID: aP-rLgYIPbM3CQLzACJ3_7a619b2b-f9f3-4d8c-b8d2-8f2288186f49
-Total Bid Amount: 2200
-Total Earnings: 0
-Profit/Loss: -2200
-
-Breakdown:
-  Bid: 6, Amount: 2200, Payout: 11000, Status: lost

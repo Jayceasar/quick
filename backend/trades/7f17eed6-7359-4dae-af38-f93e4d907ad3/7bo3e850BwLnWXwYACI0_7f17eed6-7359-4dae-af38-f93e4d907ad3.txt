@@ -1,9 +1,0 @@
-User ID: 7bo3e850BwLnWXwYACI0
-User Name: robot
-Ticket ID: 7bo3e850BwLnWXwYACI0_7f17eed6-7359-4dae-af38-f93e4d907ad3
-Total Bid Amount: 4300
-Total Earnings: 21500
-Profit/Loss: 17200
-
-Breakdown:
-  Bid: 3, Amount: 4300, Payout: 21500, Status: won

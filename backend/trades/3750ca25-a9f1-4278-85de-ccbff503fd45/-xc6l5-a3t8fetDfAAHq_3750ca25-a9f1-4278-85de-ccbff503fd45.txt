@@ -1,9 +1,0 @@
-User ID: -xc6l5-a3t8fetDfAAHq
-User Name: robot
-Ticket ID: -xc6l5-a3t8fetDfAAHq_3750ca25-a9f1-4278-85de-ccbff503fd45
-Total Bid Amount: 6700
-Total Earnings: 0
-Profit/Loss: -6700
-
-Breakdown:
-  Bid: 2, Amount: 6700, Payout: 33500, Status: lost

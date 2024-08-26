@@ -1,9 +1,0 @@
-User ID: oaVvW0hJLteLeXadABSi
-User Name: robot
-Ticket ID: oaVvW0hJLteLeXadABSi_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
-Total Bid Amount: 2900
-Total Earnings: 0
-Profit/Loss: -2900
-
-Breakdown:
-  Bid: 4, Amount: 2900, Payout: 14500, Status: lost

@@ -1,9 +1,0 @@
-User ID: -4gXSCYUQYP3OVqVAB1X
-User Name: robot
-Ticket ID: -4gXSCYUQYP3OVqVAB1X_c5622fe9-fa66-4682-a1ea-f8ed721f9645
-Total Bid Amount: 2400
-Total Earnings: 0
-Profit/Loss: -2400
-
-Breakdown:
-  Bid: 1, Amount: 2400, Payout: 12000, Status: lost

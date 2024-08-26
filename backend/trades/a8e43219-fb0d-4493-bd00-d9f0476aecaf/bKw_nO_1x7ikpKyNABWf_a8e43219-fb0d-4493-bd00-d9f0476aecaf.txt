@@ -1,9 +1,0 @@
-User ID: bKw_nO_1x7ikpKyNABWf
-User Name: robot
-Ticket ID: bKw_nO_1x7ikpKyNABWf_a8e43219-fb0d-4493-bd00-d9f0476aecaf
-Total Bid Amount: 4700
-Total Earnings: 23500
-Profit/Loss: 18800
-
-Breakdown:
-  Bid: 5, Amount: 4700, Payout: 23500, Status: won

@@ -1,9 +1,0 @@
-User ID: rfKawVgHpnHq3KPkABvp
-User Name: robot
-Ticket ID: rfKawVgHpnHq3KPkABvp_7a1cf374-3b0b-47a8-92f4-370088b1d70d
-Total Bid Amount: 3600
-Total Earnings: 0
-Profit/Loss: -3600
-
-Breakdown:
-  Bid: 3, Amount: 3600, Payout: 18000, Status: lost

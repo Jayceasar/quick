@@ -1,9 +1,0 @@
-User ID: 0i9aitUWtCVva966AAP4
-User Name: robot
-Ticket ID: 0i9aitUWtCVva966AAP4_a01be9c0-eacd-4aa8-8dee-e617f87a184e
-Total Bid Amount: 8300
-Total Earnings: 41500
-Profit/Loss: 33200
-
-Breakdown:
-  Bid: 2, Amount: 8300, Payout: 41500, Status: won

@@ -1,9 +1,0 @@
-User ID: SJO0eGWl90lh9K38AB_G
-User Name: robot
-Ticket ID: SJO0eGWl90lh9K38AB_G_ef9d3ae9-a88c-4fb9-930e-c91af760bffa
-Total Bid Amount: 4800
-Total Earnings: 24000
-Profit/Loss: 19200
-
-Breakdown:
-  Bid: 4, Amount: 4800, Payout: 24000, Status: won

@@ -1,9 +1,0 @@
-User ID: Vgk5xvKZm8rKw2cmABti
-User Name: robot
-Ticket ID: Vgk5xvKZm8rKw2cmABti_7a1cf374-3b0b-47a8-92f4-370088b1d70d
-Total Bid Amount: 1600
-Total Earnings: 8000
-Profit/Loss: 6400
-
-Breakdown:
-  Bid: 2, Amount: 1600, Payout: 8000, Status: won

@@ -1,9 +1,0 @@
-User ID: xhtVoj6nPR7h7BmoACKV
-User Name: robot
-Ticket ID: xhtVoj6nPR7h7BmoACKV_7f17eed6-7359-4dae-af38-f93e4d907ad3
-Total Bid Amount: 4200
-Total Earnings: 0
-Profit/Loss: -4200
-
-Breakdown:
-  Bid: 6, Amount: 4200, Payout: 21000, Status: lost

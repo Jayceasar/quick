@@ -1,9 +1,0 @@
-User ID: gPvXUQC50A-dgFxGABW6
-User Name: robot
-Ticket ID: gPvXUQC50A-dgFxGABW6_fb86114f-5de4-4582-b36e-777fdfb617a6
-Total Bid Amount: 5800
-Total Earnings: 0
-Profit/Loss: -5800
-
-Breakdown:
-  Bid: 6, Amount: 5800, Payout: 29000, Status: lost

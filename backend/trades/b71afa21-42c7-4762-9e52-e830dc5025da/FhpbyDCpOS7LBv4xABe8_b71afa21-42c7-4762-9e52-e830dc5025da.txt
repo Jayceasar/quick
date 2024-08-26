@@ -1,9 +1,0 @@
-User ID: FhpbyDCpOS7LBv4xABe8
-User Name: robot
-Ticket ID: FhpbyDCpOS7LBv4xABe8_b71afa21-42c7-4762-9e52-e830dc5025da
-Total Bid Amount: 8100
-Total Earnings: 0
-Profit/Loss: -8100
-
-Breakdown:
-  Bid: 4, Amount: 8100, Payout: 40500, Status: lost

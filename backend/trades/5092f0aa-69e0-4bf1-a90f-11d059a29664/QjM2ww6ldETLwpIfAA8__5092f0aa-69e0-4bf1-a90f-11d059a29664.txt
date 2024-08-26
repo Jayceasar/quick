@@ -1,9 +1,0 @@
-User ID: QjM2ww6ldETLwpIfAA8_
-User Name: robot
-Ticket ID: QjM2ww6ldETLwpIfAA8__5092f0aa-69e0-4bf1-a90f-11d059a29664
-Total Bid Amount: 3000
-Total Earnings: 0
-Profit/Loss: -3000
-
-Breakdown:
-  Bid: 2, Amount: 3000, Payout: 15000, Status: lost

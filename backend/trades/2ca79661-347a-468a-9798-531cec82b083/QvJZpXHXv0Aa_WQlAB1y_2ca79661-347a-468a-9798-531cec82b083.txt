@@ -1,9 +1,0 @@
-User ID: QvJZpXHXv0Aa_WQlAB1y
-User Name: robot
-Ticket ID: QvJZpXHXv0Aa_WQlAB1y_2ca79661-347a-468a-9798-531cec82b083
-Total Bid Amount: 5400
-Total Earnings: 0
-Profit/Loss: -5400
-
-Breakdown:
-  Bid: 2, Amount: 5400, Payout: 27000, Status: lost

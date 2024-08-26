@@ -1,9 +1,0 @@
-User ID: TOYO68x1y-T3Pi5yAAiG
-User Name: robot
-Ticket ID: TOYO68x1y-T3Pi5yAAiG_5584dc10-136c-4075-8421-ae5476398969
-Total Bid Amount: 9200
-Total Earnings: 0
-Profit/Loss: -9200
-
-Breakdown:
-  Bid: 3, Amount: 9200, Payout: 46000, Status: lost

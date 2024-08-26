@@ -1,9 +1,0 @@
-User ID: OeM-OvXRLZJQO2xgAAZ8
-User Name: robot
-Ticket ID: OeM-OvXRLZJQO2xgAAZ8_e2b54825-fe1f-4019-ab68-0ac20cf73b19
-Total Bid Amount: 3600
-Total Earnings: 18000
-Profit/Loss: 14400
-
-Breakdown:
-  Bid: 2, Amount: 3600, Payout: 18000, Status: won

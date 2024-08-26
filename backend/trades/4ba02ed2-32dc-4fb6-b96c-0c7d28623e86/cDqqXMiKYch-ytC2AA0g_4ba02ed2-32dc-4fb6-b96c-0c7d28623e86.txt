@@ -1,9 +1,0 @@
-User ID: cDqqXMiKYch-ytC2AA0g
-User Name: robot
-Ticket ID: cDqqXMiKYch-ytC2AA0g_4ba02ed2-32dc-4fb6-b96c-0c7d28623e86
-Total Bid Amount: 5400
-Total Earnings: 0
-Profit/Loss: -5400
-
-Breakdown:
-  Bid: 2, Amount: 5400, Payout: 27000, Status: lost

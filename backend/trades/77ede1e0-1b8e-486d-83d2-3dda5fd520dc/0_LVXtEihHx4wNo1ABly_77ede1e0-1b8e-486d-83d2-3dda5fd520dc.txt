@@ -1,9 +1,0 @@
-User ID: 0_LVXtEihHx4wNo1ABly
-User Name: robot
-Ticket ID: 0_LVXtEihHx4wNo1ABly_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
-Total Bid Amount: 7500
-Total Earnings: 0
-Profit/Loss: -7500
-
-Breakdown:
-  Bid: 4, Amount: 7500, Payout: 37500, Status: lost

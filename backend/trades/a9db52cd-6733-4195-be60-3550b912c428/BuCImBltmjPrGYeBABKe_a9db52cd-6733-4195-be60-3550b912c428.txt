@@ -1,9 +1,0 @@
-User ID: BuCImBltmjPrGYeBABKe
-User Name: robot
-Ticket ID: BuCImBltmjPrGYeBABKe_a9db52cd-6733-4195-be60-3550b912c428
-Total Bid Amount: 7200
-Total Earnings: 0
-Profit/Loss: -7200
-
-Breakdown:
-  Bid: 4, Amount: 7200, Payout: 36000, Status: lost

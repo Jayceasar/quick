@@ -1,9 +1,0 @@
-User ID: k-n8sWerSIW3dum1AAJE
-User Name: robot
-Ticket ID: k-n8sWerSIW3dum1AAJE_ad3a8c72-299f-43d4-805f-4646b325aae0
-Total Bid Amount: 8700
-Total Earnings: 0
-Profit/Loss: -8700
-
-Breakdown:
-  Bid: 6, Amount: 8700, Payout: 43500, Status: lost

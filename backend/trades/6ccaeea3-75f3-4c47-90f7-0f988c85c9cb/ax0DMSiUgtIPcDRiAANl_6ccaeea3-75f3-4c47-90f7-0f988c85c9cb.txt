@@ -1,9 +1,0 @@
-User ID: ax0DMSiUgtIPcDRiAANl
-User Name: robot
-Ticket ID: ax0DMSiUgtIPcDRiAANl_6ccaeea3-75f3-4c47-90f7-0f988c85c9cb
-Total Bid Amount: 9500
-Total Earnings: 47500
-Profit/Loss: 38000
-
-Breakdown:
-  Bid: 3, Amount: 9500, Payout: 47500, Status: won

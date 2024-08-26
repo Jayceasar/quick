@@ -1,9 +1,0 @@
-User ID: WCrTcHavLla7vl7yAAFE
-User Name: robot
-Ticket ID: WCrTcHavLla7vl7yAAFE_c4750aca-f17c-4be6-87a9-33a224b7d999
-Total Bid Amount: 6700
-Total Earnings: 0
-Profit/Loss: -6700
-
-Breakdown:
-  Bid: 2, Amount: 6700, Payout: 33500, Status: lost

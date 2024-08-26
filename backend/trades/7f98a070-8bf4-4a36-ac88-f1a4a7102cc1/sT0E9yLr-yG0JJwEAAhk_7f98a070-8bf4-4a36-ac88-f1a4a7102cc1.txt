@@ -1,9 +1,0 @@
-User ID: sT0E9yLr-yG0JJwEAAhk
-User Name: robot
-Ticket ID: sT0E9yLr-yG0JJwEAAhk_7f98a070-8bf4-4a36-ac88-f1a4a7102cc1
-Total Bid Amount: 5400
-Total Earnings: 0
-Profit/Loss: -5400
-
-Breakdown:
-  Bid: 4, Amount: 5400, Payout: 27000, Status: lost

@@ -1,9 +1,0 @@
-User ID: W86o6lZ0G4z4Y1CdACJM
-User Name: robot
-Ticket ID: W86o6lZ0G4z4Y1CdACJM_56ee4408-3127-4e3c-9837-5f675e19ec5b
-Total Bid Amount: 5600
-Total Earnings: 28000
-Profit/Loss: 22400
-
-Breakdown:
-  Bid: 2, Amount: 5600, Payout: 28000, Status: won

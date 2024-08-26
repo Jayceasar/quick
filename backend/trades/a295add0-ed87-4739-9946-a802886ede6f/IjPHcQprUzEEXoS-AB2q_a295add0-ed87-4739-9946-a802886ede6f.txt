@@ -1,9 +1,0 @@
-User ID: IjPHcQprUzEEXoS-AB2q
-User Name: robot
-Ticket ID: IjPHcQprUzEEXoS-AB2q_a295add0-ed87-4739-9946-a802886ede6f
-Total Bid Amount: 9100
-Total Earnings: 45500
-Profit/Loss: 36400
-
-Breakdown:
-  Bid: 3, Amount: 9100, Payout: 45500, Status: won

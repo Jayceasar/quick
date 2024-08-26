@@ -1,9 +1,0 @@
-User ID: KnGomwKOhrwvHmbrAAKU
-User Name: robot
-Ticket ID: KnGomwKOhrwvHmbrAAKU_62b03c19-c2ac-4766-913d-1d50e3d473a4
-Total Bid Amount: 8700
-Total Earnings: 0
-Profit/Loss: -8700
-
-Breakdown:
-  Bid: 5, Amount: 8700, Payout: 43500, Status: lost

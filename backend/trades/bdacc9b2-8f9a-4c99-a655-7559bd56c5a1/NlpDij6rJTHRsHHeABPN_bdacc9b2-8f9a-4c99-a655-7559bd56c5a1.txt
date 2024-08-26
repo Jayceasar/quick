@@ -1,9 +1,0 @@
-User ID: NlpDij6rJTHRsHHeABPN
-User Name: robot
-Ticket ID: NlpDij6rJTHRsHHeABPN_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
-Total Bid Amount: 8100
-Total Earnings: 0
-Profit/Loss: -8100
-
-Breakdown:
-  Bid: 4, Amount: 8100, Payout: 40500, Status: lost

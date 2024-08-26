@@ -1,9 +1,0 @@
-User ID: J4v-VNPi4BTo39q5AAUd
-User Name: robot
-Ticket ID: J4v-VNPi4BTo39q5AAUd_51aaa087-b7d2-477a-9555-272cadfee5a8
-Total Bid Amount: 2800
-Total Earnings: 14000
-Profit/Loss: 11200
-
-Breakdown:
-  Bid: 3, Amount: 2800, Payout: 14000, Status: won

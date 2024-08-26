@@ -1,9 +1,0 @@
-User ID: djH2wQgxKtgNyF52AAN_
-User Name: robot
-Ticket ID: djH2wQgxKtgNyF52AAN__d4d335fb-57cb-443b-84fb-16963a73946e
-Total Bid Amount: 1300
-Total Earnings: 0
-Profit/Loss: -1300
-
-Breakdown:
-  Bid: 6, Amount: 1300, Payout: 6500, Status: lost

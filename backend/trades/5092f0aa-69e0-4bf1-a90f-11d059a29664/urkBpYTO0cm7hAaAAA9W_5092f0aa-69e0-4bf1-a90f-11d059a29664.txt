@@ -1,9 +1,0 @@
-User ID: urkBpYTO0cm7hAaAAA9W
-User Name: robot
-Ticket ID: urkBpYTO0cm7hAaAAA9W_5092f0aa-69e0-4bf1-a90f-11d059a29664
-Total Bid Amount: 9700
-Total Earnings: 0
-Profit/Loss: -9700
-
-Breakdown:
-  Bid: 5, Amount: 9700, Payout: 48500, Status: lost

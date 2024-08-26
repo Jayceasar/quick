@@ -1,9 +1,0 @@
-User ID: UjCMLSNeHkrzqpc8ACI6
-User Name: robot
-Ticket ID: UjCMLSNeHkrzqpc8ACI6_8ed34477-6ab6-4e68-ad47-14130d8433cd
-Total Bid Amount: 3800
-Total Earnings: 0
-Profit/Loss: -3800
-
-Breakdown:
-  Bid: 1, Amount: 3800, Payout: 19000, Status: lost

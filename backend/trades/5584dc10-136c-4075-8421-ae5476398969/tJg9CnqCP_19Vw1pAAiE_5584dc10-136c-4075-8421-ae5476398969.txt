@@ -1,9 +1,0 @@
-User ID: tJg9CnqCP_19Vw1pAAiE
-User Name: robot
-Ticket ID: tJg9CnqCP_19Vw1pAAiE_5584dc10-136c-4075-8421-ae5476398969
-Total Bid Amount: 9300
-Total Earnings: 0
-Profit/Loss: -9300
-
-Breakdown:
-  Bid: 4, Amount: 9300, Payout: 46500, Status: lost

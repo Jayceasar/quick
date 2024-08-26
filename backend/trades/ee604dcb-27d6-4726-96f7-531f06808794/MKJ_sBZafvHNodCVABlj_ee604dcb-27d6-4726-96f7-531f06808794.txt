@@ -1,9 +1,0 @@
-User ID: MKJ_sBZafvHNodCVABlj
-User Name: robot
-Ticket ID: MKJ_sBZafvHNodCVABlj_ee604dcb-27d6-4726-96f7-531f06808794
-Total Bid Amount: 6600
-Total Earnings: 33000
-Profit/Loss: 26400
-
-Breakdown:
-  Bid: 4, Amount: 6600, Payout: 33000, Status: won

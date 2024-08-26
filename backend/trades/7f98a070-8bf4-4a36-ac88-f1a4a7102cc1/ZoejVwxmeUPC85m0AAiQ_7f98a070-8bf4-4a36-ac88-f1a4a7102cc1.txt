@@ -1,9 +1,0 @@
-User ID: ZoejVwxmeUPC85m0AAiQ
-User Name: robot
-Ticket ID: ZoejVwxmeUPC85m0AAiQ_7f98a070-8bf4-4a36-ac88-f1a4a7102cc1
-Total Bid Amount: 5500
-Total Earnings: 0
-Profit/Loss: -5500
-
-Breakdown:
-  Bid: 1, Amount: 5500, Payout: 27500, Status: lost

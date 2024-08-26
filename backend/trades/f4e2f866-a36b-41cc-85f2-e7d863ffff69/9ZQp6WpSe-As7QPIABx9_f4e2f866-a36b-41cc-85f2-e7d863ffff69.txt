@@ -1,9 +1,0 @@
-User ID: 9ZQp6WpSe-As7QPIABx9
-User Name: robot
-Ticket ID: 9ZQp6WpSe-As7QPIABx9_f4e2f866-a36b-41cc-85f2-e7d863ffff69
-Total Bid Amount: 300
-Total Earnings: 0
-Profit/Loss: -300
-
-Breakdown:
-  Bid: 3, Amount: 300, Payout: 1500, Status: lost

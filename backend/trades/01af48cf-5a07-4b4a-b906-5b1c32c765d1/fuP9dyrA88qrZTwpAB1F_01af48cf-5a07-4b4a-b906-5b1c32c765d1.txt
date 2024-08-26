@@ -1,9 +1,0 @@
-User ID: fuP9dyrA88qrZTwpAB1F
-User Name: robot
-Ticket ID: fuP9dyrA88qrZTwpAB1F_01af48cf-5a07-4b4a-b906-5b1c32c765d1
-Total Bid Amount: 100
-Total Earnings: 0
-Profit/Loss: -100
-
-Breakdown:
-  Bid: 2, Amount: 100, Payout: 500, Status: lost

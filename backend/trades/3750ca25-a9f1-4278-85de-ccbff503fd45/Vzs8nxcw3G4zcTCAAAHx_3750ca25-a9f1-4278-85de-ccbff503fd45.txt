@@ -1,9 +1,0 @@
-User ID: Vzs8nxcw3G4zcTCAAAHx
-User Name: robot
-Ticket ID: Vzs8nxcw3G4zcTCAAAHx_3750ca25-a9f1-4278-85de-ccbff503fd45
-Total Bid Amount: 3500
-Total Earnings: 17500
-Profit/Loss: 14000
-
-Breakdown:
-  Bid: 6, Amount: 3500, Payout: 17500, Status: won

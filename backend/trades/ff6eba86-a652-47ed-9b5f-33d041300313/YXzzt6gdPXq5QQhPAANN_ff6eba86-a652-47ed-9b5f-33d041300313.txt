@@ -1,9 +1,0 @@
-User ID: YXzzt6gdPXq5QQhPAANN
-User Name: robot
-Ticket ID: YXzzt6gdPXq5QQhPAANN_ff6eba86-a652-47ed-9b5f-33d041300313
-Total Bid Amount: 9400
-Total Earnings: 0
-Profit/Loss: -9400
-
-Breakdown:
-  Bid: 4, Amount: 9400, Payout: 47000, Status: lost

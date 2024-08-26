@@ -1,9 +1,0 @@
-User ID: RnF4MmuLxkb6grUgABPd
-User Name: robot
-Ticket ID: RnF4MmuLxkb6grUgABPd_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
-Total Bid Amount: 3000
-Total Earnings: 15000
-Profit/Loss: 12000
-
-Breakdown:
-  Bid: 3, Amount: 3000, Payout: 15000, Status: won

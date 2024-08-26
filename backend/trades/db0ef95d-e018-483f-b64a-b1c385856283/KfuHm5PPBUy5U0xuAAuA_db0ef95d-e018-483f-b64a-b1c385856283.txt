@@ -1,9 +1,0 @@
-User ID: KfuHm5PPBUy5U0xuAAuA
-User Name: robot
-Ticket ID: KfuHm5PPBUy5U0xuAAuA_db0ef95d-e018-483f-b64a-b1c385856283
-Total Bid Amount: 2900
-Total Earnings: 0
-Profit/Loss: -2900
-
-Breakdown:
-  Bid: 2, Amount: 2900, Payout: 14500, Status: lost

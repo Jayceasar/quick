@@ -1,9 +1,0 @@
-User ID: ROYlwbomMghFFs1-AA9q
-User Name: robot
-Ticket ID: ROYlwbomMghFFs1-AA9q_5092f0aa-69e0-4bf1-a90f-11d059a29664
-Total Bid Amount: 800
-Total Earnings: 0
-Profit/Loss: -800
-
-Breakdown:
-  Bid: 6, Amount: 800, Payout: 4000, Status: lost

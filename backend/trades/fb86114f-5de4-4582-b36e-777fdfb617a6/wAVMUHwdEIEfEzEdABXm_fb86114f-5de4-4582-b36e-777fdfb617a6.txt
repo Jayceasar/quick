@@ -1,9 +1,0 @@
-User ID: wAVMUHwdEIEfEzEdABXm
-User Name: robot
-Ticket ID: wAVMUHwdEIEfEzEdABXm_fb86114f-5de4-4582-b36e-777fdfb617a6
-Total Bid Amount: 500
-Total Earnings: 0
-Profit/Loss: -500
-
-Breakdown:
-  Bid: 1, Amount: 500, Payout: 2500, Status: lost

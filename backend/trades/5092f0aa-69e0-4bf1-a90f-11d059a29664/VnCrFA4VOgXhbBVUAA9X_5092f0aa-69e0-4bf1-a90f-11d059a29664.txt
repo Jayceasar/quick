@@ -1,9 +1,0 @@
-User ID: VnCrFA4VOgXhbBVUAA9X
-User Name: robot
-Ticket ID: VnCrFA4VOgXhbBVUAA9X_5092f0aa-69e0-4bf1-a90f-11d059a29664
-Total Bid Amount: 2000
-Total Earnings: 0
-Profit/Loss: -2000
-
-Breakdown:
-  Bid: 6, Amount: 2000, Payout: 10000, Status: lost

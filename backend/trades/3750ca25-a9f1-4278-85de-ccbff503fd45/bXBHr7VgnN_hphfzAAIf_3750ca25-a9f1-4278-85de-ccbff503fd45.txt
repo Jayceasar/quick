@@ -1,9 +1,0 @@
-User ID: bXBHr7VgnN_hphfzAAIf
-User Name: robot
-Ticket ID: bXBHr7VgnN_hphfzAAIf_3750ca25-a9f1-4278-85de-ccbff503fd45
-Total Bid Amount: 8400
-Total Earnings: 0
-Profit/Loss: -8400
-
-Breakdown:
-  Bid: 1, Amount: 8400, Payout: 42000, Status: lost

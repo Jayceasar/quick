@@ -1,9 +1,0 @@
-User ID: gmhSFVnXQMzhWCiGAAyB
-User Name: robot
-Ticket ID: gmhSFVnXQMzhWCiGAAyB_d7f235bf-d254-4efd-894a-37a2ac2dbf1c
-Total Bid Amount: 9700
-Total Earnings: 48500
-Profit/Loss: 38800
-
-Breakdown:
-  Bid: 4, Amount: 9700, Payout: 48500, Status: won

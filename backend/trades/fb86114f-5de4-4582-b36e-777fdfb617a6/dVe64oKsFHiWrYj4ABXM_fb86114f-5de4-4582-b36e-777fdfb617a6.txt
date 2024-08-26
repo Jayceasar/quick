@@ -1,9 +1,0 @@
-User ID: dVe64oKsFHiWrYj4ABXM
-User Name: robot
-Ticket ID: dVe64oKsFHiWrYj4ABXM_fb86114f-5de4-4582-b36e-777fdfb617a6
-Total Bid Amount: 8100
-Total Earnings: 40500
-Profit/Loss: 32400
-
-Breakdown:
-  Bid: 5, Amount: 8100, Payout: 40500, Status: won

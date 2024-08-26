@@ -1,9 +1,0 @@
-User ID: uYboGrvC3nVhhJmSAAje
-User Name: robot
-Ticket ID: uYboGrvC3nVhhJmSAAje_5584dc10-136c-4075-8421-ae5476398969
-Total Bid Amount: 6600
-Total Earnings: 0
-Profit/Loss: -6600
-
-Breakdown:
-  Bid: 1, Amount: 6600, Payout: 33000, Status: lost

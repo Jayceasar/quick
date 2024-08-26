@@ -1,9 +1,0 @@
-User ID: TJp245QRP7E-IX2DAAbu
-User Name: robot
-Ticket ID: TJp245QRP7E-IX2DAAbu_12a28a63-36a1-4295-9b29-055aa3a41e6f
-Total Bid Amount: 5400
-Total Earnings: 0
-Profit/Loss: -5400
-
-Breakdown:
-  Bid: 1, Amount: 5400, Payout: 27000, Status: lost

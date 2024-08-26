@@ -1,9 +1,0 @@
-User ID: OAp3R6C_5xlIZ7TtABtT
-User Name: robot
-Ticket ID: OAp3R6C_5xlIZ7TtABtT_7a1cf374-3b0b-47a8-92f4-370088b1d70d
-Total Bid Amount: 4400
-Total Earnings: 22000
-Profit/Loss: 17600
-
-Breakdown:
-  Bid: 2, Amount: 4400, Payout: 22000, Status: won

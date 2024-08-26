@@ -1,9 +1,0 @@
-User ID: h8SF4o4_7V__vpOGABmr
-User Name: robot
-Ticket ID: h8SF4o4_7V__vpOGABmr_ee604dcb-27d6-4726-96f7-531f06808794
-Total Bid Amount: 7200
-Total Earnings: 0
-Profit/Loss: -7200
-
-Breakdown:
-  Bid: 1, Amount: 7200, Payout: 36000, Status: lost

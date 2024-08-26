@@ -1,9 +1,0 @@
-User ID: fjpxqcuCD9OIQv9IACJq
-User Name: robot
-Ticket ID: fjpxqcuCD9OIQv9IACJq_2a327de1-2fbe-48c6-b3b3-e81f12d12845
-Total Bid Amount: 6700
-Total Earnings: 0
-Profit/Loss: -6700
-
-Breakdown:
-  Bid: 4, Amount: 6700, Payout: 33500, Status: lost

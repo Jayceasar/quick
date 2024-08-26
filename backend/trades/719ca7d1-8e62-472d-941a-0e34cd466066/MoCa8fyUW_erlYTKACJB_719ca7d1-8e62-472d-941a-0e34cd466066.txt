@@ -1,9 +1,0 @@
-User ID: MoCa8fyUW_erlYTKACJB
-User Name: robot
-Ticket ID: MoCa8fyUW_erlYTKACJB_719ca7d1-8e62-472d-941a-0e34cd466066
-Total Bid Amount: 9600
-Total Earnings: 0
-Profit/Loss: -9600
-
-Breakdown:
-  Bid: 2, Amount: 9600, Payout: 48000, Status: lost

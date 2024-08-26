@@ -1,9 +1,0 @@
-User ID: QbvT-aYWP8vEgCqWAANC
-User Name: robot
-Ticket ID: QbvT-aYWP8vEgCqWAANC_6d2f5a00-8975-46ac-9313-eaee03859331
-Total Bid Amount: 6200
-Total Earnings: 31000
-Profit/Loss: 24800
-
-Breakdown:
-  Bid: 2, Amount: 6200, Payout: 31000, Status: won

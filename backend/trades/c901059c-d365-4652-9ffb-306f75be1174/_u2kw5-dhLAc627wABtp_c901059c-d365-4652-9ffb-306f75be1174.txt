@@ -1,9 +1,0 @@
-User ID: _u2kw5-dhLAc627wABtp
-User Name: robot
-Ticket ID: _u2kw5-dhLAc627wABtp_c901059c-d365-4652-9ffb-306f75be1174
-Total Bid Amount: 6200
-Total Earnings: 0
-Profit/Loss: -6200
-
-Breakdown:
-  Bid: 4, Amount: 6200, Payout: 31000, Status: lost

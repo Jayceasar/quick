@@ -1,9 +1,0 @@
-User ID: ml4LwWnnFWpaUPEyABqN
-User Name: robot
-Ticket ID: ml4LwWnnFWpaUPEyABqN_7a1cf374-3b0b-47a8-92f4-370088b1d70d
-Total Bid Amount: 2500
-Total Earnings: 0
-Profit/Loss: -2500
-
-Breakdown:
-  Bid: 3, Amount: 2500, Payout: 12500, Status: lost

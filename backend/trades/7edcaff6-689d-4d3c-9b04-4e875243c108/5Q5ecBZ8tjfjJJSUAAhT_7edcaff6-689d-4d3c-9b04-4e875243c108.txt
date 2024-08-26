@@ -1,9 +1,0 @@
-User ID: 5Q5ecBZ8tjfjJJSUAAhT
-User Name: robot
-Ticket ID: 5Q5ecBZ8tjfjJJSUAAhT_7edcaff6-689d-4d3c-9b04-4e875243c108
-Total Bid Amount: 2200
-Total Earnings: 11000
-Profit/Loss: 8800
-
-Breakdown:
-  Bid: 2, Amount: 2200, Payout: 11000, Status: won

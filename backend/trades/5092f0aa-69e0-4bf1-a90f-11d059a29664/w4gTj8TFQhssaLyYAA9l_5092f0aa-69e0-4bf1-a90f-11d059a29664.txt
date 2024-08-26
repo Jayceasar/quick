@@ -1,9 +1,0 @@
-User ID: w4gTj8TFQhssaLyYAA9l
-User Name: robot
-Ticket ID: w4gTj8TFQhssaLyYAA9l_5092f0aa-69e0-4bf1-a90f-11d059a29664
-Total Bid Amount: 800
-Total Earnings: 0
-Profit/Loss: -800
-
-Breakdown:
-  Bid: 2, Amount: 800, Payout: 4000, Status: lost

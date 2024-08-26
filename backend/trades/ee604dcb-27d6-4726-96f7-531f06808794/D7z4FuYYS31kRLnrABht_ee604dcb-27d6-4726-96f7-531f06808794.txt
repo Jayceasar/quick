@@ -1,9 +1,0 @@
-User ID: D7z4FuYYS31kRLnrABht
-User Name: robot
-Ticket ID: D7z4FuYYS31kRLnrABht_ee604dcb-27d6-4726-96f7-531f06808794
-Total Bid Amount: 7000
-Total Earnings: 0
-Profit/Loss: -7000
-
-Breakdown:
-  Bid: 6, Amount: 7000, Payout: 35000, Status: lost

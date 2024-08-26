@@ -1,9 +1,0 @@
-User ID: lPlT1ibge6nDzMTcABPB
-User Name: robot
-Ticket ID: lPlT1ibge6nDzMTcABPB_bdacc9b2-8f9a-4c99-a655-7559bd56c5a1
-Total Bid Amount: 100
-Total Earnings: 0
-Profit/Loss: -100
-
-Breakdown:
-  Bid: 1, Amount: 100, Payout: 500, Status: lost

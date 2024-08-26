@@ -1,9 +1,0 @@
-User ID: mgKNHcIGoOIP4XWhAAhH
-User Name: robot
-Ticket ID: mgKNHcIGoOIP4XWhAAhH_9e12c48f-b9a9-484b-ab41-5d351c1d1206
-Total Bid Amount: 3300
-Total Earnings: 0
-Profit/Loss: -3300
-
-Breakdown:
-  Bid: 6, Amount: 3300, Payout: 16500, Status: lost

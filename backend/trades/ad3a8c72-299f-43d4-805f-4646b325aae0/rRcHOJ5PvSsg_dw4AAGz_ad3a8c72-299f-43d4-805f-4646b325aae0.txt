@@ -1,9 +1,0 @@
-User ID: rRcHOJ5PvSsg_dw4AAGz
-User Name: robot
-Ticket ID: rRcHOJ5PvSsg_dw4AAGz_ad3a8c72-299f-43d4-805f-4646b325aae0
-Total Bid Amount: 600
-Total Earnings: 0
-Profit/Loss: -600
-
-Breakdown:
-  Bid: 4, Amount: 600, Payout: 3000, Status: lost

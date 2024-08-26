@@ -1,9 +1,0 @@
-User ID: booN-VLk-KVvWoTrABvT
-User Name: robot
-Ticket ID: booN-VLk-KVvWoTrABvT_c901059c-d365-4652-9ffb-306f75be1174
-Total Bid Amount: 9100
-Total Earnings: 45500
-Profit/Loss: 36400
-
-Breakdown:
-  Bid: 1, Amount: 9100, Payout: 45500, Status: won

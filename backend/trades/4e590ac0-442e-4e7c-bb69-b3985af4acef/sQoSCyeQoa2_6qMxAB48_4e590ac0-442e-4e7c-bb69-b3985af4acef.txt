@@ -1,9 +1,0 @@
-User ID: sQoSCyeQoa2_6qMxAB48
-User Name: robot
-Ticket ID: sQoSCyeQoa2_6qMxAB48_4e590ac0-442e-4e7c-bb69-b3985af4acef
-Total Bid Amount: 4900
-Total Earnings: 0
-Profit/Loss: -4900
-
-Breakdown:
-  Bid: 3, Amount: 4900, Payout: 24500, Status: lost

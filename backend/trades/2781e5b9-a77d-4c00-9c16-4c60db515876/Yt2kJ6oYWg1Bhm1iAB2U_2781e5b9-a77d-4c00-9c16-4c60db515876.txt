@@ -1,9 +1,0 @@
-User ID: Yt2kJ6oYWg1Bhm1iAB2U
-User Name: robot
-Ticket ID: Yt2kJ6oYWg1Bhm1iAB2U_2781e5b9-a77d-4c00-9c16-4c60db515876
-Total Bid Amount: 2500
-Total Earnings: 0
-Profit/Loss: -2500
-
-Breakdown:
-  Bid: 5, Amount: 2500, Payout: 12500, Status: lost

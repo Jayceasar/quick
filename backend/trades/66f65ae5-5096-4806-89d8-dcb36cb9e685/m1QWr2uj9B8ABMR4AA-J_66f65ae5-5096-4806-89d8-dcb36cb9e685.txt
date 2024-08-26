@@ -1,9 +1,0 @@
-User ID: m1QWr2uj9B8ABMR4AA-J
-User Name: robot
-Ticket ID: m1QWr2uj9B8ABMR4AA-J_66f65ae5-5096-4806-89d8-dcb36cb9e685
-Total Bid Amount: 9900
-Total Earnings: 0
-Profit/Loss: -9900
-
-Breakdown:
-  Bid: 6, Amount: 9900, Payout: 49500, Status: lost

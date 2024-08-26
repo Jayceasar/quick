@@ -1,9 +1,0 @@
-User ID: UYFikwds3HL2SxREAAhS
-User Name: robot
-Ticket ID: UYFikwds3HL2SxREAAhS_7f98a070-8bf4-4a36-ac88-f1a4a7102cc1
-Total Bid Amount: 6000
-Total Earnings: 0
-Profit/Loss: -6000
-
-Breakdown:
-  Bid: 2, Amount: 6000, Payout: 30000, Status: lost

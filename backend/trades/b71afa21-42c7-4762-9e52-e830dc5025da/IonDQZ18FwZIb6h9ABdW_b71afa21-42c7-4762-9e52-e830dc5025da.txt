@@ -1,9 +1,0 @@
-User ID: IonDQZ18FwZIb6h9ABdW
-User Name: robot
-Ticket ID: IonDQZ18FwZIb6h9ABdW_b71afa21-42c7-4762-9e52-e830dc5025da
-Total Bid Amount: 5200
-Total Earnings: 0
-Profit/Loss: -5200
-
-Breakdown:
-  Bid: 4, Amount: 5200, Payout: 26000, Status: lost

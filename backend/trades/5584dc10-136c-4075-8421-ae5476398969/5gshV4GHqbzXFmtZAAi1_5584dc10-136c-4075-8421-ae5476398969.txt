@@ -1,9 +1,0 @@
-User ID: 5gshV4GHqbzXFmtZAAi1
-User Name: robot
-Ticket ID: 5gshV4GHqbzXFmtZAAi1_5584dc10-136c-4075-8421-ae5476398969
-Total Bid Amount: 9700
-Total Earnings: 0
-Profit/Loss: -9700
-
-Breakdown:
-  Bid: 1, Amount: 9700, Payout: 48500, Status: lost

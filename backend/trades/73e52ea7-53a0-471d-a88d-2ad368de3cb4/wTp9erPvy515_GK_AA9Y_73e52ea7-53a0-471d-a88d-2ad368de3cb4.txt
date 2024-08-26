@@ -1,9 +1,0 @@
-User ID: wTp9erPvy515_GK_AA9Y
-User Name: robot
-Ticket ID: wTp9erPvy515_GK_AA9Y_73e52ea7-53a0-471d-a88d-2ad368de3cb4
-Total Bid Amount: 2100
-Total Earnings: 0
-Profit/Loss: -2100
-
-Breakdown:
-  Bid: 4, Amount: 2100, Payout: 10500, Status: lost

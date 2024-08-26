@@ -1,9 +1,0 @@
-User ID: jD3e-4DozYpMDlYhABlM
-User Name: robot
-Ticket ID: jD3e-4DozYpMDlYhABlM_77ede1e0-1b8e-486d-83d2-3dda5fd520dc
-Total Bid Amount: 2700
-Total Earnings: 13500
-Profit/Loss: 10800
-
-Breakdown:
-  Bid: 3, Amount: 2700, Payout: 13500, Status: won

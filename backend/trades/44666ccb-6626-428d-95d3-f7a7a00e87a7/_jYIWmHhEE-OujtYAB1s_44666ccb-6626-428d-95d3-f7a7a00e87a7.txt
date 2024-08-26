@@ -1,9 +1,0 @@
-User ID: _jYIWmHhEE-OujtYAB1s
-User Name: robot
-Ticket ID: _jYIWmHhEE-OujtYAB1s_44666ccb-6626-428d-95d3-f7a7a00e87a7
-Total Bid Amount: 1700
-Total Earnings: 0
-Profit/Loss: -1700
-
-Breakdown:
-  Bid: 2, Amount: 1700, Payout: 8500, Status: lost

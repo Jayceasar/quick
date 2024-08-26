@@ -1,9 +1,0 @@
-User ID: uLNBOQR7N_lF0tDHAA-N
-User Name: robot
-Ticket ID: uLNBOQR7N_lF0tDHAA-N_73e52ea7-53a0-471d-a88d-2ad368de3cb4
-Total Bid Amount: 1000
-Total Earnings: 0
-Profit/Loss: -1000
-
-Breakdown:
-  Bid: 1, Amount: 1000, Payout: 5000, Status: lost

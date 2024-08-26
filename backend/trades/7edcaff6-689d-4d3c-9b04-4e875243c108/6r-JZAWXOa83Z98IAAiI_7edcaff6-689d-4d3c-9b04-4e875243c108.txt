@@ -1,9 +1,0 @@
-User ID: 6r-JZAWXOa83Z98IAAiI
-User Name: robot
-Ticket ID: 6r-JZAWXOa83Z98IAAiI_7edcaff6-689d-4d3c-9b04-4e875243c108
-Total Bid Amount: 7600
-Total Earnings: 38000
-Profit/Loss: 30400
-
-Breakdown:
-  Bid: 2, Amount: 7600, Payout: 38000, Status: won

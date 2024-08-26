@@ -1,9 +1,0 @@
-User ID: EFQrtn_kc1vHL_VVABYS
-User Name: robot
-Ticket ID: EFQrtn_kc1vHL_VVABYS_a8e43219-fb0d-4493-bd00-d9f0476aecaf
-Total Bid Amount: 6900
-Total Earnings: 0
-Profit/Loss: -6900
-
-Breakdown:
-  Bid: 1, Amount: 6900, Payout: 34500, Status: lost

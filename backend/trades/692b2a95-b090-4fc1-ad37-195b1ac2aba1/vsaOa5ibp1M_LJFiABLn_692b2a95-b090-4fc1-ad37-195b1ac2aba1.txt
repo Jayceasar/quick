@@ -1,9 +1,0 @@
-User ID: vsaOa5ibp1M_LJFiABLn
-User Name: robot
-Ticket ID: vsaOa5ibp1M_LJFiABLn_692b2a95-b090-4fc1-ad37-195b1ac2aba1
-Total Bid Amount: 2800
-Total Earnings: 0
-Profit/Loss: -2800
-
-Breakdown:
-  Bid: 2, Amount: 2800, Payout: 14000, Status: lost
