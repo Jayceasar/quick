@@ -1,10 +1,10 @@
-const express = require("express");
-const http = require("http");
-const { Server } = require("socket.io");
-const { v4: uuidv4 } = require("uuid");
-const fs = require("fs/promises");
-const path = require("path");
-const { Worker } = require("worker_threads");
+import express from "express";
+import http from "http";
+import { Server } from "socket.io";
+import { v4 as uuidv4 } from "uuid";
+import fs from "fs/promises";
+import path from "path";
+import { Worker } from "worker_threads";
 
 const app = express();
 const server = http.createServer(app);

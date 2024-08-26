@@ -49,6 +49,11 @@ export const useUserAccountStore = create((set) => ({
   walletAmount: 10000,
   currentBid: [],
   thisUserTickets: [],
-  setWalletAmount: (value) =>
-    set((state) => ({ walletAmount: state.walletAmount + value })),
+  setWalletAmount: (value, type) =>
+    set((state) => ({
+      walletAmount:
+        type === "add"
+          ? state.walletAmount + value
+          : state.walletAmount - value,
+    })),
 }));

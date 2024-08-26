@@ -5,4 +5,4 @@ const redis = new Redis({
   token: "AaxUAAIjcDE3ZWUyYmMzZjM2NDc0NTA3OTk0ZTZiYzQ5NDhjMWUzMnAxMA",
 });
 
-const data = await redis.set("name", "barry");
+await redis.set("name", "julius");

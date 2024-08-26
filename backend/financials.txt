@@ -1,5 +1,0 @@
-allTimeUserTotalBids = 894,759,900,
-allTimeTotalEarnings = 116,907,400,
-allTimeUserPayouts = 777,852,500,
-sessionCount = 1,
-sessionUniqueID = 431abb08-b9d1-40bf-8a89-f66124e26d6a,
