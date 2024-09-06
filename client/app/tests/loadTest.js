@@ -1,5 +1,5 @@
 export function simulateUsers(numUsers = 1000) {
-  const socketUrl = "http://localhost:4000"; // Adjust this to your server's URL
+  const socketUrl = "https://game-backend-01-407fa581656d.herokuapp.com/"; // Adjust this to your server's URL
   const io = require("socket.io-client");
 
   function createUser(userId) {
